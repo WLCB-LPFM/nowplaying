@@ -18,12 +18,12 @@ Authoritative-source decision tree:
         of a normally-live show. PlayIt Live's currentItem is the show audio
         file (often a 26-minute "track" named after the show), not the songs
         playing inside it. Use autopo.st (it fingerprints actual audio output).
-        show = the program name + host so the website can display it after each
+        show = the program name + hosts so the website can display it after each
         song expires.
 
     automationOn = false                              -> Live host on the mic.
         PlayIt Live has no idea what's playing. Use autopo.st only.
-        show = the program name + host (same display behavior as rebroadcast).
+        show = the program name + hosts (same display behavior as rebroadcast).
 
   If automationOn is unknown (PlayIt Live unreachable), fall back to using
   schedule.automated alone, with the same logic as if automationOn matched it.
@@ -31,7 +31,7 @@ Authoritative-source decision tree:
 Track expiration:
   Every candidate track is checked against `started_at + duration_seconds`.
   Once a track has run past (its end - 15s lead), it's dropped -- the website
-  then shows "<show> / <host>" or the WLCB station fallback rather than a
+  then shows "<show> / <hosts>" or the WLCB station fallback rather than a
   stale song name. The 15s lead expires the display slightly before the song
   actually ends to mask end-of-song silence and beat-mixed transitions.
 """
@@ -275,9 +275,12 @@ def get_scheduled_show():
         sh, sm = [int(x) for x in s["start"].split(":")]
         eh, em = [int(x) for x in s["end"].split(":")]
         if sh*60+sm <= mins < eh*60+em:
+            hosts = s.get("hosts")
+            if not isinstance(hosts, list):
+                hosts = []
             return {
                 "name":      s["show"],
-                "host":      s.get("host"),
+                "hosts":     hosts,                 # may be empty list
                 "automated": bool(s.get("automated")),
                 "starts":    s["start"],
                 "ends":      s["end"],
@@ -340,9 +343,9 @@ def build_payload():
             source = "autopost"
 
     # Decide what to publish for `show`. The website uses this to display
-    # "<show> / <host>" when a track has expired.
+    # "<show> / <hosts>" when a track has expired.
     #   - music_block:  null (don't surface the block name)
-    #   - rebroadcast / live: the program name + host
+    #   - rebroadcast / live: the program name + hosts
     #   - no scheduled show: null
     payload_show = None
     if show and mode in ("rebroadcast", "live"):
