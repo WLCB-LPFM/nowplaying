@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T06:44:28-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T06:44:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jump",
+    "artist": "Kris Kross",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T11:44:41.1026361Z",
+    "duration_seconds": 191,
+    "year": "2021"
+  },
   "next_poll_seconds": 20
 }
