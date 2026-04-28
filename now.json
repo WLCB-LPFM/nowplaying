@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T23:16:39-05:00",
-  "source": "fallback",
+  "generated": "2026-04-27T23:19:45-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Tell Me What You Want",
+    "artist": "Zebra",
+    "album": "Tell Me What You Want",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zebra_-_Tell_Me_What_You_Want.jpg",
+    "started_at": "2026-04-28T04:19:24Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 20
 }
