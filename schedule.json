@@ -19,7 +19,7 @@
     { "start": "11:00", "end": "15:00", "show": "The Block Party", "automated": true },
     { "start": "15:00", "end": "17:00", "show": "Roadhouse Radio", "hosts": ["Joe Powers"], "genre": "Country" },
     { "start": "17:00", "end": "18:00", "show": "The Block Party", "automated": true },
-    { "start": "18:00", "end": "19:00", "show": "Your Insurance Corner", "hosts": ["Bill Miksch"] },
+    { "start": "18:00", "end": "19:00", "show": "Your Insurance Corner", "hosts": ["Bill Miksch", "Sean Hauser"] },
     { "start": "19:00", "end": "20:00", "show": "The Block Party", "automated": true },
     { "start": "20:00", "end": "23:00", "show": "Classic Tuesdays with Ted", "hosts": ["Ted Runnels"], "genre": "Funk" },
     { "start": "23:00", "end": "24:00", "show": "All Night Jazz", "genre": "Jazz", "automated": true }
@@ -30,9 +30,9 @@
     { "start": "07:00", "end": "09:00", "show": "The John and Heidi Show", "hosts": ["John and Heidi Small"] },
     { "start": "09:00", "end": "12:00", "show": "The Mark Ricky Radio Show", "hosts": ["Mark Ricky"], "genre": "Rock and Roll" },
     { "start": "12:00", "end": "14:00", "show": "Jazz Lives!", "hosts": ["Bob Dauber"], "genre": "Jazz" },
-    { "start": "14:00", "end": "15:00", "show": "Now and Then Talk Radio", "hosts": ["Bill Mackie", "Denny Farrell"] },
+    { "start": "14:00", "end": "15:00", "show": "Now and Then Talk Radio", "hosts": ["Denny Farrell", "Bill Mackie"] },
     { "start": "15:00", "end": "19:00", "show": "The Block Party", "automated": true },
-    { "start": "19:00", "end": "22:00", "show": "The Mix", "hosts": ["Carolyn Carmody", "Tony Young"], "genre": "Variety" },
+    { "start": "19:00", "end": "22:00", "show": "The Mix", "hosts": ["Tony Young", "Carolyn Carmody"], "genre": "Variety" },
     { "start": "22:00", "end": "24:00", "show": "All Night Jazz", "genre": "Jazz", "automated": true }
   ],
   "thursday": [
@@ -56,14 +56,13 @@
     { "start": "17:00", "end": "18:00", "show": "Brick's Rockheads", "hosts": ["Brick Brecker"], "genre": "Rock and Roll" },
     { "start": "18:00", "end": "19:00", "show": "Soul of Music", "hosts": ["Pauly J."] },
     { "start": "19:00", "end": "20:30", "show": "Through the Decades", "hosts": ["Pauly J."] },
-    { "start": "20:30", "end": "23:00", "show": "Graybeard's Clubhouse", "hosts": ["Tim Graham"] },
-    { "start": "23:00", "end": "25:00", "show": "Metal Nation", "genre": "Metal" }
+    { "start": "20:30", "end": "23:00", "show": "Graybeard's Clubhouse", "hosts": ["Tim Graham"] }
   ],
   "saturday": [
     { "start": "01:00", "end": "06:00", "show": "All Night Jazz", "genre": "Jazz", "automated": true },
     { "start": "06:00", "end": "08:00", "show": "The Block Party", "automated": true },
     { "start": "08:00", "end": "11:00", "show": "Sports Weekly", "hosts": ["Lucas Vollmer", "Matt Rosenberg", "Pat Cameron"], "genre": "Sports" },
-    { "start": "12:00", "end": "13:00", "show": "Now and Then Talk Radio", "hosts": ["Bill Mackie", "Denny Farrell"] },
+    { "start": "12:00", "end": "13:00", "show": "Now and Then Talk Radio", "hosts": ["Denny Farrell", "Bill Mackie"] },
     { "start": "13:00", "end": "17:00", "show": "The Block Party", "automated": true },
     { "start": "17:00", "end": "20:00", "show": "Vibing with Mz Hollywood", "hosts": ["Mz. Hollywood"], "genre": "Hip-Hop" },
     { "start": "20:00", "end": "21:00", "show": "Legacy of the Wolf", "hosts": ["Cleveland \"Da\" Black Wolf"] },
