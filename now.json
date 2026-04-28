@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T01:27:53+00:00",
-  "source": "playitlive",
+  "generated": "2026-04-28T01:28:15+00:00",
+  "source": "autopost",
   "show": {
     "name": "All Night Jazz",
     "automated": true,
@@ -9,13 +9,12 @@
     "genre": "Jazz"
   },
   "track": {
-    "title": "Jazz Lives",
-    "artist": "Bob Dauber",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-28T01:27:53.786811Z",
-    "duration_seconds": 1673,
-    "year": ""
+    "title": "The Mooche",
+    "artist": "Duke Ellington",
+    "album": "The Complete Columbia Studio Albums Collection 1951-1958",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_The_Mooche.jpg",
+    "started_at": "2026-04-28T01:23:12Z",
+    "duration_seconds": 396
   },
   "next_poll_seconds": 20
 }
