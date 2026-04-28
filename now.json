@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T02:01:04-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T02:01:46-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Your Insurance Corner",
+    "artist": "Bill Mikch",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T07:01:37.0151962Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
