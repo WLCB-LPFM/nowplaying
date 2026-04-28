@@ -1,21 +1,22 @@
 {
-  "generated": "2026-04-28T02:02:39+00:00",
-  "source": "playitlive",
+  "generated": "2026-04-27T21:03:24-05:00",
+  "source": "autopost",
+  "mode": "live",
+  "automation_on": false,
   "show": {
-    "name": "All Night Jazz",
-    "automated": true,
-    "starts": "00:00",
-    "ends": "06:00",
+    "name": "Jazz Lives!",
+    "automated": false,
+    "starts": "20:00",
+    "ends": "22:00",
     "genre": "Jazz"
   },
   "track": {
-    "title": "Jazz Lives",
-    "artist": "Bob Dauber",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-28T02:02:39.5362308Z",
-    "duration_seconds": 1537,
-    "year": ""
+    "title": "Karn Evil 9 1st Impression, Pt. 2",
+    "artist": "Emerson, Lake & Palmer",
+    "album": "Brain Salad Surgery",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Emerson,_Lake_&_Palmer.jpg",
+    "started_at": "2026-04-28T02:00:17Z",
+    "duration_seconds": 286
   },
   "next_poll_seconds": 20
 }
