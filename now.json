@@ -1,17 +1,16 @@
 {
-  "generated": "2026-04-28T05:20:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-28T05:20:41-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Brecker Brothers",
-    "artist": "Paul and Steve Howard",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-28T10:20:15.2331389Z",
-    "duration_seconds": 29,
-    "year": ""
+    "title": "Tomato Jam",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Tomato_Jam.jpg",
+    "started_at": "2026-04-28T10:18:49Z",
+    "duration_seconds": 296
   },
   "next_poll_seconds": 20
 }
