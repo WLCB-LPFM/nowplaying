@@ -1,16 +1,16 @@
 {
-  "generated": "2026-04-27T23:47:19-05:00",
-  "source": "fallback",
-  "mode": "rebroadcast",
+  "generated": "2026-04-28T00:00:00-05:00",
+  "source": "autopost",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Rock of Ages",
-    "host": null,
-    "automated": false,
-    "starts": "22:00",
-    "ends": "24:00",
-    "genre": "Rock and Roll"
+  "show": null,
+  "track": {
+    "title": "Midnight Rendezvous",
+    "artist": "BT Band",
+    "album": "Backing Tracks / Pop Artists Index, B, (B 52's / B Holiday / B J Thomas / B J Thomas & Dusty Springfield / B Trusted / B.B. King /",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bt_Band.jpg",
+    "started_at": "2026-04-28T04:59:34Z",
+    "duration_seconds": 170
   },
-  "track": null,
   "next_poll_seconds": 20
 }
