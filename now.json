@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T03:32:32-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T03:32:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Nation's Finest",
+    "artist": "Nations Finest",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T08:32:39.7148503Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
