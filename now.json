@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T00:27:44+00:00",
-  "source": "autopost",
+  "generated": "2026-04-28T00:29:07+00:00",
+  "source": "playitlive",
   "show": {
     "name": "All Night Jazz",
     "automated": true,
@@ -9,12 +9,13 @@
     "genre": "Jazz"
   },
   "track": {
-    "title": "Party In The U.S.A.",
-    "artist": "Miley Cyrus",
-    "album": "Party In The U.S.A.",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miley_Cyrus_-_Party_In_The_U.s.a..jpg",
-    "started_at": "2026-04-28T00:24:31Z",
-    "duration_seconds": 203
+    "title": "Share the Road",
+    "artist": "U.S. Department of Transportation",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T00:28:59.8286259Z",
+    "duration_seconds": 30,
+    "year": ""
   },
   "next_poll_seconds": 20
 }
