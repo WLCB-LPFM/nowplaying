@@ -34,6 +34,14 @@ Track expiration:
   then shows "<show> / <hosts>" or the WLCB station fallback rather than a
   stale song name. The 15s lead expires the display slightly before the song
   actually ends to mask end-of-song silence and beat-mixed transitions.
+
+Schedule source:
+  The schedule is fetched from https://lakesradio.org/schedule.json, which is
+  the canonical source of truth generated automatically at every site deploy.
+  It is cached in memory for SCHEDULE_CACHE_TTL_S seconds (default: 300) to
+  avoid a network round-trip on every 20-second poll cycle. On fetch failure
+  the last cached copy is used; if no copy exists at all, get_scheduled_show()
+  returns None and the producer falls back gracefully.
 """
 
 import json
@@ -59,16 +67,23 @@ REPO_DIR          = Path(os.environ.get("REPO_DIR", "/home/nowplaying/nowplaying
 OUTPUT_FILE       = REPO_DIR / "now.json"
 POLL_INTERVAL_S   = int(os.environ.get("POLL_INTERVAL_S", "20"))
 HTTP_TIMEOUT_S    = 4
-SCHEDULE_PATH     = Path(os.environ.get("SCHEDULE_PATH", "/home/nowplaying/nowplaying/schedule.json"))
+
+# Schedule is now fetched from the website rather than a local file.
+# This URL is the canonical source of truth, generated at every site deploy.
+SCHEDULE_URL      = os.environ.get(
+    "SCHEDULE_URL",
+    "https://lakesradio.org/schedule.json",
+)
+# Re-fetch the schedule at most every N seconds. 5 minutes is plenty -- the
+# schedule changes rarely and always as part of a site deploy.
+SCHEDULE_CACHE_TTL_S = int(os.environ.get("SCHEDULE_CACHE_TTL_S", "300"))
 
 # Tracks longer than this from PlayIt Live are treated as suspicious (likely a
 # show-container audio file rather than a song). 10 minutes covers nearly all
 # real songs including extended jazz tracks; show containers tend to be 25-60+.
 PLAYIT_MAX_REASONABLE_DURATION_S = int(os.environ.get("PLAYIT_MAX_REASONABLE_DURATION_S", "600"))
 
-# Lead time: drop tracks this many seconds *before* their stated end. Negative
-# value because we're expiring early. Hides end-of-song silence and gives the
-# website a moment to switch to the show fallback before the next song starts.
+# Lead time: drop tracks this many seconds *before* their stated end.
 TRACK_EXPIRATION_LEAD_S = 15
 
 # Suppress urllib3 self-signed cert warnings (cert is self-signed on PlayIt Live)
@@ -95,8 +110,6 @@ def parse_iso(s):
 
 
 def track_is_fresh(track):
-    """A track is fresh while (now - started_at) < (duration_seconds - lead).
-    If we don't have a duration, fall back to a 6-minute window."""
     if not track:
         return False
     started = parse_iso(track.get("started_at"))
@@ -104,14 +117,13 @@ def track_is_fresh(track):
         return False
     duration = track.get("duration_seconds") or 360
     age = (datetime.now(timezone.utc) - started).total_seconds()
-    if age < -10:  # claims to start in the future = bad data
+    if age < -10:
         return False
     return age <= duration - TRACK_EXPIRATION_LEAD_S
 
 
 # ---------- PlayIt Live ----------
 def _playit_get(path: str):
-    """GET against PlayIt Live API with Bearer auth. Returns parsed JSON or None on failure."""
     if not PLAYIT_API_KEY:
         return None
     try:
@@ -131,7 +143,6 @@ def _playit_get(path: str):
 
 
 def get_playit_automation_on():
-    """Returns True/False/None (None when unreachable)."""
     data = _playit_get("/api/control/liveAssist/playoutMode")
     if isinstance(data, dict) and "automationOn" in data:
         return bool(data["automationOn"])
@@ -139,68 +150,42 @@ def get_playit_automation_on():
 
 
 def get_playit_track():
-    """
-    Fetch the currently-playing item from PlayIt Live.
-
-    Returns a dict with title/artist/started_at/duration_seconds, or None if:
-      - PlayIt Live is unreachable
-      - Current item isn't a music track (jingle, advert, voice track, etc.)
-      - Item lacks a trackGuid (live mic, aux input, etc.)
-      - Track duration is implausibly long (likely a show-container audio file)
-      - Track has already expired per its own start + duration
-    """
     current = _playit_get("/api/control/liveAssist/playoutLog/currentItem")
     if not isinstance(current, dict):
         return None
-
     if current.get("type") != "track":
         return None
-
     track_guid = current.get("trackGuid")
     if not track_guid:
         return None
-
     track = _playit_get(f"/api/control/tracks/{track_guid}")
     if not isinstance(track, dict):
         return None
-
     artist = (track.get("artist") or "").strip()
     title  = (track.get("title")  or "").strip()
     if not title:
         return None
-
     duration_raw = current.get("duration") or current.get("fullDuration") or track.get("activeDuration")
     duration = int(duration_raw) if duration_raw else None
-
-    # Sanity check: if PlayIt Live says a "track" is 10+ minutes long, it's
-    # almost certainly a show-container file rather than a song. Refuse it.
     if duration and duration > PLAYIT_MAX_REASONABLE_DURATION_S:
         log(f"PlayIt: rejecting {title!r} (duration {duration}s > {PLAYIT_MAX_REASONABLE_DURATION_S}s — likely show container)")
         return None
-
     candidate = {
         "title":            title,
         "artist":           artist,
         "album":            track.get("album", "") or "",
-        "artwork_url":      "",  # PlayIt Live doesn't expose artwork; enriched from autopo.st
+        "artwork_url":      "",
         "started_at":       current.get("startTime") or now_iso(),
         "duration_seconds": duration,
         "year":             track.get("year") or current.get("year") or "",
     }
-
     if not track_is_fresh(candidate):
         return None
-
     return candidate
 
 
 # ---------- autopo.st ----------
 def get_autopost_track():
-    """
-    Fetch current track from autopo.st fingerprinting service.
-    Returns dict with title/artist/album/artwork_url/started_at/duration_seconds,
-    or None if unreachable/empty/expired.
-    """
     try:
         r = requests.get(AUTOPOST_URL, timeout=HTTP_TIMEOUT_S)
         if r.status_code != 200:
@@ -208,17 +193,14 @@ def get_autopost_track():
         d = r.json()
     except (requests.RequestException, ValueError):
         return None
-
     title = (d.get("title") or d.get("track_title") or d.get("track_mix_title") or "").strip()
     artist = (d.get("artist") or d.get("track_mix_artist") or "").strip()
     if not title:
         return None
-
     try:
         length = int(d.get("track_length") or 0)
     except (TypeError, ValueError):
         length = 0
-
     candidate = {
         "title":            title,
         "artist":           artist,
@@ -227,23 +209,16 @@ def get_autopost_track():
         "started_at":       d.get("start") or now_iso(),
         "duration_seconds": length or None,
     }
-
     if not track_is_fresh(candidate):
         return None
-
     return candidate
 
 
 def _norm(s: str) -> str:
-    """Lowercase, strip non-alphanumerics for fuzzy matching."""
     return "".join(c.lower() for c in (s or "") if c.isalnum())
 
 
 def enrich_with_autopost(playit_track):
-    """
-    If PlayIt Live track matches autopo.st by artist+title (fuzzy), copy the artwork_url
-    and album. PlayIt Live doesn't expose artwork directly, but autopo.st does.
-    """
     if not playit_track:
         return playit_track
     ap = get_autopost_track()
@@ -259,12 +234,44 @@ def enrich_with_autopost(playit_track):
     return playit_track
 
 
-# ---------- Schedule ----------
-def get_scheduled_show():
+# ---------- Schedule (fetched from lakesradio.org/schedule.json) ----------
+_schedule_cache = None       # the parsed 'schedule' dict keyed by day
+_schedule_fetched_at = 0.0   # monotonic time of last successful fetch
+
+def _fetch_schedule():
+    """Fetch and parse schedule.json from the website. Returns the 'schedule'
+    dict (keyed by day) or None on failure."""
+    global _schedule_cache, _schedule_fetched_at
     try:
-        with open(SCHEDULE_PATH) as f:
-            sched = json.load(f)
-    except Exception:
+        r = requests.get(SCHEDULE_URL, timeout=HTTP_TIMEOUT_S)
+        if r.status_code != 200:
+            log(f"schedule fetch -> HTTP {r.status_code}")
+            return None
+        data = r.json()
+        # v1 schema wraps the schedule under a 'schedule' key;
+        # tolerate both old (flat) and new (wrapped) formats.
+        sched = data.get("schedule") or data
+        _schedule_cache = sched
+        _schedule_fetched_at = time.monotonic()
+        log(f"schedule refreshed from {SCHEDULE_URL}")
+        return sched
+    except Exception as e:
+        log(f"schedule fetch error: {e.__class__.__name__}: {e}")
+        return None
+
+def _get_schedule():
+    """Return the cached schedule, refreshing it if the TTL has expired."""
+    global _schedule_cache, _schedule_fetched_at
+    age = time.monotonic() - _schedule_fetched_at
+    if _schedule_cache is None or age >= SCHEDULE_CACHE_TTL_S:
+        result = _fetch_schedule()
+        if result is None and _schedule_cache is not None:
+            log("schedule fetch failed -- using cached copy")
+    return _schedule_cache
+
+def get_scheduled_show():
+    sched = _get_schedule()
+    if not sched:
         return None
     days = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
     now = datetime.now()  # local time (LXC is set to America/Chicago)
@@ -280,7 +287,7 @@ def get_scheduled_show():
                 hosts = []
             return {
                 "name":      s["show"],
-                "hosts":     hosts,                 # may be empty list
+                "hosts":     hosts,
                 "automated": bool(s.get("automated")),
                 "starts":    s["start"],
                 "ends":      s["end"],
@@ -291,28 +298,13 @@ def get_scheduled_show():
 
 # ---------- Compose payload ----------
 def classify_mode(automation_on, schedule_automated):
-    """
-    Returns one of: 'music_block', 'rebroadcast', 'live'.
-
-    music_block:  PlayIt Live driving an automated music slot. Trust PlayIt Live.
-                  Don't display show name (block names like "All Night Jazz" or
-                  "The Block Party" aren't what listeners care about).
-    rebroadcast:  PlayIt Live driving a re-airing of what is normally a live
-                  show. autopo.st knows the songs; PlayIt Live just sees a
-                  show-container file. Display show name when track expires.
-    live:         No automation. Live host. autopo.st only. Display show name
-                  when track expires.
-
-    When PlayIt Live is unreachable (automation_on is None), we fall back to
-    schedule.automated alone.
-    """
     if automation_on is None:
         return "music_block" if schedule_automated else "live"
     if automation_on and schedule_automated:
         return "music_block"
     if automation_on and not schedule_automated:
         return "rebroadcast"
-    return "live"  # automation off
+    return "live"
 
 
 def build_payload():
@@ -335,18 +327,11 @@ def build_payload():
                 track  = ap
                 source = "autopost"
     else:
-        # 'rebroadcast' or 'live': autopo.st is the only reliable source for
-        # what's actually being heard right now.
         ap = get_autopost_track()
         if ap:
             track  = ap
             source = "autopost"
 
-    # Decide what to publish for `show`. The website uses this to display
-    # "<show> / <hosts>" when a track has expired.
-    #   - music_block:  null (don't surface the block name)
-    #   - rebroadcast / live: the program name + hosts
-    #   - no scheduled show: null
     payload_show = None
     if show and mode in ("rebroadcast", "live"):
         payload_show = show
@@ -354,8 +339,8 @@ def build_payload():
     return {
         "generated":         now_iso(),
         "source":            source,
-        "mode":              mode,           # "music_block" | "rebroadcast" | "live"
-        "automation_on":     auto_on,        # true | false | null (unknown)
+        "mode":              mode,
+        "automation_on":     auto_on,
         "show":              payload_show,
         "track":             track,
         "next_poll_seconds": POLL_INTERVAL_S,
@@ -372,7 +357,6 @@ def load_last_payload():
 
 
 def payload_changed(new, old) -> bool:
-    """Compare meaningful fields, ignoring `generated` timestamp."""
     if old is None:
         return True
     keys = ("source", "mode", "automation_on", "show", "track")
