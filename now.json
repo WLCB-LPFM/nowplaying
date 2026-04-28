@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-28T02:29:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-28T02:29:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Toys for Tots",
-    "artist": "USMC",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-28T07:29:18.6668796Z",
-    "duration_seconds": 30,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
