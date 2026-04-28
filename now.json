@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T21:08:15-05:00",
-  "source": "fallback",
+  "generated": "2026-04-27T21:10:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -10,6 +10,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Diminuendo and Crescendo in Blue (Live)",
+    "artist": "Duke Ellington",
+    "album": "Live At Newport",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington.jpg",
+    "started_at": "2026-04-28T02:09:45Z",
+    "duration_seconds": 896
+  },
   "next_poll_seconds": 20
 }
