@@ -1,0 +1,19 @@
+[Unit]
+Description=WLCB Now Playing processor
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=nowplaying
+Group=nowplaying
+WorkingDirectory=/home/nowplaying
+EnvironmentFile=/home/nowplaying/.env
+ExecStart=/home/nowplaying/venv/bin/python /home/nowplaying/nowplaying/nowplaying.py
+Restart=on-failure
+RestartSec=10
+StandardOutput=append:/home/nowplaying/nowplaying.log
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target
