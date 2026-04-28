@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T23:29:04-05:00",
-  "source": "autopost",
+  "generated": "2026-04-27T23:32:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Stone Cold",
-    "artist": "Rainbow",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rainbow_-_Stone_Cold.jpg",
-    "started_at": "2026-04-28T04:28:43Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
