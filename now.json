@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T14:31:56-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T14:32:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Radio - Window to Your Community",
+    "artist": "N.A.B.",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T19:32:05.5575217Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
