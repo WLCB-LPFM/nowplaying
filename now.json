@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-28T11:01:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-28T11:01:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "This is Serious",
-    "artist": "Youth Vaping Prevention",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-28T16:01:13.5962673Z",
-    "duration_seconds": 29,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
