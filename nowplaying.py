@@ -2,16 +2,19 @@
 """
 WLCB Now Playing processor.
 
-Polls PlayIt Live for current state, decides whether the station is in
-automation (music block) or live programming, and emits a unified now.json
-to a public GitHub repo. The website reads it via raw.githubusercontent.com.
+Polls PlayIt Live + autopo.st, picks the best source for the current show
+context, and emits a unified now.json to a public GitHub repo. The website
+reads it via raw.githubusercontent.com.
 
-Source priority:
-  1. PlayIt Live API           - authoritative for current track during automation
-                                 AND identifies which "cart" / show is active
-  2. autopo.st fingerprinting  - fallback for live programming where PlayIt Live
-                                 doesn't know the song (mic + outboard sources)
-  3. Schedule-only fallback    - when both fail, emit show name from schedule
+Source selection:
+  - During automated music blocks (schedule.automated == true):
+      PlayIt Live is authoritative — it drives the playout log.
+      autopo.st is used only to enrich with artwork.
+  - During live shows (schedule.automated == false or absent):
+      autopo.st is authoritative — it fingerprints the actual audio output,
+      including songs played by the live host that PlayIt Live never sees.
+      PlayIt Live's currentItem is unreliable (empty / stale / showing a bed).
+  - Fallback: schedule-only (show name, no track info).
 """
 
 import json
@@ -26,17 +29,23 @@ from urllib.parse import urljoin
 import requests
 
 # ---------- Config ----------
-PLAYIT_BASE_URL  = os.environ.get("PLAYIT_BASE_URL",  "http://10.101.0.101")
-PLAYIT_API_KEY   = os.environ.get("PLAYIT_API_KEY",   "")
-AUTOPOST_URL     = os.environ.get(
+PLAYIT_BASE_URL   = os.environ.get("PLAYIT_BASE_URL",  "https://10.101.0.101:25433")
+PLAYIT_API_KEY    = os.environ.get("PLAYIT_API_KEY",   "")
+PLAYIT_VERIFY_TLS = os.environ.get("PLAYIT_VERIFY_TLS", "0") == "1"
+AUTOPOST_URL      = os.environ.get(
     "AUTOPOST_URL",
     "https://widgets.autopo.st/fingerprinting/public/WLCB/nowplaying.json",
 )
-REPO_DIR         = Path(os.environ.get("REPO_DIR", "/home/nowplaying/nowplaying"))
-OUTPUT_FILE      = REPO_DIR / "now.json"
-POLL_INTERVAL_S  = int(os.environ.get("POLL_INTERVAL_S", "20"))
-HTTP_TIMEOUT_S   = 4
-SCHEDULE_PATH    = Path(os.environ.get("SCHEDULE_PATH", "/home/nowplaying/schedule.json"))
+REPO_DIR          = Path(os.environ.get("REPO_DIR", "/home/nowplaying/nowplaying"))
+OUTPUT_FILE       = REPO_DIR / "now.json"
+POLL_INTERVAL_S   = int(os.environ.get("POLL_INTERVAL_S", "20"))
+HTTP_TIMEOUT_S    = 4
+SCHEDULE_PATH     = Path(os.environ.get("SCHEDULE_PATH", "/home/nowplaying/nowplaying/schedule.json"))
+
+# Suppress urllib3 self-signed cert warnings (cert is self-signed on PlayIt Live)
+if not PLAYIT_VERIFY_TLS:
+    import urllib3
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def now_iso() -> str:
@@ -49,15 +58,16 @@ def log(msg: str) -> None:
 
 # ---------- PlayIt Live ----------
 def _playit_get(path: str):
-    """GET against PlayIt Live API. Returns parsed JSON or None on any failure."""
+    """GET against PlayIt Live API with Bearer auth. Returns parsed JSON or None on failure."""
     if not PLAYIT_API_KEY:
         return None
     try:
         url = urljoin(PLAYIT_BASE_URL.rstrip("/") + "/", path.lstrip("/"))
         r = requests.get(
             url,
-            headers={"X-API-Key": PLAYIT_API_KEY, "Accept": "application/json"},
+            headers={"Authorization": f"Bearer {PLAYIT_API_KEY}", "Accept": "application/json"},
             timeout=HTTP_TIMEOUT_S,
+            verify=PLAYIT_VERIFY_TLS,
         )
         if r.status_code == 200:
             return r.json()
@@ -69,89 +79,115 @@ def _playit_get(path: str):
 
 def get_playit_track():
     """
-    Try a couple of well-known PlayIt Live endpoints to find the current track.
-    Returns dict with title/artist/started_at/duration_seconds, or None.
+    Fetch the currently-playing item from PlayIt Live.
 
-    Update this once you confirm the exact endpoint shape with curl
-    from this VM (after firewall is open).
+    Returns a dict with title/artist/started_at/duration_seconds, or None if:
+      - PlayIt Live is unreachable
+      - Current item isn't a music track (jingle, advert, voice track, etc.)
+      - Item lacks a trackGuid (live mic, aux input, etc.)
     """
-    candidates = [
-        "/api/v2/system/now-playing",
-        "/api/v2/now-playing",
-        "/api/v2/track-history?limit=1",
-    ]
-    for path in candidates:
-        data = _playit_get(path)
-        if not data:
-            continue
-        track = data.get("track") if isinstance(data, dict) else None
-        if track is None and isinstance(data, dict):
-            if "title" in data or "trackTitle" in data or "name" in data:
-                track = data
-        if track is None and isinstance(data, list) and data:
-            track = data[0]
-        if not isinstance(track, dict):
-            continue
+    current = _playit_get("/api/control/liveAssist/playoutLog/currentItem")
+    if not isinstance(current, dict):
+        return None
 
-        title  = track.get("title") or track.get("trackTitle") or track.get("name")
-        artist = track.get("artist") or track.get("trackArtist") or track.get("artistName")
-        if not title:
-            continue
-        return {
-            "title":            title,
-            "artist":           artist or "",
-            "album":            track.get("album") or track.get("albumName") or "",
-            "artwork_url":      track.get("artworkUrl") or track.get("artwork_url") or "",
-            "started_at":       track.get("startTime") or track.get("startedAt") or now_iso(),
-            "duration_seconds": int(track.get("duration") or track.get("durationSeconds") or 0) or None,
-        }
-    return None
+    # Only handle music tracks. Other types (jingle, advertBlock, voiceTrack, auxInput,
+    # remoteUrl, breakNote, hookSequence) won't have meaningful artist/title info.
+    if current.get("type") != "track":
+        return None
 
+    track_guid = current.get("trackGuid")
+    if not track_guid:
+        return None
 
-def get_playit_show():
-    """Try to determine the current show / cart from PlayIt Live."""
-    data = _playit_get("/api/v2/system/status") or _playit_get("/api/v2/status")
-    if isinstance(data, dict):
-        for k in ("currentShow", "current_show", "show", "showName"):
-            if data.get(k):
-                return str(data[k])
-    return None
+    # Fetch full track metadata for separate artist/title fields
+    track = _playit_get(f"/api/control/tracks/{track_guid}")
+    if not isinstance(track, dict):
+        return None
+
+    artist = (track.get("artist") or "").strip()
+    title  = (track.get("title")  or "").strip()
+    if not title:
+        return None
+
+    duration = current.get("duration") or current.get("fullDuration") or track.get("activeDuration")
+    return {
+        "title":            title,
+        "artist":           artist,
+        "album":            track.get("album", "") or "",
+        "artwork_url":      "",  # PlayIt Live doesn't expose artwork; enriched from autopo.st
+        "started_at":       current.get("startTime") or now_iso(),
+        "duration_seconds": int(duration) if duration else None,
+        "year":             track.get("year") or current.get("year") or "",
+    }
 
 
 # ---------- autopo.st ----------
 def get_autopost_track():
+    """
+    Fetch current track from autopo.st fingerprinting service.
+    Returns dict with title/artist/album/artwork_url/started_at/duration_seconds, or None.
+    """
     try:
         r = requests.get(AUTOPOST_URL, timeout=HTTP_TIMEOUT_S)
         if r.status_code != 200:
             return None
         d = r.json()
-        title = d.get("title") or d.get("track_title") or d.get("track_mix_title")
-        artist = d.get("artist") or d.get("track_mix_artist")
-        if not title:
-            return None
-        start_iso = d.get("start")
-        try:
-            started = datetime.fromisoformat(start_iso.replace("Z", "+00:00")) if start_iso else None
-        except Exception:
-            started = None
-        try:
-            length = int(d.get("track_length") or 0)
-        except Exception:
-            length = 0
-        if started:
-            age = (datetime.now(timezone.utc) - started).total_seconds()
-            if age < -10 or age > (length or 300) + 60:
-                return None
-        return {
-            "title":            title,
-            "artist":           artist or "",
-            "album":            d.get("album") or "",
-            "artwork_url":      d.get("artwork_url") or "",
-            "started_at":       start_iso or now_iso(),
-            "duration_seconds": length or None,
-        }
     except (requests.RequestException, ValueError):
         return None
+
+    title = (d.get("title") or d.get("track_title") or d.get("track_mix_title") or "").strip()
+    artist = (d.get("artist") or d.get("track_mix_artist") or "").strip()
+    if not title:
+        return None
+
+    # Validate freshness — drop if track started >duration+60s ago (we're behind autopo.st update)
+    start_iso = d.get("start")
+    try:
+        started = datetime.fromisoformat(start_iso.replace("Z", "+00:00")) if start_iso else None
+    except Exception:
+        started = None
+    try:
+        length = int(d.get("track_length") or 0)
+    except Exception:
+        length = 0
+    if started:
+        age = (datetime.now(timezone.utc) - started).total_seconds()
+        if age < -10 or age > (length or 300) + 60:
+            return None
+
+    return {
+        "title":            title,
+        "artist":           artist,
+        "album":            d.get("album") or "",
+        "artwork_url":      d.get("artwork_url") or "",
+        "started_at":       start_iso or now_iso(),
+        "duration_seconds": length or None,
+    }
+
+
+def _norm(s: str) -> str:
+    """Lowercase, strip non-alphanumerics for fuzzy matching."""
+    return "".join(c.lower() for c in (s or "") if c.isalnum())
+
+
+def enrich_with_autopost(playit_track):
+    """
+    If PlayIt Live track matches autopo.st by artist+title (fuzzy), copy the artwork_url
+    and album. PlayIt Live doesn't expose artwork directly, but autopo.st does.
+    """
+    if not playit_track:
+        return playit_track
+    ap = get_autopost_track()
+    if not ap:
+        return playit_track
+    pl_key = _norm(playit_track["artist"]) + _norm(playit_track["title"])
+    ap_key = _norm(ap["artist"]) + _norm(ap["title"])
+    if pl_key and pl_key == ap_key:
+        if ap.get("artwork_url"):
+            playit_track["artwork_url"] = ap["artwork_url"]
+        if ap.get("album") and not playit_track.get("album"):
+            playit_track["album"] = ap["album"]
+    return playit_track
 
 
 # ---------- Schedule ----------
@@ -163,7 +199,7 @@ def get_scheduled_show():
         return None
     days = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
     now = datetime.now()
-    js_day_idx = (now.weekday() + 1) % 7
+    js_day_idx = (now.weekday() + 1) % 7  # JS-style: Sunday=0..Saturday=6
     day = days[js_day_idx]
     mins = now.hour * 60 + now.minute
     for s in sched.get(day, []):
@@ -183,27 +219,30 @@ def get_scheduled_show():
 # ---------- Compose payload ----------
 def build_payload():
     show = get_scheduled_show()
+    is_automated = bool(show and show.get("automated"))
 
-    # Try PlayIt Live first when on automation; autopo.st first when live
     track  = None
     source = "fallback"
 
-    if show and show.get("automated"):
-        track = get_playit_track()
-        if track:
+    if is_automated:
+        # PlayIt Live is driving playout — it's authoritative
+        pl = get_playit_track()
+        if pl:
+            track  = enrich_with_autopost(pl)
             source = "playitlive"
         else:
-            track = get_autopost_track()
-            if track:
+            # PlayIt Live unreachable — autopo.st as backup
+            ap = get_autopost_track()
+            if ap:
+                track  = ap
                 source = "autopost"
     else:
-        track = get_autopost_track()
-        if track:
+        # Live show — autopo.st is fingerprinting the actual audio output, only it knows
+        ap = get_autopost_track()
+        if ap:
+            track  = ap
             source = "autopost"
-        else:
-            track = get_playit_track()
-            if track:
-                source = "playitlive"
+        # Note: no PlayIt Live fallback during live shows; its data is unreliable
 
     return {
         "generated":         now_iso(),
