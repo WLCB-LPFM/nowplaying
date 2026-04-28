@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T01:30:25-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T01:31:07-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Not Your Grandfather's",
+    "artist": "ARRL",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T06:31:01.0289614Z",
+    "duration_seconds": 29,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
