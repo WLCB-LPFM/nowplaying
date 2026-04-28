@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T04:59:06-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T04:59:28-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jazz Lives! (Promo 1)",
+    "artist": "Bob Dauber",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T09:59:26.9810915Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
