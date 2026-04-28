@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T22:01:01-05:00",
-  "source": "fallback",
+  "generated": "2026-04-27T22:03:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "As Time Goes By",
+    "artist": "Erroll Garner",
+    "album": "A Night at the Movies",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_As_Time_Goes_By.jpg",
+    "started_at": "2026-04-28T03:03:31Z",
+    "duration_seconds": 168
+  },
   "next_poll_seconds": 20
 }
