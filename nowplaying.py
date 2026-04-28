@@ -18,21 +18,22 @@ Authoritative-source decision tree:
         of a normally-live show. PlayIt Live's currentItem is the show audio
         file (often a 26-minute "track" named after the show), not the songs
         playing inside it. Use autopo.st (it fingerprints actual audio output).
-        show = the program name so the website can display it after each song
-        expires.
+        show = the program name + host so the website can display it after each
+        song expires.
 
     automationOn = false                              -> Live host on the mic.
         PlayIt Live has no idea what's playing. Use autopo.st only.
-        show = the program name (same display behavior as rebroadcast).
+        show = the program name + host (same display behavior as rebroadcast).
 
   If automationOn is unknown (PlayIt Live unreachable), fall back to using
   schedule.automated alone, with the same logic as if automationOn matched it.
 
 Track expiration:
   Every candidate track is checked against `started_at + duration_seconds`.
-  Once a track has run past its end (plus a small grace window), it's dropped
-  -- the website then shows "On Air Now / <show name>" or the WLCB station
-  fallback rather than a stale song name.
+  Once a track has run past (its end - 15s lead), it's dropped -- the website
+  then shows "<show> / <host>" or the WLCB station fallback rather than a
+  stale song name. The 15s lead expires the display slightly before the song
+  actually ends to mask end-of-song silence and beat-mixed transitions.
 """
 
 import json
@@ -65,9 +66,10 @@ SCHEDULE_PATH     = Path(os.environ.get("SCHEDULE_PATH", "/home/nowplaying/nowpl
 # real songs including extended jazz tracks; show containers tend to be 25-60+.
 PLAYIT_MAX_REASONABLE_DURATION_S = int(os.environ.get("PLAYIT_MAX_REASONABLE_DURATION_S", "600"))
 
-# Grace window after a track's stated end before we drop it (handles small
-# clock skew between sources and our VM).
-TRACK_EXPIRATION_GRACE_S = 30
+# Lead time: drop tracks this many seconds *before* their stated end. Negative
+# value because we're expiring early. Hides end-of-song silence and gives the
+# website a moment to switch to the show fallback before the next song starts.
+TRACK_EXPIRATION_LEAD_S = 15
 
 # Suppress urllib3 self-signed cert warnings (cert is self-signed on PlayIt Live)
 if not PLAYIT_VERIFY_TLS:
@@ -93,8 +95,8 @@ def parse_iso(s):
 
 
 def track_is_fresh(track):
-    """A track is fresh if (now - started_at) < (duration_seconds + grace).
-    If we don't have a duration, we can't verify; fall back to a 6-minute window."""
+    """A track is fresh while (now - started_at) < (duration_seconds - lead).
+    If we don't have a duration, fall back to a 6-minute window."""
     if not track:
         return False
     started = parse_iso(track.get("started_at"))
@@ -104,7 +106,7 @@ def track_is_fresh(track):
     age = (datetime.now(timezone.utc) - started).total_seconds()
     if age < -10:  # claims to start in the future = bad data
         return False
-    return age <= duration + TRACK_EXPIRATION_GRACE_S
+    return age <= duration - TRACK_EXPIRATION_LEAD_S
 
 
 # ---------- PlayIt Live ----------
@@ -275,6 +277,7 @@ def get_scheduled_show():
         if sh*60+sm <= mins < eh*60+em:
             return {
                 "name":      s["show"],
+                "host":      s.get("host"),
                 "automated": bool(s.get("automated")),
                 "starts":    s["start"],
                 "ends":      s["end"],
@@ -337,9 +340,9 @@ def build_payload():
             source = "autopost"
 
     # Decide what to publish for `show`. The website uses this to display
-    # "On Air Now / <show name>" when a track has expired.
+    # "<show> / <host>" when a track has expired.
     #   - music_block:  null (don't surface the block name)
-    #   - rebroadcast / live: the program name
+    #   - rebroadcast / live: the program name + host
     #   - no scheduled show: null
     payload_show = None
     if show and mode in ("rebroadcast", "live"):
