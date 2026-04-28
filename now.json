@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T02:58:43-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T02:59:05-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "George Washington - Leadership",
+    "artist": "PassItOn",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T07:58:50.6091381Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
