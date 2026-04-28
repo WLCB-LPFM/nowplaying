@@ -1,25 +1,17 @@
 {
-  "generated": "2026-04-28T16:59:26-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-04-28T17:00:08-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Roadhouse Radio",
-    "hosts": [
-      "Joe Powers"
-    ],
-    "automated": false,
-    "starts": "15:00",
-    "ends": "17:00",
-    "genre": "Country"
-  },
+  "show": null,
   "track": {
     "title": "You May Be Right",
     "artist": "Billy Joel",
     "album": "The Hits",
     "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_You_May_Be_Right.jpg",
-    "started_at": "2026-04-28T21:59:08Z",
-    "duration_seconds": 251
+    "started_at": "2026-04-28T21:57:45.6847819Z",
+    "duration_seconds": 235,
+    "year": "2013"
   },
   "next_poll_seconds": 20
 }
