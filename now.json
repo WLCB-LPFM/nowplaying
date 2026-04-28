@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T01:28:15+00:00",
-  "source": "autopost",
+  "generated": "2026-04-28T01:30:19+00:00",
+  "source": "playitlive",
   "show": {
     "name": "All Night Jazz",
     "automated": true,
@@ -9,12 +9,13 @@
     "genre": "Jazz"
   },
   "track": {
-    "title": "The Mooche",
-    "artist": "Duke Ellington",
-    "album": "The Complete Columbia Studio Albums Collection 1951-1958",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_The_Mooche.jpg",
-    "started_at": "2026-04-28T01:23:12Z",
-    "duration_seconds": 396
+    "title": "The Brecker Brothers",
+    "artist": "Paul and Steve Howard",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T01:30:18.8354694Z",
+    "duration_seconds": 30,
+    "year": ""
   },
   "next_poll_seconds": 20
 }
