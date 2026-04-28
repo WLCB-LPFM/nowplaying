@@ -36,11 +36,13 @@ Track expiration:
   actually ends to mask end-of-song silence and beat-mixed transitions.
 
 Schedule source:
-  The schedule is fetched from https://lakesradio.org/schedule.json, which is
-  the canonical source of truth generated automatically at every site deploy.
-  It is cached in memory for SCHEDULE_CACHE_TTL_S seconds (default: 300) to
-  avoid a network round-trip on every 20-second poll cycle. On fetch failure
-  the last cached copy is used; if no copy exists at all, get_scheduled_show()
+  The schedule is fetched from https://lakesradio-org.pages.dev/schedule.json,
+  which is generated automatically at every site deploy from schedule.js.
+  NOTE: update SCHEDULE_URL to https://lakesradio.org/schedule.json once the
+  domain cutover from WordPress to the new site happens.
+  The schedule is cached in memory for SCHEDULE_CACHE_TTL_S seconds (default:
+  300) to avoid a network round-trip on every 20-second poll cycle. On fetch
+  failure the last cached copy is used; if no copy exists, get_scheduled_show()
   returns None and the producer falls back gracefully.
 """
 
@@ -68,25 +70,18 @@ OUTPUT_FILE       = REPO_DIR / "now.json"
 POLL_INTERVAL_S   = int(os.environ.get("POLL_INTERVAL_S", "20"))
 HTTP_TIMEOUT_S    = 4
 
-# Schedule is now fetched from the website rather than a local file.
-# This URL is the canonical source of truth, generated at every site deploy.
+# Schedule is fetched from the website (canonical source of truth).
+# TODO: change to https://lakesradio.org/schedule.json after domain cutover.
 SCHEDULE_URL      = os.environ.get(
     "SCHEDULE_URL",
-    "https://lakesradio.org/schedule.json",
+    "https://lakesradio-org.pages.dev/schedule.json",
 )
-# Re-fetch the schedule at most every N seconds. 5 minutes is plenty -- the
-# schedule changes rarely and always as part of a site deploy.
+# Re-fetch the schedule at most every N seconds.
 SCHEDULE_CACHE_TTL_S = int(os.environ.get("SCHEDULE_CACHE_TTL_S", "300"))
 
-# Tracks longer than this from PlayIt Live are treated as suspicious (likely a
-# show-container audio file rather than a song). 10 minutes covers nearly all
-# real songs including extended jazz tracks; show containers tend to be 25-60+.
 PLAYIT_MAX_REASONABLE_DURATION_S = int(os.environ.get("PLAYIT_MAX_REASONABLE_DURATION_S", "600"))
-
-# Lead time: drop tracks this many seconds *before* their stated end.
 TRACK_EXPIRATION_LEAD_S = 15
 
-# Suppress urllib3 self-signed cert warnings (cert is self-signed on PlayIt Live)
 if not PLAYIT_VERIFY_TLS:
     import urllib3
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -168,7 +163,7 @@ def get_playit_track():
     duration_raw = current.get("duration") or current.get("fullDuration") or track.get("activeDuration")
     duration = int(duration_raw) if duration_raw else None
     if duration and duration > PLAYIT_MAX_REASONABLE_DURATION_S:
-        log(f"PlayIt: rejecting {title!r} (duration {duration}s > {PLAYIT_MAX_REASONABLE_DURATION_S}s — likely show container)")
+        log(f"PlayIt: rejecting {title!r} (duration {duration}s > {PLAYIT_MAX_REASONABLE_DURATION_S}s \u2014 likely show container)")
         return None
     candidate = {
         "title":            title,
@@ -234,13 +229,11 @@ def enrich_with_autopost(playit_track):
     return playit_track
 
 
-# ---------- Schedule (fetched from lakesradio.org/schedule.json) ----------
-_schedule_cache = None       # the parsed 'schedule' dict keyed by day
-_schedule_fetched_at = 0.0   # monotonic time of last successful fetch
+# ---------- Schedule ----------
+_schedule_cache = None
+_schedule_fetched_at = 0.0
 
 def _fetch_schedule():
-    """Fetch and parse schedule.json from the website. Returns the 'schedule'
-    dict (keyed by day) or None on failure."""
     global _schedule_cache, _schedule_fetched_at
     try:
         r = requests.get(SCHEDULE_URL, timeout=HTTP_TIMEOUT_S)
@@ -248,8 +241,7 @@ def _fetch_schedule():
             log(f"schedule fetch -> HTTP {r.status_code}")
             return None
         data = r.json()
-        # v1 schema wraps the schedule under a 'schedule' key;
-        # tolerate both old (flat) and new (wrapped) formats.
+        # v1 schema wraps schedule under 'schedule' key; tolerate both formats
         sched = data.get("schedule") or data
         _schedule_cache = sched
         _schedule_fetched_at = time.monotonic()
@@ -260,7 +252,6 @@ def _fetch_schedule():
         return None
 
 def _get_schedule():
-    """Return the cached schedule, refreshing it if the TTL has expired."""
     global _schedule_cache, _schedule_fetched_at
     age = time.monotonic() - _schedule_fetched_at
     if _schedule_cache is None or age >= SCHEDULE_CACHE_TTL_S:
@@ -275,7 +266,7 @@ def get_scheduled_show():
         return None
     days = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
     now = datetime.now()  # local time (LXC is set to America/Chicago)
-    js_day_idx = (now.weekday() + 1) % 7  # JS-style: Sunday=0..Saturday=6
+    js_day_idx = (now.weekday() + 1) % 7
     day = days[js_day_idx]
     mins = now.hour * 60 + now.minute
     for s in sched.get(day, []):
