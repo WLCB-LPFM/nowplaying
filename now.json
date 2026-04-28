@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T21:31:25-05:00",
-  "source": "fallback",
+  "generated": "2026-04-27T21:34:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Young at Heart",
+    "artist": "Willie Nelson",
+    "album": "My Way",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Willie_Nelson_-_Young_At_Heart.jpg",
+    "started_at": "2026-04-28T02:34:28Z",
+    "duration_seconds": 164
+  },
   "next_poll_seconds": 20
 }
