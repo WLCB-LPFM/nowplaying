@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T06:04:49-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T06:05:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Nasty",
+    "artist": "Janet Jackson",
+    "album": "80s Mixtape",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Nasty.jpg",
+    "started_at": "2026-04-28T11:04:48.457079Z",
+    "duration_seconds": 239,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
