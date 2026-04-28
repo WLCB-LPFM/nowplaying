@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T23:24:14-05:00",
-  "source": "autopost",
+  "generated": "2026-04-27T23:28:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Satisfaction Guaranteed",
-    "artist": "The Firm",
-    "album": "Satisfaction Guaranteed",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Firm_-_Satisfaction_Guaranteed.jpg",
-    "started_at": "2026-04-28T04:23:57Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
