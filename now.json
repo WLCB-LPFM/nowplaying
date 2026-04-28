@@ -1,22 +1,16 @@
 {
-  "generated": "2026-04-27T21:25:47-05:00",
-  "source": "autopost",
+  "generated": "2026-04-27T21:31:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
     "name": "Jazz Lives!",
+    "host": "Bob Dauber",
     "automated": false,
     "starts": "20:00",
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Night Train",
-    "artist": "The Oscar Peterson Trio",
-    "album": "Night Train",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Oscar_Peterson_Trio_-_Night_Train.jpg",
-    "started_at": "2026-04-28T02:25:21Z",
-    "duration_seconds": 290
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
