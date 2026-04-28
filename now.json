@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-28T13:00:10-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-28T13:00:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Sports Weekly",
-    "artist": "Pat Cameron, Matt Rosenberg, and Ron Pecorini",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-28T18:00:05.9037499Z",
-    "duration_seconds": 30,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
