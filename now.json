@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T01:59:07+00:00",
-  "source": "fallback",
+  "generated": "2026-04-28T02:00:09+00:00",
+  "source": "playitlive",
   "show": {
     "name": "All Night Jazz",
     "automated": true,
@@ -8,6 +8,14 @@
     "ends": "06:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Sports Weekly",
+    "artist": "Pat Cameron, Matt Rosenberg, and Ron Pecorini",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-28T02:00:03.0515385Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
