@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T19:29:56-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T19:30:39-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blues Plate Special promo",
+    "artist": "Ted Runnels",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T00:30:29.5926466Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
