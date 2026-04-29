@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-29T06:31:22-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-29T06:31:44-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Support WLCB",
-    "artist": "",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-29T11:31:21.5145346Z",
-    "duration_seconds": 29,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
