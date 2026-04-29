@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T12:42:03-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T12:44:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Got It Bad (And That Ain't Good)",
-    "artist": "Ella Fitzgerald",
-    "album": "Sign Song Swing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ella_Fitzgerald_-_I_Got_It_Bad_(And_That_Ain't_Good).jpg",
-    "started_at": "2026-04-29T17:41:47Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
