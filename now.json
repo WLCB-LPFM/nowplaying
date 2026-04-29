@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T04:28:07-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T04:28:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "For Us All",
+    "artist": "USMC",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T09:28:38.8843357Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
