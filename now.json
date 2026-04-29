@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T22:40:45-05:00",
-  "source": "autopost",
+  "generated": "2026-04-28T22:43:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Happy Feelin' (Anatomy of a Groove)",
-    "artist": "Earth, Wind & Fire",
-    "album": "The Northern Soul Story Vol.3: Blackpool Mecca",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Earth,_Wind_&_Fire.jpg",
-    "started_at": "2026-04-29T03:40:19Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
