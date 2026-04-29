@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T18:07:58-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T18:08:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sharp Dressed Man",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T23:08:02.2561365Z",
+    "duration_seconds": 245,
+    "year": "2024"
+  },
   "next_poll_seconds": 10
 }
