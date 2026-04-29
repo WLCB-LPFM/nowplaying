@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T20:53:02-05:00",
-  "source": "autopost",
+  "generated": "2026-04-28T20:56:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Rock and Roll Never Forgets",
-    "artist": "Bob Seger",
-    "album": "Ultimate Hits \u2013 Rock and Roll Never Forgets",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_-_Rock_And_Roll_Never_Forgets.jpg",
-    "started_at": "2026-04-29T01:52:29Z",
-    "duration_seconds": 233
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
