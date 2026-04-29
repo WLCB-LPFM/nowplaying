@@ -1,9 +1,16 @@
 {
-  "generated": "2026-04-29T03:31:02-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T03:31:23-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "It's A Vibe (feat. Ty Dolla $ign, Trey Songz & Jhen\u00e9 Aiko)",
+    "artist": "2 Chainz",
+    "album": "It's A Vibe (feat. Ty Dolla $ign, Trey Songz & Jhen\u00e9 Aiko)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/2/2_Chainz.jpg",
+    "started_at": "2026-04-29T08:30:50Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 20
 }
