@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T17:48:37-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T17:48:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Burning Heart",
+    "artist": "Survivor",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T22:48:46.8496981Z",
+    "duration_seconds": 222,
+    "year": "2025"
+  },
   "next_poll_seconds": 10
 }
