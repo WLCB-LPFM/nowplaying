@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-29T01:30:41-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-29T01:31:02-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Just Wanted to Die",
-    "artist": "Alcoholics Anonymous",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-29T06:30:35.0549369Z",
-    "duration_seconds": 28,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
