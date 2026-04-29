@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T02:01:11-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T02:01:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Rewards - James",
+    "artist": "Adoption from Foster Care",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T07:01:45.2633438Z",
+    "duration_seconds": 29,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
