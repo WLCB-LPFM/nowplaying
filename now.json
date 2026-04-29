@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T12:16:44-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T12:17:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Satin Doll (1999 Remastered Version)",
+    "artist": "Duke Ellington & His Orchestra",
+    "album": "Greatest Hits: 50's",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington_&_His_Orchestra.jpg",
+    "started_at": "2026-04-29T17:17:17Z",
+    "duration_seconds": 178
+  },
   "next_poll_seconds": 10
 }
