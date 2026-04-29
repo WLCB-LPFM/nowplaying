@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-29T06:29:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-29T06:30:18-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Decades Promo",
-    "artist": "Paul Jaworski",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-29T11:29:51.0621534Z",
-    "duration_seconds": 30,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
