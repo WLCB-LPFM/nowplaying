@@ -1,16 +1,9 @@
 {
-  "generated": "2026-04-29T18:59:46-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T18:59:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Let's Go Crazy",
-    "artist": "Prince",
-    "album": "The Hits / The B-Sides",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_Let's_Go_Crazy.jpg",
-    "started_at": "2026-04-29T23:55:31Z",
-    "duration_seconds": 279
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
