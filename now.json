@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T01:31:02-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T01:31:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Radio - Here for You",
+    "artist": "N.A.B.",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T06:31:34.2351151Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
