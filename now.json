@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-28T23:43:33-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T23:43:55-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sweethearts on Parade",
+    "artist": "Louis Armstrong And His Orchestra",
+    "album": "When the Saints Go Marching In / Sweethearts on Parade",
+    "artwork_url": "",
+    "started_at": "2026-04-29T04:43:45.3800036Z",
+    "duration_seconds": 189,
+    "year": "1944"
+  },
   "next_poll_seconds": 20
 }
