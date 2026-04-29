@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T20:34:44-05:00",
-  "source": "autopost",
+  "generated": "2026-04-28T20:39:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "It's Only Rock 'n' Roll (But I Like It)",
-    "artist": "The Rolling Stones",
-    "album": "It's Only Rock 'N' Roll",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_It's_Only_Rock_'n'_Roll_(But_I_Like_It).jpg",
-    "started_at": "2026-04-29T01:34:16Z",
-    "duration_seconds": 307
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
