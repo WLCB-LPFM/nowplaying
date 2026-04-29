@@ -1,23 +1,17 @@
 {
-  "generated": "2026-04-29T16:09:40-05:00",
-  "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "15:00",
-    "ends": "19:00",
-    "genre": null
-  },
+  "generated": "2026-04-29T16:10:48-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
-    "title": "Take Five",
-    "artist": "Dave Brubeck",
-    "album": "Legendary Music",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
-    "started_at": "2026-04-29T21:08:57Z",
-    "duration_seconds": 323
+    "title": "Rock The Casbah",
+    "artist": "The Clash",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T21:10:45.5945069Z",
+    "duration_seconds": 209,
+    "year": "1982"
   },
   "next_poll_seconds": 10
 }
