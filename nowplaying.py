@@ -2,48 +2,30 @@
 """
 WLCB Now Playing processor.
 
-Polls PlayIt Live + autopo.st, picks the best source for the current show
-context, and emits a unified now.json to a public GitHub repo. The website
-reads it via raw.githubusercontent.com.
+Polls PlayIt Live + autopo.st, resolves the best track/show to display,
+and publishes now.json to two destinations:
+  1. Cloudflare R2 (primary) — public bucket, no cache, always fresh
+  2. GitHub nowplaying repo (fallback) — for any consumers not yet on R2
 
-Authoritative-source decision tree:
+Source selection logic:
+  music_block (automation=on, schedule.automated=true):
+    → PlayIt Live is source of truth (immediate, no fingerprinting delay)
+    → Enrich with autopo.st artwork if track titles match
+    → Reject: duration < 90s OR title matches promo blocklist
 
-  Read PlayIt Live's playoutMode.automationOn; combine with schedule.automated:
+  rebroadcast (automation=on, schedule.automated=false):
+    → autopo.st only (PlayIt Live sees the show file, not the songs)
+    → Same rejection filters apply
 
-    automationOn = true,  schedule.automated = true   -> Music block.
-        PlayIt Live is driving playout; trust its currentItem for the track.
-        Use autopo.st only to enrich with artwork. show = null (no host context).
+  live (automation=off):
+    → autopo.st only
+    → Same rejection filters apply
 
-    automationOn = true,  schedule.automated = false  -> Pre-recorded rebroadcast
-        of a normally-live show. PlayIt Live's currentItem is the show audio
-        file (often a 26-minute "track" named after the show), not the songs
-        playing inside it. Use autopo.st (it fingerprints actual audio output).
-        show = the program name + hosts so the website can display it after each
-        song expires.
-
-    automationOn = false                              -> Live host on the mic.
-        PlayIt Live has no idea what's playing. Use autopo.st only.
-        show = the program name + hosts (same display behavior as rebroadcast).
-
-  If automationOn is unknown (PlayIt Live unreachable), fall back to using
-  schedule.automated alone, with the same logic as if automationOn matched it.
-
-Track expiration:
-  Every candidate track is checked against `started_at + duration_seconds`.
-  Once a track has run past (its end - 15s lead), it's dropped -- the website
-  then shows "<show> / <hosts>" or the WLCB station fallback rather than a
-  stale song name. The 15s lead expires the display slightly before the song
-  actually ends to mask end-of-song silence and beat-mixed transitions.
-
-Schedule source:
-  The schedule is fetched from https://lakesradio-org.pages.dev/schedule.json,
-  which is generated automatically at every site deploy from schedule.js.
-  NOTE: update SCHEDULE_URL to https://lakesradio.org/schedule.json once the
-  domain cutover from WordPress to the new site happens.
-  The schedule is cached in memory for SCHEDULE_CACHE_TTL_S seconds (default:
-  300) to avoid a network round-trip on every 20-second poll cycle. On fetch
-  failure the last cached copy is used; if no copy exists, get_scheduled_show()
-  returns None and the producer falls back gracefully.
+Break suppression:
+  Any track with duration_seconds < 90 is silently discarded.
+  This covers 30-second station promos (Jazz Lives!, Mark Ricky, etc.)
+  that autopo.st incorrectly fingerprints as real tracks.
+  Title blocklist catches any that slip through with unknown duration.
 """
 
 import json
@@ -55,6 +37,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin
 
+import boto3
+from botocore.exceptions import ClientError
 import requests
 
 # ---------- Config ----------
@@ -67,33 +51,58 @@ AUTOPOST_URL      = os.environ.get(
 )
 REPO_DIR          = Path(os.environ.get("REPO_DIR", "/home/nowplaying/nowplaying"))
 OUTPUT_FILE       = REPO_DIR / "now.json"
-POLL_INTERVAL_S   = int(os.environ.get("POLL_INTERVAL_S", "20"))
+POLL_INTERVAL_S   = int(os.environ.get("POLL_INTERVAL_S", "10"))
 HTTP_TIMEOUT_S    = 4
 
-# Schedule is fetched from the website (canonical source of truth).
-# TODO: change to https://lakesradio.org/schedule.json after domain cutover.
-SCHEDULE_URL      = os.environ.get(
-    "SCHEDULE_URL",
-    "https://lakesradio-org.pages.dev/schedule.json",
-)
-# Re-fetch the schedule at most every N seconds.
+SCHEDULE_URL         = os.environ.get("SCHEDULE_URL", "https://lakesradio-org.pages.dev/schedule.json")
 SCHEDULE_CACHE_TTL_S = int(os.environ.get("SCHEDULE_CACHE_TTL_S", "300"))
 
-PLAYIT_MAX_REASONABLE_DURATION_S = int(os.environ.get("PLAYIT_MAX_REASONABLE_DURATION_S", "600"))
+# Tracks shorter than this are promos/jingles — suppress them.
+# Station promos are ~30s; real songs are almost never under 90s.
+MIN_TRACK_DURATION_S = int(os.environ.get("MIN_TRACK_DURATION_S", "90"))
+
+# Track expiration lead — drop 15s before stated end to mask fade/silence.
 TRACK_EXPIRATION_LEAD_S = 15
+
+# PlayIt Live tracks longer than this are likely show-container files.
+PLAYIT_MAX_REASONABLE_DURATION_S = int(os.environ.get("PLAYIT_MAX_REASONABLE_DURATION_S", "600"))
+
+# Title blocklist — case-insensitive substring match.
+# Catches known promos that autopo.st misidentifies as music.
+PROMO_BLOCKLIST = [w.lower() for w in os.environ.get(
+    "PROMO_BLOCKLIST",
+    "jazz lives,mark ricky,wlcb,lakes radio,lakes community,101.5"
+).split(",")]
+
+# R2 config (set via environment / systemd unit)
+R2_ENDPOINT_URL  = os.environ.get("R2_ENDPOINT_URL", "")   # https://<account>.r2.cloudflarestorage.com
+R2_ACCESS_KEY_ID = os.environ.get("R2_ACCESS_KEY_ID", "")
+R2_SECRET_KEY    = os.environ.get("R2_SECRET_KEY", "")
+R2_BUCKET_NAME   = os.environ.get("R2_BUCKET_NAME", "wlcb-nowplaying")
+R2_OBJECT_KEY    = os.environ.get("R2_OBJECT_KEY", "now.json")
+
+# Build the R2 client once at startup (None if config is missing)
+_r2_client = None
+if R2_ENDPOINT_URL and R2_ACCESS_KEY_ID and R2_SECRET_KEY:
+    _r2_client = boto3.client(
+        "s3",
+        endpoint_url=R2_ENDPOINT_URL,
+        aws_access_key_id=R2_ACCESS_KEY_ID,
+        aws_secret_access_key=R2_SECRET_KEY,
+        region_name="auto",
+    )
 
 if not PLAYIT_VERIFY_TLS:
     import urllib3
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
+# ---------- Helpers ----------
 def now_iso() -> str:
     return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
 
-
 def log(msg: str) -> None:
     print(f"[{now_iso()}] {msg}", flush=True)
-
 
 def parse_iso(s):
     if not s:
@@ -102,7 +111,6 @@ def parse_iso(s):
         return datetime.fromisoformat(s.replace("Z", "+00:00"))
     except (ValueError, AttributeError):
         return None
-
 
 def track_is_fresh(track):
     if not track:
@@ -115,6 +123,25 @@ def track_is_fresh(track):
     if age < -10:
         return False
     return age <= duration - TRACK_EXPIRATION_LEAD_S
+
+def is_promo(track) -> bool:
+    """Return True if the track looks like a station promo that should be suppressed."""
+    if not track:
+        return False
+    # Duration filter — too short to be a real song
+    dur = track.get("duration_seconds")
+    if dur is not None and dur < MIN_TRACK_DURATION_S:
+        log(f"Promo filter: rejecting '{track.get('title')}' (duration {dur}s < {MIN_TRACK_DURATION_S}s)")
+        return True
+    # Title blocklist
+    title_lower = (track.get("title") or "").lower()
+    artist_lower = (track.get("artist") or "").lower()
+    combined = title_lower + " " + artist_lower
+    for term in PROMO_BLOCKLIST:
+        if term and term in combined:
+            log(f"Promo filter: rejecting '{track.get('title')}' (matched blocklist term '{term}')")
+            return True
+    return False
 
 
 # ---------- PlayIt Live ----------
@@ -136,13 +163,11 @@ def _playit_get(path: str):
         log(f"PlayIt {path} -> {e.__class__.__name__}")
     return None
 
-
 def get_playit_automation_on():
     data = _playit_get("/api/control/liveAssist/playoutMode")
     if isinstance(data, dict) and "automationOn" in data:
         return bool(data["automationOn"])
     return None
-
 
 def get_playit_track():
     current = _playit_get("/api/control/liveAssist/playoutLog/currentItem")
@@ -163,7 +188,7 @@ def get_playit_track():
     duration_raw = current.get("duration") or current.get("fullDuration") or track.get("activeDuration")
     duration = int(duration_raw) if duration_raw else None
     if duration and duration > PLAYIT_MAX_REASONABLE_DURATION_S:
-        log(f"PlayIt: rejecting {title!r} (duration {duration}s > {PLAYIT_MAX_REASONABLE_DURATION_S}s \u2014 likely show container)")
+        log(f"PlayIt: rejecting '{title}' (duration {duration}s > {PLAYIT_MAX_REASONABLE_DURATION_S}s — show container)")
         return None
     candidate = {
         "title":            title,
@@ -175,6 +200,8 @@ def get_playit_track():
         "year":             track.get("year") or current.get("year") or "",
     }
     if not track_is_fresh(candidate):
+        return None
+    if is_promo(candidate):
         return None
     return candidate
 
@@ -206,14 +233,15 @@ def get_autopost_track():
     }
     if not track_is_fresh(candidate):
         return None
+    if is_promo(candidate):
+        return None
     return candidate
-
 
 def _norm(s: str) -> str:
     return "".join(c.lower() for c in (s or "") if c.isalnum())
 
-
 def enrich_with_autopost(playit_track):
+    """Try to add artwork_url from autopo.st if they're playing the same track."""
     if not playit_track:
         return playit_track
     ap = get_autopost_track()
@@ -241,7 +269,6 @@ def _fetch_schedule():
             log(f"schedule fetch -> HTTP {r.status_code}")
             return None
         data = r.json()
-        # v1 schema wraps schedule under 'schedule' key; tolerate both formats
         sched = data.get("schedule") or data
         _schedule_cache = sched
         _schedule_fetched_at = time.monotonic()
@@ -257,7 +284,7 @@ def _get_schedule():
     if _schedule_cache is None or age >= SCHEDULE_CACHE_TTL_S:
         result = _fetch_schedule()
         if result is None and _schedule_cache is not None:
-            log("schedule fetch failed -- using cached copy")
+            log("schedule fetch failed — using cached copy")
     return _schedule_cache
 
 def get_scheduled_show():
@@ -265,9 +292,8 @@ def get_scheduled_show():
     if not sched:
         return None
     days = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
-    now = datetime.now()  # local time (LXC is set to America/Chicago)
-    js_day_idx = (now.weekday() + 1) % 7
-    day = days[js_day_idx]
+    now  = datetime.now()
+    day  = days[(now.weekday() + 1) % 7]
     mins = now.hour * 60 + now.minute
     for s in sched.get(day, []):
         sh, sm = [int(x) for x in s["start"].split(":")]
@@ -287,7 +313,7 @@ def get_scheduled_show():
     return None
 
 
-# ---------- Compose payload ----------
+# ---------- Mode classification ----------
 def classify_mode(automation_on, schedule_automated):
     if automation_on is None:
         return "music_block" if schedule_automated else "live"
@@ -298,16 +324,18 @@ def classify_mode(automation_on, schedule_automated):
     return "live"
 
 
+# ---------- Build payload ----------
 def build_payload():
-    show     = get_scheduled_show()
-    sched_a  = bool(show and show.get("automated"))
-    auto_on  = get_playit_automation_on()
-    mode     = classify_mode(auto_on, sched_a)
+    show    = get_scheduled_show()
+    sched_a = bool(show and show.get("automated"))
+    auto_on = get_playit_automation_on()
+    mode    = classify_mode(auto_on, sched_a)
 
     track  = None
     source = "fallback"
 
     if mode == "music_block":
+        # PlayIt Live first — immediate, no fingerprinting delay
         pl = get_playit_track()
         if pl:
             track  = enrich_with_autopost(pl)
@@ -318,6 +346,7 @@ def build_payload():
                 track  = ap
                 source = "autopost"
     else:
+        # Rebroadcast or live — autopo.st only
         ap = get_autopost_track()
         if ap:
             track  = ap
@@ -338,7 +367,26 @@ def build_payload():
     }
 
 
-# ---------- Output / git ----------
+# ---------- R2 publish ----------
+def write_to_r2(payload_json: str) -> bool:
+    """Write now.json to R2. Returns True on success."""
+    if not _r2_client:
+        return False
+    try:
+        _r2_client.put_object(
+            Bucket=R2_BUCKET_NAME,
+            Key=R2_OBJECT_KEY,
+            Body=payload_json.encode("utf-8"),
+            ContentType="application/json",
+            CacheControl="no-cache, no-store, must-revalidate",
+        )
+        return True
+    except ClientError as e:
+        log(f"R2 write error: {e}")
+        return False
+
+
+# ---------- GitHub publish (fallback) ----------
 def load_last_payload():
     try:
         with open(OUTPUT_FILE) as f:
@@ -346,13 +394,11 @@ def load_last_payload():
     except Exception:
         return None
 
-
 def payload_changed(new, old) -> bool:
     if old is None:
         return True
     keys = ("source", "mode", "automation_on", "show", "track")
     return any(new.get(k) != old.get(k) for k in keys)
-
 
 def git_commit_and_push(message: str) -> bool:
     cwd = REPO_DIR
@@ -362,29 +408,39 @@ def git_commit_and_push(message: str) -> bool:
         if diff.returncode == 0:
             return False
         subprocess.run(["git", "commit", "-m", message], cwd=cwd, check=True, capture_output=True)
-        subprocess.run(["git", "push", "origin", "main"], cwd=cwd, check=True, capture_output=True)
+        subprocess.run(["git", "push", "origin", "main"],  cwd=cwd, check=True, capture_output=True)
         return True
     except subprocess.CalledProcessError as e:
         log(f"git error: {e.stderr.decode(errors='ignore')}")
         return False
 
-
 def write_and_publish(payload):
+    payload_json = json.dumps(payload, indent=2) + "\n"
+
+    # 1. Write to R2 (primary — every poll, no change detection needed)
+    if _r2_client:
+        if write_to_r2(payload_json):
+            track = payload.get("track") or {}
+            log(f"R2: [{payload.get('mode')}] {payload.get('source')} | "
+                f"{track.get('title', '(no track)') if track else '(no track)'}")
+        else:
+            log("R2 write failed")
+
+    # 2. Write to GitHub (fallback — only on state change)
     last = load_last_payload()
-    OUTPUT_FILE.write_text(json.dumps(payload, indent=2) + "\n")
+    OUTPUT_FILE.write_text(payload_json)
     if payload_changed(payload, last):
         track = payload.get("track") or {}
         msg_track = f"{track.get('title','?')} - {track.get('artist','?')}" if track else "(no track)"
         msg = f"now: [{payload.get('mode')}] {payload.get('source')} | {msg_track}"
         if git_commit_and_push(msg):
-            log(f"pushed: {msg}")
-        else:
-            log("change detected but git push skipped/failed")
+            log(f"GitHub pushed: {msg}")
 
 
 # ---------- Main loop ----------
 def main():
-    log(f"starting nowplaying processor; poll={POLL_INTERVAL_S}s")
+    log(f"starting nowplaying processor; poll={POLL_INTERVAL_S}s; "
+        f"R2={'enabled' if _r2_client else 'DISABLED (no credentials)'}")
     while True:
         try:
             payload = build_payload()
@@ -392,7 +448,6 @@ def main():
         except Exception as e:
             log(f"unexpected error: {e!r}")
         time.sleep(POLL_INTERVAL_S)
-
 
 if __name__ == "__main__":
     if "--once" in sys.argv:
