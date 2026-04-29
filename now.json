@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T20:59:16-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T21:01:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "It's A Vibe (feat. Ty Dolla $ign, Trey Songz & Jhen\u00e9 Aiko)",
+    "artist": "2 Chainz",
+    "album": "It's A Vibe (feat. Ty Dolla $ign, Trey Songz & Jhen\u00e9 Aiko)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/2/2_Chainz.jpg",
+    "started_at": "2026-04-29T02:00:04Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 20
 }
