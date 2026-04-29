@@ -367,6 +367,29 @@ def build_payload():
     }
 
 
+# ---------- RDS text ----------
+def build_now_txt(payload) -> str:
+    """
+    Generate a plain-text now-playing string for the RDS encoder.
+
+    Priority:
+      1. Track known (any mode) → "Title - Artist"
+      2. Hosted show on air     → show name
+      3. Fallback               → "WLCB 101.5FM - https://lakesradio.org"
+    """
+    track = payload.get("track")
+    if track and track.get("title"):
+        title  = (track.get("title")  or "").strip()
+        artist = (track.get("artist") or "").strip()
+        return f"{title} - {artist}" if artist else title
+
+    show = payload.get("show")
+    if show and show.get("name"):
+        return show["name"]
+
+    return "WLCB 101.5FM - https://lakesradio.org"
+
+
 # ---------- R2 publish ----------
 def write_to_r2(payload_json: str) -> bool:
     """Write now.json to R2. Returns True on success."""
@@ -423,6 +446,19 @@ def write_and_publish(payload):
             track = payload.get("track") or {}
             log(f"R2: [{payload.get('mode')}] {payload.get('source')} | "
                 f"{track.get('title', '(no track)') if track else '(no track)'}")
+            # Also write now.txt for RDS encoder
+            now_txt = build_now_txt(payload)
+            try:
+                _r2_client.put_object(
+                    Bucket=R2_BUCKET_NAME,
+                    Key="now.txt",
+                    Body=now_txt.encode("utf-8"),
+                    ContentType="text/plain; charset=utf-8",
+                    CacheControl="no-cache, no-store, must-revalidate",
+                )
+                log(f"R2 now.txt: {now_txt}")
+            except ClientError as e:
+                log(f"R2 now.txt write error: {e}")
         else:
             log("R2 write failed")
 
