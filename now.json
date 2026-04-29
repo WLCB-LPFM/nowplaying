@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T05:28:39-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T05:29:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Crossing Genres",
+    "artist": "Paul Jaworski",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T10:28:45.7972828Z",
+    "duration_seconds": 31,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
