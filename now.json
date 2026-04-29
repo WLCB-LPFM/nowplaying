@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T00:03:22-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T00:03:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Remote Control",
+    "artist": "Type 2 Diabetes Prevention",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T05:03:29.8757315Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
