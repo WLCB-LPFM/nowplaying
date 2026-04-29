@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T20:57:11-05:00",
-  "source": "autopost",
+  "generated": "2026-04-28T20:59:16-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Rock On",
-    "artist": "Def Leppard",
-    "album": "Def Leppard: The Las Vegas Residency Set List",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Rock_On.jpg",
-    "started_at": "2026-04-29T01:56:23Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
