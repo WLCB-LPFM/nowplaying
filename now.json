@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-29T17:17:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-29T17:20:07-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Get it on Tonite",
-    "artist": "Montell Jordan",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-29T22:17:20.7906884Z",
-    "duration_seconds": 179,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
