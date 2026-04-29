@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-29T03:01:16-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-29T03:01:41-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Snakes",
-    "artist": "Distracted Driving Prevention",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-29T08:01:11.0535879Z",
-    "duration_seconds": 30,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
