@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-28T19:26:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-28T19:29:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hey Ya!",
-    "artist": "OutKast",
-    "album": "Keith Lemon - Music From & Inspired By The Film",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Outkast_-_Hey_Ya!.jpg",
-    "started_at": "2026-04-29T00:25:38.372994Z",
-    "duration_seconds": 227,
-    "year": "2019"
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
