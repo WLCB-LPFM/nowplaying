@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T22:28:38-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T22:28:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Roy's Bluz",
+    "artist": "Jimmy Thackery",
+    "album": "Guitar",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/51ffa5a17ec35c73b5f518c58be8764e.png",
+    "started_at": "2026-04-29T03:28:36Z",
+    "duration_seconds": 494
+  },
   "next_poll_seconds": 20
 }
