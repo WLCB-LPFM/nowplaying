@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T05:58:12-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T05:58:34-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Old School Throwback Show",
+    "artist": "J Cornelius",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T10:58:26.8636448Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
