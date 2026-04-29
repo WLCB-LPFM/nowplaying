@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T13:27:28-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T13:28:02-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Night Train",
-    "artist": "The Oscar Peterson Trio",
-    "album": "Night Train",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Oscar_Peterson_Trio_-_Night_Train.jpg",
-    "started_at": "2026-04-29T18:23:25Z",
-    "duration_seconds": 290
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
