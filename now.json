@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T21:55:27-05:00",
-  "source": "fallback",
+  "generated": "2026-04-28T21:55:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "96 Tears",
+    "artist": "Garland Jeffreys",
+    "album": "Escape Artist",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Garland_Jeffreys_-_96_Tears.jpg",
+    "started_at": "2026-04-29T02:55:08Z",
+    "duration_seconds": 186
+  },
   "next_poll_seconds": 20
 }
