@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T12:44:28-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T12:46:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Do Nothing Till You Hear from Me",
+    "artist": "Duke Ellington & His Orchestra",
+    "album": "Die Legenden des Jazz - Duke Ellington",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington_&_His_Orchestra.jpg",
+    "started_at": "2026-04-29T17:46:33Z",
+    "duration_seconds": 184
+  },
   "next_poll_seconds": 10
 }
