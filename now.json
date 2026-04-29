@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-29T00:58:40-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T00:59:22-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Anne Frank - Hope",
+    "artist": "PassItOn",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-29T05:59:15.3382119Z",
+    "duration_seconds": 30,
+    "year": ""
+  },
   "next_poll_seconds": 20
 }
