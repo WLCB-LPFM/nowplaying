@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-29T05:20:38-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-29T05:21:00-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "A Velvet Tune, A Melody Key",
-    "artist": "WLCB All Night Jazz",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-29T10:20:33.7828706Z",
-    "duration_seconds": 32,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 20
 }
