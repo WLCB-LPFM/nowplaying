@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T17:36:06-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T17:40:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Bother Me",
+    "artist": "The Beatles",
+    "album": "With the Beatles",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_Don't_Bother_Me.jpg",
+    "started_at": "2026-04-30T22:40:16Z",
+    "duration_seconds": 145
+  },
   "next_poll_seconds": 10
 }
