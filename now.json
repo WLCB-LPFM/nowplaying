@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-30T09:37:52-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T09:38:04-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Need You Tonight",
+    "artist": "INXS",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-30T14:38:00.7797393Z",
+    "duration_seconds": 180,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
