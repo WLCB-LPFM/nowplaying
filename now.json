@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T20:22:58-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T20:25:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Who's Lovin' You",
+    "artist": "Jackson 5",
+    "album": "Diana Ross Presents The Jackson 5",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jackson_5_-_Who's_Lovin'_You.jpg",
+    "started_at": "2026-04-30T01:25:07Z",
+    "duration_seconds": 240
+  },
   "next_poll_seconds": 10
 }
