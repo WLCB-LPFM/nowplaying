@@ -1,16 +1,9 @@
 {
-  "generated": "2026-04-29T22:37:07-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T22:37:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Take Five",
-    "artist": "Malene Mortensen",
-    "album": "Date With A Dream",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Malene_Mortensen_-_Take_Five.jpg",
-    "started_at": "2026-04-30T03:32:01Z",
-    "duration_seconds": 327
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
