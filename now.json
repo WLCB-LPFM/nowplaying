@@ -1,16 +1,9 @@
 {
-  "generated": "2026-04-30T10:59:53-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T11:00:50-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Funkytown",
-    "artist": "Lipps Inc.",
-    "album": "Movida Disco Dancing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lipps_Inc._-_Funkytown.jpg",
-    "started_at": "2026-04-30T15:53:08Z",
-    "duration_seconds": 469
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
