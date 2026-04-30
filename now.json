@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T19:24:34-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T19:25:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Way You Make Me Feel (Single Version)",
+    "artist": "Michael Jackson",
+    "album": "Por Ellas 2018 (Cadena 100)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_The_Way_You_Make_Me_Feel_(Single_Version).jpg",
+    "started_at": "2026-04-30T00:25:22Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
