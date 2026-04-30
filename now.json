@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T20:38:12-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T20:44:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "We Are the World",
+    "artist": "Ensemble Tromba Festiva",
+    "album": "Music Was My First Love",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/802f2bfbf3739ccb7d90692006a47eb2.png",
+    "started_at": "2026-04-30T01:44:12Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
