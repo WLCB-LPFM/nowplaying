@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-30T10:19:20-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T10:19:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Boom Boom Pow",
+    "artist": "Black Eyed Peas",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-30T15:19:22.4925263Z",
+    "duration_seconds": 210,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
