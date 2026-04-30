@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T19:13:52-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T19:17:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ben (Live from the 1981 U.S. Tour)",
-    "artist": "The Jacksons",
-    "album": "Live",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/ac0c97c003165363ddb9f6df4445b350.png",
-    "started_at": "2026-04-30T00:13:31Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
