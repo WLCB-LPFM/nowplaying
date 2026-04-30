@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-30T18:52:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-04-30T18:55:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "She Bop",
-    "artist": "Cyndi Lauper",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-04-30T23:52:08.8156106Z",
-    "duration_seconds": 221,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
