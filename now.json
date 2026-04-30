@@ -1,17 +1,23 @@
 {
-  "generated": "2026-04-30T06:04:20-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "generated": "2026-04-30T06:04:32-05:00",
+  "source": "autopost",
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "06:00",
+    "ends": "07:00",
+    "genre": null
+  },
   "track": {
     "title": "Photograph",
     "artist": "Def Leppard",
     "album": "Pyromania",
     "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Photograph.jpg",
-    "started_at": "2026-04-30T11:03:57.2654032Z",
-    "duration_seconds": 238,
-    "year": "2016"
+    "started_at": "2026-04-30T11:04:01Z",
+    "duration_seconds": 247
   },
   "next_poll_seconds": 10
 }
