@@ -1,9 +1,16 @@
 {
-  "generated": "2026-04-30T11:14:21-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T11:14:34-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Lies",
+    "artist": "Evanescence",
+    "album": "Origin",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Evanescence_-_Lies.jpg",
+    "started_at": "2026-04-30T16:14:23Z",
+    "duration_seconds": 230
+  },
   "next_poll_seconds": 10
 }
