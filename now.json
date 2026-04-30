@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-30T11:00:50-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T11:02:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Pump It Up",
+    "artist": "Elvis Costello",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-04-30T16:02:14.9974339Z",
+    "duration_seconds": 188,
+    "year": "2013"
+  },
   "next_poll_seconds": 10
 }
