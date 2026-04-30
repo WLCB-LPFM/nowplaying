@@ -1,9 +1,16 @@
 {
-  "generated": "2026-04-30T01:02:08-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T01:08:02-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Haitian Fight Song (Original Mix)",
+    "artist": "Charles Mingus",
+    "album": "40 World Jazz Hits Vol. 3",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charles_Mingus.jpg",
+    "started_at": "2026-04-30T06:07:44Z",
+    "duration_seconds": 599
+  },
   "next_poll_seconds": 10
 }
