@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T21:40:00-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T21:45:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Is It Scary",
-    "artist": "Michael Jackson",
-    "album": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Is_It_Scary.jpg",
-    "started_at": "2026-04-30T02:39:46Z",
-    "duration_seconds": 335
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
