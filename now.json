@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T19:08:19-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T19:10:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Medley: I Want You Back  feat.  ABC  feat.  The Love You Save (Live from the 1981 U.S. Tour)",
+    "artist": "The Jacksons",
+    "album": "Live",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Jacksons.jpg",
+    "started_at": "2026-04-30T00:10:29Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
