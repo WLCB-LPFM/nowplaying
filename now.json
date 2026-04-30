@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T19:47:00-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T19:47:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Smooth Criminal (Radio Edit)",
+    "artist": "Michael Jackson",
+    "album": "Michael Jackson: The Ultimate Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Smooth_Criminal_(Radio_Edit).jpg",
+    "started_at": "2026-04-30T00:47:24Z",
+    "duration_seconds": 257
+  },
   "next_poll_seconds": 10
 }
