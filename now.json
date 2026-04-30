@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T19:40:30-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T19:47:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Say Say Say",
-    "artist": "Paul McCartney",
-    "album": "Pipes Of Peace",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Mccartney_-_Say_Say_Say.jpg",
-    "started_at": "2026-04-30T00:40:14Z",
-    "duration_seconds": 416
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
