@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T19:00:23-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T19:02:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Wanna Be Startin' Somethin'",
+    "artist": "Michael Jackson",
+    "album": "Thriller 25 Super Deluxe Edition",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Wanna_Be_Startin'_Somethin'.jpg",
+    "started_at": "2026-04-30T00:02:28Z",
+    "duration_seconds": 362
+  },
   "next_poll_seconds": 10
 }
