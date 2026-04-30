@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T17:06:54-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T17:17:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Guitar Man",
+    "artist": "Bread",
+    "album": "The Very Best of Bread",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bread_-_Guitar_Man.jpg",
+    "started_at": "2026-04-30T22:17:01Z",
+    "duration_seconds": 223
+  },
   "next_poll_seconds": 10
 }
