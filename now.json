@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T20:13:41-05:00",
-  "source": "fallback",
+  "generated": "2026-04-29T20:16:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Never Can Say Goodbye",
+    "artist": "Jackson 5",
+    "album": "The Ultimate Collection: Jackson 5",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jackson_5_-_Never_Can_Say_Goodbye.jpg",
+    "started_at": "2026-04-30T01:16:01Z",
+    "duration_seconds": 180
+  },
   "next_poll_seconds": 10
 }
