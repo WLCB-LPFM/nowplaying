@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T15:41:03-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T15:42:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Megamix (Ooops Up, The Power, Cult Of Snap, Mary Had A Little Boy)",
+    "artist": "Snap",
+    "album": "The Greatest Hits Volume 2 Part 2",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Snap.jpg",
+    "started_at": "2026-04-30T20:42:16Z",
+    "duration_seconds": 274
+  },
   "next_poll_seconds": 10
 }
