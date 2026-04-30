@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T20:04:17-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T20:13:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Thriller",
-    "artist": "Michael Jackson",
-    "album": "Os Maiores Cantores de Todos os Tempos",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Thriller.jpg",
-    "started_at": "2026-04-30T01:04:05Z",
-    "duration_seconds": 584
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
