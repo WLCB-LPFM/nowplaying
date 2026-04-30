@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-29T20:29:05-05:00",
-  "source": "autopost",
+  "generated": "2026-04-29T20:32:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "(I Can't Make It) Another Day",
-    "artist": "Michael Jackson",
-    "album": "Michael",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_(I_Can't_Make_It)_Another_Day.jpg",
-    "started_at": "2026-04-30T01:28:48Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
