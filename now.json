@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T18:49:00-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T18:49:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Give Me Another Day",
+    "artist": "Jalen Ngonda",
+    "album": "Come Around and Love Me",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jalen_Ngonda_-_Give_Me_Another_Day.jpg",
+    "started_at": "2026-05-01T23:49:02Z",
+    "duration_seconds": 204
+  },
   "next_poll_seconds": 10
 }
