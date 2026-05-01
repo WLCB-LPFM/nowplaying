@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T18:09:39-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T18:09:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Love You Save",
+    "artist": "Joe Tex",
+    "album": "Quentin Tarantino's Death Proof (Standard Version)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Tex_-_The_Love_You_Save.jpg",
+    "started_at": "2026-05-01T23:09:32Z",
+    "duration_seconds": 176
+  },
   "next_poll_seconds": 10
 }
