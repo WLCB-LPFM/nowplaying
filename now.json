@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T19:27:56-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T19:31:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "No Excuses",
-    "artist": "Alice In Chains",
-    "album": "The Essential Alice In Chains",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_In_Chains_-_No_Excuses.jpg",
-    "started_at": "2026-05-01T00:27:35Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
