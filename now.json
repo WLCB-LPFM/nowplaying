@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T11:36:04-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T11:39:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Angry",
-    "artist": "The Rolling Stones",
-    "album": "Angry",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Angry.jpg",
-    "started_at": "2026-05-01T16:35:46Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
