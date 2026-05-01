@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T15:47:56-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T15:48:19-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Over Drinkin' Under Thinkin'",
+    "artist": "Drake Milligan",
+    "album": "Drake Milligan - EP",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Drake_Milligan_-_Over_Drinkin'_Under_Thinkin'.jpg",
+    "started_at": "2026-05-01T20:47:59Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
