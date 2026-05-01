@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T16:05:33-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T16:09:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Once The Blues Catch You",
-    "artist": "Andrew Dykes - The Blues Man",
-    "album": "Once The Blues Catch You",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Andrew_Dykes_-_The_Blues_Man.jpg",
-    "started_at": "2026-05-01T21:05:07Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
