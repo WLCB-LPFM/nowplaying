@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T14:39:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T14:39:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "I Won't Never Go",
+    "artist": "JT Coldfire",
+    "album": "Crazy Sun",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b7a9325d9a2a41e7b3fd0004a892c2a6.png",
+    "started_at": "2026-05-01T19:39:28Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
