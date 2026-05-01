@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T15:11:16-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T15:11:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Gonna Be a Wheel Someday",
+    "artist": "Fats Domino",
+    "album": "Boogie Woogie Baby",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fats_Domino_-_I'm_Gonna_Be_A_Wheel_Someday.jpg",
+    "started_at": "2026-05-01T20:11:20Z",
+    "duration_seconds": 124
+  },
   "next_poll_seconds": 10
 }
