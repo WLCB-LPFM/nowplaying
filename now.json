@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T15:37:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T15:38:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Push Away",
+    "artist": "Cas Haley",
+    "album": "The Front Porch",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cas_Haley.jpg",
+    "started_at": "2026-05-01T20:37:47Z",
+    "duration_seconds": 134
+  },
   "next_poll_seconds": 10
 }
