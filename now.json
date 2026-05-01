@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T15:04:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T15:05:52-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "That'll Be The Day",
-    "artist": "Buddy Holly & The Crickets",
-    "album": "Hits of '57 - All Shook Up",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Holly_&_The_Crickets_-_That'll_Be_The_Day.jpg",
-    "started_at": "2026-05-01T20:03:45Z",
-    "duration_seconds": 138
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
