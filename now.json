@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T18:45:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T18:49:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "On Your Own",
-    "artist": "MT Jones",
-    "album": "Joy",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mt_Jones_-_On_Your_Own.jpg",
-    "started_at": "2026-05-01T23:45:08Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
