@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T15:44:23-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T15:44:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Die When I'm High (Halfway to Heaven)",
+    "artist": "Particle Kid",
+    "album": "Time Capsule",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Particle_Kid.jpg",
+    "started_at": "2026-05-01T20:44:31Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
