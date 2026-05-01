@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T19:39:16-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T19:44:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Slip Away",
-    "artist": "Mad Season",
-    "album": "Above (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mad_Season_-_Slip_Away.jpg",
-    "started_at": "2026-05-01T00:38:52Z",
-    "duration_seconds": 338
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
