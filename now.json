@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T19:06:21-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T19:06:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "NEW BEGINNINGS",
+    "artist": "Dre Plummer",
+    "album": "CLOSURE",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dre_Plummer.jpg",
+    "started_at": "2026-05-01T00:06:21Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
