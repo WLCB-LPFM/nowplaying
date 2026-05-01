@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T21:28:31-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T21:34:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "White, Discussion",
-    "artist": "Live",
-    "album": "Throwing Copper",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Live_-_White,_Discussion.jpg",
-    "started_at": "2026-05-01T02:28:13Z",
-    "duration_seconds": 366
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
