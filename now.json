@@ -1,18 +1,25 @@
 {
-  "generated": "2026-05-01T11:58:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T12:00:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "The Mark Ricky Radio Show",
+    "name": "Ted's Blues Plate Special",
     "hosts": [
-      "Mark Ricky"
+      "Ted Runnels"
     ],
     "automated": false,
-    "starts": "09:00",
-    "ends": "12:00",
-    "genre": "Rock and Roll"
+    "starts": "12:00",
+    "ends": "15:00",
+    "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "For Those About to Rock (We Salute You)",
+    "artist": "AC feat. DC",
+    "album": "The Collection",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-05-01T16:59:37Z",
+    "duration_seconds": 343
+  },
   "next_poll_seconds": 10
 }
