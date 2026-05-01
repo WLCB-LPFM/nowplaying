@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T10:23:13-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T10:27:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Been There Done That",
-    "artist": "Linsey Alexander",
-    "album": "Been There Done That",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Linsey_Alexander_-_Been_There_Done_That.jpg",
-    "started_at": "2026-05-01T15:22:52Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
