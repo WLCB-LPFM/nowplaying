@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T19:44:17-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T19:44:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Heavy Is The Head",
+    "artist": "Zac Brown Band",
+    "album": "Heavy Is The Head",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zac_Brown_Band_-_Heavy_Is_The_Head.jpg",
+    "started_at": "2026-05-01T00:44:30Z",
+    "duration_seconds": 240
+  },
   "next_poll_seconds": 10
 }
