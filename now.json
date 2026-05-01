@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T14:24:47-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T14:28:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Victims of the Fury",
-    "artist": "Robin Trower",
-    "album": "Victims of the Fury",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robin_Trower_-_Victims_Of_The_Fury.jpg",
-    "started_at": "2026-05-01T19:24:30Z",
-    "duration_seconds": 222
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
