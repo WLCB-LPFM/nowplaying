@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T21:37:01-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T21:39:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Smoke a Little Smoke",
-    "artist": "Eric Church",
-    "album": "Carolina",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Church_-_Smoke_A_Little_Smoke.jpg",
-    "started_at": "2026-05-01T02:36:40Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
