@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T20:07:52-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T20:13:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Sunshower",
-    "artist": "Chris Cornell",
-    "album": "Great Expectations",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Cornell_-_Sunshower.jpg",
-    "started_at": "2026-05-01T01:07:33Z",
-    "duration_seconds": 354
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
