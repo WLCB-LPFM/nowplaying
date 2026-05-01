@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T11:53:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T11:58:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Prince Charming",
-    "artist": "Brother Cane",
-    "album": "Magnolia Medicine",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Brother_Cane.jpg",
-    "started_at": "2026-05-01T16:53:20Z",
-    "duration_seconds": 323
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
