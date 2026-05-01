@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T19:23:15-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T19:27:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Angry Chair",
-    "artist": "Alice In Chains",
-    "album": "Music Bank",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_In_Chains_-_Angry_Chair.jpg",
-    "started_at": "2026-05-01T00:22:49Z",
-    "duration_seconds": 287
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
