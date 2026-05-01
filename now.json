@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T20:13:12-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T20:13:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Billie Jean",
+    "artist": "Chris Cornell",
+    "album": "Carry On",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Cornell_-_Billie_Jean.jpg",
+    "started_at": "2026-05-01T01:13:25Z",
+    "duration_seconds": 281
+  },
   "next_poll_seconds": 10
 }
