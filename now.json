@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T10:07:18-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T10:11:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Gimme Shelter",
+    "artist": "Ghost Hounds",
+    "album": "Justified",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Ghost_Hounds_-_Gimme_Shelter.jpg",
+    "started_at": "2026-05-01T15:11:35Z",
+    "duration_seconds": 271
+  },
   "next_poll_seconds": 10
 }
