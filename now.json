@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T19:48:24-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T19:48:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Say Hello 2 Heaven",
+    "artist": "Temple of the Dog",
+    "album": "Temple Of The Dog",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Temple_Of_The_Dog_-_Say_Hello_2_Heaven.jpg",
+    "started_at": "2026-05-01T00:48:37Z",
+    "duration_seconds": 384
+  },
   "next_poll_seconds": 10
 }
