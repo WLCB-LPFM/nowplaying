@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T13:32:32-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T13:54:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "It Hurts Me Too (Live)",
+    "artist": "Sonny Landreth",
+    "album": "Live At The 2023 New Orleans Jazz & Heritage Festival",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/682e98ae1abef068b5689454ff568449.png",
+    "started_at": "2026-05-01T18:53:43Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
