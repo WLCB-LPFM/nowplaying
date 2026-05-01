@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T12:14:15-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T12:17:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Texas Cadillac",
-    "artist": "The Smokin' Joe Kubek Band",
-    "album": "Texas Cadillac",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Smokin'_Joe_Kubek_Band_-_Texas_Cadillac.jpg",
-    "started_at": "2026-05-01T17:13:56Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
