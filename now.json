@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T12:41:04-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T12:44:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Under The Knife",
-    "artist": "Tedeschi Trucks Band",
-    "album": "Future Soul",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tedeschi_Trucks_Band_-_Under_The_Knife.jpg",
-    "started_at": "2026-05-01T17:40:49Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
