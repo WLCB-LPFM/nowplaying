@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T21:20:00-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T21:23:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Set Adrift On Memory Bliss",
-    "artist": "PM Dawn",
-    "album": "La Mejor Recopilacion De La Musica Dance",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pm_Dawn_-_Set_Adrift_On_Memory_Bliss.jpg",
-    "started_at": "2026-05-01T02:19:45Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
