@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T14:53:01-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T14:53:24-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Paradise",
+    "artist": "Alex Lopez",
+    "album": "Paradise",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alex_Lopez_-_Paradise.jpg",
+    "started_at": "2026-05-01T19:53:08Z",
+    "duration_seconds": 196
+  },
   "next_poll_seconds": 10
 }
