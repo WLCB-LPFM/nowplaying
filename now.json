@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T16:41:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T16:45:36-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Midnight Highway",
+    "artist": "Quinn Sullivan",
+    "album": "Midnight Highway",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/q/Quinn_Sullivan_-_Midnight_Highway.jpg",
+    "started_at": "2026-05-01T21:45:16Z",
+    "duration_seconds": 355
+  },
   "next_poll_seconds": 10
 }
