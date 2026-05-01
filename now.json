@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T14:28:18-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T14:30:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Smile",
-    "artist": "Robin Trower",
-    "album": "In City Dreams",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robin_Trower_-_Smile.jpg",
-    "started_at": "2026-05-01T19:27:59Z",
-    "duration_seconds": 290
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
