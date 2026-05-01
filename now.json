@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T18:53:27-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T18:56:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "One More Night",
-    "artist": "Michael Kiwanuka",
-    "album": "One More Night",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Kiwanuka_-_One_More_Night.jpg",
-    "started_at": "2026-05-01T23:53:09Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
