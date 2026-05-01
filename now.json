@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T18:56:47-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T18:57:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Running Out",
+    "artist": "Mable John",
+    "album": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mable_John_-_Running_Out.jpg",
+    "started_at": "2026-05-01T23:56:51Z",
+    "duration_seconds": 130
+  },
   "next_poll_seconds": 10
 }
