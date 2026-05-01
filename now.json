@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T15:53:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T15:54:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Diamond In My Pocket",
+    "artist": "Cody Johnson",
+    "album": "A Different Day",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cody_Johnson_-_Diamond_In_My_Pocket.jpg",
+    "started_at": "2026-05-01T20:53:50Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
