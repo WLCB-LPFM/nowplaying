@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T20:24:01-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T20:31:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Pictures of You",
-    "artist": "The Cure",
-    "album": "Pictures of You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cure_-_Pictures_Of_You.jpg",
-    "started_at": "2026-05-01T01:23:49Z",
-    "duration_seconds": 444
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
