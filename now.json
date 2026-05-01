@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T11:05:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T11:25:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "My Way Down",
+    "artist": "Chris Duarte Group",
+    "album": "Texas Sugar Strat Magik",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Duarte_Group_-_My_Way_Down.jpg",
+    "started_at": "2026-05-01T16:24:56Z",
+    "duration_seconds": 276
+  },
   "next_poll_seconds": 10
 }
