@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T20:55:00-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T20:58:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "New Sensation (2017 Remaster)",
-    "artist": "INXS",
-    "album": "New Sensation (2017 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/i/Inxs.jpg",
-    "started_at": "2026-05-01T01:54:36Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
