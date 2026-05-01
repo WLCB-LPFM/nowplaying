@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T15:51:06-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T15:51:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Tall, Tall Trees",
+    "artist": "Alan Jackson",
+    "album": "The Very Best Of",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alan_Jackson_-_Tall,_Tall_Trees.jpg",
+    "started_at": "2026-05-01T20:51:14Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
