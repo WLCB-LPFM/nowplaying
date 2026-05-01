@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T11:49:15-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T11:53:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Lawyers in Love",
-    "artist": "Jackson Browne",
-    "album": "Lawyers in Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jackson_Browne_-_Lawyers_In_Love.jpg",
-    "started_at": "2026-05-01T16:49:00Z",
-    "duration_seconds": 260
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
