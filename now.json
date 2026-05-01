@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T15:27:30-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T15:29:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Rock Around the Clock",
-    "artist": "Bill Haley & His Comets",
-    "album": "A Quick Rock 'n' Roll Tutorial",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Haley_&_His_Comets_-_Rock_Around_The_Clock.jpg",
-    "started_at": "2026-05-01T20:27:10Z",
-    "duration_seconds": 132
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
