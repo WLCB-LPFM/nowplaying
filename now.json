@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T18:02:59-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T18:05:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "I'll Take You There",
-    "artist": "The Staple Singers",
-    "album": "Sweet Soul Music - The Best Of Stax",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Staple_Singers_-_I'll_Take_You_There.jpg",
-    "started_at": "2026-05-01T23:02:48Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
