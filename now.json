@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T19:55:17-05:00",
-  "source": "autopost",
+  "generated": "2026-04-30T19:58:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "You Know My Name",
-    "artist": "Chris Cornell",
-    "album": "Carry On",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Cornell_-_You_Know_My_Name.jpg",
-    "started_at": "2026-05-01T00:54:55Z",
-    "duration_seconds": 242
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
