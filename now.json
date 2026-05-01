@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T18:06:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T18:09:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Your Sweet Lovin'",
-    "artist": "Margie Joseph",
-    "album": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971 [Disc 5]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Margie_Joseph_-_Your_Sweet_Lovin'.jpg",
-    "started_at": "2026-05-01T23:06:04Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
