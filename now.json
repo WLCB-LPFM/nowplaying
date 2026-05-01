@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-30T20:58:11-05:00",
-  "source": "fallback",
+  "generated": "2026-04-30T20:58:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Body Rock",
+    "artist": "Moby",
+    "album": "Middle Men (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Moby.jpg",
+    "started_at": "2026-05-01T01:58:18Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
