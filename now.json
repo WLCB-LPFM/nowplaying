@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-01T23:05:15-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T23:06:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Confessions Of A Crime",
+    "artist": "Benni chawes",
+    "album": "Up Close",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benni_Chawes_-_Confessions_Of_A_Crime.jpg",
+    "started_at": "2026-05-02T04:06:01Z",
+    "duration_seconds": 306
+  },
   "next_poll_seconds": 10
 }
