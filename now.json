@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-02T07:13:18-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-02T07:16:39-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Venus",
-    "artist": "Bananarama",
-    "album": "Take On Me - 80's The Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bananarama_-_Venus.jpg",
-    "started_at": "2026-05-02T12:13:03.9888797Z",
-    "duration_seconds": 221,
-    "year": "1986"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
