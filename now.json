@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T11:29:57-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T11:34:00-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Poor Georgie",
-    "artist": "MC Lyte",
-    "album": "Poor Georgie",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mc_Lyte_-_Poor_Georgie.jpg",
-    "started_at": "2026-05-02T16:29:41Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
