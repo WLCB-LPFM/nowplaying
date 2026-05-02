@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:08:25-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T19:10:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Lovely Rita (Remastered 2009)",
-    "artist": "The Beatles",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Beatles.jpg",
-    "started_at": "2026-05-02T00:08:07Z",
-    "duration_seconds": 162
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
