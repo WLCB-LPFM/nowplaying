@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:25:22-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T19:28:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Alabama Song (Whisky Bar)",
-    "artist": "The Doors",
-    "album": "Alabama Song (Whisky Bar)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doors_-_Alabama_Song_(Whisky_Bar).jpg",
-    "started_at": "2026-05-02T00:25:02Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
