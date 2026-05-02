@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T11:34:00-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T11:37:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Humpin' Around",
+    "artist": "Bobby Brown",
+    "album": "Bobby",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Brown_-_Humpin'_Around.jpg",
+    "started_at": "2026-05-02T16:37:17Z",
+    "duration_seconds": 378
+  },
   "next_poll_seconds": 10
 }
