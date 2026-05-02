@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T22:18:44-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T22:19:18-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Big Mean Dog",
+    "artist": "Nick Schnebelen",
+    "album": "What Key Is Trouble In?",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nick_Schnebelen_-_Big_Mean_Dog.jpg",
+    "started_at": "2026-05-02T03:18:58Z",
+    "duration_seconds": 271
+  },
   "next_poll_seconds": 10
 }
