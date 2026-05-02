@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T20:08:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T20:11:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Let Me Roll It",
-    "artist": "Lake Street Dive",
-    "album": "Fun Machine EP",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lake_Street_Dive_-_Let_Me_Roll_It.jpg",
-    "started_at": "2026-05-02T01:08:11Z",
-    "duration_seconds": 222
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
