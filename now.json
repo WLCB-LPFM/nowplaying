@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T18:28:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T18:31:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "One More Chance",
-    "artist": "Michael Jackson",
-    "album": "One More Chance",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_One_More_Chance.jpg",
-    "started_at": "2026-05-02T23:27:52Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
