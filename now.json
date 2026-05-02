@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T20:25:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T20:26:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Come with Me Now",
+    "artist": "Kongos",
+    "album": "Lunatic",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kongos_-_Come_With_Me_Now.jpg",
+    "started_at": "2026-05-02T01:25:57Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
