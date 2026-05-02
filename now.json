@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T18:46:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T18:50:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "D\u00e2n V\u0169 L\u1edbp 10A5",
-    "artist": "V.A",
-    "album": "D\u00e2n V\u0169 L\u1edbp 10A5",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/V.a.jpg",
-    "started_at": "2026-05-02T23:46:18Z",
-    "duration_seconds": 281
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
