@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-01T23:47:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T23:48:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Lester Leaps In (Album Version)",
+    "artist": "Count Basie's Kansas City Seven",
+    "album": "Gridley: Jazz Styles, 11/e - Download",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Count_Basie's_Kansas_City_Seven.jpg",
+    "started_at": "2026-05-02T04:47:55Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
