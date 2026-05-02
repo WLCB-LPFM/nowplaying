@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T11:44:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T11:48:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Heartbreak Hotel (Original Radio Mix)",
-    "artist": "Whitney Houston",
-    "album": "Japanese Singles Collection: Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/artists/w/Whitney_Houston.jpg",
-    "started_at": "2026-05-02T16:44:13Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
