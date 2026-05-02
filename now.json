@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:12:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T19:13:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Let's Go Get Stoned",
+    "artist": "Amboy Dukes Featuring Ted Nugent",
+    "album": "Amboy Dukes",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/748014fb4ecc885309064f666646c322.png",
+    "started_at": "2026-05-02T00:12:53Z",
+    "duration_seconds": 269
+  },
   "next_poll_seconds": 10
 }
