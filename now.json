@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:04:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T19:05:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Tinker Tailor",
+    "artist": "The Yardbirds",
+    "album": "Little Games",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Yardbirds.jpg",
+    "started_at": "2026-05-02T00:05:05Z",
+    "duration_seconds": 169
+  },
   "next_poll_seconds": 10
 }
