@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T22:14:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T22:18:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Drunken Hearted Boy",
-    "artist": "Monkey Beat",
-    "album": "Tijuana Bible",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Monkey_Beat.jpg",
-    "started_at": "2026-05-02T03:14:12Z",
-    "duration_seconds": 282
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
