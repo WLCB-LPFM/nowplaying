@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T22:51:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T22:54:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Lives That Don't Exist",
-    "artist": "Ana Popovic",
-    "album": "Blind for Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ana_Popovic_-_Lives_That_Don't_Exist.jpg",
-    "started_at": "2026-05-02T03:51:04Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
