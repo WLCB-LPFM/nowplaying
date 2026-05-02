@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:39:54-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T19:42:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Even A Dog Can Shake Hands",
-    "artist": "Warren Zevon",
-    "album": "Slow Classic Rock Running",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Warren_Zevon_-_Even_A_Dog_Can_Shake_Hands.jpg",
-    "started_at": "2026-05-02T00:39:33Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
