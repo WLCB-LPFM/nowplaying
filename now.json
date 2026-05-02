@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T17:06:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T17:06:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "This Is It (Orchestra Version)",
+    "artist": "Michael Jackson",
+    "album": "The Ultimate Fan Extras Collection",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Jackson.jpg",
+    "started_at": "2026-05-02T22:06:30Z",
+    "duration_seconds": 294
+  },
   "next_poll_seconds": 10
 }
