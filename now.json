@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:31:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-01T19:32:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Go",
+    "artist": "Hothouse Flowers",
+    "album": "Don't Go",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hothouse_Flowers_-_Don't_Go.jpg",
+    "started_at": "2026-05-02T00:31:45Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
