@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:35:59-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T19:38:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "April Skies",
-    "artist": "The Jesus And Mary Chain",
-    "album": "April Skies",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jesus_And_Mary_Chain_-_April_Skies.jpg",
-    "started_at": "2026-05-02T00:35:39Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
