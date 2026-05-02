@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-02T01:36:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-02T01:38:51-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bag's Groove",
-    "artist": "Thelonious Monk",
-    "album": "Jazz Styles: 8th Edition",
-    "artwork_url": "",
-    "started_at": "2026-05-02T06:36:10.5383983Z",
-    "duration_seconds": 168,
-    "year": "2003"
+    "title": "Bags' Groove (Take 1)",
+    "artist": "Miles Davis",
+    "album": "Work All Day",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Bags'_Groove_(Take_1).jpg",
+    "started_at": "2026-05-02T06:36:20Z",
+    "duration_seconds": 673
   },
   "next_poll_seconds": 10
 }
