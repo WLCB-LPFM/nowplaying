@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-02T00:26:45-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T00:29:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Easy Living",
-    "artist": "Billie Holiday",
-    "album": "Best of Billie Holiday, Vol.2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billie_Holiday_-_Easy_Living.jpg",
-    "started_at": "2026-05-02T05:26:31Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
