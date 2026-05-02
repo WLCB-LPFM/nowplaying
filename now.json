@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-02T00:15:18-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T00:21:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cobra",
+    "artist": "Acoustic Affaire",
+    "album": "The Jazz Code",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Acoustic_Affaire_-_Cobra.jpg",
+    "started_at": "2026-05-02T05:21:05Z",
+    "duration_seconds": 362
+  },
   "next_poll_seconds": 10
 }
