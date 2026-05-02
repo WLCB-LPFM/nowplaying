@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:57:47-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T20:01:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Golden Years",
-    "artist": "David Bowie",
-    "album": "Station to Station (Special Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Bowie_-_Golden_Years.jpg",
-    "started_at": "2026-05-02T00:57:33Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
