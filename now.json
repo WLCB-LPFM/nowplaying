@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T20:34:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T20:37:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Used Ta Be My Girl",
-    "artist": "The O'Jays",
-    "album": "Baltic Soul Weekender, Vol. 5",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_O'jays.jpg",
-    "started_at": "2026-05-02T01:33:33Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
