@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T19:22:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-01T19:24:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Outside Woman Blues",
-    "artist": "Cream",
-    "album": "Disraeli Gears",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cream_-_Outside_Woman_Blues.jpg",
-    "started_at": "2026-05-02T00:21:47Z",
-    "duration_seconds": 148
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
