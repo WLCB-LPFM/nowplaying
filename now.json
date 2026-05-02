@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T09:30:33-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T09:36:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Rock And Roll Stew Parts 1 & 2",
-    "artist": "Traffic",
-    "album": "The Low Spark Of High Heeled Boys",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Traffic_-_Rock_And_Roll_Stew_Parts_1_&_2.jpg",
-    "started_at": "2026-05-02T14:30:23Z",
-    "duration_seconds": 370
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
