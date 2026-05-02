@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T08:00:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T08:00:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Panther",
-    "artist": "Maphex Deck",
-    "album": "Panther",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Maphex_Deck.jpg",
-    "started_at": "2026-05-02T12:56:43Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
