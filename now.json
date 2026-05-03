@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T21:55:23-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T21:55:57-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Can't Wait Another Minute",
+    "artist": "Hi-Five",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hi-five_-_I_Can't_Wait_Another_Minute.jpg",
+    "started_at": "2026-05-03T02:55:38Z",
+    "duration_seconds": 302
+  },
   "next_poll_seconds": 10
 }
