@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T15:40:03-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T15:42:49-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "16:00",
     "genre": null
   },
-  "track": {
-    "title": "Somebody's Gotta Go",
-    "artist": "Cootie Williams",
-    "album": "H&L: Best 1940's Songs, Vol. 1",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cootie_Williams.jpg",
-    "started_at": "2026-05-03T20:39:42Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
