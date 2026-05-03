@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T19:38:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T19:39:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "This Place Hotel (a.k.a. Heartbreak Hotel)",
+    "artist": "The Jacksons",
+    "album": "The Very Best Of The Jacksons and Jackson 5",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jacksons_-_This_Place_Hotel_(A.k.a._Heartbreak_Hotel).jpg",
+    "started_at": "2026-05-03T00:38:46Z",
+    "duration_seconds": 342
+  },
   "next_poll_seconds": 10
 }
