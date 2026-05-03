@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-03T07:08:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-03T07:11:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hodge Podge (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-03T12:08:42.8215701Z",
-    "duration_seconds": 170,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
