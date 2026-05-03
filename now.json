@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T21:17:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T21:21:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Good Foot",
-    "artist": "Pokey Bear",
-    "album": "My Side Piece (Original Motion Picture Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Pokey_Bear.jpg",
-    "started_at": "2026-05-03T02:17:28Z",
-    "duration_seconds": 259
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
