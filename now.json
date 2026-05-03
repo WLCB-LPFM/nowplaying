@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T18:44:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T18:47:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Collector",
-    "artist": "Nine Inch Nails",
-    "album": "With Teeth",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nine_Inch_Nails_-_The_Collector.jpg",
-    "started_at": "2026-05-03T23:44:03Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
