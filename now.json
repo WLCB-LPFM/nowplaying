@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T20:25:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T20:28:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "We Dem Boyz",
-    "artist": "Wiz Khalifa",
-    "album": "We Dem Boyz",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wiz_Khalifa_-_We_Dem_Boyz.jpg",
-    "started_at": "2026-05-03T01:24:47Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
