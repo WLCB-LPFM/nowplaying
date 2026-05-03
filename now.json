@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-03T07:03:16-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-03T07:05:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Smoking Habit (1940)",
-    "artist": "Arthurs Camp Boys",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-03T12:03:11.401988Z",
-    "duration_seconds": 153,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
