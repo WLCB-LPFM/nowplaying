@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-03T08:21:52-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T08:22:05-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Bluebird of Happiness",
+    "artist": "John Charles Thomas",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-03T13:22:01.2570632Z",
+    "duration_seconds": 202,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
