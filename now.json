@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-02T23:42:28-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T23:47:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Twilight",
+    "artist": "Trumpet Jazz Channel",
+    "album": "Trumpet Jazz Night, Relaxing Jazz",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Trumpet_Jazz_Channel.jpg",
+    "started_at": "2026-05-03T04:47:34Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
