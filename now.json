@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-03T02:13:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-03T02:15:44-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The New East St. Louis Toodle-O",
-    "artist": "Duke Ellington and His Famous Orchestra",
-    "album": "I\u2019ve Got to Be a Rug Cutter / The New East St. Louis Toodle-O",
-    "artwork_url": "",
-    "started_at": "2026-05-03T07:12:58.3277749Z",
-    "duration_seconds": 171,
-    "year": "1937"
+    "title": "Blue Horizon",
+    "artist": "Sidney Bechet's Blue Note Jazzmen",
+    "album": "Maple Leaf Rag: Modern Jazz Roots",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidney_Bechet's_Blue_Note_Jazzmen_-_Blue_Horizon.jpg",
+    "started_at": "2026-05-03T07:11:35Z",
+    "duration_seconds": 268
   },
   "next_poll_seconds": 10
 }
