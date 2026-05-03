@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T18:00:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T18:02:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Boogie Woogie",
+    "artist": "Professor Longhair",
+    "album": "Boogie Woogie",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Professor_Longhair_-_Boogie_Woogie.jpg",
+    "started_at": "2026-05-03T23:02:25Z",
+    "duration_seconds": 151
+  },
   "next_poll_seconds": 10
 }
