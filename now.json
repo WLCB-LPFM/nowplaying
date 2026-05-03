@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T21:52:13-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T21:55:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Keepin' My Composure",
-    "artist": "H-Town",
-    "album": "Fever for da Flavor",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/H-town_-_Keepin'_My_Composure.jpg",
-    "started_at": "2026-05-03T02:51:57Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
