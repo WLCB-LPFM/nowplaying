@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T18:40:50-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T18:41:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Red Light Indicates Doors Are Secured",
+    "artist": "Arctic Monkeys",
+    "album": "Whatever People Say I Am, That's What I'm Not",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Arctic_Monkeys_-_Red_Light_Indicates_Doors_Are_Secured.jpg",
+    "started_at": "2026-05-03T23:41:40Z",
+    "duration_seconds": 143
+  },
   "next_poll_seconds": 10
 }
