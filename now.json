@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-03T07:05:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T07:05:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "She'll Always Remember",
+    "artist": "Dolly Darn and her Dawn Patrol Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-03T12:05:45.5007971Z",
+    "duration_seconds": 177,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
