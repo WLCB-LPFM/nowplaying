@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-03T02:18:43-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-03T02:21:20-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Hotter Than That",
-    "artist": "Louis Armstrong And His Hot Five",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-05-03T07:18:32.9713685Z",
-    "duration_seconds": 171,
-    "year": "1997"
+    "artist": "Louis Armstrong",
+    "album": "Hot Five And Hot Seven  1925-1928",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Hotter_Than_That.jpg",
+    "started_at": "2026-05-03T07:20:54Z",
+    "duration_seconds": 178
   },
   "next_poll_seconds": 10
 }
