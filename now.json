@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T20:04:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T20:07:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Sucker M.C.'s (Krush-Groove 1)",
-    "artist": "RUN-DMC",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Run-dmc_-_Sucker_M.c.'s_(Krush-groove_1).jpg",
-    "started_at": "2026-05-03T01:03:58Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
