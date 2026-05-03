@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-03T06:12:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T06:13:07-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "There Will Never Be Another You",
+    "artist": "Mal Hallett and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-03T11:12:58.0100545Z",
+    "duration_seconds": 198,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
