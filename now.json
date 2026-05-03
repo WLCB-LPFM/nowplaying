@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T18:55:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T18:57:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Rolodex Propaganda",
+    "artist": "At The Drive-In",
+    "album": "Relationship Of Command",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/At_The_Drive-in_-_Rolodex_Propaganda.jpg",
+    "started_at": "2026-05-03T23:56:53Z",
+    "duration_seconds": 175
+  },
   "next_poll_seconds": 10
 }
