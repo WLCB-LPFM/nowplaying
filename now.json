@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T21:25:47-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T21:30:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Tadow",
-    "artist": "Masego",
-    "album": "Lady Lady",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Masego_-_Tadow.jpg",
-    "started_at": "2026-05-03T02:25:29Z",
-    "duration_seconds": 486
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
