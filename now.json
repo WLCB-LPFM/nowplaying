@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T20:13:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-02T20:18:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I'm Bout It, Bout It",
-    "artist": "Tru",
-    "album": "True",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tru_-_I'm_Bout_It,_Bout_It.jpg",
-    "started_at": "2026-05-03T01:13:04Z",
-    "duration_seconds": 332
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
