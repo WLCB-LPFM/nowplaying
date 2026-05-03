@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T21:21:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T21:21:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Boom, Boom, Boom",
+    "artist": "Willie Clayton",
+    "album": "Gifted",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Willie_Clayton_-_Boom,_Boom,_Boom.jpg",
+    "started_at": "2026-05-03T02:21:35Z",
+    "duration_seconds": 241
+  },
   "next_poll_seconds": 10
 }
