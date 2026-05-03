@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T18:04:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T18:08:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Early in the Morning",
-    "artist": "Junior Wells' Chicago Blues Band",
-    "album": "Hoodoo Man Blues",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Junior_Wells'_Chicago_Blues_Band_-_Early_In_The_Morning.jpg",
-    "started_at": "2026-05-03T23:04:09Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
