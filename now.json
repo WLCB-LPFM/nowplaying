@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T18:09:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T18:11:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Too Late",
-    "artist": "Back Door Slam",
-    "album": "Roll Away",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Back_Door_Slam_-_Too_Late.jpg",
-    "started_at": "2026-05-03T23:09:08Z",
-    "duration_seconds": 177
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
