@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-03T07:55:50-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T07:56:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Stars and Stripes Forever (1940)",
+    "artist": "Frankie Trumbauer and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-03T12:55:56.9847779Z",
+    "duration_seconds": 139,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
