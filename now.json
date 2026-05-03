@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T09:37:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T09:40:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Why Don't You Do Right?",
-    "artist": "Lil Green",
-    "album": "What's The Matter With Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lil_Green_-_Why_Don't_You_Do_Right?.jpg",
-    "started_at": "2026-05-03T14:37:31Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
