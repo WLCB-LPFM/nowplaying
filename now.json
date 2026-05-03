@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-03T06:09:31-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T06:09:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Miss Annabel Lee",
-    "artist": "Svend Asmussen",
-    "album": "Jazz p\u00e5 Violin - Nordic Swing Lines",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Svend_Asmussen.jpg",
-    "started_at": "2026-05-03T11:06:40Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
