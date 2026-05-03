@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T18:21:52-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T18:22:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "It's Too Late",
+    "artist": "Bob Mould",
+    "album": "Poison Years",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Mould_-_It's_Too_Late.jpg",
+    "started_at": "2026-05-03T23:22:09Z",
+    "duration_seconds": 242
+  },
   "next_poll_seconds": 10
 }
