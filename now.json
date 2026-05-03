@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T20:37:07-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T21:02:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bad Man",
+    "artist": "Elephant Man",
+    "album": "Bad Man",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elephant_Man_-_Bad_Man.jpg",
+    "started_at": "2026-05-03T02:02:44Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
