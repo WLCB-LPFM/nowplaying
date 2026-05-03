@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T21:37:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-02T21:37:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Cheers 2 U",
+    "artist": "Playa",
+    "album": "Def Jam 25, Vol. 11 - Cheers To You",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Playa_-_Cheers_2_U.jpg",
+    "started_at": "2026-05-03T02:37:38Z",
+    "duration_seconds": 311
+  },
   "next_poll_seconds": 10
 }
