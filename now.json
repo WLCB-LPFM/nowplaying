@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-03T07:41:57-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T07:42:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "In the Mood (1939)",
+    "artist": "Glenn Miller and his Orchestra",
+    "album": "78'ere",
+    "artwork_url": "",
+    "started_at": "2026-05-03T12:42:04.4868262Z",
+    "duration_seconds": 197,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
