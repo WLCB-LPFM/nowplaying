@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T20:50:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T20:54:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The 'In' Crowd",
-    "artist": "Bryan Ferry",
-    "album": "Platinum Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bryan_Ferry_-_The_'in'_Crowd.jpg",
-    "started_at": "2026-05-04T01:49:46Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
