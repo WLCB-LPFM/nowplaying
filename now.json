@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T20:17:13-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T20:17:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Til I Hear It From You",
+    "artist": "Gin Blossoms",
+    "album": "Empire Records",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gin_Blossoms_-_Til_I_Hear_It_From_You.jpg",
+    "started_at": "2026-05-04T01:17:20Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
