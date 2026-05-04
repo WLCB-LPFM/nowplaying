@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T19:35:50-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T19:39:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Nobody Told Me",
-    "artist": "Crowsilver",
-    "album": "Nobody Told Me",
-    "artwork_url": "null",
-    "started_at": "2026-05-04T00:35:29Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
