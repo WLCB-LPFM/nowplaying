@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T20:09:25-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T20:10:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Carry the Torch",
+    "artist": "Fire Town",
+    "album": "In The Heart Of The Heart Country",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fire_Town_-_Carry_The_Torch.jpg",
+    "started_at": "2026-05-04T01:09:58Z",
+    "duration_seconds": 237
+  },
   "next_poll_seconds": 10
 }
