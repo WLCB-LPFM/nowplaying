@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-04T00:17:00-05:00",
-  "source": "fallback",
+  "generated": "2026-05-04T00:17:12-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Found a New Baby (Alternate Take)",
+    "artist": "Benny Goodman Sextet",
+    "album": "Guitar & Bass",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Benny_Goodman_Sextet.jpg",
+    "started_at": "2026-05-04T05:16:52Z",
+    "duration_seconds": 175
+  },
   "next_poll_seconds": 10
 }
