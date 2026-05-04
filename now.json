@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T19:27:27-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T19:30:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I want it",
-    "artist": "Debauchery Boys",
-    "album": "I want it",
-    "artwork_url": "null",
-    "started_at": "2026-05-04T00:27:02Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
