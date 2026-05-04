@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-04T18:11:36-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-04T18:14:58-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Get Ready for This",
+    "title": "Get Ready",
     "artist": "2 Unlimited",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-04T23:11:31.7362901Z",
-    "duration_seconds": 216,
-    "year": "2021"
+    "album": "Get Ready For This",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/2/2_Unlimited_-_Get_Ready.jpg",
+    "started_at": "2026-05-04T23:13:10Z",
+    "duration_seconds": 223
   },
   "next_poll_seconds": 10
 }
