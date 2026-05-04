@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T20:00:41-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T20:04:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Look Through Any Window (Alternate Version) [2003 Remaster]",
+    "artist": "The Hollies",
+    "album": "The Hollies (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Hollies.jpg",
+    "started_at": "2026-05-04T01:04:06Z",
+    "duration_seconds": 136
+  },
   "next_poll_seconds": 10
 }
