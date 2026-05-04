@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T19:53:49-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T19:57:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Splat",
+    "artist": "Scanner",
+    "album": "Splat",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Scanner.jpg",
+    "started_at": "2026-05-04T00:57:23Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
