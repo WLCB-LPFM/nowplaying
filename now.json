@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T20:22:36-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T20:27:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "A Spy in the House of Love",
-    "artist": "The dB's",
-    "album": "Like This",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Db's_-_A_Spy_In_The_House_Of_Love.jpg",
-    "started_at": "2026-05-04T01:22:19Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
