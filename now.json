@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-04T03:17:12-05:00",
-  "source": "fallback",
+  "generated": "2026-05-04T03:17:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Man I Love",
+    "artist": "Coleman Hawkins Quartet",
+    "album": "The Smithsonian Collection of Classic Jazz",
+    "artwork_url": "",
+    "started_at": "2026-05-04T08:17:30.8018405Z",
+    "duration_seconds": 299,
+    "year": "1973"
+  },
   "next_poll_seconds": 10
 }
