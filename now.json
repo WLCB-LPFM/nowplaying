@@ -1,18 +1,17 @@
 {
-  "generated": "2026-05-04T14:51:55-05:00",
-  "source": "fallback",
-  "mode": "rebroadcast",
+  "generated": "2026-05-04T15:00:01-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Motorsports Report",
-    "hosts": [
-      "Matthew Lodarek"
-    ],
-    "automated": false,
-    "starts": "14:00",
-    "ends": "15:00",
-    "genre": null
+  "show": null,
+  "track": {
+    "title": "2 Legit 2 Quit",
+    "artist": "MC Hammer",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-04T19:55:30.4702841Z",
+    "duration_seconds": 323,
+    "year": "2014"
   },
-  "track": null,
   "next_poll_seconds": 10
 }
