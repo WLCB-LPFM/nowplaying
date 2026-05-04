@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T19:07:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T19:15:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Bark at the Moon",
+    "artist": "The Steve Klatt Project",
+    "album": "Bark at the Moon",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Steve_Klatt_Project.jpg",
+    "started_at": "2026-05-04T00:14:53Z",
+    "duration_seconds": 259
+  },
   "next_poll_seconds": 10
 }
