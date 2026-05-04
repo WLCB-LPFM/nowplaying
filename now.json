@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-03T21:00:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-03T21:01:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Spanish Moon",
-    "artist": "Little Feat",
-    "album": "Feats Don't Fail Me Now",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Feat_-_Spanish_Moon.jpg",
-    "started_at": "2026-05-04T01:58:26Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
