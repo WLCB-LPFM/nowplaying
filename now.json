@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-04T17:27:47-05:00",
-  "source": "autopost",
+  "generated": "2026-05-04T17:28:44-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Power",
-    "artist": "Snap",
-    "album": "Coyote Ugly",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snap_-_The_Power.jpg",
-    "started_at": "2026-05-04T22:25:19Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
