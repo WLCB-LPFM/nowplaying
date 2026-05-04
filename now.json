@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T19:39:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T19:43:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Weak Bridge",
+    "artist": "The Robert Shep Debacle",
+    "album": "Bowerbird EP",
+    "artwork_url": "null",
+    "started_at": "2026-05-04T00:42:51Z",
+    "duration_seconds": 154
+  },
   "next_poll_seconds": 10
 }
