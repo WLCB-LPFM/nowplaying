@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T20:06:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-03T20:06:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "So. Central Rain",
+    "artist": "R.E.M.",
+    "album": "Reckoning - The I.R.S. Years Vintage 1984",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R.e.m._-_So._Central_Rain.jpg",
+    "started_at": "2026-05-04T01:06:16Z",
+    "duration_seconds": 194
+  },
   "next_poll_seconds": 10
 }
