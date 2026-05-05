@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-05T00:00:03-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T00:01:00-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Midnight Rendezvous",
-    "artist": "BT Band",
-    "album": "Backing Tracks / Pop Artists Index, B, (B 52's / B Holiday / B J Thomas / B J Thomas & Dusty Springfield / B Trusted / B.B. King /",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bt_Band.jpg",
-    "started_at": "2026-05-05T04:58:16Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
