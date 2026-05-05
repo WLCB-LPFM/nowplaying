@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T16:36:18-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T16:40:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Hip Hop Hooray",
-    "artist": "Naughty By Nature",
-    "album": "The Grandmaster Flash Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Naughty_By_Nature_-_Hip_Hop_Hooray.jpg",
-    "started_at": "2026-05-05T21:36:05Z",
-    "duration_seconds": 260
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
