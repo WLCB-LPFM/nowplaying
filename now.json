@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-05T05:59:02-05:00",
-  "source": "fallback",
+  "generated": "2026-05-05T06:00:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-05T11:00:29.6203206Z",
+    "duration_seconds": 239,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
