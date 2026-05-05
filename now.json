@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T16:28:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T16:30:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Livin' on a Prayer",
-    "artist": "Bon Jovi",
-    "album": "NOW That's What I Call 20th Century",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_Livin'_On_A_Prayer.jpg",
-    "started_at": "2026-05-05T21:28:29Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
