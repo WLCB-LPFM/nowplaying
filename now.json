@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-04T20:54:04-05:00",
-  "source": "fallback",
+  "generated": "2026-05-04T20:57:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Dance out on the Corner",
+    "artist": "The Heavyweights Brass Band",
+    "album": "This City",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Heavyweights_Brass_Band.jpg",
+    "started_at": "2026-05-05T01:56:56Z",
+    "duration_seconds": 314
+  },
   "next_poll_seconds": 10
 }
