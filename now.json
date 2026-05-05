@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-04T20:24:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-04T20:30:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Southern Blue",
-    "artist": "Astral Project",
-    "album": "Voodoobop",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/a7f9318b389dfd122c10522356f6de1e.png",
-    "started_at": "2026-05-05T01:24:11Z",
-    "duration_seconds": 377
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
