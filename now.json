@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-04T21:33:24-05:00",
-  "source": "autopost",
+  "generated": "2026-05-04T21:35:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Could Write A Book (Album Version)",
-    "artist": "Harry Connick Jr.",
-    "album": "When Harry Met Sally... Music From The Motion Picture",
-    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_Connick_Jr..jpg",
-    "started_at": "2026-05-05T02:32:55Z",
-    "duration_seconds": 147
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
