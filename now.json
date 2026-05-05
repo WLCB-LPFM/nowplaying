@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-04T19:24:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-04T19:27:52-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Sugar",
-    "artist": "Maroon 5",
-    "album": "Singles",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Maroon_5_-_Sugar.jpg",
-    "started_at": "2026-05-05T00:24:10.5646236Z",
-    "duration_seconds": 230,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
