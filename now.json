@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-04T20:39:52-05:00",
-  "source": "fallback",
+  "generated": "2026-05-04T20:42:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Struttin' With Some Barbeque (Live)",
+    "artist": "Five Play",
+    "album": "Live At the Deer Head Inn",
+    "artwork_url": "https://cdn.autopo.st/images/artists/f/Five_Play.jpg",
+    "started_at": "2026-05-05T01:42:11Z",
+    "duration_seconds": 415
+  },
   "next_poll_seconds": 10
 }
