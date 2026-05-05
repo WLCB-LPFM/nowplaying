@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-04T21:46:27-05:00",
-  "source": "fallback",
+  "generated": "2026-05-04T21:56:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "South Rampart Street Parade",
+    "artist": "N'awlins Gumbo Kings",
+    "album": "We're the Gumbo Kings",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b492253c7b8c91a4bb9595f382671b08.png",
+    "started_at": "2026-05-05T02:55:41Z",
+    "duration_seconds": 191
+  },
   "next_poll_seconds": 10
 }
