@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-05T13:02:22-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-05T13:06:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Here We Go",
-    "artist": "C&C Music Factory",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-05T18:02:12.3430604Z",
-    "duration_seconds": 262,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
