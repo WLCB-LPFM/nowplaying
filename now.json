@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-04T20:16:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-04T20:22:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Snug Harbor",
-    "artist": "Dave Zoller Jazz Sextet",
-    "album": "Snug Harbor",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Zoller_Jazz_Sextet_-_Snug_Harbor.jpg",
-    "started_at": "2026-05-05T01:15:44Z",
-    "duration_seconds": 437
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
