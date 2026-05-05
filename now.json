@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-05T11:23:50-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-05T11:27:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Locked Out of Heaven",
-    "artist": "Bruno Mars",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-05T16:23:46.5934865Z",
-    "duration_seconds": 221,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
