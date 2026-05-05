@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-05T11:08:32-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T11:08:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Distance",
-    "artist": "CAKE",
-    "album": "Fashion Nugget",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cake_-_The_Distance.jpg",
-    "started_at": "2026-05-05T16:05:55Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
