@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-05T12:18:37-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-05T12:22:44-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "The Real Slim Shady",
     "artist": "Eminem",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-05T17:18:34.1245064Z",
-    "duration_seconds": 257,
-    "year": ""
+    "album": "Curtain Call",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eminem_-_The_Real_Slim_Shady.jpg",
+    "started_at": "2026-05-05T17:22:31Z",
+    "duration_seconds": 284
   },
   "next_poll_seconds": 10
 }
