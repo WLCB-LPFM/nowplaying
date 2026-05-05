@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-05T05:36:32-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T05:36:57-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blame It On My Youth",
-    "artist": "Sidsel Storm",
-    "album": "Sidsel Storm",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidsel_Storm_-_Blame_It_On_My_Youth.jpg",
-    "started_at": "2026-05-05T10:32:03Z",
-    "duration_seconds": 304
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
