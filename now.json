@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-04T21:21:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-04T21:27:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Tall and Lanky",
-    "artist": "Jeff Coffin with Caleb Chapman's Crescent Super Band",
-    "album": "The Inside of the Outside",
-    "artwork_url": "null",
-    "started_at": "2026-05-05T02:20:34Z",
-    "duration_seconds": 448
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
