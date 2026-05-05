@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-04T22:01:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-04T22:04:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The Shadow of Your Smile",
-    "artist": "Erroll Garner",
-    "album": "That's My Kick",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_The_Shadow_Of_Your_Smile.jpg",
-    "started_at": "2026-05-05T03:00:40Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
