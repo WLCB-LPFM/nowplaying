@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-06T02:26:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-06T02:26:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Evidence",
-    "artist": "Thelonious Monk Quintet",
-    "album": "The Complete Blue Note Recordings",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_Quintet_-_Evidence.jpg",
-    "started_at": "2026-05-06T07:24:11Z",
-    "duration_seconds": 151
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
