@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T21:28:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T21:30:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Soulful Strut",
-    "artist": "Sonny Sanders",
-    "album": "The Original Masters, Vol. 3 (The Music History Of The Disco)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sonny_Sanders.jpg",
-    "started_at": "2026-05-06T02:27:57Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
