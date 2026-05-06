@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T21:09:27-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T21:14:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "To Lay Me Down (American Beauty Outtake, 1970)",
-    "artist": "Grateful Dead",
-    "album": "So Many Roads (1965 - 1995)",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/691736902c629590dd6cffbedf5e911c.png",
-    "started_at": "2026-05-06T02:09:15Z",
-    "duration_seconds": 339
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
