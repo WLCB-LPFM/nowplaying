@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T21:14:39-05:00",
-  "source": "fallback",
+  "generated": "2026-05-05T21:15:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "From the Beginning (2015 Remaster)",
+    "artist": "Emerson, Lake & Palmer",
+    "album": "From the Beginning (2015 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Emerson,_Lake_&_Palmer.jpg",
+    "started_at": "2026-05-06T02:14:53Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
