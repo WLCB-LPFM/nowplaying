@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-06T15:19:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-06T15:19:55-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Super Freak",
+    "artist": "Rick James",
+    "album": "Street Songs",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_James_-_Super_Freak.jpg",
+    "started_at": "2026-05-06T20:19:37Z",
+    "duration_seconds": 425
+  },
   "next_poll_seconds": 10
 }
