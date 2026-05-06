@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-05T19:56:15-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T19:56:38-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hungry Like the Wolf",
-    "artist": "Duran Duran",
-    "album": "Club Sounds 80s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duran_Duran_-_Hungry_Like_The_Wolf.jpg",
-    "started_at": "2026-05-06T00:53:28Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
