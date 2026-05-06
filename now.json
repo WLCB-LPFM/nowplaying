@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T13:48:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-06T13:53:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "In a Sentimental Mood",
-    "artist": "Matt Niess and The Capitol Bones",
-    "album": "The Beat Goes On (Bonus Tracks)",
-    "artwork_url": "null",
-    "started_at": "2026-05-06T18:47:51Z",
-    "duration_seconds": 320
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
