@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-06T03:01:46-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-06T03:04:33-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Stampede",
-    "artist": "Fletcher Henderson and His Orchestra",
-    "album": "Big Band Compilation, Volume 1",
-    "artwork_url": "",
-    "started_at": "2026-05-06T08:01:37.6771267Z",
-    "duration_seconds": 187,
-    "year": "2006"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Legendary Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-05-06T08:01:31Z",
+    "duration_seconds": 323
   },
   "next_poll_seconds": 10
 }
