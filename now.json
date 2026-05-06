@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T12:20:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-06T12:26:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "The Mooche",
-    "artist": "Duke Ellington and His Orchestra",
-    "album": "RTL & BD Music Present 'Le jazz de Cabu'",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_And_His_Orchestra_-_The_Mooche.jpg",
-    "started_at": "2026-05-06T17:20:25Z",
-    "duration_seconds": 399
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
