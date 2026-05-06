@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T12:17:09-05:00",
-  "source": "autopost",
+  "generated": "2026-05-06T12:19:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Satin Doll",
-    "artist": "Duke Ellington & His Orchestra",
-    "album": "Satin Doll",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_&_His_Orchestra_-_Satin_Doll.jpg",
-    "started_at": "2026-05-06T17:16:57Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
