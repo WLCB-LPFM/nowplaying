@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T21:24:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-05T21:27:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "As The Years Go By (Live)",
-    "artist": "Santana",
-    "album": "As The Years Go By (Live)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Santana.jpg",
-    "started_at": "2026-05-06T02:23:34Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
