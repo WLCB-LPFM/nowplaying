@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T12:41:24-05:00",
-  "source": "autopost",
+  "generated": "2026-05-06T12:43:49-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I GOT IT BAD AND THAT AIN'T GOOD",
-    "artist": "Ella Fitzgerald",
-    "album": "My Heart Belongs To Daddy",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Ella_Fitzgerald.jpg",
-    "started_at": "2026-05-06T17:41:05Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
