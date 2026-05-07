@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-07T03:50:06-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-07T03:54:55-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hush",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-05-07T08:49:57.9653343Z",
-    "duration_seconds": 311,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
