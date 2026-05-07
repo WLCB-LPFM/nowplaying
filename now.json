@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-07T12:34:52-05:00",
-  "source": "fallback",
+  "generated": "2026-05-07T12:35:04-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Groove Is in the Heart",
+    "artist": "Deee-Lite",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-07T17:34:52.2847308Z",
+    "duration_seconds": 231,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
