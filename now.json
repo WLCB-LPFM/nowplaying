@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T20:13:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-06T20:16:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Lovely Day",
-    "artist": "Bill Withers",
-    "album": "Pledging My Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Withers_-_Lovely_Day.jpg",
-    "started_at": "2026-05-07T01:12:50Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
