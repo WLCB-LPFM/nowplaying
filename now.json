@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T08:06:59-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T08:10:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Heart And Soul",
-    "artist": "T'pau",
-    "album": "The Good Night",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/T'pau_-_Heart_And_Soul.jpg",
-    "started_at": "2026-05-07T13:06:41Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
