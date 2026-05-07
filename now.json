@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-07T11:48:40-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-07T11:55:34-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Blue Monday",
+    "title": "Blue Monday (2011 Total Version)",
     "artist": "New Order",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-07T16:48:29.7329035Z",
-    "duration_seconds": 436,
-    "year": "2020"
+    "album": "Blue Monday (2011 Total Version)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/n/New_Order.jpg",
+    "started_at": "2026-05-07T16:48:57Z",
+    "duration_seconds": 452
   },
   "next_poll_seconds": 10
 }
