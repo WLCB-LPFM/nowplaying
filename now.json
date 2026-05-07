@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T19:10:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-06T19:15:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "This Must Be the Place (Naive Melody) [2003 Remaster]",
-    "artist": "Talking Heads",
-    "album": "This Must Be the Place (Naive Melody) [Remastered]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Talking_Heads_-_This_Must_Be_The_Place_(Naive_Melody)_[2003_Remaster].jpg",
-    "started_at": "2026-05-07T00:10:22Z",
-    "duration_seconds": 296
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
