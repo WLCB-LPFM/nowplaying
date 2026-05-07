@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T17:52:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T17:55:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sticky Williams",
-    "artist": "Ashton Jbriese",
-    "album": "Laurd Sushi",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ashton_Jbriese.jpg",
-    "started_at": "2026-05-07T22:51:58Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
