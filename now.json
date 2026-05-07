@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-07T09:01:09-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T09:02:06-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Games Without Frontiers",
-    "artist": "Peter Gabriel",
-    "album": "Games Without Frontiers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Gabriel_-_Games_Without_Frontiers.jpg",
-    "started_at": "2026-05-07T13:58:05Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
