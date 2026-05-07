@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T21:32:44-05:00",
-  "source": "fallback",
+  "generated": "2026-05-06T21:58:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Laura Palmer's Theme - Instrumental",
+    "artist": "Angelo Badalamenti",
+    "album": "Soundtrack From Twin Peaks",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Angelo_Badalamenti.jpg",
+    "started_at": "2026-05-07T02:58:28Z",
+    "duration_seconds": 292
+  },
   "next_poll_seconds": 10
 }
