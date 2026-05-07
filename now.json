@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T16:26:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T16:30:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Come On Eileen",
-    "artist": "Dexys Midnight Runners",
-    "album": "Too Rye Ay",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dexys_Midnight_Runners_-_Come_On_Eileen.jpg",
-    "started_at": "2026-05-07T21:26:31Z",
-    "duration_seconds": 287
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
