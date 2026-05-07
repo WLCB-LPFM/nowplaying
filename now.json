@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-06T22:41:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-06T22:46:21-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Confessions Of A Crime",
-    "artist": "Benni Chawes",
-    "album": "Up Close",
-    "artwork_url": "",
-    "started_at": "2026-05-07T03:41:42.328131Z",
-    "duration_seconds": 292,
-    "year": "2006"
+    "title": "Bags' Groove",
+    "artist": "Miles Davis",
+    "album": "On Prestige",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Bags'_Groove.jpg",
+    "started_at": "2026-05-07T03:39:39Z",
+    "duration_seconds": 675
   },
   "next_poll_seconds": 10
 }
