@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-07T18:00:43-05:00",
+  "generated": "2026-05-07T18:01:06-05:00",
   "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "18:00",
-    "ends": "19:00",
-    "genre": null
-  },
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
     "title": "For Those About to Rock (We Salute You)",
     "artist": "AC feat. DC",
