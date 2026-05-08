@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T18:13:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T18:14:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Ac-Cent-Tchu-Ate the Positive",
+    "artist": "Aretha Franklin",
+    "album": "Easy Bounce",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_Ac-cent-tchu-ate_The_Positive.jpg",
+    "started_at": "2026-05-08T23:14:10Z",
+    "duration_seconds": 137
+  },
   "next_poll_seconds": 10
 }
