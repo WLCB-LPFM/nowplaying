@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T16:51:45-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T16:52:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "High Cost Of Living",
+    "artist": "Jamey Johnson",
+    "album": "That Lonesome Song",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jamey_Johnson_-_High_Cost_Of_Living.jpg",
+    "started_at": "2026-05-08T21:51:51Z",
+    "duration_seconds": 345
+  },
   "next_poll_seconds": 10
 }
