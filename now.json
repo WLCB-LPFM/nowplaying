@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T16:41:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T16:45:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Road Goes On Forever",
-    "artist": "The Highwaymen",
-    "album": "The Road Goes On Forever",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Highwaymen_-_The_Road_Goes_On_Forever.jpg",
-    "started_at": "2026-05-08T21:41:27Z",
-    "duration_seconds": 279
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
