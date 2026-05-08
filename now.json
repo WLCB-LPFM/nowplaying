@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-08T05:59:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T06:01:03-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Things Can Only Get Better",
+    "artist": "Howard Jones",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-08T11:01:03.1081287Z",
+    "duration_seconds": 230,
+    "year": "1985"
+  },
   "next_poll_seconds": 10
 }
