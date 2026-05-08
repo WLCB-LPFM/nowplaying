@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T16:24:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T16:25:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Geraldine & Ricky",
+    "artist": "Paul Thorn",
+    "album": "Life Is Just A Vapor",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Paul_Thorn.jpg",
+    "started_at": "2026-05-08T21:24:58Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
