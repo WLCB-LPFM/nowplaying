@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T21:40:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-07T21:41:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bring The Noise",
+    "artist": "Anthrax",
+    "album": "Madhouse: The Very Best Of Anthrax",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anthrax_-_Bring_The_Noise.jpg",
+    "started_at": "2026-05-08T02:41:26Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
