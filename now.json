@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T16:37:16-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T16:37:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Drive (For Daddy Gene)",
+    "artist": "Alan Jackson",
+    "album": "Greatest Hits Volume II",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alan_Jackson_-_Drive_(For_Daddy_Gene).jpg",
+    "started_at": "2026-05-08T21:37:20Z",
+    "duration_seconds": 242
+  },
   "next_poll_seconds": 10
 }
