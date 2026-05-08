@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T15:49:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T15:49:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Need a Little Time Off for Bad Behavior",
+    "artist": "David Allan Coe",
+    "album": "The Essential David Allan Coe",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Allan_Coe_-_Need_A_Little_Time_Off_For_Bad_Behavior.jpg",
+    "started_at": "2026-05-08T20:49:25Z",
+    "duration_seconds": 181
+  },
   "next_poll_seconds": 10
 }
