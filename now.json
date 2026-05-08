@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T09:01:09-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T09:03:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Walkin' Blues",
-    "artist": "Robert Johnson",
-    "album": "King Of The Delta Blues Singers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Johnson_-_Walkin'_Blues.jpg",
-    "started_at": "2026-05-08T14:00:50Z",
-    "duration_seconds": 150
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
