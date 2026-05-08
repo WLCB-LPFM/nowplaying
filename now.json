@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T20:33:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T20:37:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Tomorrow",
-    "artist": "Silverchair",
-    "album": "Frogstomp",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Silverchair_-_Tomorrow.jpg",
-    "started_at": "2026-05-08T01:33:06Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
