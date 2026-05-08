@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T18:16:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T18:16:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I've Slipped Her Mind",
+    "artist": "The Robert Cray Band",
+    "album": "False Accusations",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Robert_Cray_Band_-_I've_Slipped_Her_Mind.jpg",
+    "started_at": "2026-05-08T23:16:33Z",
+    "duration_seconds": 320
+  },
   "next_poll_seconds": 10
 }
