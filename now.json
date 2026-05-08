@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T09:34:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T09:38:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Run With The Pack (Live)",
+    "artist": "Blackberry Smoke",
+    "album": "Run With The Pack",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b9a6c861bcd904c2d6a0c23027f1440c.png",
+    "started_at": "2026-05-08T14:37:42Z",
+    "duration_seconds": 255
+  },
   "next_poll_seconds": 10
 }
