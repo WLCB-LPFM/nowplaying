@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T14:49:16-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T14:49:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Change The Rules",
+    "artist": "Jimmy Thackery And The Drivers",
+    "album": "Inside Tracks",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/68e0e77426384a94b253c983b10e0371.png",
+    "started_at": "2026-05-08T19:49:33Z",
+    "duration_seconds": 379
+  },
   "next_poll_seconds": 10
 }
