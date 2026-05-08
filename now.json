@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T19:59:58-05:00",
-  "source": "fallback",
+  "generated": "2026-05-07T20:06:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Nearly Lost You",
+    "artist": "Screaming Trees",
+    "album": "Ocean Of Confusion - Songs Of Screaming Trees 1990-1996",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Screaming_Trees_-_Nearly_Lost_You.jpg",
+    "started_at": "2026-05-08T01:06:26Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
