@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T20:38:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T20:42:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Glycerine",
-    "artist": "Bush",
-    "album": "Sixteen Stone (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bush_-_Glycerine.jpg",
-    "started_at": "2026-05-08T01:37:52Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
