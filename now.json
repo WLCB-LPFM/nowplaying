@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T09:03:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T09:03:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "20 Years Of B.B. King",
+    "artist": "Mike Finnigan",
+    "album": "20 Years Of B.B. King",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mike_Finnigan.jpg",
+    "started_at": "2026-05-08T14:03:26Z",
+    "duration_seconds": 363
+  },
   "next_poll_seconds": 10
 }
