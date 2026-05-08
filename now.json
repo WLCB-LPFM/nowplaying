@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T15:11:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T15:12:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Dialogue, Pt. I & Pt. II (2002 Remaster)",
+    "artist": "Chicago",
+    "album": "Dialogue, Pt. I & Pt. II (2002 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Chicago.jpg",
+    "started_at": "2026-05-08T20:11:52Z",
+    "duration_seconds": 302
+  },
   "next_poll_seconds": 10
 }
