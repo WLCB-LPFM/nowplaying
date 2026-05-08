@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T15:33:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T15:36:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Mona Lisa Lost Her Smile",
-    "artist": "David Allan Coe",
-    "album": "Just Divorced",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Allan_Coe_-_Mona_Lisa_Lost_Her_Smile.jpg",
-    "started_at": "2026-05-08T20:33:09Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
