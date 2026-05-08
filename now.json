@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T19:39:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T19:43:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Lemon Tree",
-    "artist": "Post Malone",
-    "album": "Twelve Carat Toothache",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Post_Malone_-_Lemon_Tree.jpg",
-    "started_at": "2026-05-08T00:39:07Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
