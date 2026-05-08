@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T15:39:41-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T15:42:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Ride (Album Version)",
-    "artist": "David Allan Coe",
-    "album": "Columbia Country Classics Volume 5:  A New Tradition",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Allan_Coe_-_The_Ride_(Album_Version).jpg",
-    "started_at": "2026-05-08T20:39:26Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
