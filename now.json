@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T21:53:35-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T21:58:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Possum Kingdom",
-    "artist": "Toadies",
-    "album": "Made in Texas",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toadies_-_Possum_Kingdom.jpg",
-    "started_at": "2026-05-08T02:53:21Z",
-    "duration_seconds": 310
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
