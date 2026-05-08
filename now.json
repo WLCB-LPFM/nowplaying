@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T20:25:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-07T20:25:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Swallowed",
+    "artist": "Bush",
+    "album": "Razorblade Suitcase (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bush_-_Swallowed.jpg",
+    "started_at": "2026-05-08T01:25:44Z",
+    "duration_seconds": 291
+  },
   "next_poll_seconds": 10
 }
