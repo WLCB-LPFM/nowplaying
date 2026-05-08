@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T19:52:32-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T19:55:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Lose Control",
-    "artist": "Teddy Swims",
-    "album": "Lose Control",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Teddy_Swims_-_Lose_Control.jpg",
-    "started_at": "2026-05-08T00:52:20Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
