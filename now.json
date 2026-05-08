@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T18:10:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T18:13:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Queen Of My Soul",
-    "artist": "Average White Band",
-    "album": "The Definitive Groove Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Average_White_Band_-_Queen_Of_My_Soul.jpg",
-    "started_at": "2026-05-08T23:09:50Z",
-    "duration_seconds": 246
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
