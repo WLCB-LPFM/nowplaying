@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T19:06:34-05:00",
-  "source": "fallback",
+  "generated": "2026-05-07T19:16:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "TAKE MY HEART",
+    "artist": "Swae Lee, Post Malone",
+    "album": "SAME DIFFERENCE",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Swae_Lee,_Post_Malone.jpg",
+    "started_at": "2026-05-08T00:16:34Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
