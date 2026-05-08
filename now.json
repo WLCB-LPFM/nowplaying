@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T19:00:03-05:00",
-  "source": "fallback",
+  "generated": "2026-05-07T19:00:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "MATRIX",
+    "artist": "Jimmy Jones",
+    "album": "PATH TO THE TOP",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jimmy_Jones.jpg",
+    "started_at": "2026-05-07T23:59:50Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
