@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T20:22:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T20:25:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Swallow My Pride",
-    "artist": "Green River",
-    "album": "Dry As A Bone/Rehab Doll",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Green_River_-_Swallow_My_Pride.jpg",
-    "started_at": "2026-05-08T01:22:29Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
