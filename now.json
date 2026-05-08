@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T15:52:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T15:52:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Drank My Wife Away",
+    "artist": "David Allan Coe",
+    "album": "Live from the Iron Horse: Biketoberfest '01",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/fe0c01148dc6441c8b4495c22486a246.png",
+    "started_at": "2026-05-08T20:52:14Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
