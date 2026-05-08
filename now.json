@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T19:56:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T19:59:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Yeah! (feat. Lil Jon & Ludacris)",
-    "artist": "Usher",
-    "album": "Touch My Soul",
-    "artwork_url": "https://cdn.autopo.st/images/artists/u/Usher.jpg",
-    "started_at": "2026-05-08T00:56:02Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
