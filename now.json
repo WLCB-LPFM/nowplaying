@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T16:14:20-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T16:14:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Are You Sure Hank Done It This Time",
+    "artist": "Leftover Salmon",
+    "album": "The Nashville Sessions",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Leftover_Salmon_-_Are_You_Sure_Hank_Done_It_This_Time.jpg",
+    "started_at": "2026-05-08T21:14:21Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
