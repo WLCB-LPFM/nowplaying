@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T18:57:25-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T18:58:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Every Ounce Of Strength",
+    "artist": "Carla Thomas",
+    "album": "Rare Soul: Groove & Grind 1963-1973",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Carla_Thomas_-_Every_Ounce_Of_Strength.jpg",
+    "started_at": "2026-05-08T23:58:06Z",
+    "duration_seconds": 133
+  },
   "next_poll_seconds": 10
 }
