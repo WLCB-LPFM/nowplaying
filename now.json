@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-07T22:50:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-07T22:52:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Jodi Grind",
+    "artist": "Vivian Buczek",
+    "album": "The Best Jazz Audiophile Recommended, Volume 4",
+    "artwork_url": "",
+    "started_at": "2026-05-08T03:51:36.9486069Z",
+    "duration_seconds": 240,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
