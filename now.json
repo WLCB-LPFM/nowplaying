@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T16:49:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T16:51:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Amarillo By Morning",
-    "artist": "George Strait",
-    "album": "22 More Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Strait_-_Amarillo_By_Morning.jpg",
-    "started_at": "2026-05-08T21:49:02Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
