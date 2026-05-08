@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T16:02:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T16:05:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I Have Seen the Rain",
-    "artist": "P!nk",
-    "album": "I'm Not Dead",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/P!nk_-_I_Have_Seen_The_Rain.jpg",
-    "started_at": "2026-05-08T21:02:25Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
