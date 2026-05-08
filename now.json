@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T10:53:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T10:56:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Born in Mississippi",
-    "artist": "John Primer",
-    "album": "Grown in Mississippi",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Primer_-_Born_In_Mississippi.jpg",
-    "started_at": "2026-05-08T15:53:11Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
