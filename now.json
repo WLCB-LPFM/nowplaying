@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T10:29:50-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T10:34:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Long Time Till I Get Over You",
-    "artist": "Little Feat",
-    "album": "Long Time Till I Get Over You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Feat_-_Long_Time_Till_I_Get_Over_You.jpg",
-    "started_at": "2026-05-08T15:29:33Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
