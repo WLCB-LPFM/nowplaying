@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T10:01:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T10:27:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "You're No Good (2015 Remastered Version)",
+    "artist": "Linda Ronstadt",
+    "album": "Just One Look: Classic Linda Ronstadt (2015 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Linda_Ronstadt_-_You're_No_Good_(2015_Remastered_Version).jpg",
+    "started_at": "2026-05-08T15:26:57Z",
+    "duration_seconds": 222
+  },
   "next_poll_seconds": 10
 }
