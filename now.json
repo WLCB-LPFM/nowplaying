@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T18:27:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T18:28:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Shrimp and Grits (Interlude)",
+    "artist": "Tedeschi Trucks Band",
+    "album": "Revelator",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tedeschi_Trucks_Band_-_Shrimp_And_Grits_(Interlude).jpg",
+    "started_at": "2026-05-08T23:28:11Z",
+    "duration_seconds": 105
+  },
   "next_poll_seconds": 10
 }
