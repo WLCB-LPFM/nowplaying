@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T18:32:24-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T18:34:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Hello Sunshine",
-    "artist": "Wilson Pickett",
-    "album": "Hello Sunshine",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wilson_Pickett_-_Hello_Sunshine.jpg",
-    "started_at": "2026-05-08T23:32:05Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
