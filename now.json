@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T09:42:04-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T09:48:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "I Think I Love You Too Much",
-    "artist": "The Jeff Healey Band",
-    "album": "Platinum & Gold Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jeff_Healey_Band_-_I_Think_I_Love_You_Too_Much.jpg",
-    "started_at": "2026-05-08T14:41:49Z",
-    "duration_seconds": 387
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
