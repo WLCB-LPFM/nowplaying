@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T09:13:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T09:13:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Powerful Stuff",
+    "artist": "The Fabulous Thunderbirds",
+    "album": "Pure... Guitar Legends",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fabulous_Thunderbirds_-_Powerful_Stuff.jpg",
+    "started_at": "2026-05-08T14:13:12Z",
+    "duration_seconds": 273
+  },
   "next_poll_seconds": 10
 }
