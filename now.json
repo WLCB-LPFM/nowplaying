@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T18:34:27-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T18:35:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Spanish Harlem",
+    "artist": "Ben E. King",
+    "album": "Spanish Harlem",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Ben_E._King_-_Spanish_Harlem.jpg",
+    "started_at": "2026-05-08T23:35:07Z",
+    "duration_seconds": 172
+  },
   "next_poll_seconds": 10
 }
