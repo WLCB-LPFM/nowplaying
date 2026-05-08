@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T20:10:45-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T20:14:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Freak",
-    "artist": "Silverchair",
-    "album": "The Best Of - Volume One",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Silverchair_-_Freak.jpg",
-    "started_at": "2026-05-08T01:10:33Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
