@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T20:42:53-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T20:45:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Breed",
-    "artist": "Nirvana",
-    "album": "Nevermind",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nirvana_-_Breed.jpg",
-    "started_at": "2026-05-08T01:42:38Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
