@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T15:36:41-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T15:37:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "D-R-U-N-K",
+    "artist": "David Allan Coe",
+    "album": "Tennessee Whiskey",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Allan_Coe_-_D-r-u-n-k.jpg",
+    "started_at": "2026-05-08T20:36:50Z",
+    "duration_seconds": 156
+  },
   "next_poll_seconds": 10
 }
