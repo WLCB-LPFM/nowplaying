@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T18:41:40-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T18:41:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Never Down",
+    "artist": "Another Taste",
+    "album": "Another Taste II",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b77bf76623c60b6a25b61e442d7af6b8.png",
+    "started_at": "2026-05-08T23:41:37Z",
+    "duration_seconds": 207
+  },
   "next_poll_seconds": 10
 }
