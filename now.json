@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T19:43:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T19:47:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "House of The Rising Sun",
-    "artist": "The Animals",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Animals_-_House_Of_The_Rising_Sun.jpg",
-    "started_at": "2026-05-08T00:43:14Z",
-    "duration_seconds": 269
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
