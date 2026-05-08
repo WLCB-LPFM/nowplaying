@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T20:45:53-05:00",
-  "source": "autopost",
+  "generated": "2026-05-07T20:49:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Pretend We're Dead",
-    "artist": "L7",
-    "album": "Pretend We're Dead",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/L7_-_Pretend_We're_Dead.jpg",
-    "started_at": "2026-05-08T01:45:41Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
