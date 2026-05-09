@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T18:54:54-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T18:58:46-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Boombastic",
-    "artist": "Shaggy",
-    "album": "Essential",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shaggy_-_Boombastic.jpg",
-    "started_at": "2026-05-09T23:54:39Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
