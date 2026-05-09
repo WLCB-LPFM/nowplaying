@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T20:06:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T20:06:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Half Moon",
+    "artist": "Janis Joplin",
+    "album": "Pearl",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janis_Joplin_-_Half_Moon.jpg",
+    "started_at": "2026-05-09T01:06:24Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
