@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:35:59-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T22:39:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Gets Me High",
-    "artist": "Eric Johanson",
-    "album": "The Deep And The Dirty",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Johanson_-_Gets_Me_High.jpg",
-    "started_at": "2026-05-09T03:35:41Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
