@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:50:54-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T22:54:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Learn How to Love",
-    "artist": "Tedeschi Trucks Band",
-    "album": "Revelator",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tedeschi_Trucks_Band_-_Learn_How_To_Love.jpg",
-    "started_at": "2026-05-09T03:50:40Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
