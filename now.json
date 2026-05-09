@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:20:44-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T22:24:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Broken & Blue (feat. Joe Bonamassa)",
-    "artist": "Ally Venable",
-    "album": "Real Gone",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ally_Venable.jpg",
-    "started_at": "2026-05-09T03:20:30Z",
-    "duration_seconds": 262
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
