@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T20:24:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T20:28:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Light Up Or Leave Me Alone",
-    "artist": "Traffic",
-    "album": "The Low Spark Of High Heeled Boys",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Traffic_-_Light_Up_Or_Leave_Me_Alone.jpg",
-    "started_at": "2026-05-09T01:24:24Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
