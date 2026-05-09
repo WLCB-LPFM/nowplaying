@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T19:03:58-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T19:08:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Saint Of Me",
-    "artist": "The Rolling Stones",
-    "album": "Bridges To Babylon",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Saint_Of_Me.jpg",
-    "started_at": "2026-05-09T00:03:44Z",
-    "duration_seconds": 315
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
