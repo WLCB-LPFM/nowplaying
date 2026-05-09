@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T19:58:09-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T19:59:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "For Your Love - Original",
+    "artist": "The Yardbirds",
+    "album": "Shape Of Things - The Very Best Of",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Yardbirds_-_For_Your_Love_-_Original.jpg",
+    "started_at": "2026-05-09T00:59:14Z",
+    "duration_seconds": 151
+  },
   "next_poll_seconds": 10
 }
