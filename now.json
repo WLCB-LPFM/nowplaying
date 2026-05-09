@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T21:44:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T21:44:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Holler If You Hear Me",
+    "artist": "Altered Five Blues Band",
+    "album": "Holler If You Hear Me",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Altered_Five_Blues_Band_-_Holler_If_You_Hear_Me.jpg",
+    "started_at": "2026-05-09T02:44:44Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
