@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:28:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T22:32:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Feel Like I Do",
+    "artist": "Eric Lindell",
+    "album": "Change In The Weather",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Lindell_-_Feel_Like_I_Do.jpg",
+    "started_at": "2026-05-09T03:32:26Z",
+    "duration_seconds": 191
+  },
   "next_poll_seconds": 10
 }
