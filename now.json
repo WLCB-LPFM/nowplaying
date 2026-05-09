@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T11:52:10-05:00",
-  "source": "fallback",
+  "generated": "2026-05-09T11:55:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "B.B.D. (I Thought It Was Me)?",
+    "artist": "Bell Biv DeVoe",
+    "album": "20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bell_Biv_Devoe_-_B.b.d._(I_Thought_It_Was_Me)?.jpg",
+    "started_at": "2026-05-09T16:55:29Z",
+    "duration_seconds": 275
+  },
   "next_poll_seconds": 10
 }
