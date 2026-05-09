@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T20:11:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T20:14:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Rock and Roll (Alternate Mix)",
-    "artist": "Led Zeppelin",
-    "album": "Led Zeppelin IV (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Led_Zeppelin.jpg",
-    "started_at": "2026-05-09T01:10:57Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
