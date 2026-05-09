@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T09:03:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T09:07:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Nothing's Gonna Stop Us Now",
-    "artist": "Starship",
-    "album": "Nothing's Gonna Stop Us Now",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Starship_-_Nothing's_Gonna_Stop_Us_Now.jpg",
-    "started_at": "2026-05-09T14:02:52Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
