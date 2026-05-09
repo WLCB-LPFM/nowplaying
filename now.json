@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T20:41:24-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T20:44:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Cruel Cruel World",
-    "artist": "The Lachy Doley Group",
-    "album": "Make or Break",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/4e3dd86ff1b3d8f2cf9ea40b5dae0f22.png",
-    "started_at": "2026-05-09T01:41:06Z",
-    "duration_seconds": 233
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
