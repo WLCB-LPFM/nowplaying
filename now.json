@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T21:23:53-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T21:27:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Cookin' in Your Kitchen",
-    "artist": "Altered Five Blues Band",
-    "album": "Charmed & Dangerous",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Altered_Five_Blues_Band.jpg",
-    "started_at": "2026-05-09T02:23:29Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
