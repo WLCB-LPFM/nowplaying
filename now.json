@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T21:15:54-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T21:19:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Who Can You Trust",
-    "artist": "Altered Five Blues Band",
-    "album": "Hammer & Chisel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Altered_Five_Blues_Band_-_Who_Can_You_Trust.jpg",
-    "started_at": "2026-05-09T02:15:41Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
