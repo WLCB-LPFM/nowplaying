@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:42:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T22:43:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Ain't Messin 'Round",
+    "artist": "Gary Clark Jr.",
+    "album": "Ain't Messin 'Round",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Clark_Jr._-_Ain't_Messin_'round.jpg",
+    "started_at": "2026-05-09T03:43:03Z",
+    "duration_seconds": 249
+  },
   "next_poll_seconds": 10
 }
