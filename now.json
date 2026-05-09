@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T19:17:09-05:00",
-  "source": "fallback",
+  "generated": "2026-05-08T19:17:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Old Weakness (Coming On Strong)",
+    "artist": "Delbert McClinton",
+    "album": "One Of The Fortunate Few",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Delbert_Mcclinton_-_Old_Weakness_(Coming_On_Strong).jpg",
+    "started_at": "2026-05-09T00:17:11Z",
+    "duration_seconds": 176
+  },
   "next_poll_seconds": 10
 }
