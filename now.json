@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T11:33:50-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T11:36:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Didn't I (Blow Your Mind This Time)",
-    "artist": "The Delfonics",
-    "album": "Die Hit Giganten Best of Funk & Soul",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Delfonics_-_Didn't_I_(Blow_Your_Mind_This_Time).jpg",
-    "started_at": "2026-05-09T16:33:35Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
