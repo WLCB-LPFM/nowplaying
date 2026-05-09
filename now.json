@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T11:42:31-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T11:44:00-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Hey Little Girl",
-    "artist": "Dee Clark",
-    "album": "The History of Rock 'n' Roll, Vol. 7",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dee_Clark_-_Hey_Little_Girl.jpg",
-    "started_at": "2026-05-09T16:42:15Z",
-    "duration_seconds": 119
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
