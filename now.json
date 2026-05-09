@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-09T16:46:26-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-09T16:49:46-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Warm It Up",
+    "title": "Warm It Up (Album Version)",
     "artist": "Kris Kross",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-09T21:46:24.0597431Z",
-    "duration_seconds": 211,
-    "year": "2009"
+    "album": "Totally Krossed Out",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kris_Kross_-_Warm_It_Up_(Album_Version).jpg",
+    "started_at": "2026-05-09T21:47:23Z",
+    "duration_seconds": 248
   },
   "next_poll_seconds": 10
 }
