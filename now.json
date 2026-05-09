@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T10:02:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T10:06:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Eyes Without A Face",
-    "artist": "Billy Idol",
-    "album": "Essential",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Idol_-_Eyes_Without_A_Face.jpg",
-    "started_at": "2026-05-09T15:02:16Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
