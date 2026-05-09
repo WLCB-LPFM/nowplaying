@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T21:41:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T21:44:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Charmed & Dangerous",
-    "artist": "Altered Five Blues Band",
-    "album": "Blind Pig Records: 40th Anniversary Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Altered_Five_Blues_Band_-_Charmed_&_Dangerous.jpg",
-    "started_at": "2026-05-09T02:41:03Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
