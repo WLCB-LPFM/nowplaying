@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T17:35:22-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T17:39:16-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Principal's Office",
-    "artist": "Young MC",
-    "album": "Stone Cold Rhymin'",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young_Mc_-_Principal's_Office.jpg",
-    "started_at": "2026-05-09T22:35:05Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
