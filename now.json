@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T21:09:12-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T21:12:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Right on, Right On",
-    "artist": "Altered Five Blues Band",
-    "album": "Ten Thousand Watts",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Altered_Five_Blues_Band_-_Right_On,_Right_On.jpg",
-    "started_at": "2026-05-09T02:08:57Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
