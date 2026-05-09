@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:10:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T22:13:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Six Feet Down",
-    "artist": "Marc A Ridge",
-    "album": "Side A",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Marc_A_Ridge.jpg",
-    "started_at": "2026-05-09T03:10:32Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
