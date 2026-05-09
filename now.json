@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:17:12-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T22:20:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Outside Or The Eastside",
-    "artist": "Mike Zito",
-    "album": "Outside Or The Eastside",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike_Zito_-_Outside_Or_The_Eastside.jpg",
-    "started_at": "2026-05-09T03:17:02Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
