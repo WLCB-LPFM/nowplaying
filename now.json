@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T19:41:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T19:43:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Something About You",
-    "artist": "Four Tops",
-    "album": "Second Album - Four Tops",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Four_Tops_-_Something_About_You.jpg",
-    "started_at": "2026-05-09T00:41:02Z",
-    "duration_seconds": 168
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
