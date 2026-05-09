@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:39:31-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T22:42:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Hard Working Man",
-    "artist": "Marcus King",
-    "album": "Hard Working Man",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marcus_King_-_Hard_Working_Man.jpg",
-    "started_at": "2026-05-09T03:39:22Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
