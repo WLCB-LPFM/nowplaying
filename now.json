@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T20:14:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T20:16:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Love Ain't For Keeping",
-    "artist": "The Who",
-    "album": "Going Mobile",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Who_-_Love_Ain't_For_Keeping.jpg",
-    "started_at": "2026-05-09T01:14:25Z",
-    "duration_seconds": 131
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
