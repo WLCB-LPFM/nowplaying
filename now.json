@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:47:33-05:00",
-  "source": "autopost",
+  "generated": "2026-05-08T22:50:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't You Forget About Me",
-    "artist": "Janiva Magness",
-    "album": "Don't You Forget About Me",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Janiva_Magness.jpg",
-    "started_at": "2026-05-09T03:47:11Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
