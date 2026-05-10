@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T09:03:18-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T09:06:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Bei Mir Bist Du Schon",
-    "artist": "The Andrews Sisters",
-    "album": "The Andrews Sisters: Essential 10",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Andrews_Sisters_-_Bei_Mir_Bist_Du_Schon.jpg",
-    "started_at": "2026-05-10T14:03:08Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
