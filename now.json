@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T20:58:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T21:02:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "One Two",
-    "artist": "Sister Nancy",
-    "album": "Techniques Old School Classics",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sister_Nancy_-_One_Two.jpg",
-    "started_at": "2026-05-10T01:58:37Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
