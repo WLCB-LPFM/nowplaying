@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-10T07:19:49-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-10T07:22:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Indian Summer (1940)",
-    "artist": "Richard Tauber; Al Dubin",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-10T12:19:38.4794344Z",
-    "duration_seconds": 171,
-    "year": "1940"
+    "title": "Indian Summer",
+    "artist": "Richard Tauber",
+    "album": "Begin the Beguine",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Richard_Tauber_-_Indian_Summer.jpg",
+    "started_at": "2026-05-10T12:19:54Z",
+    "duration_seconds": 178
   },
   "next_poll_seconds": 10
 }
