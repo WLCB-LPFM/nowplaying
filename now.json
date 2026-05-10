@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T21:50:41-05:00",
-  "source": "fallback",
+  "generated": "2026-05-09T21:51:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Want'a Do Something Freaky To You",
+    "artist": "Leon Haywood",
+    "album": "Classic Funk - Universal Masters",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Leon_Haywood_-_I_Want'a_Do_Something_Freaky_To_You.jpg",
+    "started_at": "2026-05-10T02:51:32Z",
+    "duration_seconds": 352
+  },
   "next_poll_seconds": 10
 }
