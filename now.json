@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T18:54:30-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T18:55:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Tell Me When Did Things Go So Wrong",
+    "artist": "The Smithereens",
+    "album": "Blow Up",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Smithereens_-_Tell_Me_When_Did_Things_Go_So_Wrong.jpg",
+    "started_at": "2026-05-10T23:55:10Z",
+    "duration_seconds": 142
+  },
   "next_poll_seconds": 10
 }
