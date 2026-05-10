@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T18:04:04-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T18:05:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Respect",
-    "artist": "Otis Redding",
-    "album": "No More, No Less: Hits of 40's, 50's & 60's, Vol. 26",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Otis_Redding_-_Respect.jpg",
-    "started_at": "2026-05-10T23:03:47Z",
-    "duration_seconds": 129
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
