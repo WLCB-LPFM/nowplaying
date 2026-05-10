@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T17:56:10-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T17:59:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Be Without You",
-    "artist": "Mary J. Blige",
-    "album": "Love Song Best 25",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mary_J._Blige_-_Be_Without_You.jpg",
-    "started_at": "2026-05-10T22:55:57Z",
-    "duration_seconds": 246
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
