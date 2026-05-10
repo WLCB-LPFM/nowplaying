@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T19:38:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T19:41:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "You Give Love A Bad Name",
-    "artist": "Bon Jovi",
-    "album": "Cross Road",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_You_Give_Love_A_Bad_Name.jpg",
-    "started_at": "2026-05-10T00:37:50Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
