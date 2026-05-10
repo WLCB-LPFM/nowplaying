@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-10T08:36:06-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-10T08:39:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hilo Hattie (1940)",
-    "artist": "John Ryan with Orchestra; Adamson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-10T13:36:01.6035652Z",
-    "duration_seconds": 192,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
