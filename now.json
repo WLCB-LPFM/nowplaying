@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T14:00:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T14:21:19-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "16:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Moon Love",
+    "artist": "Al Bowlly",
+    "album": "A Man And His Dream",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Bowlly_-_Moon_Love.jpg",
+    "started_at": "2026-05-10T19:21:03Z",
+    "duration_seconds": 188
+  },
   "next_poll_seconds": 10
 }
