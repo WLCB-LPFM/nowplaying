@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T16:20:36-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T16:23:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Nice & Slow",
-    "artist": "Usher",
-    "album": "My Way",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Usher_-_Nice_&_Slow.jpg",
-    "started_at": "2026-05-10T21:20:20Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
