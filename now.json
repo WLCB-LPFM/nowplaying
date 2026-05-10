@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T18:40:36-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T18:44:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "House We Used To Live In",
-    "artist": "The Smithereens",
-    "album": "Green Thoughts",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Smithereens_-_House_We_Used_To_Live_In.jpg",
-    "started_at": "2026-05-10T23:40:25Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
