@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T18:36:52-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T18:37:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Wall of Sleep",
+    "artist": "The Smithereens",
+    "album": "Greatest Hits... Revisited",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Smithereens_-_Wall_Of_Sleep.jpg",
+    "started_at": "2026-05-10T23:37:10Z",
+    "duration_seconds": 204
+  },
   "next_poll_seconds": 10
 }
