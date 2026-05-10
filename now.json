@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T20:31:41-05:00",
-  "source": "fallback",
+  "generated": "2026-05-09T20:32:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "All That I Got Is You - Album Version (Edited)",
+    "artist": "Ghostface Killah",
+    "album": "GhostDeini The Great (Bonus Tracks)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Ghostface_Killah.jpg",
+    "started_at": "2026-05-10T01:32:43Z",
+    "duration_seconds": 320
+  },
   "next_poll_seconds": 10
 }
