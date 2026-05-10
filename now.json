@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-10T07:06:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T07:06:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Harem Party (1940)",
+    "artist": "Hal Bedell and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-10T12:06:48.0299703Z",
+    "duration_seconds": 189,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
