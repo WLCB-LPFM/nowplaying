@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T21:25:22-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T21:31:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "See You on the Other Side",
-    "artist": "Ozzy Osbourne",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Ozzy_Osbourne_-_See_You_On_The_Other_Side.jpg",
-    "started_at": "2026-05-10T02:25:04Z",
-    "duration_seconds": 370
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
