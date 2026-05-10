@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T21:47:44-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T21:50:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Pastime Paradise",
-    "artist": "Stevie Wonder",
-    "album": "Songs In The Key Of Life",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Pastime_Paradise.jpg",
-    "started_at": "2026-05-10T02:47:25Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
