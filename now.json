@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-09T23:59:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T00:00:05-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tin Man (2006 Remaster)",
+    "artist": "America",
+    "album": "Tin Man (2006 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/America.jpg",
+    "started_at": "2026-05-10T04:59:40Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
