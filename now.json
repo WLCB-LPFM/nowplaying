@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T20:12:25-05:00",
-  "source": "fallback",
+  "generated": "2026-05-09T20:12:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Back Down",
+    "artist": "50 Cent",
+    "album": "Get Rich Or Die Tryin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/5/50_Cent_-_Back_Down.jpg",
+    "started_at": "2026-05-10T01:12:50Z",
+    "duration_seconds": 243
+  },
   "next_poll_seconds": 10
 }
