@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T09:24:45-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T09:27:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "I've Found a New Baby",
-    "artist": "Sidney Bechet & His New Orleans Feetwarmers",
-    "album": "The Legendary Sidney Bechet",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sidney_Bechet_&_His_New_Orleans_Feetwarmers.jpg",
-    "started_at": "2026-05-10T14:24:23Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
