@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T19:45:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-09T19:51:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Mysterious Ways",
+    "artist": "U2",
+    "album": "The Best Of 1990-2000",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_Mysterious_Ways.jpg",
+    "started_at": "2026-05-10T00:50:51Z",
+    "duration_seconds": 243
+  },
   "next_poll_seconds": 10
 }
