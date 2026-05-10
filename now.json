@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-10T06:53:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T06:53:55-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mac Namara's Band (1940)",
+    "artist": "John Ryan; Stamford; O'Connor",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-10T11:53:48.5851122Z",
+    "duration_seconds": 150,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
