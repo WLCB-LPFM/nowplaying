@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-10T07:54:22-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T07:54:46-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Soft Shoe Shuffle",
+    "artist": "Joe Loss and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-10T12:54:35.4498672Z",
+    "duration_seconds": 186,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
