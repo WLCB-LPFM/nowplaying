@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T18:23:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T18:24:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Tell Yer Mama",
+    "artist": "Norah Jones",
+    "album": "The Fall",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Norah_Jones_-_Tell_Yer_Mama.jpg",
+    "started_at": "2026-05-10T23:24:10Z",
+    "duration_seconds": 205
+  },
   "next_poll_seconds": 10
 }
