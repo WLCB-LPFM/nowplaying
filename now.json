@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-10T07:25:02-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T07:25:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ziguener",
+    "artist": "Johnny Green and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-10T12:25:08.8148506Z",
+    "duration_seconds": 164,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
