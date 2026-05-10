@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T21:31:04-05:00",
-  "source": "fallback",
+  "generated": "2026-05-09T21:34:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Go Get It (feat. Hardog)",
+    "artist": "Atf Mischief",
+    "album": "Go Get It (feat. Hardog)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Atf_Mischief.jpg",
+    "started_at": "2026-05-10T02:34:11Z",
+    "duration_seconds": 234
+  },
   "next_poll_seconds": 10
 }
