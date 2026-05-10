@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T21:38:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-09T21:40:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Lap Dance (Instrumental)",
+    "artist": "Tyga",
+    "album": "Lap Dance (Instrumental)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tyga.jpg",
+    "started_at": "2026-05-10T02:40:15Z",
+    "duration_seconds": 291
+  },
   "next_poll_seconds": 10
 }
