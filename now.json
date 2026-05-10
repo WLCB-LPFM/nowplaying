@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T18:18:45-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T18:23:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Motherless Children",
-    "artist": "Eric Clapton",
-    "album": "Crossroads",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Motherless_Children.jpg",
-    "started_at": "2026-05-10T23:18:31Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
