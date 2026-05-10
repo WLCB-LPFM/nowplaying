@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T20:49:41-05:00",
-  "source": "autopost",
+  "generated": "2026-05-09T20:51:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Dat Sexy Body",
-    "artist": "Sasha",
-    "album": "Reggae Gold 2003",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sasha_-_Dat_Sexy_Body.jpg",
-    "started_at": "2026-05-10T01:49:24Z",
-    "duration_seconds": 164
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
