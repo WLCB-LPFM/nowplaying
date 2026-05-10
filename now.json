@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-10T07:38:29-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T07:38:41-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Charlie's Choice, Part 3",
-    "artist": "Charlie Christian,Minton's House Band",
-    "album": "Charlie Christian Memorial Album",
-    "artwork_url": "null",
-    "started_at": "2026-05-10T12:35:44Z",
-    "duration_seconds": 188
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
