@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-11T08:37:20-05:00",
-  "source": "fallback",
+  "generated": "2026-05-11T08:39:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Blue Monday",
+    "artist": "New Order",
+    "album": "Live In Glasgow",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Order_-_Blue_Monday.jpg",
+    "started_at": "2026-05-11T13:38:56Z",
+    "duration_seconds": 419
+  },
   "next_poll_seconds": 10
 }
