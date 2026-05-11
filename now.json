@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-11T17:25:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-11T17:25:34-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Right Here, Right Now",
+    "artist": "Jesus Jones",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-11T22:25:21.9376208Z",
+    "duration_seconds": 149,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
