@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-11T12:00:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-11T12:02:22-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Maneater",
+    "artist": "Daryl Hall & John Oates",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-11T17:02:17.799451Z",
+    "duration_seconds": 250,
+    "year": "1981"
+  },
   "next_poll_seconds": 10
 }
