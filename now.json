@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:11:25-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T20:12:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Green Manalishi (With the Two Pronged Crown)",
+    "artist": "Judas Priest",
+    "album": "Living After Midnight",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Judas_Priest_-_The_Green_Manalishi_(With_The_Two_Pronged_Crown).jpg",
+    "started_at": "2026-05-11T01:12:27Z",
+    "duration_seconds": 203
+  },
   "next_poll_seconds": 10
 }
