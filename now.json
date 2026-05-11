@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-10T22:00:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T22:00:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Stumble",
-    "artist": "Luther Allison",
-    "album": "Bad News Is Coming",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Luther_Allison_-_The_Stumble.jpg",
-    "started_at": "2026-05-11T02:58:33Z",
-    "duration_seconds": 139
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
