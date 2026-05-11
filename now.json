@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-10T23:00:30-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T23:02:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Too Marvelous for Words",
+    "artist": "Art Tatum",
+    "album": "Art Tatum's Finest Hour",
+    "artwork_url": "",
+    "started_at": "2026-05-11T04:02:07.759829Z",
+    "duration_seconds": 152,
+    "year": "2000"
+  },
   "next_poll_seconds": 10
 }
