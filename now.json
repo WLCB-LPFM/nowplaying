@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-11T06:33:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-11T06:33:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Footloose (From 'Footloose' Soundtrack)",
-    "artist": "Kenny Loggins",
-    "album": "Footloose (Original Motion Picture Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kenny_Loggins.jpg",
-    "started_at": "2026-05-11T11:29:41Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
