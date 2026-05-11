@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:20:41-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T21:21:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Beer Bottle Boogie",
+    "artist": "Koko Taylor",
+    "album": "Best - Boogie Woogie Blues",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Koko_Taylor_-_Beer_Bottle_Boogie.jpg",
+    "started_at": "2026-05-11T02:21:28Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
