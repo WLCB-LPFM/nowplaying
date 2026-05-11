@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:19:04-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T20:22:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Lay It On The Line",
-    "artist": "Triumph",
-    "album": "Melodic Rock",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Triumph_-_Lay_It_On_The_Line.jpg",
-    "started_at": "2026-05-11T01:18:44Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
