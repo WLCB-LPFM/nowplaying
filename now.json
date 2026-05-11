@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:49:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T21:50:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Travelin' Light",
+    "artist": "Widespread Panic",
+    "album": "The Essential Widespread Panic",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_Travelin'_Light.jpg",
+    "started_at": "2026-05-11T02:50:05Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
