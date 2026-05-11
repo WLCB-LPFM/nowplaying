@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-11T13:41:33-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-11T13:46:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rhythm Nation",
-    "artist": "Janet Jackson",
-    "album": "The Best",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Rhythm_Nation.jpg",
-    "started_at": "2026-05-11T18:41:12.3030028Z",
-    "duration_seconds": 329,
-    "year": "1989"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
