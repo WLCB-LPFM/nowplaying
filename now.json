@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:34:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T21:37:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Can't Hold Out",
-    "artist": "Eric Clapton",
-    "album": "Give Me Strength: The '74/'75 Recordings",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_I_Can't_Hold_Out.jpg",
-    "started_at": "2026-05-11T02:33:50Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
