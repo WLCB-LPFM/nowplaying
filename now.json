@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:53:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T21:54:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Shape I'm In",
+    "artist": "THE BAND",
+    "album": "Best Of The Band",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Band_-_The_Shape_I'm_In.jpg",
+    "started_at": "2026-05-11T02:54:26Z",
+    "duration_seconds": 242
+  },
   "next_poll_seconds": 10
 }
