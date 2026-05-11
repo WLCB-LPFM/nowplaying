@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T19:21:58-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T19:23:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "You Make Me Feel Right At Home",
+    "artist": "Ted Nugent",
+    "album": "Ted Nugent",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Ted_Nugent_-_You_Make_Me_Feel_Right_At_Home.jpg",
+    "started_at": "2026-05-11T00:22:42Z",
+    "duration_seconds": 176
+  },
   "next_poll_seconds": 10
 }
