@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:28:09-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T21:30:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Drink in My Hand",
-    "artist": "Eric Church",
-    "album": "2012 Grammy Nominees",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Church_-_Drink_In_My_Hand.jpg",
-    "started_at": "2026-05-11T02:27:59Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
