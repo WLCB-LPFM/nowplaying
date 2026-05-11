@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:25:10-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T21:27:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Drinkin' and Dreamin'",
-    "artist": "Waylon Jennings",
-    "album": "Turn The Page",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Waylon_Jennings_-_Drinkin'_And_Dreamin'.jpg",
-    "started_at": "2026-05-11T02:24:56Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
