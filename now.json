@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:42:38-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T21:43:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Setting Me Up",
+    "artist": "Dire Straits",
+    "album": "Dire Straits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dire_Straits_-_Setting_Me_Up.jpg",
+    "started_at": "2026-05-11T02:42:56Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
