@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:15:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T20:16:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Breaking the Law",
+    "artist": "Judas Priest",
+    "album": "Rock!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Judas_Priest_-_Breaking_The_Law.jpg",
+    "started_at": "2026-05-11T01:15:42Z",
+    "duration_seconds": 154
+  },
   "next_poll_seconds": 10
 }
