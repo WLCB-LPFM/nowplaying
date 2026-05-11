@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:46:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T21:49:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Anyway The Wind Blows",
-    "artist": "Eric Clapton",
-    "album": "Forever Man",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Anyway_The_Wind_Blows.jpg",
-    "started_at": "2026-05-11T02:46:11Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
