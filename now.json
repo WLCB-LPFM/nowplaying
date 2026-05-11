@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:07:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T21:08:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Whisky Train",
+    "artist": "Procol Harum",
+    "album": "Greatest Hits: Procol Harum",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Procol_Harum_-_Whisky_Train.jpg",
+    "started_at": "2026-05-11T02:07:49Z",
+    "duration_seconds": 273
+  },
   "next_poll_seconds": 10
 }
