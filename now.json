@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T19:12:32-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T19:16:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Over the Hills and Far Away (1990 Remaster)",
-    "artist": "Led Zeppelin",
-    "album": "Over the Hills and Far Away (1990 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Led_Zeppelin.jpg",
-    "started_at": "2026-05-11T00:12:05Z",
-    "duration_seconds": 288
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
