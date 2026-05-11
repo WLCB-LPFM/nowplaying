@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:33:09-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T20:36:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Going to California",
-    "artist": "Led Zeppelin",
-    "album": "Led Zeppelin IV",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Going_To_California.jpg",
-    "started_at": "2026-05-11T01:32:49Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
