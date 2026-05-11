@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-11T01:47:05-05:00",
-  "source": "fallback",
+  "generated": "2026-05-11T01:47:28-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Black Bottom Stomp",
+    "artist": "Jelly Roll Morton & His Red Hot Peppers",
+    "album": "Maple Leaf Rag: Modern Jazz Roots",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jelly_Roll_Morton_&_His_Red_Hot_Peppers.jpg",
+    "started_at": "2026-05-11T06:47:08Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
