@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:07:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T20:11:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Big City Nights (2015 - Remaster)",
-    "artist": "Scorpions",
-    "album": "Big City Nights (2015 - Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Scorpions_-_Big_City_Nights_(2015_-_Remaster).jpg",
-    "started_at": "2026-05-11T01:07:27Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
