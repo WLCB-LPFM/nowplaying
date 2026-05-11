@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:38:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T20:41:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Sweetheart Like You",
+    "artist": "Bob Dylan",
+    "album": "North Country - Music From The Motion Picture",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Dylan_-_Sweetheart_Like_You.jpg",
+    "started_at": "2026-05-11T01:41:22Z",
+    "duration_seconds": 274
+  },
   "next_poll_seconds": 10
 }
