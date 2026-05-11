@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:46:18-05:00",
-  "source": "autopost",
+  "generated": "2026-05-10T20:49:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "No Stranger To The Blues",
-    "artist": "The Kinsey Report",
-    "album": "Edge Of The City",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/93c4a7566ac84111a8ce049cc415b866.png",
-    "started_at": "2026-05-11T01:45:55Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
