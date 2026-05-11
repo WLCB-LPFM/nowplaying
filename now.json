@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:49:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T20:50:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Miss Love",
+    "artist": "The Subdudes",
+    "album": "Annunciation",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Subdudes_-_Miss_Love.jpg",
+    "started_at": "2026-05-11T01:50:15Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
