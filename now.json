@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T20:22:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T20:22:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Magic Power",
+    "artist": "Triumph",
+    "album": "Canadian Rock Classics",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Triumph_-_Magic_Power.jpg",
+    "started_at": "2026-05-11T01:22:38Z",
+    "duration_seconds": 294
+  },
   "next_poll_seconds": 10
 }
