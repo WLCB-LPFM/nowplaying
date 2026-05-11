@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T19:08:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T19:08:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Toys In The Attic (Album Version)",
+    "artist": "Aerosmith",
+    "album": "Toys In The Attic",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Toys_In_The_Attic_(Album_Version).jpg",
+    "started_at": "2026-05-11T00:08:24Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
