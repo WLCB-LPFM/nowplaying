@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T21:12:07-05:00",
-  "source": "fallback",
+  "generated": "2026-05-10T21:12:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "I Think It Was The Wine",
+    "artist": "The Siegel-Schwall Band",
+    "album": "The Siegel-Schwall Reunion Concert",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Siegel-schwall_Band_-_I_Think_It_Was_The_Wine.jpg",
+    "started_at": "2026-05-11T02:12:09Z",
+    "duration_seconds": 303
+  },
   "next_poll_seconds": 10
 }
