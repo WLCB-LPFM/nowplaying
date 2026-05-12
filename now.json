@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-11T21:11:48-05:00",
-  "source": "autopost",
+  "generated": "2026-05-11T21:17:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Sister Salvation",
-    "artist": "The Slide Hampton Octet",
-    "album": "Sister Salvation / Conversation Piece",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Slide_Hampton_Octet.jpg",
-    "started_at": "2026-05-12T02:11:11Z",
-    "duration_seconds": 374
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
