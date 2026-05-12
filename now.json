@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-11T18:59:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-11T19:00:12-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Come On Eileen",
-    "artist": "Dexys Midnight Runners",
-    "album": "St. Paddys Day",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dexys_Midnight_Runners_-_Come_On_Eileen.jpg",
-    "started_at": "2026-05-11T23:55:44Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
