@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-12T06:02:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-12T06:06:19-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Urgent",
+    "title": "Urgent (2008 Remaster)",
     "artist": "Foreigner",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-12T11:02:09.4527585Z",
-    "duration_seconds": 260,
-    "year": "2014"
+    "album": "No End in Sight: The Very Best of Foreigner",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foreigner_-_Urgent_(2008_Remaster).jpg",
+    "started_at": "2026-05-12T11:02:16Z",
+    "duration_seconds": 259
   },
   "next_poll_seconds": 10
 }
