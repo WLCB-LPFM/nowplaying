@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-11T21:53:06-05:00",
-  "source": "fallback",
+  "generated": "2026-05-11T21:56:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "There Is No Greater Love",
+    "artist": "Erroll Garner",
+    "album": "Soliloquy/Erroll Garner",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/98a31af31ad646359e9a658572bfc23f.png",
+    "started_at": "2026-05-12T02:56:30Z",
+    "duration_seconds": 381
+  },
   "next_poll_seconds": 10
 }
