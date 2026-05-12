@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-11T22:00:07-05:00",
-  "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
+  "generated": "2026-05-11T22:02:43-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
+  "automation_on": true,
   "show": {
     "name": "Rock of Ages",
     "hosts": [
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "There Is No Greater Love",
-    "artist": "Erroll Garner",
-    "album": "Soliloquy/Erroll Garner",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/98a31af31ad646359e9a658572bfc23f.png",
-    "started_at": "2026-05-12T02:56:30Z",
-    "duration_seconds": 381
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
