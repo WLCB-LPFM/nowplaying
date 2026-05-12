@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-11T20:12:04-05:00",
-  "source": "autopost",
+  "generated": "2026-05-11T20:15:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Gina's Groove",
-    "artist": "Jeff Hamilton Trio",
-    "album": "Live from San Pedro",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jeff_Hamilton_Trio.jpg",
-    "started_at": "2026-05-12T01:11:30Z",
-    "duration_seconds": 275
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
