@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-12T11:18:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-12T11:21:02-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Let Me Clear My Throat",
-    "artist": "DJ Kool",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-12T16:18:19.815673Z",
-    "duration_seconds": 174,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
