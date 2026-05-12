@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-11T21:18:39-05:00",
-  "source": "autopost",
+  "generated": "2026-05-11T21:22:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Maria",
-    "artist": "Oscar Peterson",
-    "album": "Bottled Up",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Oscar_Peterson_-_Maria.jpg",
-    "started_at": "2026-05-12T02:18:07Z",
-    "duration_seconds": 296
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
