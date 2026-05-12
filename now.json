@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-12T06:56:17-05:00",
-  "source": "fallback",
+  "generated": "2026-05-12T06:59:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Islands In the Stream",
+    "artist": "Dolly Parton, Kenny Rogers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-12T11:59:21.1899208Z",
+    "duration_seconds": 242,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
