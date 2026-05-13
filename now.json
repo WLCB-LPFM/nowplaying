@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T13:25:20-05:00",
-  "source": "fallback",
+  "generated": "2026-05-13T13:30:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "That Girl",
+    "artist": "McClenty Hunter Jr.",
+    "album": "The Groove Hunter",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mcclenty_Hunter_Jr..jpg",
+    "started_at": "2026-05-13T18:30:25Z",
+    "duration_seconds": 342
+  },
   "next_poll_seconds": 10
 }
