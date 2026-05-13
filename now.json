@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T22:39:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-12T22:40:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Head Like A Hole",
+    "artist": "Nine Inch Nails",
+    "album": "Pretty Hate Machine",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nine_Inch_Nails_-_Head_Like_A_Hole.jpg",
+    "started_at": "2026-05-13T03:40:14Z",
+    "duration_seconds": 300
+  },
   "next_poll_seconds": 10
 }
