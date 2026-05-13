@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-13T15:24:14-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-13T15:27:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Control",
-    "artist": "Janet Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-13T20:24:04.6487878Z",
-    "duration_seconds": 200,
-    "year": "2022"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
