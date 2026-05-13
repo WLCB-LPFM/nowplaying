@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T12:32:57-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T12:37:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Sweet Georgia Upside Down",
-    "artist": "Phil Kelly And The NW Prevailing Winds",
-    "album": "Convergence Zone",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Phil_Kelly_And_The_Nw_Prevailing_Winds.jpg",
-    "started_at": "2026-05-13T17:32:44Z",
-    "duration_seconds": 316
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
