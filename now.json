@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T13:37:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T13:38:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "The Most Beautiful Girl In The World [The Frank Sinatra Collection]",
-    "artist": "Frank Sinatra",
-    "album": "Strangers In The Night",
-    "artwork_url": "https://cdn.autopo.st/images/artists/f/Frank_Sinatra.jpg",
-    "started_at": "2026-05-13T18:36:42Z",
-    "duration_seconds": 144
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
