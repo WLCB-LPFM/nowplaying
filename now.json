@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T12:37:45-05:00",
-  "source": "fallback",
+  "generated": "2026-05-13T12:39:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Eleanor Rigby",
+    "artist": "Stanley Jordan",
+    "album": "Blue Beat-The Music Of Lennon & Mccartney",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stanley_Jordan_-_Eleanor_Rigby.jpg",
+    "started_at": "2026-05-13T17:39:14Z",
+    "duration_seconds": 420
+  },
   "next_poll_seconds": 10
 }
