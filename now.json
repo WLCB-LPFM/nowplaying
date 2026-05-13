@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-13T06:56:15-05:00",
-  "source": "fallback",
+  "generated": "2026-05-13T06:58:29-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Back That Thang Up",
+    "artist": "Juvenile",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-13T11:58:23.397215Z",
+    "duration_seconds": 268,
+    "year": "1998"
+  },
   "next_poll_seconds": 10
 }
