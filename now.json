@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T21:49:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-12T21:53:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "You Don't Know",
-    "artist": "The Rascals",
-    "album": "You Don't Know",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rascals_-_You_Don't_Know.jpg",
-    "started_at": "2026-05-13T02:49:17Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
