@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T21:04:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-12T21:05:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Hear My Train A Comin' (Acoustic)",
+    "artist": "Jimi Hendrix",
+    "album": "Blues",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimi_Hendrix_-_Hear_My_Train_A_Comin'_(Acoustic).jpg",
+    "started_at": "2026-05-13T02:04:50Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
