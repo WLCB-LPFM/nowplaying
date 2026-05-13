@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T20:43:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-12T20:43:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Heartbreaker",
+    "artist": "Pat Benatar",
+    "album": "Best Shots",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pat_Benatar_-_Heartbreaker.jpg",
+    "started_at": "2026-05-13T01:43:35Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
