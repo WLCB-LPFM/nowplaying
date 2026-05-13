@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-13T17:22:57-05:00",
-  "source": "fallback",
+  "generated": "2026-05-13T17:23:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Down Under",
+    "artist": "Men At Work",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-13T22:23:06.1625176Z",
+    "duration_seconds": 203,
+    "year": "1981"
+  },
   "next_poll_seconds": 10
 }
