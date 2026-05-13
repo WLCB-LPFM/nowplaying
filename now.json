@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T22:13:01-05:00",
-  "source": "fallback",
+  "generated": "2026-05-12T22:13:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "I Robot (Digitally Remastered, 1997)",
+    "artist": "The Alan Parsons Project",
+    "album": "Ultimate The Alan Parsons Project",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Alan_Parsons_Project_-_I_Robot_(Digitally_Remastered,_1997).jpg",
+    "started_at": "2026-05-13T03:12:55Z",
+    "duration_seconds": 362
+  },
   "next_poll_seconds": 10
 }
