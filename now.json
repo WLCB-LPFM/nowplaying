@@ -1,16 +1,18 @@
 {
-  "generated": "2026-05-12T19:59:02-05:00",
-  "source": "autopost",
-  "mode": "music_block",
+  "generated": "2026-05-12T20:00:10-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Jesus Just Left Chicago",
-    "artist": "ZZ Top",
-    "album": "Rancho Texicano: The Very Best of ZZ Top",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
-    "started_at": "2026-05-13T00:58:53Z",
-    "duration_seconds": 210
+  "show": {
+    "name": "Classic Tuesdays with Ted",
+    "hosts": [
+      "Ted Runnels"
+    ],
+    "automated": false,
+    "starts": "20:00",
+    "ends": "23:00",
+    "genre": "Funk"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
