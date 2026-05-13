@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-12T23:03:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-12T23:07:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "1st Avenue",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_1st_Avenue.jpg",
-    "started_at": "2026-05-13T04:03:13.4240433Z",
-    "duration_seconds": 256,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
