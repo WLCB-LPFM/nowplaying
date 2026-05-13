@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T22:53:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-12T22:55:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Shine Like It Does",
-    "artist": "INXS",
-    "album": "Listen Like Thieves",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inxs_-_Shine_Like_It_Does.jpg",
-    "started_at": "2026-05-13T03:53:01Z",
-    "duration_seconds": 185
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
