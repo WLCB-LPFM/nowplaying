@@ -1,25 +1,19 @@
 {
-  "generated": "2026-05-13T13:54:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T14:00:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "Jazz Lives!",
+    "name": "Now and Then Talk Radio",
     "hosts": [
-      "Bob Dauber"
+      "Denny Farrell",
+      "Bill Mackie"
     ],
     "automated": false,
-    "starts": "12:00",
-    "ends": "14:00",
-    "genre": "Jazz"
+    "starts": "14:00",
+    "ends": "15:00",
+    "genre": null
   },
-  "track": {
-    "title": "There Is No Greater Love",
-    "artist": "Erroll Garner",
-    "album": "Erroll Garner",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_There_Is_No_Greater_Love.jpg",
-    "started_at": "2026-05-13T18:54:03Z",
-    "duration_seconds": 380
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
