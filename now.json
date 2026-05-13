@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-13T18:59:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T18:59:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "O.P.P",
-    "artist": "Naughty By Nature",
-    "album": "O.P.P",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Naughty_By_Nature_-_O.p.p.jpg",
-    "started_at": "2026-05-13T23:55:16Z",
-    "duration_seconds": 269
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
