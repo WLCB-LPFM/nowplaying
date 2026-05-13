@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-13T15:48:22-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-13T15:51:32-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Footloose",
-    "artist": "Kenny Loggins",
-    "album": "Car Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Loggins_-_Footloose.jpg",
-    "started_at": "2026-05-13T20:48:05.4543653Z",
-    "duration_seconds": 217,
-    "year": "1984"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
