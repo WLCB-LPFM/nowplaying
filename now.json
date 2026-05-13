@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T22:26:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-12T22:27:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "A Little Driving Music",
+    "artist": "Brian Bromberg",
+    "album": "A Little Driving Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brian_Bromberg_-_A_Little_Driving_Music.jpg",
+    "started_at": "2026-05-13T03:27:26Z",
+    "duration_seconds": 330
+  },
   "next_poll_seconds": 10
 }
