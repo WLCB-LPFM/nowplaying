@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T13:48:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T13:51:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Big Mama Cass",
-    "artist": "The Buddy Rich Big Band",
-    "album": "Mercy, Mercy",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Buddy_Rich_Big_Band.jpg",
-    "started_at": "2026-05-13T18:47:58Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
