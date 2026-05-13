@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T13:01:58-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T13:06:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Allison",
-    "artist": "Michael Wolff",
-    "album": "Swirl",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Wolff.jpg",
-    "started_at": "2026-05-13T18:01:34Z",
-    "duration_seconds": 316
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
