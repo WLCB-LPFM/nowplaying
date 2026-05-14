@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-14T11:41:27-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-14T11:45:44-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Mr. Jones",
-    "artist": "Counting Crows",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-14T16:41:22.8670336Z",
-    "duration_seconds": 266,
-    "year": "1993"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
