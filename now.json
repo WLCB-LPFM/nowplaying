@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T19:51:12-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T19:54:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sirius 2017 (Disco Demolition Remix)",
-    "artist": "The Alan Parsons Project",
-    "album": "Sirius 2017 (Disco Demolition Remix)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Alan_Parsons_Project_-_Sirius_2017_(Disco_Demolition_Remix).jpg",
-    "started_at": "2026-05-14T00:51:01Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
