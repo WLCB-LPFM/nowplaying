@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-14T11:06:14-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-14T11:09:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Shine",
-    "artist": "Collective Soul",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-14T16:06:09.9451476Z",
-    "duration_seconds": 226,
-    "year": "2014"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
