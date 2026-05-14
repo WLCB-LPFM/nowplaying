@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-14T02:41:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-14T02:46:20-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "La Vie en rose",
-    "artist": "Awa Ly",
-    "album": "The Best Jazz Audiophile Recommended",
-    "artwork_url": "",
-    "started_at": "2026-05-14T07:41:12.0703447Z",
-    "duration_seconds": 320,
-    "year": "2012"
+    "title": "La vie en rose",
+    "artist": "Paris Jazz",
+    "album": "Spa Lounge Music",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Paris_Jazz.jpg",
+    "started_at": "2026-05-14T07:41:31Z",
+    "duration_seconds": 336
   },
   "next_poll_seconds": 10
 }
