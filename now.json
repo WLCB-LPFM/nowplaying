@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T15:37:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-14T15:38:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "The Wheels 6",
+    "artist": "Xent",
+    "album": "The Wheels 6",
+    "artwork_url": "https://cdn.autopo.st/images/artists/x/Xent.jpg",
+    "started_at": "2026-05-14T20:38:05Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
