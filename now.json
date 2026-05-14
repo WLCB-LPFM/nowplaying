@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T20:56:15-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T20:59:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Final Heist",
-    "artist": "Waveshaper",
-    "album": "Alternate Reality",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/f20a22da6fee77d3bb6a9a01288d4ff9.png",
-    "started_at": "2026-05-14T01:56:04Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
