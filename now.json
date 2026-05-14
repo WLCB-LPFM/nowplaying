@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T20:34:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T20:39:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Checkpoint",
-    "artist": "Neon Nox",
-    "album": "Synthwave, Vol. 4",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Neon_Nox.jpg",
-    "started_at": "2026-05-14T01:33:57Z",
-    "duration_seconds": 324
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
