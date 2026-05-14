@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T20:15:55-05:00",
-  "source": "fallback",
+  "generated": "2026-05-13T20:21:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "TRON Legacy (End Titles)",
+    "artist": "Daft Punk",
+    "album": "TRON: Legacy - The Complete Edition(Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daft_Punk_-_Tron_Legacy_(End_Titles).jpg",
+    "started_at": "2026-05-14T01:21:09Z",
+    "duration_seconds": 198
+  },
   "next_poll_seconds": 10
 }
