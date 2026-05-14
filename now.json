@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T20:46:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T20:49:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Goodbye Horses",
-    "artist": "Psyche",
-    "album": "Disorder",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Psyche_-_Goodbye_Horses.jpg",
-    "started_at": "2026-05-14T01:46:05Z",
-    "duration_seconds": 242
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
