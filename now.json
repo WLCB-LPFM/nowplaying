@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-14T10:56:56-05:00",
-  "source": "fallback",
+  "generated": "2026-05-14T11:02:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Come on Eileen",
+    "artist": "Dexys Midnight Runners",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-14T16:02:12.1170903Z",
+    "duration_seconds": 237,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
