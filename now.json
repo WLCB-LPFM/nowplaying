@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T19:19:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-13T19:23:45-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Dancing2",
+    "artist": "Keli Holiday",
+    "album": "Dancing2",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Keli_Holiday_-_Dancing2.jpg",
+    "started_at": "2026-05-14T00:23:27Z",
+    "duration_seconds": 272
+  },
   "next_poll_seconds": 10
 }
