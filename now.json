@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-14T18:47:28-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-14T18:51:54-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Express Yourself",
-    "artist": "Madonna",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-14T23:47:23.9011885Z",
-    "duration_seconds": 285,
-    "year": "1989"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
