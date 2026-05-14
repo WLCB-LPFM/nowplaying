@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T20:51:48-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T20:54:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Take On Me (triple j Like A Version)",
-    "artist": "The Dreggs",
-    "album": "Take On Me (triple j Like A Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dreggs_-_Take_On_Me_(Triple_J_Like_A_Version).jpg",
-    "started_at": "2026-05-14T01:51:30Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
