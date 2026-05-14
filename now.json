@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T21:15:41-05:00",
-  "source": "autopost",
+  "generated": "2026-05-13T21:18:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "So Easy (To Fall In Love)",
-    "artist": "Olivia Dean",
-    "album": "The Art of Loving",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Olivia_Dean_-_So_Easy_(To_Fall_In_Love).jpg",
-    "started_at": "2026-05-14T02:15:21Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
