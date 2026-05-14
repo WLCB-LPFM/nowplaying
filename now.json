@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T15:18:32-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T15:20:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "R'n'b Dancehall (Intro)",
-    "artist": "Dj Maze",
-    "album": "R'n'B Dancehall Selexion, Pt. II",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Maze_-_R'n'b_Dancehall_(Intro).jpg",
-    "started_at": "2026-05-14T20:18:21Z",
-    "duration_seconds": 123
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
