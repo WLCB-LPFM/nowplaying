@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:15:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T16:17:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Man For That",
-    "artist": "Taylor Austin Dye",
-    "album": "Man For That",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Taylor_Austin_Dye_-_Man_For_That.jpg",
-    "started_at": "2026-05-15T21:14:55Z",
-    "duration_seconds": 144
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
