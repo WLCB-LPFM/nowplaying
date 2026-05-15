@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:14:59-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T15:15:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Prove You Wrong",
+    "artist": "Sheryl Crow",
+    "album": "Pride Month",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sheryl_Crow_-_Prove_You_Wrong.jpg",
+    "started_at": "2026-05-15T20:15:04Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
