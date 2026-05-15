@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T18:12:12-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T18:13:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Superstar (Remember How You Got Where You Are)",
+    "artist": "The Temptations",
+    "album": "Gold",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_Superstar_(Remember_How_You_Got_Where_You_Are).jpg",
+    "started_at": "2026-05-15T23:12:53Z",
+    "duration_seconds": 171
+  },
   "next_poll_seconds": 10
 }
