@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:36:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T16:40:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Pimps & Preachers",
-    "artist": "Paul Thorn",
-    "album": "Pimps and Preachers (plus  14 track bonus album)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Thorn_-_Pimps_&_Preachers.jpg",
-    "started_at": "2026-05-15T21:36:36Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
