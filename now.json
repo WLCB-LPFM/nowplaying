@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:39:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T15:43:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Four Walls Of Raiford (Live)",
-    "artist": "Jamey Johnson",
-    "album": "One More For The Fans (Live)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jamey_Johnson_-_Four_Walls_Of_Raiford_(Live).jpg",
-    "started_at": "2026-05-15T20:39:08Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
