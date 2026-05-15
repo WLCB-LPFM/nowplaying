@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:20:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T16:24:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Fire Away",
-    "artist": "Chris Stapleton",
-    "album": "Traveller",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Stapleton_-_Fire_Away.jpg",
-    "started_at": "2026-05-15T21:20:33Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
