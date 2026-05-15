@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T19:19:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T19:28:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Comfortably Numb (Live)",
-    "artist": "Pink Floyd",
-    "album": "Pulse (Live)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_Comfortably_Numb_(Live).jpg",
-    "started_at": "2026-05-15T00:19:31Z",
-    "duration_seconds": 570
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
