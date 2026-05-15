@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-15T03:23:31-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T03:23:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blues",
-    "artist": "Roger Willemsen",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Roger_Willemsen.jpg",
-    "started_at": "2026-05-15T08:21:23Z",
-    "duration_seconds": 145
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
