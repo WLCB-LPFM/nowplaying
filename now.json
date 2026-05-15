@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:50:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T15:53:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-    "artist": "Shakey Graves",
-    "album": "And the War Came",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shakey_Graves_-_Dearly_Departed_(Feat._Esm\u00e9_Patterson).jpg",
-    "started_at": "2026-05-15T20:50:25Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
