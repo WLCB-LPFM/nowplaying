@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T18:56:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T18:57:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Take My Heart (You Can Have It If You Want It)",
+    "artist": "Kool & The Gang",
+    "album": "Celebration: The Best Of Kool & The Gang (1979-1987)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kool_&_The_Gang_-_Take_My_Heart_(You_Can_Have_It_If_You_Want_It).jpg",
+    "started_at": "2026-05-15T23:57:07Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
