@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:25:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T15:27:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Knockin' on Your Screen Door",
-    "artist": "John Prine",
-    "album": "The Tree of Forgiveness",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Prine_-_Knockin'_On_Your_Screen_Door.jpg",
-    "started_at": "2026-05-15T20:25:29Z",
-    "duration_seconds": 138
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
