@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:52:30-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T16:57:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Ain't Love Strange",
-    "artist": "The Paul Thorn Band",
-    "album": "So Far So Good:The Best Of Paul Thorn Band Live",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Paul_Thorn_Band_-_Ain't_Love_Strange.jpg",
-    "started_at": "2026-05-15T21:52:12Z",
-    "duration_seconds": 339
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
