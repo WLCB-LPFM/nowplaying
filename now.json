@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:10:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T15:14:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Somewhere Along The Way",
-    "artist": "Eddie Dalton",
-    "album": "The Years Between",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eddie_Dalton_-_Somewhere_Along_The_Way.jpg",
-    "started_at": "2026-05-15T20:10:31Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
