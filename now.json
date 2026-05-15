@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T17:14:07-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T17:38:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Do You Feel It",
+    "artist": "The Rascals",
+    "album": "The Young Rascals (US Release)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rascals_-_Do_You_Feel_It.jpg",
+    "started_at": "2026-05-15T22:38:25Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
