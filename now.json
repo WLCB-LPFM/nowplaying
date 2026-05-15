@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-15T03:20:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-15T03:23:31-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "St. Louis Blues: St. Louis Blues",
-    "artist": "Bessie Smith",
-    "album": "The Complete Recordings, Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-05-15T08:20:43.7285573Z",
-    "duration_seconds": 182,
-    "year": "1996"
+    "title": "Blues",
+    "artist": "Roger Willemsen",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Roger_Willemsen.jpg",
+    "started_at": "2026-05-15T08:21:23Z",
+    "duration_seconds": 145
   },
   "next_poll_seconds": 10
 }
