@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T13:04:17-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T13:19:56-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "True To Myself",
+    "artist": "Ziggy Marley",
+    "album": "Dragonfly",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Ziggy_Marley_-_True_To_Myself.jpg",
+    "started_at": "2026-05-15T18:19:42Z",
+    "duration_seconds": 226
+  },
   "next_poll_seconds": 10
 }
