@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T18:06:15-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T18:06:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Standing In The Shadows Of Love",
+    "artist": "Four Tops",
+    "album": "Every Great Motown Song - The First 25 Years Vol. 1:The 1960's",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Four_Tops_-_Standing_In_The_Shadows_Of_Love.jpg",
+    "started_at": "2026-05-15T23:06:36Z",
+    "duration_seconds": 156
+  },
   "next_poll_seconds": 10
 }
