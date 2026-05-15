@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T18:03:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T18:06:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "This Time I'm Gone For Good",
-    "artist": "Bobby Bland",
-    "album": "His California Album",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Bland_-_This_Time_I'm_Gone_For_Good.jpg",
-    "started_at": "2026-05-15T23:02:55Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
