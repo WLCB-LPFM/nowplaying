@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:19:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T15:22:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Cost of Living",
-    "artist": "Don Henley",
-    "album": "Cass County (Deluxe)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Don_Henley.jpg",
-    "started_at": "2026-05-15T20:18:45Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
