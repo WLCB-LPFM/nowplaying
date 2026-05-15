@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-15T01:38:01-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-15T01:40:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Ko-Ko",
-    "artist": "Duke Ellington And His Famous Orchestra",
-    "album": "Ko-Ko / Conga Brava",
-    "artwork_url": "",
-    "started_at": "2026-05-15T06:37:53.8391461Z",
-    "duration_seconds": 155,
-    "year": "1941"
+    "title": "Ko-ko",
+    "artist": "Duke Ellington",
+    "album": "The Jazz-Blues-Swing-Box",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Ko-ko.jpg",
+    "started_at": "2026-05-15T06:40:06Z",
+    "duration_seconds": 163
   },
   "next_poll_seconds": 10
 }
