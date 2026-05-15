@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-15T04:34:29-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T04:34:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Chili-Kyss",
+    "artist": "Chris Persohke's Slide-O-Mamia",
+    "album": "The Best Jazz Audiophile Recommended, Volume 2",
+    "artwork_url": "",
+    "started_at": "2026-05-15T09:34:41.7703389Z",
+    "duration_seconds": 305,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
