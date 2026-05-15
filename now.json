@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T21:10:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T21:16:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "'Heroes'  feat.  'H\u00e9ros' (French Album Version) [2017 Remaster]",
-    "artist": "David Bowie",
-    "album": "'Heroes' / 'H\u00e9ros' (French Album Version) [2017 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/David_Bowie.jpg",
-    "started_at": "2026-05-15T02:10:34Z",
-    "duration_seconds": 365
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
