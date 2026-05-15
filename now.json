@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T21:08:27-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T21:10:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Another Girl, Another Planet (Live)",
-    "artist": "The Replacements",
-    "album": "Another Girl, Another Planet (Live)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Replacements_-_Another_Girl,_Another_Planet_(Live).jpg",
-    "started_at": "2026-05-15T02:08:11Z",
-    "duration_seconds": 152
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
