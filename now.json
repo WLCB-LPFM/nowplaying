@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T20:03:37-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T20:09:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Freedom! '90 (Remastered)",
-    "artist": "George Michael",
-    "album": "Ladies & Gentlemen",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Michael_-_Freedom!_'90_(Remastered).jpg",
-    "started_at": "2026-05-15T01:03:19Z",
-    "duration_seconds": 390
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
