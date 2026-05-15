@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:54:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T15:56:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Foggy Mountain Breakdown (Single Version)",
-    "artist": "Lester Flatt",
-    "album": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lester_Flatt.jpg",
-    "started_at": "2026-05-15T20:54:06Z",
-    "duration_seconds": 159
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
