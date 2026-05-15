@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T17:41:32-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T17:59:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Time Has Come Today (Single Version)",
+    "artist": "The Chambers Brothers",
+    "album": "Rock: The Train Kept A Rollin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Chambers_Brothers_-_Time_Has_Come_Today_(Single_Version).jpg",
+    "started_at": "2026-05-15T22:59:14Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
