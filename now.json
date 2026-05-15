@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T20:10:17-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T20:12:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Can't Get Enough Of You Baby",
-    "artist": "Smash Mouth",
-    "album": "All Star Smash Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Smash_Mouth_-_Can't_Get_Enough_Of_You_Baby.jpg",
-    "started_at": "2026-05-15T01:10:02Z",
-    "duration_seconds": 151
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
