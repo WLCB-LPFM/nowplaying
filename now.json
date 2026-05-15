@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:12:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T16:12:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "This Song Is Mine",
+    "artist": "Merle Haggard",
+    "album": "Big City",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Merle_Haggard_-_This_Song_Is_Mine.jpg",
+    "started_at": "2026-05-15T21:12:19Z",
+    "duration_seconds": 151
+  },
   "next_poll_seconds": 10
 }
