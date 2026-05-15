@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-15T16:57:39-05:00",
+  "generated": "2026-05-15T16:59:30-05:00",
   "source": "fallback",
-  "mode": "live",
-  "automation_on": false,
+  "mode": "rebroadcast",
+  "automation_on": true,
   "show": {
     "name": "Hippies and Outlaws",
     "hosts": [
