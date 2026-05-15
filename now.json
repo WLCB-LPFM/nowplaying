@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:24:53-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T16:28:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "With You I Am",
-    "artist": "Cody Johnson",
-    "album": "Gotta Be Me",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cody_Johnson_-_With_You_I_Am.jpg",
-    "started_at": "2026-05-15T21:24:40Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
