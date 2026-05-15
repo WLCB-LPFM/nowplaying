@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-15T05:23:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-15T05:28:31-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "West Coast Blues (abridged)",
-    "artist": "Wes Montgomery",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-05-15T10:23:23.2673402Z",
-    "duration_seconds": 316,
-    "year": "1987"
+    "title": "Libyan Desert Mirages",
+    "artist": "Schantz Segment",
+    "album": "Return From Exile",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Schantz_Segment.jpg",
+    "started_at": "2026-05-15T10:21:19Z",
+    "duration_seconds": 517
   },
   "next_poll_seconds": 10
 }
