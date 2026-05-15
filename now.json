@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T21:30:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T21:33:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "She Sells Sanctuary",
-    "artist": "The Cult",
-    "album": "Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cult_-_She_Sells_Sanctuary.jpg",
-    "started_at": "2026-05-15T02:29:51Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
