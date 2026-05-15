@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:22:37-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T15:25:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Turn for the Worse",
-    "artist": "The Bottle Rockets",
-    "album": "Turn For The Worse",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Bottle_Rockets_-_Turn_For_The_Worse.jpg",
-    "started_at": "2026-05-15T20:22:27Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
