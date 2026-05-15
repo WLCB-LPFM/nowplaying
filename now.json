@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:00:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T15:03:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "I Dug Up A Diamond",
+    "artist": "Mark Knopfler",
+    "album": "All The Roadrunning",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mark_Knopfler_-_I_Dug_Up_A_Diamond.jpg",
+    "started_at": "2026-05-15T20:03:09Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
