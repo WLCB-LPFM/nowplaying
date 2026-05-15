@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:48:59-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T16:51:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Cocaine and Whiskey",
-    "artist": "Them Dirty Roses",
-    "album": "Them Dirty Roses",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Them_Dirty_Roses_-_Cocaine_And_Whiskey.jpg",
-    "started_at": "2026-05-15T21:48:44Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
