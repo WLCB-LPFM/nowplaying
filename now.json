@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:43:45-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T15:44:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "More Country Than You",
+    "artist": "Alex Miller",
+    "album": "More Country Than You",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/17547be0ba14e6768d635fe15551a9d9.png",
+    "started_at": "2026-05-15T20:43:54Z",
+    "duration_seconds": 190
+  },
   "next_poll_seconds": 10
 }
