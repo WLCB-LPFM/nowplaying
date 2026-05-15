@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-14T23:58:50-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T23:59:35-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Concerto For Cootie",
-    "artist": "Duke Ellington",
-    "album": "The Jazz-Blues-Swing-Box",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Concerto_For_Cootie.jpg",
-    "started_at": "2026-05-15T04:56:27Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
