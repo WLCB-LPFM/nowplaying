@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-14T23:36:11-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-14T23:39:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Lester Leaps In",
-    "artist": "Count Basie's Kansas City Seven",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
-    "artwork_url": "",
-    "started_at": "2026-05-15T04:36:01.6378572Z",
-    "duration_seconds": 191,
-    "year": "1956"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
