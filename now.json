@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T15:34:52-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T15:35:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Look At Us(Live) feat. Vince Gill",
+    "artist": "Country's Family Reunion",
+    "album": "2010(Live / Vol. 2)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Country's_Family_Reunion.jpg",
+    "started_at": "2026-05-15T20:35:14Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
