@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:17:36-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T16:20:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Money Well Wasted",
-    "artist": "Alex Miller",
-    "album": "More Country Than You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alex_Miller_-_Money_Well_Wasted.jpg",
-    "started_at": "2026-05-15T21:17:18Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
