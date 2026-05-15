@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T13:38:48-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T13:42:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "This World",
-    "artist": "Peter Karp",
-    "album": "Magnificent Heart",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Karp_-_This_World.jpg",
-    "started_at": "2026-05-15T18:38:33Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
