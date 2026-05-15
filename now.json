@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T21:16:50-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T21:19:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "End of Beginning",
-    "artist": "Djo",
-    "album": "DECIDE",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Djo_-_End_Of_Beginning.jpg",
-    "started_at": "2026-05-15T02:16:38Z",
-    "duration_seconds": 159
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
