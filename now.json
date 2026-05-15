@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T18:15:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T18:18:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Try Me Tonight",
-    "artist": "Johnnie Taylor",
-    "album": "The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnnie_Taylor_-_Try_Me_Tonight.jpg",
-    "started_at": "2026-05-15T23:15:43Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
