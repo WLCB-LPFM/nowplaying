@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T21:03:39-05:00",
-  "source": "autopost",
+  "generated": "2026-05-14T21:07:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Weeks Go by Like Days",
-    "artist": "My Morning Jacket",
-    "album": "Chapter 1: The Sandworm Cometh - Early Recordings, B-Sides, Covers, y Mas",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/My_Morning_Jacket_-_Weeks_Go_By_Like_Days.jpg",
-    "started_at": "2026-05-15T02:03:24Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
