@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T16:40:37-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T16:41:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "The Preacher, The Politican Or The Pimp",
+    "artist": "Toronzo Cannon",
+    "album": "The Preacher, The Politician Or The Pimp",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toronzo_Cannon_-_The_Preacher,_The_Politican_Or_The_Pimp.jpg",
+    "started_at": "2026-05-15T21:40:43Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
