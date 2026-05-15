@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T18:44:37-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T18:45:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "BLESSED ARE THE MEEK",
+    "artist": "Genesis Owusu",
+    "album": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Genesis_Owusu_-_Blessed_Are_The_Meek.jpg",
+    "started_at": "2026-05-15T23:44:59Z",
+    "duration_seconds": 230
+  },
   "next_poll_seconds": 10
 }
