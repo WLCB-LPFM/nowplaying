@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T21:43:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-14T21:44:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Kiss Off",
+    "artist": "Violent Femmes",
+    "album": "Violent Femmes: Deluxe Edition",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Violent_Femmes_-_Kiss_Off.jpg",
+    "started_at": "2026-05-15T02:43:57Z",
+    "duration_seconds": 177
+  },
   "next_poll_seconds": 10
 }
