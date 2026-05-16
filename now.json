@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T20:46:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T20:47:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Just a Little Bit",
+    "artist": "Jeremy Buck",
+    "album": "Just a Little Bit",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jeremy_Buck.jpg",
+    "started_at": "2026-05-16T01:46:52Z",
+    "duration_seconds": 130
+  },
   "next_poll_seconds": 10
 }
