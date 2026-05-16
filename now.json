@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T21:55:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T21:57:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "The Ripper (Live)",
-    "artist": "Judas Priest",
-    "album": "Unleashed In The East",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Judas_Priest_-_The_Ripper_(Live).jpg",
-    "started_at": "2026-05-16T02:54:56Z",
-    "duration_seconds": 164
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
