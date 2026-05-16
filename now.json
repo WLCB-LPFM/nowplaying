@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T18:49:07-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T18:49:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Last Two Dollars",
+    "artist": "Johnnie Taylor",
+    "album": "Lifetime: A Retrospective Of Soul, Blues And Gospel, 1956-1999",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnnie_Taylor_-_Last_Two_Dollars.jpg",
+    "started_at": "2026-05-16T23:49:17Z",
+    "duration_seconds": 318
+  },
   "next_poll_seconds": 10
 }
