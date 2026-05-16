@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T20:21:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T20:24:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Save It For Later",
-    "artist": "The English Beat",
-    "album": "Keep The Beat: The Very Best Of The English Beat",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_English_Beat_-_Save_It_For_Later.jpg",
-    "started_at": "2026-05-16T01:21:30Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
