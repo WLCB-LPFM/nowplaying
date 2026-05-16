@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T10:31:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T10:35:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Flesh for Fantasy",
-    "artist": "Billy Idol",
-    "album": "Rebel Yell",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Idol_-_Flesh_For_Fantasy.jpg",
-    "started_at": "2026-05-16T15:31:21Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
