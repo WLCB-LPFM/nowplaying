@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T20:39:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T20:43:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Had to Teach That Boy Some Blues",
-    "artist": "Andrew Dykes - The Blues Man",
-    "album": "Had to Teach That Boy Some Blues",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Andrew_Dykes_-_The_Blues_Man.jpg",
-    "started_at": "2026-05-16T01:39:29Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
