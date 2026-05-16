@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T21:29:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T21:33:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Heaven and Hell",
+    "artist": "Black Sabbath",
+    "album": "Heaven and Hell",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Sabbath_-_Heaven_And_Hell.jpg",
+    "started_at": "2026-05-16T02:33:03Z",
+    "duration_seconds": 419
+  },
   "next_poll_seconds": 10
 }
