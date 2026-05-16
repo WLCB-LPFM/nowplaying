@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T17:29:32-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T17:33:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Love's Train",
-    "artist": "Con Funk Shun",
-    "album": "The Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Con_Funk_Shun_-_Love's_Train.jpg",
-    "started_at": "2026-05-16T22:29:15Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
