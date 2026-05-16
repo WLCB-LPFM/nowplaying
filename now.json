@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T11:00:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T11:05:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Rumors",
+    "artist": "Club Nouveau",
+    "album": "The Collection Volume 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Club_Nouveau_-_Rumors.jpg",
+    "started_at": "2026-05-16T16:05:38Z",
+    "duration_seconds": 297
+  },
   "next_poll_seconds": 10
 }
