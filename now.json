@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T17:38:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T17:43:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Yearning For Your Love",
-    "artist": "The Gap Band",
-    "album": "20th Century Masters: The Millennium Collection: Best Of The Gap Band",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Gap_Band_-_Yearning_For_Your_Love.jpg",
-    "started_at": "2026-05-16T22:37:42Z",
-    "duration_seconds": 345
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
