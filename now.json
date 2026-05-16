@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T22:44:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T22:50:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Soulshine (Album Version)",
-    "artist": "The Allman Brothers Band",
-    "album": "The Essential Allman Brothers Band - The Epic Years",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Allman_Brothers_Band.jpg",
-    "started_at": "2026-05-16T03:43:45Z",
-    "duration_seconds": 403
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
