@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T20:13:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T20:16:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "T.V. Age",
-    "artist": "Joe Jackson",
-    "album": "Night And Day",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Jackson_-_T.v._Age.jpg",
-    "started_at": "2026-05-16T01:13:02Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
