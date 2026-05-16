@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T11:51:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T11:55:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Fresh",
+    "artist": "Kool & The Gang",
+    "album": "The 50 Greatest Songs",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kool_&_The_Gang_-_Fresh.jpg",
+    "started_at": "2026-05-16T16:55:05Z",
+    "duration_seconds": 267
+  },
   "next_poll_seconds": 10
 }
