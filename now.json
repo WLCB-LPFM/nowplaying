@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T17:43:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T17:44:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Say Goodnight (It's Time for Love) (Part I & 2)",
+    "artist": "The Isley Brothers",
+    "album": "The Essential Isley Brothers",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Isley_Brothers.jpg",
+    "started_at": "2026-05-16T22:44:00Z",
+    "duration_seconds": 345
+  },
   "next_poll_seconds": 10
 }
