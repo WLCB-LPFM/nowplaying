@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T11:10:28-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T11:11:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Do What You Do",
+    "artist": "Jermaine Jackson",
+    "album": "Arista Heritage Series: Jermaine Jackson",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jermaine_Jackson_-_Do_What_You_Do.jpg",
+    "started_at": "2026-05-16T16:10:51Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
