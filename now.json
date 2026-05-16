@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-16T01:52:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T01:52:54-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Lonely Woman (Mono)",
-    "artist": "Ornette Coleman",
-    "album": "Lonely Woman (Mono)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/o/Ornette_Coleman.jpg",
-    "started_at": "2026-05-16T06:48:05Z",
-    "duration_seconds": 301
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
