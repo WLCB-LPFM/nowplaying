@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T21:22:56-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T21:23:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Tattoo'd Lady",
+    "artist": "Rory Gallagher",
+    "album": "Notes From San Francisco",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rory_Gallagher_-_Tattoo'd_Lady.jpg",
+    "started_at": "2026-05-16T02:22:51Z",
+    "duration_seconds": 409
+  },
   "next_poll_seconds": 10
 }
