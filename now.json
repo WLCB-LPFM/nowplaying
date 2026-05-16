@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T19:40:59-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T19:47:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Children Of The Sun",
-    "artist": "Billy Thorpe",
-    "album": "Children Of The Sun...Revisited",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Thorpe_-_Children_Of_The_Sun.jpg",
-    "started_at": "2026-05-16T00:40:44Z",
-    "duration_seconds": 404
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
