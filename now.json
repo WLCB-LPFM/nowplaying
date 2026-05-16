@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T20:07:37-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T20:12:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "You've Got Another Thing Coming",
-    "artist": "Judas Priest",
-    "album": "OCC ROCKS",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Judas_Priest_-_You've_Got_Another_Thing_Coming.jpg",
-    "started_at": "2026-05-16T01:07:24Z",
-    "duration_seconds": 307
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
