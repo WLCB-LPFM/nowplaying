@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T19:37:05-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T19:37:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Knew the Bride",
+    "artist": "Dave Edmunds",
+    "album": "The Best of Dave Edmunds",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Edmunds_-_I_Knew_The_Bride.jpg",
+    "started_at": "2026-05-16T00:37:14Z",
+    "duration_seconds": 178
+  },
   "next_poll_seconds": 10
 }
