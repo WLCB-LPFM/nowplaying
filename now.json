@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T22:39:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T22:40:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Ain't Got the Blues",
+    "artist": "Blackberry Smoke",
+    "album": "The Whippoorwill (3 Bonus Track UK/EU Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackberry_Smoke_-_Ain't_Got_The_Blues.jpg",
+    "started_at": "2026-05-16T03:39:51Z",
+    "duration_seconds": 243
+  },
   "next_poll_seconds": 10
 }
