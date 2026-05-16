@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-16T00:33:13-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T00:33:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Maple Leaf Rag",
+    "artist": "Jelly Roll Morton",
+    "album": "Cengage Learning - Martin-Waters: Essential Jazz, 3e",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jelly_Roll_Morton_-_Maple_Leaf_Rag.jpg",
+    "started_at": "2026-05-16T05:33:28Z",
+    "duration_seconds": 120
+  },
   "next_poll_seconds": 10
 }
