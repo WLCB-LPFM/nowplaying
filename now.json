@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T21:17:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T21:22:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "So Many Roads",
-    "artist": "Joe Bonamassa",
-    "album": "Joe Bonamassa Live From the Royal Albert Hall",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_So_Many_Roads.jpg",
-    "started_at": "2026-05-16T02:16:47Z",
-    "duration_seconds": 376
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
