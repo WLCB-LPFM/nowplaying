@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-16T02:11:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T02:11:46-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Imagine",
+    "artist": "Simone Kopmajer",
+    "album": "Nothing's Gonna Change",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Simone_Kopmajer_-_Imagine.jpg",
+    "started_at": "2026-05-16T07:11:30Z",
+    "duration_seconds": 351
+  },
   "next_poll_seconds": 10
 }
