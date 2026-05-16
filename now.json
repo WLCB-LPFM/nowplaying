@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T22:03:48-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T22:07:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Yer Blues",
-    "artist": "The Dirty Mac",
-    "album": "The Rolling Stones Rock And Roll Circus",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dirty_Mac_-_Yer_Blues.jpg",
-    "started_at": "2026-05-16T03:03:37Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
