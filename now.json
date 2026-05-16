@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-16T01:35:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-16T01:44:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "So What",
-    "artist": "Miles Davis Sextet",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-16T06:35:49.7460801Z",
-    "duration_seconds": 548,
-    "year": ""
+    "artist": "Miles Davis",
+    "album": "So What",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_So_What.jpg",
+    "started_at": "2026-05-16T06:35:56Z",
+    "duration_seconds": 562
   },
   "next_poll_seconds": 10
 }
