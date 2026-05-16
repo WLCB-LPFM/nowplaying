@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T17:00:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T17:10:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Make Me a Believer",
+    "artist": "Luther Vandross",
+    "album": "Busy Body",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Luther_Vandross_-_Make_Me_A_Believer.jpg",
+    "started_at": "2026-05-16T22:10:23Z",
+    "duration_seconds": 321
+  },
   "next_poll_seconds": 10
 }
