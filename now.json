@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T20:43:34-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T20:43:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Be Cruel",
+    "artist": "Cheap Trick",
+    "album": "The Complete Epic Albums Collection (MFiT)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cheap_Trick_-_Don't_Be_Cruel.jpg",
+    "started_at": "2026-05-16T01:43:36Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
