@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T18:20:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T18:20:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "While I'm Alone (24-Bit Digitally Remastered 04) (Feat. Frankie Beverly)",
+    "artist": "Maze",
+    "album": "Maze",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Maze.jpg",
+    "started_at": "2026-05-16T23:20:25Z",
+    "duration_seconds": 277
+  },
   "next_poll_seconds": 10
 }
