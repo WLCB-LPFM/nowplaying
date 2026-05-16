@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T20:57:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T21:00:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Old Time Rock And Roll",
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "album": "70's Rock Down",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_&_The_Silver_Bullet_Band_-_Old_Time_Rock_And_Roll.jpg",
-    "started_at": "2026-05-16T01:57:16Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
