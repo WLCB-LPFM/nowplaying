@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T22:11:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T22:14:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Tired of Trying",
-    "artist": "Danny Bryant",
-    "album": "Means of Escape",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Danny_Bryant_-_Tired_Of_Trying.jpg",
-    "started_at": "2026-05-16T03:11:01Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
