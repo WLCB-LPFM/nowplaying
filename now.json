@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T19:06:41-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T19:10:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Rock Steady",
-    "artist": "Daryl Hall & John Oates",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Daryl_Hall_&_John_Oates.jpg",
-    "started_at": "2026-05-16T00:06:27Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
