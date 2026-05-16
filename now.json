@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T21:02:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T21:06:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Cobra",
-    "artist": "Savoy Brown",
-    "album": "Goin' to the Delta",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Savoy_Brown_-_Cobra.jpg",
-    "started_at": "2026-05-16T02:01:49Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
