@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T20:49:17-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T20:51:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Burnt Out Town",
-    "artist": "Tom Petty & The Heartbreakers",
-    "album": "Burnt Out Town",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_&_The_Heartbreakers_-_Burnt_Out_Town.jpg",
-    "started_at": "2026-05-16T01:49:02Z",
-    "duration_seconds": 185
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
