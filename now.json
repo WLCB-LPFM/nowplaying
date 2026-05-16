@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T22:20:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-15T22:24:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
-    "artist": "Shemekia Copeland",
-    "album": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shemekia_Copeland.jpg",
-    "started_at": "2026-05-16T03:19:54Z",
-    "duration_seconds": 273
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
