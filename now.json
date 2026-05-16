@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T19:52:05-05:00",
-  "source": "fallback",
+  "generated": "2026-05-15T19:52:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Morning Dance",
+    "artist": "Spyro Gyra",
+    "album": "Morning Dance",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spyro_Gyra_-_Morning_Dance.jpg",
+    "started_at": "2026-05-16T00:52:39Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
