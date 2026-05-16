@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T18:34:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T18:38:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Don't You Know That?",
-    "artist": "Luther Vandross",
-    "album": "Never Too Much",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Luther_Vandross_-_Don't_You_Know_That?.jpg",
-    "started_at": "2026-05-16T23:34:45Z",
-    "duration_seconds": 242
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
