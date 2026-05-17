@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T20:43:49-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T20:44:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Telephone Love",
+    "artist": "J.C. Lodge",
+    "album": "Telephone Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/J.c._Lodge_-_Telephone_Love.jpg",
+    "started_at": "2026-05-17T01:43:59Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
