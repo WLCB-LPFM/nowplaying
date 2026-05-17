@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T21:36:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T21:40:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "This Gift of Life",
-    "artist": "Teddy Pendergrass",
-    "album": "This One's For You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Teddy_Pendergrass_-_This_Gift_Of_Life.jpg",
-    "started_at": "2026-05-17T02:36:29Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
