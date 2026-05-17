@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-17T08:19:49-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T08:20:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Stormy Monday Blues",
+    "artist": "Earl Hines and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-17T13:19:57.9993698Z",
+    "duration_seconds": 182,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
