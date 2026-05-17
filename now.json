@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-17T08:47:39-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T08:48:24-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Toy Department (1940)",
+    "artist": "Rex Irving's Modern Men of Music",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-17T13:48:16.4594089Z",
+    "duration_seconds": 163,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
