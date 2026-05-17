@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T19:48:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T19:51:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Let's Get Married",
-    "artist": "Jagged Edge",
-    "album": "J.E. Heartbreak",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jagged_Edge_-_Let's_Get_Married.jpg",
-    "started_at": "2026-05-17T00:47:50Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
