@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T20:26:01-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T20:26:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Like That",
+    "artist": "Future, Metro Boomin, Kendrick Lamar",
+    "album": "WE DON'T TRUST YOU",
+    "artwork_url": "https://cdn.autopo.st/images/artists/f/Future,_Metro_Boomin,_Kendrick_Lamar.jpg",
+    "started_at": "2026-05-17T01:26:12Z",
+    "duration_seconds": 267
+  },
   "next_poll_seconds": 10
 }
