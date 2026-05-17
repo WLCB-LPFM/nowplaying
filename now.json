@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-17T07:58:10-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T08:00:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Louisiana Purchase (1940)",
+    "artist": "Will Osborne and his Slide Music",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-17T13:00:28.1962393Z",
+    "duration_seconds": 184,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
