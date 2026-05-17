@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T20:55:39-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T20:58:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Baby Can I Hold You Tonight",
-    "artist": "Foxy Brown",
-    "album": "Baby Can I Hold You Tonight",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foxy_Brown_-_Baby_Can_I_Hold_You_Tonight.jpg",
-    "started_at": "2026-05-17T01:55:28Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
