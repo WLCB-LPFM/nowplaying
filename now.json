@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-17T01:42:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-17T01:45:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Willow Weep for Me",
-    "artist": "Art Tatum",
-    "album": "The Complete Pablo Solo Masterpieces",
-    "artwork_url": "",
-    "started_at": "2026-05-17T06:42:52.2500652Z",
-    "duration_seconds": 164,
-    "year": "1991"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
