@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T19:12:57-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T19:13:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Ribbon In The Sky",
+    "artist": "Stevie Wonder",
+    "album": "The Complete Stevie Wonder",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Ribbon_In_The_Sky.jpg",
+    "started_at": "2026-05-17T00:13:08Z",
+    "duration_seconds": 338
+  },
   "next_poll_seconds": 10
 }
