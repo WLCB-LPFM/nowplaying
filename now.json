@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T20:12:41-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T20:13:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Aggressive",
+    "artist": "Gucci Mane",
+    "album": "Aggressive",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gucci_Mane_-_Aggressive.jpg",
+    "started_at": "2026-05-17T01:13:12Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
