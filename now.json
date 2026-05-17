@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T18:17:40-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T18:18:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "How Long Can She Last (Going Fast)",
+    "artist": "Webb Wilder",
+    "album": "Scattered, Smothered And Covered: A Webb Wilder Overview",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Webb_Wilder_-_How_Long_Can_She_Last_(Going_Fast).jpg",
+    "started_at": "2026-05-17T23:18:39Z",
+    "duration_seconds": 183
+  },
   "next_poll_seconds": 10
 }
