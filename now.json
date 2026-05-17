@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-17T08:22:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T08:23:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Left My Heart at the Stage Door Canteen",
+    "artist": "Mal Hallett and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-17T13:23:00.247247Z",
+    "duration_seconds": 172,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
