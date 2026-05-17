@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T19:34:02-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T19:36:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Touch The Fire",
+    "artist": "Devon Niko",
+    "album": "Solitude",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Devon_Niko.jpg",
+    "started_at": "2026-05-17T00:36:20Z",
+    "duration_seconds": 363
+  },
   "next_poll_seconds": 10
 }
