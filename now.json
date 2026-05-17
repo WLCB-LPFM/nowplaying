@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T18:55:13-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T19:00:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "No Pain, (No Gain)",
-    "artist": "Betty Wright",
-    "album": "Mother Wit",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Betty_Wright_-_No_Pain,_(No_Gain).jpg",
-    "started_at": "2026-05-16T23:54:55Z",
-    "duration_seconds": 313
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
