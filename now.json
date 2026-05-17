@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T20:36:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T20:40:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Sun Is Shining",
-    "artist": "Bob Marley & The Wailers",
-    "album": "Africa Unite: The Singles Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Marley_&_The_Wailers_-_Sun_Is_Shining.jpg",
-    "started_at": "2026-05-17T01:35:58Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
