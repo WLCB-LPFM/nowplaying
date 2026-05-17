@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T19:27:00-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T19:27:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "If You Don't Know Me By Now",
+    "artist": "Harold Melvin & The Blue Notes",
+    "album": "The Sound Of Philadelphia: Gamble & Huff's Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harold_Melvin_&_The_Blue_Notes_-_If_You_Don't_Know_Me_By_Now.jpg",
+    "started_at": "2026-05-17T00:27:14Z",
+    "duration_seconds": 207
+  },
   "next_poll_seconds": 10
 }
