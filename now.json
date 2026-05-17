@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T18:01:32-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T18:02:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Play That Fast Thing (One More Time)",
+    "artist": "Rockpile",
+    "album": "Quiet Please: The New Best of Nick Lowe",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rockpile_-_Play_That_Fast_Thing_(One_More_Time).jpg",
+    "started_at": "2026-05-17T23:02:37Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
