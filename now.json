@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-17T06:04:52-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-17T06:07:16-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Peter (1940)",
-    "artist": "The Ramblers",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-17T11:04:49.9988984Z",
-    "duration_seconds": 161,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
