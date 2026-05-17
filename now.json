@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T18:15:15-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T18:17:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Slow Down (Remastered 2009)",
-    "artist": "The Beatles",
-    "album": "Past Masters (Vols. 1 & 2 / Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_Slow_Down_(Remastered_2009).jpg",
-    "started_at": "2026-05-17T23:14:58Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
