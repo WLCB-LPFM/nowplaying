@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-17T07:55:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T07:55:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My Home is in a Southern Town (1940)",
+    "artist": "The Morton Seven",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-17T12:55:39.2274765Z",
+    "duration_seconds": 160,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
