@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T21:02:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T21:07:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Like",
-    "artist": "Guy",
-    "album": "Guy - Special Edition",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Guy_-_I_Like.jpg",
-    "started_at": "2026-05-17T02:02:26Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
