@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T09:39:27-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T09:41:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Ballin' the Jack",
-    "artist": "Dick Jurgens & His Orchestra",
-    "album": "Dancing In Person with Dick Jurgens at the Aragon Ballroom",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dick_Jurgens_&_His_Orchestra.jpg",
-    "started_at": "2026-05-17T14:39:04Z",
-    "duration_seconds": 132
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
