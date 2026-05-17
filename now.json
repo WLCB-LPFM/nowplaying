@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-17T07:41:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T07:41:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When That Midnight Choo Choo Leaves for Alabam (1940)",
+    "artist": "The Railroad Men",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-17T12:41:51.3115267Z",
+    "duration_seconds": 142,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
