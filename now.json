@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-17T00:12:33-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-17T00:15:10-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "I Gotta Right to Sing the Blues",
-    "artist": "Louis Armstrong & His Orchestra",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-05-17T05:12:26.6946737Z",
-    "duration_seconds": 174,
-    "year": "1937"
+    "title": "Oh, Lady, Be Good!",
+    "artist": "Charlie Parker",
+    "album": "Now's the Time, Vol. 6",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Oh,_Lady,_Be_Good!.jpg",
+    "started_at": "2026-05-17T05:09:48Z",
+    "duration_seconds": 665
   },
   "next_poll_seconds": 10
 }
