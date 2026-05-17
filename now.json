@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T19:18:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T19:22:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Jam Tonight",
-    "artist": "Freddie Jackson",
-    "album": "Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Freddie_Jackson_-_Jam_Tonight.jpg",
-    "started_at": "2026-05-17T00:17:54Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
