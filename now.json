@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T19:10:22-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T19:12:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "I'm Your Puppet",
-    "artist": "James & Bobby Purify",
-    "album": "The Greatest Love Vol. 1",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_&_Bobby_Purify_-_I'm_Your_Puppet.jpg",
-    "started_at": "2026-05-17T00:10:06Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
