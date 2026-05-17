@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-17T08:45:24-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T08:45:36-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Flight of the Bumble Bee (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-17T13:45:29.0721579Z",
+    "duration_seconds": 136,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
