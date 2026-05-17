@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T21:45:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-16T21:50:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Don't Want to Lose You (Remastered)",
-    "artist": "Phyllis Hyman",
-    "album": "Phyllis Hyman (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Phyllis_Hyman_-_I_Don't_Want_To_Lose_You_(Remastered).jpg",
-    "started_at": "2026-05-17T02:44:56Z",
-    "duration_seconds": 328
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
