@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T18:44:12-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T18:47:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Animal Nitrate",
-    "artist": "Suede",
-    "album": "The Best of Suede",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Suede_-_Animal_Nitrate.jpg",
-    "started_at": "2026-05-17T23:44:01Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
