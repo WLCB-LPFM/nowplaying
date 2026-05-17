@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-17T07:02:29-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-17T07:04:54-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Moonlight Becomes You",
-    "artist": "Johnny Jones and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-17T12:02:23.9146475Z",
-    "duration_seconds": 156,
-    "year": "1942"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Legendary Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-05-17T12:02:15Z",
+    "duration_seconds": 323
   },
   "next_poll_seconds": 10
 }
