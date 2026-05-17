@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T20:40:28-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T20:41:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bam Bam",
+    "artist": "Sister Nancy",
+    "album": "Reggae Anthology: Winston Riley - Quintessential Techniques",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sister_Nancy_-_Bam_Bam.jpg",
+    "started_at": "2026-05-17T01:40:44Z",
+    "duration_seconds": 190
+  },
   "next_poll_seconds": 10
 }
