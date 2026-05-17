@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T21:50:17-05:00",
-  "source": "fallback",
+  "generated": "2026-05-16T21:50:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Imagine This",
+    "artist": "Pieces Of A Dream",
+    "album": "Imagine This",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/a66161a6b71c0e778144281e4b400e98.png",
+    "started_at": "2026-05-17T02:50:08Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
