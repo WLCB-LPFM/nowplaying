@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:24:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T21:26:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Mercury Blues",
+    "artist": "Jackson Browne & David Lindley",
+    "album": "Love Is Strange",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jackson_Browne_&_David_Lindley.jpg",
+    "started_at": "2026-05-18T02:25:38Z",
+    "duration_seconds": 316
+  },
   "next_poll_seconds": 10
 }
