@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-18T12:58:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-18T13:00:26-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Obsession",
+    "artist": "Animotion",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-18T18:00:16.6667889Z",
+    "duration_seconds": 228,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
