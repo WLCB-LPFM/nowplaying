@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:15:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T21:16:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Wurlitzer Prize (I Don't Want To Get Over You)",
-    "artist": "Willie Nelson",
-    "album": "Live And Kickin'",
-    "artwork_url": "https://cdn.autopo.st/images/artists/w/Willie_Nelson.jpg",
-    "started_at": "2026-05-18T02:14:34Z",
-    "duration_seconds": 150
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
