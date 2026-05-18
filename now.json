@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-18T00:30:51-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-18T00:35:40-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "I Got Rhythm",
-    "artist": "Don Byas and Slam Stewart",
-    "album": "The Don Byas Collection 1938-61",
-    "artwork_url": "",
-    "started_at": "2026-05-18T05:30:46.7814962Z",
-    "duration_seconds": 300,
-    "year": "1987"
+    "artist": "Don Byas",
+    "album": "Jazz Club",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Don_Byas_-_I_Got_Rhythm.jpg",
+    "started_at": "2026-05-18T05:31:25Z",
+    "duration_seconds": 307
   },
   "next_poll_seconds": 10
 }
