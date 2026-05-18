@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T20:26:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T20:27:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Funk In A Mason Jar",
-    "artist": "Harvey Mason",
-    "album": "Funk In A Mason Jar",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harvey_Mason_-_Funk_In_A_Mason_Jar.jpg",
-    "started_at": "2026-05-18T01:26:00Z",
-    "duration_seconds": 110
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
