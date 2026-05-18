@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:42:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T21:44:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "300 Pounds of Hongry",
-    "artist": "Tony Joe White",
-    "album": "The Train I'm On",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_300_Pounds_Of_Hongry.jpg",
-    "started_at": "2026-05-18T02:42:07Z",
-    "duration_seconds": 164
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
