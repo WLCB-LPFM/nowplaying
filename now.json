@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:03:12-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T21:06:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Looking for a Love",
-    "artist": "The Isley Brothers",
-    "album": "The Complete RCA Victor and T-Neck Album Masters",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b4cb18479376218f50107b37bdfdedda.png",
-    "started_at": "2026-05-18T02:02:52Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
