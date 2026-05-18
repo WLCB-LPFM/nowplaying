@@ -1,25 +1,9 @@
 {
-  "generated": "2026-05-18T14:56:09-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-05-18T15:00:03-05:00",
+  "source": "fallback",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Motorsports Report",
-    "hosts": [
-      "Matthew Lodareii"
-    ],
-    "automated": false,
-    "starts": "14:00",
-    "ends": "15:00",
-    "genre": null
-  },
-  "track": {
-    "title": "Boombastic",
-    "artist": "Shaggy",
-    "album": "Essential",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shaggy_-_Boombastic.jpg",
-    "started_at": "2026-05-18T19:55:50Z",
-    "duration_seconds": 261
-  },
+  "show": null,
+  "track": null,
   "next_poll_seconds": 10
 }
