@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-18T02:16:05-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-18T02:20:43-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Man I Love",
-    "artist": "Coleman Hawkins Quartet",
-    "album": "The Smithsonian Collection of Classic Jazz",
-    "artwork_url": "",
-    "started_at": "2026-05-18T07:15:55.1353797Z",
-    "duration_seconds": 295,
-    "year": "1973"
+    "title": "Oh, Lady, Be Good!",
+    "artist": "Charlie Parker",
+    "album": "Now's the Time, Vol. 6",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Oh,_Lady,_Be_Good!.jpg",
+    "started_at": "2026-05-18T07:13:21Z",
+    "duration_seconds": 665
   },
   "next_poll_seconds": 10
 }
