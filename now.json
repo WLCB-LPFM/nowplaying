@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:48:06-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T21:48:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Prisons On The Road",
+    "artist": "John Mayall",
+    "album": "Back To The Roots",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Mayall_-_Prisons_On_The_Road.jpg",
+    "started_at": "2026-05-18T02:48:11Z",
+    "duration_seconds": 257
+  },
   "next_poll_seconds": 10
 }
