@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T20:05:47-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T20:06:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Well's Gone Dry",
+    "artist": "The Crusaders",
+    "album": "Southern Comfort",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Crusaders_-_The_Well's_Gone_Dry.jpg",
+    "started_at": "2026-05-18T01:06:30Z",
+    "duration_seconds": 287
+  },
   "next_poll_seconds": 10
 }
