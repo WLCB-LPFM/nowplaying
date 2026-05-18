@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-18T18:37:03-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-18T18:40:38-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Kiss",
-    "artist": "Prince and the Revolution",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-18T23:37:01.2065293Z",
-    "duration_seconds": 221,
-    "year": "1986"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
