@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T19:15:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T19:16:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "A of D (Live)",
+    "artist": "Widespread Panic",
+    "album": "Valdosta 1989",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Widespread_Panic.jpg",
+    "started_at": "2026-05-18T00:16:33Z",
+    "duration_seconds": 184
+  },
   "next_poll_seconds": 10
 }
