@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T19:26:09-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T19:30:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Walk This Way",
-    "artist": "The String Cheese Incident",
-    "album": "A String Cheese Incident",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/94f0de7672cf1573f8ccdd8ea736437f.png",
-    "started_at": "2026-05-18T00:25:52Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
