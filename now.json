@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T19:19:27-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T19:19:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Pickin' Up the Pieces (Live)",
+    "artist": "Widespread Panic",
+    "album": "The Essential Widespread Panic",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_Pickin'_Up_The_Pieces_(Live).jpg",
+    "started_at": "2026-05-18T00:19:35Z",
+    "duration_seconds": 326
+  },
   "next_poll_seconds": 10
 }
