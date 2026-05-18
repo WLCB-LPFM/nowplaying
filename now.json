@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T20:36:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T20:36:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Setting Me Up",
+    "artist": "Eric Clapton",
+    "album": "Just One Night",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Setting_Me_Up.jpg",
+    "started_at": "2026-05-18T01:36:25Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
