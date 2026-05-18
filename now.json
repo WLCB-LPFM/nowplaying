@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:06:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T21:10:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Makin' Whoopee! (with Rickie Lee Jones)",
-    "artist": "Dr. John",
-    "album": "Makin' Whoopee! (with Rickie Lee Jones)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dr._John_-_Makin'_Whoopee!_(With_Rickie_Lee_Jones).jpg",
-    "started_at": "2026-05-18T02:06:07Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
