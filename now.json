@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:20:37-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T21:24:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Come Rain or Come Shine",
-    "artist": "Eric Clapton",
-    "album": "Riding With The King",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Come_Rain_Or_Come_Shine.jpg",
-    "started_at": "2026-05-18T02:20:26Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
