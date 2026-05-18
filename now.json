@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T20:11:35-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T20:14:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Hot Dawgit",
-    "artist": "Ramsey Lewis",
-    "album": "Constellations: The Universe of Earth, Wind & Fire",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ramsey_Lewis_-_Hot_Dawgit.jpg",
-    "started_at": "2026-05-18T01:11:16Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
