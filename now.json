@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-17T22:17:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-17T22:20:08-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "St. Louis Blues: St. Louis Blues",
-    "artist": "Bessie Smith",
-    "album": "The Complete Recordings, Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-05-18T03:17:10.8552695Z",
-    "duration_seconds": 182,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
