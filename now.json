@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:38:25-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T21:38:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Rider in the Rain",
+    "artist": "Randy Newman",
+    "album": "Rider in the Rain",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Randy_Newman_-_Rider_In_The_Rain.jpg",
+    "started_at": "2026-05-18T02:38:25Z",
+    "duration_seconds": 235
+  },
   "next_poll_seconds": 10
 }
