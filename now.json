@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T19:55:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T19:56:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "President of What?",
+    "artist": "Death Cab for Cutie",
+    "album": "Something About Airplanes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Death_Cab_For_Cutie_-_President_Of_What?.jpg",
+    "started_at": "2026-05-18T00:56:10Z",
+    "duration_seconds": 241
+  },
   "next_poll_seconds": 10
 }
