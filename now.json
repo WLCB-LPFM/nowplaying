@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:45:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T21:46:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Walkin' Blues",
+    "artist": "The Paul Butterfield Blues Band",
+    "album": "Walkin' Blues",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Paul_Butterfield_Blues_Band_-_Walkin'_Blues.jpg",
+    "started_at": "2026-05-18T02:44:56Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
