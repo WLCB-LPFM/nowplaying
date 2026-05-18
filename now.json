@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-18T00:59:53-05:00",
-  "source": "autopost",
+  "generated": "2026-05-18T01:00:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Bare Essentials",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Bare_Essentials.jpg",
-    "started_at": "2026-05-18T05:55:44Z",
-    "duration_seconds": 273
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
