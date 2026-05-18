@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T19:44:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T19:45:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Panic Song",
+    "artist": "Green Day",
+    "album": "The Green Day Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Green_Day_-_Panic_Song.jpg",
+    "started_at": "2026-05-18T00:45:10Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
