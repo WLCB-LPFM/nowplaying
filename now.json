@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T19:48:38-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T19:48:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Friend Is a Four Letter Word",
+    "artist": "Cake",
+    "album": "Fashion Nugget",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cake_-_Friend_Is_A_Four_Letter_Word.jpg",
+    "started_at": "2026-05-18T00:48:38Z",
+    "duration_seconds": 202
+  },
   "next_poll_seconds": 10
 }
