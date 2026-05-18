@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-18T00:35:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-18T00:36:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Got Rhythm",
-    "artist": "Don Byas",
-    "album": "Jazz Club",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Don_Byas_-_I_Got_Rhythm.jpg",
-    "started_at": "2026-05-18T05:31:25Z",
-    "duration_seconds": 307
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
