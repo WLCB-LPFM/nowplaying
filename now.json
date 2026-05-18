@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T19:51:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T19:52:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Walkin' On The Sun",
+    "artist": "Smash Mouth",
+    "album": "Fush Yu Mang",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Smash_Mouth_-_Walkin'_On_The_Sun.jpg",
+    "started_at": "2026-05-18T00:52:07Z",
+    "duration_seconds": 207
+  },
   "next_poll_seconds": 10
 }
