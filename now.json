@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T21:10:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-17T21:10:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Get Out Of My Life Woman",
+    "artist": "Allen Toussaint",
+    "album": "Dear Jerry: Celebrating The Music Of Jerry Garcia",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Allen_Toussaint_-_Get_Out_Of_My_Life_Woman.jpg",
+    "started_at": "2026-05-18T02:10:14Z",
+    "duration_seconds": 223
+  },
   "next_poll_seconds": 10
 }
