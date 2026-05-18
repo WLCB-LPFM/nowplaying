@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T20:17:47-05:00",
-  "source": "autopost",
+  "generated": "2026-05-17T20:22:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Vapor",
-    "artist": "Soulive",
-    "album": "Break Out",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Soulive_-_Vapor.jpg",
-    "started_at": "2026-05-18T01:17:33Z",
-    "duration_seconds": 299
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
