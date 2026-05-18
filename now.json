@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-18T15:36:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-18T15:36:42-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Good Times",
-    "artist": "Chic",
-    "album": "Billboard #1s: The '70s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chic_-_Good_Times.jpg",
-    "started_at": "2026-05-18T20:33:08Z",
-    "duration_seconds": 222
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
