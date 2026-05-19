@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T08:07:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T08:10:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Caribbean Queen (No More Love On",
-    "artist": "Various Artist",
-    "album": "Billboard Top Hits: 1984",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/Various_Artist.jpg",
-    "started_at": "2026-05-19T13:07:14Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
