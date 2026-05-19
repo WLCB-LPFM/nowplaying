@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T20:28:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-18T20:45:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Cape Verdean Blues",
+    "artist": "Horace Silver Quintet",
+    "album": "The Best Of Blue Note 3",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/8f81853186384f5acfbed7055faca06d.png",
+    "started_at": "2026-05-19T01:45:37Z",
+    "duration_seconds": 299
+  },
   "next_poll_seconds": 10
 }
