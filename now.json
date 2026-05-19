@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T20:26:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-18T20:28:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Chicago",
-    "artist": "Chicago",
-    "album": "Night & Day: Big Band",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_Chicago.jpg",
-    "started_at": "2026-05-19T01:25:54Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
