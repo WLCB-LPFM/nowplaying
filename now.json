@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-19T06:35:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-19T06:39:37-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Escapade",
-    "artist": "Janet Jackson",
-    "album": "Rhythm Nation",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Escapade.jpg",
-    "started_at": "2026-05-19T11:35:00.0165584Z",
-    "duration_seconds": 283,
-    "year": "1989"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
