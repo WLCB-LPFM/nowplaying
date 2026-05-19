@@ -1,17 +1,25 @@
 {
-  "generated": "2026-05-19T06:58:57-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-05-19T07:00:04-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
-    "title": "The Safety Dance",
+    "title": "The Safety Dance (12' Version)",
     "artist": "Men Without Hats",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-19T11:58:47.8758847Z",
-    "duration_seconds": 270,
-    "year": "1982"
+    "album": "NOW That's What I Call 12' 80s",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Men_Without_Hats.jpg",
+    "started_at": "2026-05-19T11:58:54Z",
+    "duration_seconds": 272
   },
   "next_poll_seconds": 10
 }
