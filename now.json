@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T15:39:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T15:43:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Without Me",
-    "artist": "Eminem",
-    "album": "Without Me",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eminem_-_Without_Me.jpg",
-    "started_at": "2026-05-19T20:39:23Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
