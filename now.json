@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-19T01:02:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-19T01:04:44-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You'd Be So Nice to Come Home To",
-    "artist": "Ella Fitzgerald",
-    "album": "Ella at Juan-Les-Pins",
-    "artwork_url": "",
-    "started_at": "2026-05-19T06:02:11.0156369Z",
-    "duration_seconds": 160,
-    "year": "1964"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
