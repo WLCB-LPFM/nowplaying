@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T16:44:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T16:50:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "DJs Are The New Rockstars-Live Mashup Mix 4",
-    "artist": "DJ Godfather",
-    "album": "DJs Are The New Rock Stars-Live Mashup Mix",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dj_Godfather.jpg",
-    "started_at": "2026-05-19T21:44:26Z",
-    "duration_seconds": 360
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
