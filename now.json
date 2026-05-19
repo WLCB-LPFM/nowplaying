@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T08:51:58-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T08:55:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Automatic (Single Version)",
-    "artist": "The Pointer Sisters",
-    "album": "TOP 40 HITDOSSIER - 80s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Pointer_Sisters_-_Automatic_(Single_Version).jpg",
-    "started_at": "2026-05-19T13:51:41Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
