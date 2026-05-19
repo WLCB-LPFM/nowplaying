@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-19T00:33:51-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T00:34:36-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dinah",
-    "artist": "Django Reinhardt",
-    "album": "La Vie Que Va",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Django_Reinhardt_-_Dinah.jpg",
-    "started_at": "2026-05-19T05:32:15Z",
-    "duration_seconds": 155
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
