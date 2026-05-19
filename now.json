@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-19T14:29:03-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T14:30:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-19T19:30:08.3323151Z",
+    "duration_seconds": 249,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
