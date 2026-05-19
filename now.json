@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T21:16:04-05:00",
-  "source": "fallback",
+  "generated": "2026-05-18T21:17:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Manhattan",
+    "artist": "Annie Ross",
+    "album": "Skylark",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/014ea4ed9b3c57b72d3fb6c0a72a562a.png",
+    "started_at": "2026-05-19T02:17:19Z",
+    "duration_seconds": 130
+  },
   "next_poll_seconds": 10
 }
