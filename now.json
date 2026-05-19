@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T21:46:03-05:00",
-  "source": "autopost",
+  "generated": "2026-05-18T21:52:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "America",
-    "artist": "Bobby Sanabria",
-    "album": "West Side Story Reimagined",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bobby_Sanabria.jpg",
-    "started_at": "2026-05-19T02:45:43Z",
-    "duration_seconds": 397
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
