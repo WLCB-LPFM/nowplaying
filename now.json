@@ -1,25 +1,17 @@
 {
-  "generated": "2026-05-19T16:57:29-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-05-19T17:00:04-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Roadhouse Radio",
-    "hosts": [
-      "Joe Powers"
-    ],
-    "automated": false,
-    "starts": "15:00",
-    "ends": "17:00",
-    "genre": "Country"
-  },
+  "show": null,
   "track": {
     "title": "Panama",
     "artist": "Van Halen",
     "album": "Panama",
     "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Panama.jpg",
-    "started_at": "2026-05-19T21:57:13Z",
-    "duration_seconds": 210
+    "started_at": "2026-05-19T21:57:04.5947796Z",
+    "duration_seconds": 202,
+    "year": "1984"
   },
   "next_poll_seconds": 10
 }
