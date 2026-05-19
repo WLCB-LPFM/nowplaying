@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-19T00:00:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T00:00:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Midnight Rendezvous",
-    "artist": "The Babys",
-    "album": "Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Babys_-_Midnight_Rendezvous.jpg",
-    "started_at": "2026-05-19T04:57:21Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
