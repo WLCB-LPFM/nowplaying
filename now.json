@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-19T01:26:18-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T01:26:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Take Five",
+    "artist": "The Dave Brubeck Quartet",
+    "album": "Best of the Best",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dave_Brubeck_Quartet_-_Take_Five.jpg",
+    "started_at": "2026-05-19T06:26:41Z",
+    "duration_seconds": 325
+  },
   "next_poll_seconds": 10
 }
