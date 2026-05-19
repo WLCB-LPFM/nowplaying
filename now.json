@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-19T14:54:41-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T14:54:53-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cars",
+    "artist": "Gary Numan",
+    "album": "The Pleasure Principle",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Numan_-_Cars.jpg",
+    "started_at": "2026-05-19T19:54:40.6843252Z",
+    "duration_seconds": 217,
+    "year": "2010"
+  },
   "next_poll_seconds": 10
 }
