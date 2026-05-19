@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-19T14:14:35-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-19T14:17:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Le Freak",
-    "artist": "Chick",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-19T19:14:29.6668354Z",
-    "duration_seconds": 207,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
