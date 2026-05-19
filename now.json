@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T21:20:24-05:00",
-  "source": "autopost",
+  "generated": "2026-05-18T21:23:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Norwegian Wood (This Bird Has Flown)",
-    "artist": "The Buddy Rich Big Band",
-    "album": "Big Swing Face",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/85098cb2b0e46e550bb9d7cdbf34ea16.png",
-    "started_at": "2026-05-19T02:20:08Z",
-    "duration_seconds": 177
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
