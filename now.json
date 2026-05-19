@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T15:24:00-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T15:24:35-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Bye Bye Bye [Instrumental]",
+    "artist": "*NSYNC",
+    "album": "Bye Bye Bye",
+    "artwork_url": "null",
+    "started_at": "2026-05-19T20:24:13Z",
+    "duration_seconds": 203
+  },
   "next_poll_seconds": 10
 }
