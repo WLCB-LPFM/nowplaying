@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T21:23:00-05:00",
-  "source": "fallback",
+  "generated": "2026-05-18T21:25:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "New York State of Mind",
+    "artist": "Mel Torm\u00e9",
+    "album": "Mel Torme' And Friends",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mel_Torm\u00e9.jpg",
+    "started_at": "2026-05-19T02:24:54Z",
+    "duration_seconds": 306
+  },
   "next_poll_seconds": 10
 }
