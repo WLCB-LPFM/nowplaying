@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T07:27:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T07:28:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "u gustu classicu rmx",
+    "artist": "Pugliese",
+    "album": "U gustu \u00e8 classicu",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Pugliese.jpg",
+    "started_at": "2026-05-19T12:28:26Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
