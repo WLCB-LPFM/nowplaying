@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-19T06:16:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T06:16:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Stronger",
+    "artist": "Kanye West",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-19T11:16:52.2897409Z",
+    "duration_seconds": 301,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
