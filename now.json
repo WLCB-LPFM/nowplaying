@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T20:14:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-18T20:21:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Georgia On My Mind (Live 1961)",
-    "artist": "Ray Charles",
-    "album": "Live in Paris",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/1df448ba2625c9ba47849994a43574eb.png",
-    "started_at": "2026-05-19T01:13:45Z",
-    "duration_seconds": 453
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
