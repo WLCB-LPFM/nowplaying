@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T21:06:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-18T21:10:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Spain",
+    "artist": "Chick Corea Akoustic Band",
+    "album": "Hits Forever - Greatest Jazz, Vol. 2",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chick_Corea_Akoustic_Band_-_Spain.jpg",
+    "started_at": "2026-05-19T02:10:22Z",
+    "duration_seconds": 354
+  },
   "next_poll_seconds": 10
 }
