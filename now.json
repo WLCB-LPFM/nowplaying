@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-19T06:43:01-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T06:43:15-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "It Takes Two",
+    "artist": "Rob Base & DJ EZ Rock",
+    "album": "Profilin': The Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rob_Base,_Dj_E-z_Rock_-_It_Takes_Two.jpg",
+    "started_at": "2026-05-19T11:43:03.5096562Z",
+    "duration_seconds": 295,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
