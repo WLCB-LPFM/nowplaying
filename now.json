@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T20:08:49-05:00",
-  "source": "fallback",
+  "generated": "2026-05-18T20:09:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "April In Paris",
+    "artist": "Count Basie",
+    "album": "Good Mood Sounds",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_April_In_Paris.jpg",
+    "started_at": "2026-05-19T01:09:12Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
