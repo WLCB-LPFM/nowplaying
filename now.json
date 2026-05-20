@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T11:21:24-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T11:21:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Gods Of Rock N Roll feat. Steve Stevens",
+    "artist": "Billy Morrison feat. Ozzy Osbourne",
+    "album": "Gods Of Rock N Roll feat. Steve Stevens",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_Morrison_Feat._Ozzy_Osbourne.jpg",
+    "started_at": "2026-05-20T16:21:43Z",
+    "duration_seconds": 315
+  },
   "next_poll_seconds": 10
 }
