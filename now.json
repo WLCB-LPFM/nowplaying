@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T21:31:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T21:38:16-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "I Wanna Go To The Sun - Live",
-    "artist": "Peter Frampton",
-    "album": "Happy Soft Rock For Kids",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Peter_Frampton.jpg",
-    "started_at": "2026-05-20T02:31:08Z",
-    "duration_seconds": 437
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
