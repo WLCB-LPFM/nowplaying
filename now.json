@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-20T01:18:00-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T01:18:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Boplicity",
+    "artist": "Miles Davis And His Orchestra",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
+    "artwork_url": "",
+    "started_at": "2026-05-20T06:18:05.6354761Z",
+    "duration_seconds": 171,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
