@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-20T18:40:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-20T18:43:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rude Boy",
-    "artist": "Rihanna",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-20T23:40:15.4972596Z",
-    "duration_seconds": 221,
-    "year": "2023"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
