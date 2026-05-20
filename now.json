@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T20:36:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T20:37:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Do It Again",
+    "artist": "The Beach Boys",
+    "album": "NOW 100 Hits 60s No.1s",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beach_Boys_-_Do_It_Again.jpg",
+    "started_at": "2026-05-20T01:35:37Z",
+    "duration_seconds": 145
+  },
   "next_poll_seconds": 10
 }
