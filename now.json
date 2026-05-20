@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T10:03:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T10:17:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Angel",
+    "artist": "Aerosmith",
+    "album": "Big Ones",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Angel.jpg",
+    "started_at": "2026-05-20T15:17:05Z",
+    "duration_seconds": 309
+  },
   "next_poll_seconds": 10
 }
