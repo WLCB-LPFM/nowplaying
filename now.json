@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T21:47:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T21:51:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Celebration Day (Live at MSG 1973) [2007 Remix]",
-    "artist": "Led Zeppelin",
-    "album": "Celebration Day (Live at MSG 1973) [2007 Remix]",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Led_Zeppelin.jpg",
-    "started_at": "2026-05-20T02:47:36Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
