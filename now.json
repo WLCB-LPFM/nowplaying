@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T12:18:09-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T12:25:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Georgia On My Mind (Live 1961)",
-    "artist": "Ray Charles",
-    "album": "Live in Paris",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Charles_-_Georgia_On_My_Mind_(Live_1961).jpg",
-    "started_at": "2026-05-20T17:17:52Z",
-    "duration_seconds": 453
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
