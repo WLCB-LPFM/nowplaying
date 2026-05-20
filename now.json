@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T11:14:09-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T11:14:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Your Captain feat. Closer to Home (Live) [2003 - Remaster]",
+    "artist": "Grand Funk Railroad",
+    "album": "Caught In The Act",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Grand_Funk_Railroad.jpg",
+    "started_at": "2026-05-20T16:14:21Z",
+    "duration_seconds": 429
+  },
   "next_poll_seconds": 10
 }
