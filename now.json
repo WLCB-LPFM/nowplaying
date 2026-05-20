@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T09:13:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T09:16:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Look at That, Look at That",
-    "artist": "The Fabulous Thunderbirds",
-    "album": "Tuff Enuff",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fabulous_Thunderbirds_-_Look_At_That,_Look_At_That.jpg",
-    "started_at": "2026-05-20T14:13:07Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
