@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-20T05:36:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T05:36:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Your Smiling Face",
-    "artist": "Christina Gustafsson",
-    "album": "My Move",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Christina_Gustafsson_-_Your_Smiling_Face.jpg",
-    "started_at": "2026-05-20T10:33:12Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
