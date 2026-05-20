@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-19T19:27:10-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T19:27:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "California Gurls",
-    "artist": "Katy Perry",
-    "album": "Teenage Dream",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Katy_Perry_-_California_Gurls.jpg",
-    "started_at": "2026-05-20T00:23:36Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
