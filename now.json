@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-20T06:55:34-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T06:58:55-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I'm Gonna Be (500 Miles)",
+    "artist": "The Proclaimers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-20T11:58:49.503749Z",
+    "duration_seconds": 206,
+    "year": "1988"
+  },
   "next_poll_seconds": 10
 }
