@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-20T18:16:35-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-20T18:20:41-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Here We Go",
-    "artist": "C&C Music Factory",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-20T23:16:23.9905995Z",
-    "duration_seconds": 270,
-    "year": "2014"
+    "title": "Here We Go (The C+C Radio Mix)",
+    "artist": "C+C Music Factory",
+    "album": "Here We Go",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/C_C_Music_Factory.jpg",
+    "started_at": "2026-05-20T23:16:33Z",
+    "duration_seconds": 271
   },
   "next_poll_seconds": 10
 }
