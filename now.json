@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-20T15:19:02-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-20T15:24:03-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Don't Stop The Rock",
-    "artist": "Freestyle",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-20T20:18:50.0600134Z",
-    "duration_seconds": 317,
-    "year": "1985"
+    "title": "All That She Wants",
+    "artist": "Ace of Base",
+    "album": "All That She Wants (The Remixes)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ace_Of_Base_-_All_That_She_Wants.jpg",
+    "started_at": "2026-05-20T20:17:39Z",
+    "duration_seconds": 406
   },
   "next_poll_seconds": 10
 }
