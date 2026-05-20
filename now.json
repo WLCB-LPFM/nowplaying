@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-20T17:05:00-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-20T17:08:43-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "You May Be Right",
+    "title": "You May Be Right (Album Version)",
     "artist": "Billy Joel",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-20T22:04:48.3288169Z",
-    "duration_seconds": 242,
-    "year": "2013"
+    "album": "Greatest Hits Volume I & Volume II",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_Joel.jpg",
+    "started_at": "2026-05-20T22:05:00Z",
+    "duration_seconds": 254
   },
   "next_poll_seconds": 10
 }
