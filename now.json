@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-20T06:33:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T06:33:55-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Uptown Girl",
-    "artist": "Billy Joel",
-    "album": "Piano Man: The Very Best of Billy Joel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_Uptown_Girl.jpg",
-    "started_at": "2026-05-20T11:30:54Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
