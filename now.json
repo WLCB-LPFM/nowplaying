@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-19T19:27:23-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T19:29:37-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Don't You (Forget About Me)",
+    "artist": "Simple Minds",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-20T00:29:27.1397615Z",
+    "duration_seconds": 255,
+    "year": "2010"
+  },
   "next_poll_seconds": 10
 }
