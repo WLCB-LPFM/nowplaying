@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T09:19:47-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T09:24:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Without You",
-    "artist": "Asia",
-    "album": "Asia",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Asia_-_Without_You.jpg",
-    "started_at": "2026-05-20T14:19:37Z",
-    "duration_seconds": 305
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
