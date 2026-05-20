@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T09:53:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T09:57:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Let The Good Times Roll",
-    "artist": "Joe Bonamassa feat. Kenny Wayne Shepherd feat. Noah Hunt",
-    "album": "Let The Good Times Roll",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Joe_Bonamassa_Feat._Kenny_Wayne_Shepherd_Feat._Noah_Hunt.jpg",
-    "started_at": "2026-05-20T14:53:01Z",
-    "duration_seconds": 296
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
