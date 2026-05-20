@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T20:09:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-19T20:12:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "The Stake",
-    "artist": "Steve Miller Band",
-    "album": "Book Of Dreams",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Miller_Band_-_The_Stake.jpg",
-    "started_at": "2026-05-20T01:08:44Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
