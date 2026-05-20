@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-19T19:23:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T19:23:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "California Gurls",
+    "artist": "Katy Perry feat. Snoop Dogg",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-20T00:23:24.37101Z",
+    "duration_seconds": 231,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
