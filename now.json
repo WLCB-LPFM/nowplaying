@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T09:47:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T09:52:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Tattoo'd Lady (Live)",
-    "artist": "Joe Bonamassa",
-    "album": "The Spirit Of Rory Live From Cork",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_Tattoo'd_Lady_(Live).jpg",
-    "started_at": "2026-05-20T14:46:43Z",
-    "duration_seconds": 381
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
