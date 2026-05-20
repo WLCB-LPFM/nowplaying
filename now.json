@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T10:48:56-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T10:52:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "I\u2019m Going Home",
-    "artist": "Marc Broussard",
-    "album": "Chance Worth Taking",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marc_Broussard_-_I\u2019m_Going_Home.jpg",
-    "started_at": "2026-05-20T15:48:44Z",
-    "duration_seconds": 242
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
