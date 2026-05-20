@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T10:01:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T10:03:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "You're My Best Friend",
-    "artist": "Queen",
-    "album": "Greatest Hits - We Will Rock You Edition",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/q/Queen_-_You're_My_Best_Friend.jpg",
-    "started_at": "2026-05-20T15:00:49Z",
-    "duration_seconds": 171
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
