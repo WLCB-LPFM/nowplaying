@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-20T04:33:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T04:33:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Send in the Clowns",
-    "artist": "Svante Thuresson",
-    "album": "Box of Pearls",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Svante_Thuresson.jpg",
-    "started_at": "2026-05-20T09:29:01Z",
-    "duration_seconds": 282
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
