@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T10:22:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T10:25:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "If I'd Been The One",
-    "artist": "38 Special",
-    "album": "Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/3/38_Special_-_If_I'd_Been_The_One.jpg",
-    "started_at": "2026-05-20T15:22:04Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
