@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T13:08:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T13:39:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Theme from New York, New York",
+    "artist": "Frank Sinatra",
+    "album": "Trilogy: Past, Present & Future",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Sinatra_-_Theme_From_New_York,_New_York.jpg",
+    "started_at": "2026-05-20T18:39:39Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
