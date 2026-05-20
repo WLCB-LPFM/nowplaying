@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T09:08:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T09:08:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Slip Away (Album Version)",
+    "artist": "The Gregg Allman Band",
+    "album": "No Stranger To The Dark: The Best Of Gregg Allman",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Gregg_Allman_Band.jpg",
+    "started_at": "2026-05-20T14:08:34Z",
+    "duration_seconds": 269
+  },
   "next_poll_seconds": 10
 }
