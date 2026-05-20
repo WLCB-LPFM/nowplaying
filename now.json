@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-19T19:47:04-05:00",
-  "source": "fallback",
+  "generated": "2026-05-19T19:47:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "(Keep Feeling) Fascination",
+    "artist": "The Human League",
+    "album": "The Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Human_League_-_(Keep_Feeling)_Fascination.jpg",
+    "started_at": "2026-05-20T00:47:16.2629394Z",
+    "duration_seconds": 219,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
