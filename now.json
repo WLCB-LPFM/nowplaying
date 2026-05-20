@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T09:40:42-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T09:41:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "The Loner",
+    "artist": "Gary Moore",
+    "album": "Wild Frontier",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Moore_-_The_Loner.jpg",
+    "started_at": "2026-05-20T14:40:52Z",
+    "duration_seconds": 354
+  },
   "next_poll_seconds": 10
 }
