@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T21:50:39-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T21:56:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Dance",
+    "artist": "Garth Brooks",
+    "album": "The Ultimate Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Garth_Brooks_-_The_Dance.jpg",
+    "started_at": "2026-05-21T02:56:02Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
