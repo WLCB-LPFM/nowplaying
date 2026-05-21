@@ -1,9 +1,18 @@
 {
-  "generated": "2026-05-21T14:59:36-05:00",
+  "generated": "2026-05-21T15:00:11-05:00",
   "source": "autopost",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
+  },
   "track": {
     "title": "I Want Your Sex - Part 2",
     "artist": "George Michael",
