@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T15:43:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T15:49:33-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "All Night Long (All Night)",
-    "artist": "Lionel Richie",
-    "album": "Rhythm Is Gonna Get You: Summer Party Fever",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lionel_Richie_-_All_Night_Long_(All_Night).jpg",
-    "started_at": "2026-05-21T20:43:19Z",
-    "duration_seconds": 383
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
