@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T19:32:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T19:34:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Mule Skinner Blues",
-    "artist": "The Fendermen",
-    "album": "The Cuca Recordings",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fendermen_-_Mule_Skinner_Blues.jpg",
-    "started_at": "2026-05-21T00:32:02Z",
-    "duration_seconds": 146
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
