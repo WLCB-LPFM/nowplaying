@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T16:41:15-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T16:42:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Burning Down The House",
+    "artist": "Talking Heads",
+    "album": "New York City Rock",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Talking_Heads_-_Burning_Down_The_House.jpg",
+    "started_at": "2026-05-21T21:42:05Z",
+    "duration_seconds": 239
+  },
   "next_poll_seconds": 10
 }
