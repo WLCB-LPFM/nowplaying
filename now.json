@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-21T05:31:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-21T05:33:32-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Willow Weep for Me",
-    "artist": "Art Tatum",
-    "album": "The Complete Pablo Solo Masterpieces",
-    "artwork_url": "",
-    "started_at": "2026-05-21T10:31:01.5438149Z",
-    "duration_seconds": 164,
-    "year": "1991"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Legendary Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-05-21T10:30:15Z",
+    "duration_seconds": 323
   },
   "next_poll_seconds": 10
 }
