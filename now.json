@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-21T01:33:35-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T01:34:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "So What",
-    "artist": "Miles Davis",
-    "album": "The Last Lullaby",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_So_What.jpg",
-    "started_at": "2026-05-21T06:25:25Z",
-    "duration_seconds": 560
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
