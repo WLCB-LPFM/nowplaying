@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T19:16:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T19:18:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Lone Star",
-    "artist": "Tony Marcus",
-    "album": "Swingin' Out West",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Marcus_-_Lone_Star.jpg",
-    "started_at": "2026-05-21T00:15:46Z",
-    "duration_seconds": 147
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
