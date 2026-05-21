@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-21T11:43:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T11:43:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cupid Shuffle",
-    "artist": "Cupid",
-    "album": "Cupid Shuffle",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cupid_-_Cupid_Shuffle.jpg",
-    "started_at": "2026-05-21T16:39:46Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
