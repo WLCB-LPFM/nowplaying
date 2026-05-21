@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-21T09:23:58-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T09:24:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-21T14:24:09.7605678Z",
+    "duration_seconds": 231,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
