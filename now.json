@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T20:49:10-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T20:49:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "El Paso (Album Version)",
+    "artist": "Marty Robbins",
+    "album": "Gunfighter Ballads And Trail Songs",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marty_Robbins_-_El_Paso_(Album_Version).jpg",
+    "started_at": "2026-05-21T01:49:13Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
