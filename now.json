@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T15:49:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T15:52:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "It's Still Rock and Roll to Me",
-    "artist": "Billy Joel",
-    "album": "The Complete Albums Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_It's_Still_Rock_And_Roll_To_Me.jpg",
-    "started_at": "2026-05-21T20:49:36Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
