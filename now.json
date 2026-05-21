@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T15:22:49-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T15:23:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "album": "2015 Grammy Nominees",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Taylor_Swift_-_Shake_It_Off.jpg",
+    "started_at": "2026-05-21T20:22:43Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
