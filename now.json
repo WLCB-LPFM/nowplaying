@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-21T10:49:51-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-21T10:53:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Maniac",
-    "artist": "Michael Sembello",
-    "album": "Bossa Nova Hotel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Sembello_-_Maniac.jpg",
-    "started_at": "2026-05-21T15:49:41.2053284Z",
-    "duration_seconds": 249,
-    "year": "1983"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
