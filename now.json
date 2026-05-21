@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T19:27:22-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T19:29:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Cattle Call",
-    "artist": "Eddy Arnold",
-    "album": "The Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eddy_Arnold_-_Cattle_Call.jpg",
-    "started_at": "2026-05-21T00:27:03Z",
-    "duration_seconds": 171
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
