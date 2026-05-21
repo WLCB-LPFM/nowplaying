@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T20:01:41-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T20:02:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Battle Hymn of the Republic",
+    "artist": "Mormon Tabernacle Choir",
+    "album": "American's Old Style",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mormon_Tabernacle_Choir.jpg",
+    "started_at": "2026-05-21T01:01:57Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
