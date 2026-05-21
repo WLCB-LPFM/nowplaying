@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T19:23:27-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T19:26:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Big Iron",
-    "artist": "Marty Robbins",
-    "album": "Gunfighter Ballads And Trail Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marty_Robbins_-_Big_Iron.jpg",
-    "started_at": "2026-05-21T00:23:09Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
