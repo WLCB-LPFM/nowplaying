@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-21T11:43:28-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T11:43:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Barbie Girl",
+    "artist": "Aqua",
+    "album": "Pop Party",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aqua_-_Barbie_Girl.jpg",
+    "started_at": "2026-05-21T16:43:27.6002126Z",
+    "duration_seconds": 192,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
