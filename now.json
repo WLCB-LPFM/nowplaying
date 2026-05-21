@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T20:15:59-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T20:18:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Same Old Train",
+    "artist": "Marty Stuart",
+    "album": "Tribute To Tradition",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marty_Stuart_-_Same_Old_Train.jpg",
+    "started_at": "2026-05-21T01:18:13Z",
+    "duration_seconds": 360
+  },
   "next_poll_seconds": 10
 }
