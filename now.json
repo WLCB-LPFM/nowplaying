@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-21T03:07:57-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-21T03:10:22-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Taxi War Dance",
-    "artist": "Count Basie & His Orchestra",
-    "album": "Essential: Masters of Jazz",
-    "artwork_url": "",
-    "started_at": "2026-05-21T08:07:51.8305782Z",
-    "duration_seconds": 162,
-    "year": "1998"
+    "title": "Bags' Groove",
+    "artist": "Miles Davis",
+    "album": "On Prestige",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Bags'_Groove.jpg",
+    "started_at": "2026-05-21T08:05:36Z",
+    "duration_seconds": 675
   },
   "next_poll_seconds": 10
 }
