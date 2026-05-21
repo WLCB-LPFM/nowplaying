@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-21T12:33:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T12:34:02-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "September",
-    "artist": "Earth, Wind & Fire",
-    "album": "Ultimate Earth Wind & Fire",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Earth,_Wind_&_Fire_-_September.jpg",
-    "started_at": "2026-05-21T17:30:32Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
