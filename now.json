@@ -1,16 +1,25 @@
 {
-  "generated": "2026-05-21T06:59:48-05:00",
+  "generated": "2026-05-21T07:00:11-05:00",
   "source": "autopost",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
-    "title": "Whatta Man (feat. En Vogue)",
-    "artist": "Salt 'N' Pepa",
-    "album": "Whatta Man (feat. En Vogue)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Salt_'n'_Pepa_-_Whatta_Man_(Feat._En_Vogue).jpg",
-    "started_at": "2026-05-21T11:55:54Z",
-    "duration_seconds": 294
+    "title": "Land Of Confusion",
+    "artist": "Genesis",
+    "album": "Invisible Touch",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Genesis_-_Land_Of_Confusion.jpg",
+    "started_at": "2026-05-21T12:00:01Z",
+    "duration_seconds": 286
   },
   "next_poll_seconds": 10
 }
