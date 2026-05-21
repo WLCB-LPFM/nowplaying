@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T21:41:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-20T21:41:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Are You Sure Hank Done It This Way",
+    "artist": "Waylon Jennings",
+    "album": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Waylon_Jennings_-_Are_You_Sure_Hank_Done_It_This_Way.jpg",
+    "started_at": "2026-05-21T02:41:30Z",
+    "duration_seconds": 175
+  },
   "next_poll_seconds": 10
 }
