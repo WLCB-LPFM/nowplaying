@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T19:06:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T19:09:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Big Bad John",
-    "artist": "Jimmy Dean",
-    "album": "The Best Of Jimmy Dean",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Dean_-_Big_Bad_John.jpg",
-    "started_at": "2026-05-21T00:06:27Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
