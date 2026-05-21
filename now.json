@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T21:33:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T21:34:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "In The Middle Of The House",
-    "artist": "The Johnston Brothers",
-    "album": "The Best Of",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b946675f82a9468f9a9727d8f68a7583.png",
-    "started_at": "2026-05-21T02:33:03Z",
-    "duration_seconds": 121
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
