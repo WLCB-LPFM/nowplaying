@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T20:40:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T20:44:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "A Boy Named Sue",
-    "artist": "Johnny Cash",
-    "album": "Ultimate GRAMMY Collection: Classic Country",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Cash_-_A_Boy_Named_Sue.jpg",
-    "started_at": "2026-05-21T01:40:33Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
