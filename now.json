@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T19:18:27-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T19:21:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Convoy",
-    "artist": "C.W. McCall",
-    "album": "Party Like a Country Rock Star",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/C.w._Mccall_-_Convoy.jpg",
-    "started_at": "2026-05-21T00:18:09Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
