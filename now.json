@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T21:08:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T21:10:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Dove Huntin'",
-    "artist": "Jerry Clower",
-    "album": "More Good 'Uns",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jerry_Clower.jpg",
-    "started_at": "2026-05-21T02:07:52Z",
-    "duration_seconds": 197
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
