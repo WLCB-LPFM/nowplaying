@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T17:40:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T17:43:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Let's Stay Together",
-    "artist": "Soundtrack",
-    "album": "Pulp Fiction (Music From The Motion Picture)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Soundtrack.jpg",
-    "started_at": "2026-05-21T22:40:26Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
