@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T19:09:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T19:13:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Riding With Private Malone",
-    "artist": "David Ball",
-    "album": "Amigo",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Ball_-_Riding_With_Private_Malone.jpg",
-    "started_at": "2026-05-21T00:09:29Z",
-    "duration_seconds": 275
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
