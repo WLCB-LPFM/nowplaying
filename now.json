@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-21T18:16:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T18:16:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-21T23:16:35.0045847Z",
+    "duration_seconds": 237,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
