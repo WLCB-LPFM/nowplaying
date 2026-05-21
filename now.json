@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T17:00:28-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T17:00:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "You're on My Hair [instrumental] - instrumental",
+    "artist": "Susan Tedeschi",
+    "album": "Better Days",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Susan_Tedeschi.jpg",
+    "started_at": "2026-05-21T22:00:17Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
