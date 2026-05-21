@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T21:21:18-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T21:24:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Luckenbach, Texas (Back to the Basics of Love)",
-    "artist": "Waylon Jennings",
-    "album": "16 Biggest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Waylon_Jennings_-_Luckenbach,_Texas_(Back_To_The_Basics_Of_Love).jpg",
-    "started_at": "2026-05-21T02:21:08Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
