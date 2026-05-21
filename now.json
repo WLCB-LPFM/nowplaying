@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T20:28:59-05:00",
-  "source": "autopost",
+  "generated": "2026-05-20T20:32:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Gambler",
-    "artist": "Kenny Rogers",
-    "album": "Number Ones",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Rogers_-_The_Gambler.jpg",
-    "started_at": "2026-05-21T01:28:50Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
