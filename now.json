@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-21T09:05:03-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T09:05:15-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Runnin' Down A Dream",
+    "artist": "Tom Petty & The Heartbreakers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-21T14:05:08.6255063Z",
+    "duration_seconds": 255,
+    "year": "2009"
+  },
   "next_poll_seconds": 10
 }
