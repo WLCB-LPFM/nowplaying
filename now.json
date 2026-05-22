@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-21T23:06:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T23:06:52-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "All Alone",
-    "artist": "Sarah Vaughan",
-    "album": "The Complete Sarah Vaughan On Mercury Vol. 4 - 1963-1967",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sarah_Vaughan_-_All_Alone.jpg",
-    "started_at": "2026-05-22T04:04:38Z",
-    "duration_seconds": 142
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
