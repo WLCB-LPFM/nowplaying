@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T17:00:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T17:02:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Buena Vibra",
-    "artist": "Musica Saludable De Trompeta",
-    "album": "Musica Saludable de Trompeta",
-    "artwork_url": "null",
-    "started_at": "2026-05-22T21:58:17Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
