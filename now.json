@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T21:46:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T21:50:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Brother",
-    "artist": "Alice In Chains",
-    "album": "Sap",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_In_Chains_-_Brother.jpg",
-    "started_at": "2026-05-22T02:46:07Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
