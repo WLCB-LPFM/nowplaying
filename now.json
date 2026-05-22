@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:53:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T18:56:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Angel",
-    "artist": "Marcus King",
-    "album": "Darling Blue / No Room For Blue",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Marcus_King.jpg",
-    "started_at": "2026-05-22T23:53:01Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
