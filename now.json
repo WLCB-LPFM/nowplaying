@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:32:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T18:35:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Gone Home",
-    "artist": "Stevie Ray Vaughan & Double Trouble",
-    "album": "Soul to Soul",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_Gone_Home.jpg",
-    "started_at": "2026-05-22T23:32:36Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
