@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-22T01:00:02-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T01:00:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "1st Avenue",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_1st_Avenue.jpg",
+    "started_at": "2026-05-22T05:59:59Z",
+    "duration_seconds": 262
+  },
   "next_poll_seconds": 10
 }
