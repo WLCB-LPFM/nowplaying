@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:58:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T16:03:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Still In Saigon (Album Version)",
+    "artist": "Charlie Daniels",
+    "album": "16 Biggest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charlie_Daniels.jpg",
+    "started_at": "2026-05-22T21:03:26Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
