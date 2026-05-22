@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T10:29:35-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T10:30:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "So Much So Right",
-    "artist": "38 Special",
-    "album": "Milestone",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/3/38_Special_-_So_Much_So_Right.jpg",
-    "started_at": "2026-05-22T15:26:00Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
