@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:43:39-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T15:44:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Unsung Heroes",
+    "artist": "Six-String Soldiers",
+    "album": "Unsung Heroes",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Six-string_Soldiers.jpg",
+    "started_at": "2026-05-22T20:43:55Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
