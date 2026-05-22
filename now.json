@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T16:55:18-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T16:57:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "This Land Is Your Land",
-    "artist": "Woody Guthrie",
-    "album": "The American Dream: Yes We Can",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Woody_Guthrie_-_This_Land_Is_Your_Land.jpg",
-    "started_at": "2026-05-22T21:55:02Z",
-    "duration_seconds": 138
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
