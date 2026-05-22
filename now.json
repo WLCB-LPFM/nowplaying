@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T11:24:44-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T11:28:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Heroes",
-    "artist": "Hollywood Vampires",
-    "album": "Rise",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hollywood_Vampires_-_Heroes.jpg",
-    "started_at": "2026-05-22T16:24:34Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
