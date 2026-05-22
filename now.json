@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:09:01-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T18:11:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Stoned Soul Picnic",
-    "artist": "The 5th Dimension",
-    "album": "Fab Gear - Classic Flower Power Pop From The Summer Of Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_5th_Dimension_-_Stoned_Soul_Picnic.jpg",
-    "started_at": "2026-05-22T23:08:45Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
