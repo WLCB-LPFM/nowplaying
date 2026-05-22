@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T11:02:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T11:04:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Something",
-    "artist": "The Beatles",
-    "album": "The Beatles 1967 - 1970 (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_Something.jpg",
-    "started_at": "2026-05-22T16:02:00Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
