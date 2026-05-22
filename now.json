@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T13:51:52-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T13:52:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Ain't Nothing Wrong With That",
+    "artist": "Robert Randolph And The Family Band",
+    "album": "Grey's Anatomy Volume 3 Original Soundtrack",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Randolph_And_The_Family_Band_-_Ain't_Nothing_Wrong_With_That.jpg",
+    "started_at": "2026-05-22T18:52:15Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
