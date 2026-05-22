@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T17:02:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T17:04:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "All Hail (feat. Shinobi Stalin & Amiam)",
+    "artist": "Qred",
+    "album": "Between Now and Never",
+    "artwork_url": "https://cdn.autopo.st/images/artists/q/Qred.jpg",
+    "started_at": "2026-05-22T22:04:09Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
