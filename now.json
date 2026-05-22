@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:00:10-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T15:01:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "F1 Sound ASMR",
+    "artist": "ASMR Anonymous",
+    "album": "F1 Sound ASMR",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Asmr_Anonymous.jpg",
+    "started_at": "2026-05-22T20:01:12Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
