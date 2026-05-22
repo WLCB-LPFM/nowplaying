@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T20:18:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T20:18:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Dolphin's Cry",
+    "artist": "Live",
+    "album": "The Distance To Here",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Live_-_The_Dolphin's_Cry.jpg",
+    "started_at": "2026-05-22T01:18:44Z",
+    "duration_seconds": 264
+  },
   "next_poll_seconds": 10
 }
