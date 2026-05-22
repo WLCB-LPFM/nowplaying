@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T19:52:33-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T19:57:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "3 Strange Days",
-    "artist": "School Of Fish",
-    "album": "School Of Fish",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/School_Of_Fish_-_3_Strange_Days.jpg",
-    "started_at": "2026-05-22T00:52:15Z",
-    "duration_seconds": 312
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
