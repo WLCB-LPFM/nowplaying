@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T16:07:03-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T16:08:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Goodnight Saigon",
+    "artist": "Billy Joel",
+    "album": "Het Beste Uit JOE's 80ies Top 800",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_Goodnight_Saigon.jpg",
+    "started_at": "2026-05-22T21:08:25Z",
+    "duration_seconds": 419
+  },
   "next_poll_seconds": 10
 }
