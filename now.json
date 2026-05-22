@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T16:45:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T16:48:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I Drive Your Truck",
-    "artist": "Lee Brice",
-    "album": "Hard 2 Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lee_Brice_-_I_Drive_Your_Truck.jpg",
-    "started_at": "2026-05-22T21:44:51Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
