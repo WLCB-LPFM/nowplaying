@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:16:09-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T15:16:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "American Soldier",
+    "artist": "Toby Keith",
+    "album": "Toby Keith 35 Biggest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toby_Keith_-_American_Soldier.jpg",
+    "started_at": "2026-05-22T20:16:23Z",
+    "duration_seconds": 263
+  },
   "next_poll_seconds": 10
 }
