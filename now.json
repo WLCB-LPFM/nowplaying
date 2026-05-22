@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T21:27:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T21:28:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Come From The Water",
+    "artist": "The Toadies",
+    "album": "Rubberneck",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Toadies_-_I_Come_From_The_Water.jpg",
+    "started_at": "2026-05-22T02:27:54Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
