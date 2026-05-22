@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:32:31-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T15:35:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Courtesy Of The Red, White And Blue (The Angry American)",
-    "artist": "Toby Keith",
-    "album": "Toby Keith 35 Biggest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toby_Keith_-_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American).jpg",
-    "started_at": "2026-05-22T20:32:12Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
