@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:05:22-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T15:08:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Memorial Day",
-    "artist": "Coffey Anderson",
-    "album": "Memorial Day",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Coffey_Anderson_-_Memorial_Day.jpg",
-    "started_at": "2026-05-22T20:05:06Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
