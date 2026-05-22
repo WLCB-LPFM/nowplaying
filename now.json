@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T19:39:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T19:39:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Clumsy (Album Version)",
+    "artist": "Our Lady Peace",
+    "album": "Clumsy",
+    "artwork_url": "https://cdn.autopo.st/images/artists/o/Our_Lady_Peace.jpg",
+    "started_at": "2026-05-22T00:39:41Z",
+    "duration_seconds": 268
+  },
   "next_poll_seconds": 10
 }
