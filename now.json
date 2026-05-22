@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T17:25:25-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T17:27:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Anyway You Want It",
-    "artist": "The Dave Clark Five",
-    "album": "Coast to Coast",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dave_Clark_Five_-_Anyway_You_Want_It.jpg",
-    "started_at": "2026-05-22T22:25:10Z",
-    "duration_seconds": 151
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
