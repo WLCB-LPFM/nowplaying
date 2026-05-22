@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:03:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T18:05:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Neckbone",
-    "artist": "The M.G.'s",
-    "album": "The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/228e0e4e0eb6e276e0af582f4f62ca82.png",
-    "started_at": "2026-05-22T23:02:54Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
