@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T16:20:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T16:24:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Where The Stars And Stripes And The Eagle Fly",
-    "artist": "Aaron Tippin",
-    "album": "Stars And Stripes",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aaron_Tippin_-_Where_The_Stars_And_Stripes_And_The_Eagle_Fly.jpg",
-    "started_at": "2026-05-22T21:20:34Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
