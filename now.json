@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T12:24:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T12:25:20-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Lonesome Road Blues",
+    "artist": "Joe Bonamassa",
+    "album": "Joe Bonamassa Live From the Royal Albert Hall",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_Lonesome_Road_Blues.jpg",
+    "started_at": "2026-05-22T17:25:04Z",
+    "duration_seconds": 275
+  },
   "next_poll_seconds": 10
 }
