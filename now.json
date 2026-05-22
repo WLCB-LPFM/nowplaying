@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T16:40:37-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T16:41:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Some Gave All",
+    "artist": "Billy Ray Cyrus",
+    "album": "Some Gave All",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Ray_Cyrus_-_Some_Gave_All.jpg",
+    "started_at": "2026-05-22T21:40:44Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
