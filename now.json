@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T12:15:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T12:16:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Come On",
+    "artist": "Living Colour",
+    "album": "Shade",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Living_Colour_-_Come_On.jpg",
+    "started_at": "2026-05-22T17:15:57Z",
+    "duration_seconds": 201
+  },
   "next_poll_seconds": 10
 }
