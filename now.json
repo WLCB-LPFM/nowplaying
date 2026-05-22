@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:09:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T15:12:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "21 Guns",
-    "artist": "Jamey Johnson",
-    "album": "21 Guns",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jamey_Johnson_-_21_Guns.jpg",
-    "started_at": "2026-05-22T20:08:47Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
