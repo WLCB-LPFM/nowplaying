@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T09:32:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T09:38:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Driving Towards the Daylight",
-    "artist": "Joe Bonamassa",
-    "album": "Live at Carnegie Hall - An Acoustic Evening",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_Driving_Towards_The_Daylight.jpg",
-    "started_at": "2026-05-22T14:32:27Z",
-    "duration_seconds": 380
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
