@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:05:50-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T18:06:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "992 Arguments",
+    "artist": "The O'Jays",
+    "album": "The Best Of The O'Jays: Love Train",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_O'jays_-_992_Arguments.jpg",
+    "started_at": "2026-05-22T23:06:22Z",
+    "duration_seconds": 366
+  },
   "next_poll_seconds": 10
 }
