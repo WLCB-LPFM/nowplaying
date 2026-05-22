@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T09:17:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T09:18:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Sittin' on a Poor Man's Throne (feat. Chris Stephenson)",
+    "artist": "Rodd Bland and the Members Only Band",
+    "album": "Sittin' on a Poor Man's Throne (feat. Chris Stephenson) (Live)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Rodd_Bland_And_The_Members_Only_Band.jpg",
+    "started_at": "2026-05-22T14:17:42Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
