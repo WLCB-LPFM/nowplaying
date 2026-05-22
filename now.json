@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T09:03:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T09:09:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Bohemian Rhapsody  feat.  Radio Gaga - Live at Live Aid, Wembley Stadium, 13th July 1985",
-    "artist": "Queen",
-    "album": "Live Aid (Live, 13th July 1985)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/q/Queen.jpg",
-    "started_at": "2026-05-22T14:02:58Z",
-    "duration_seconds": 390
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
