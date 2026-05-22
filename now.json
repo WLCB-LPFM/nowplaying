@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:47:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T15:47:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Living in America",
+    "artist": "James Brown",
+    "album": "Rocky IV",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_Living_In_America.jpg",
+    "started_at": "2026-05-22T20:47:36Z",
+    "duration_seconds": 226
+  },
   "next_poll_seconds": 10
 }
