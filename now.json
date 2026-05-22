@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T15:35:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T15:39:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Tattoos & Scars",
-    "artist": "Montgomery Gentry",
-    "album": "Original Album Classics",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Montgomery_Gentry_-_Tattoos_&_Scars.jpg",
-    "started_at": "2026-05-22T20:35:27Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
