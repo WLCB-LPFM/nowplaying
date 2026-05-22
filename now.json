@@ -1,14 +1,17 @@
 {
-  "generated": "2026-05-21T18:59:21-05:00",
+  "generated": "2026-05-21T19:00:06-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "18:00",
-    "ends": "19:00",
+    "name": "Red-Pill",
+    "hosts": [
+      "Dino Gradisca",
+      "Rocco Martinelli"
+    ],
+    "automated": false,
+    "starts": "19:00",
+    "ends": "22:00",
     "genre": null
   },
   "track": null,
