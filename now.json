@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:11:58-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T18:12:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I'll Be There",
+    "artist": "The Jackson 5",
+    "album": "Feeling Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jackson_5_-_I'll_Be_There.jpg",
+    "started_at": "2026-05-22T23:12:39Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
