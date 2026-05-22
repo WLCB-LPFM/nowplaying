@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T21:43:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T21:45:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Natural One",
-    "artist": "Kids Original Motion Picture Soundtrack featuring Folk Implosion",
-    "album": "Kids Original Motion Picture Soundtrack",
-    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kids_Original_Motion_Picture_Soundtrack_Featuring_Folk_Implosion.jpg",
-    "started_at": "2026-05-22T02:42:52Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
