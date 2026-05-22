@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T10:37:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T10:37:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Ticket First",
+    "artist": "Steve Cropper feat. Eric Clapton",
+    "album": "Tandoori Chicken",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Steve_Cropper_Feat._Eric_Clapton.jpg",
+    "started_at": "2026-05-22T15:37:17Z",
+    "duration_seconds": 261
+  },
   "next_poll_seconds": 10
 }
