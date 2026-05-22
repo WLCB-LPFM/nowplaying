@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T20:41:29-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T20:45:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Outside",
-    "artist": "Staind",
-    "album": "Outside",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Staind_-_Outside.jpg",
-    "started_at": "2026-05-22T01:41:17Z",
-    "duration_seconds": 293
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
