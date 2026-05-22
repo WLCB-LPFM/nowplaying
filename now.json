@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T20:59:51-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T21:22:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "In the Air Tonight",
+    "artist": "Phil Collins",
+    "album": "R-Kive",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Phil_Collins_-_In_The_Air_Tonight.jpg",
+    "started_at": "2026-05-22T02:22:29Z",
+    "duration_seconds": 335
+  },
   "next_poll_seconds": 10
 }
