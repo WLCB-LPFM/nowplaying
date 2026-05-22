@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T09:48:30-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T09:56:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fall Of The Peacemakers (Album Version)",
-    "artist": "Molly Hatchet",
-    "album": "No Guts, No Glory",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Molly_Hatchet_-_Fall_Of_The_Peacemakers_(Album_Version).jpg",
-    "started_at": "2026-05-22T14:48:17Z",
-    "duration_seconds": 486
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
