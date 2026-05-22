@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T10:41:27-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T10:42:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Stay in Time (LP & Single Version)",
+    "artist": "Off Broadway",
+    "album": "Stay in Time (LP & Single Version)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/o/Off_Broadway.jpg",
+    "started_at": "2026-05-22T15:41:37Z",
+    "duration_seconds": 171
+  },
   "next_poll_seconds": 10
 }
