@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T21:51:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T21:54:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "All I Know",
-    "artist": "Screaming Trees",
-    "album": "Dust",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Screaming_Trees_-_All_I_Know.jpg",
-    "started_at": "2026-05-22T02:50:53Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
