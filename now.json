@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T20:10:13-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T20:14:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Into The Void",
-    "artist": "Nine Inch Nails",
-    "album": "The Fragile",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nine_Inch_Nails_-_Into_The_Void.jpg",
-    "started_at": "2026-05-22T01:10:04Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
