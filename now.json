@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T20:22:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T20:23:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Can't Hardly Wait",
+    "artist": "The Replacements",
+    "album": "Can't Hardly Wait",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Replacements_-_Can't_Hardly_Wait.jpg",
+    "started_at": "2026-05-22T01:23:04Z",
+    "duration_seconds": 188
+  },
   "next_poll_seconds": 10
 }
