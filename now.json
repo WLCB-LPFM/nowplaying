@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T16:17:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T16:17:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "G.I. Joe",
+    "artist": "Waylon Jennings",
+    "album": "The MCA Recordings: The Ultimate Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Waylon_Jennings_-_G.i._Joe.jpg",
+    "started_at": "2026-05-22T21:17:32Z",
+    "duration_seconds": 178
+  },
   "next_poll_seconds": 10
 }
