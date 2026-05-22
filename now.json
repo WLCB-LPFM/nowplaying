@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T09:27:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T09:30:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fool Is The Last One To Know",
-    "artist": "Vicki Peterson",
-    "album": "Long After The Fire",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vicki_Peterson.jpg",
-    "started_at": "2026-05-22T14:27:28Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
