@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T14:41:16-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T14:45:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Make My Own Weather",
-    "artist": "Robben Ford",
-    "album": "Perfect Illusion",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robben_Ford_-_Make_My_Own_Weather.jpg",
-    "started_at": "2026-05-22T19:41:02Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
