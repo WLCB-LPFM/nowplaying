@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T19:35:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T19:39:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Last Goodbye",
-    "artist": "Jeff Buckley",
-    "album": "I numeri 1 (Le pi\u00f9 belle canzoni internazionali di sempre)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeff_Buckley_-_Last_Goodbye.jpg",
-    "started_at": "2026-05-22T00:35:21Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
