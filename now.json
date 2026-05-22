@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T20:14:39-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T20:15:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Stay Away",
+    "artist": "Nirvana",
+    "album": "Nevermind (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nirvana_-_Stay_Away.jpg",
+    "started_at": "2026-05-22T01:15:16Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
