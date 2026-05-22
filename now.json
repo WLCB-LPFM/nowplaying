@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T22:00:10-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T22:03:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Soma",
-    "artist": "Smashing Pumpkins",
-    "album": "Siamese Dream",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Smashing_Pumpkins_-_Soma.jpg",
-    "started_at": "2026-05-22T02:56:44Z",
-    "duration_seconds": 400
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
