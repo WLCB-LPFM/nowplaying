@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T09:56:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T09:56:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Gotta Run",
+    "artist": "Holland",
+    "album": "Gotta Run",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Holland_-_Gotta_Run.jpg",
+    "started_at": "2026-05-22T14:56:18Z",
+    "duration_seconds": 205
+  },
   "next_poll_seconds": 10
 }
