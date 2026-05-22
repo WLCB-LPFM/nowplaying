@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T10:30:20-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T10:32:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Empty Spaces (2011 Remastered Version)",
+    "artist": "Pink Floyd",
+    "album": "Empty Spaces (2011 Remastered Version)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Pink_Floyd.jpg",
+    "started_at": "2026-05-22T15:31:38Z",
+    "duration_seconds": 336
+  },
   "next_poll_seconds": 10
 }
