@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T10:48:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T10:52:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sleeping Angel (2019 Remaster)",
-    "artist": "Stevie Nicks",
-    "album": "Sleeping Angel (2019 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Nicks_-_Sleeping_Angel_(2019_Remaster).jpg",
-    "started_at": "2026-05-22T15:48:07Z",
-    "duration_seconds": 280
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
