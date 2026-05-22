@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T20:26:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T20:31:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "(L)MIRL",
-    "artist": "Deftones",
-    "album": "Gore",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deftones_-_(L)mirl.jpg",
-    "started_at": "2026-05-22T01:26:20Z",
-    "duration_seconds": 302
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
