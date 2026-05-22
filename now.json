@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T20:04:58-05:00",
-  "source": "fallback",
+  "generated": "2026-05-21T20:05:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Angry Johnny",
+    "artist": "Poe",
+    "album": "Hello",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Poe_-_Angry_Johnny.jpg",
+    "started_at": "2026-05-22T01:05:44Z",
+    "duration_seconds": 258
+  },
   "next_poll_seconds": 10
 }
