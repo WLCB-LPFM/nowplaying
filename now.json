@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T16:57:10-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T16:57:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Melodias Relajantes de Trompeta",
+    "artist": "Musica De Trompeta Para Trabajar",
+    "album": "Musica de Trompeta para Trabajar",
+    "artwork_url": "null",
+    "started_at": "2026-05-22T21:57:25Z",
+    "duration_seconds": 241
+  },
   "next_poll_seconds": 10
 }
