@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T09:00:53-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T09:01:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "I Want A New Drug",
-    "artist": "Huey Lewis And The News",
-    "album": "NOW 25 Top Hits: Back To The 1980\u2019s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Huey_Lewis_And_The_News_-_I_Want_A_New_Drug.jpg",
-    "started_at": "2026-05-22T13:56:27Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
