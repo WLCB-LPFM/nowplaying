@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:46:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T18:49:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Hold On, I'm Comin'",
-    "artist": "The Soul Children",
-    "album": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Soul_Children_-_Hold_On,_I'm_Comin'.jpg",
-    "started_at": "2026-05-22T23:45:52Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
