@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:25:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T18:28:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "The Last Time (I Get Burned Like This)",
-    "artist": "The Robert Cray Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Robert_Cray_Band_-_The_Last_Time_(I_Get_Burned_Like_This).jpg",
-    "started_at": "2026-05-22T23:25:01Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
