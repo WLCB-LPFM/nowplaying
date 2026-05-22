@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-22T05:27:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T05:29:28-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Can't Believe That You're in Love With Me",
+    "artist": "The Chocolate Dandies Featuring Roy Eldridge And Benny Carter",
+    "album": "The Chronological Classics: Benny Carter and His Orchestra 1940-1941",
+    "artwork_url": "",
+    "started_at": "2026-05-22T10:29:28.1071728Z",
+    "duration_seconds": 176,
+    "year": "1992"
+  },
   "next_poll_seconds": 10
 }
