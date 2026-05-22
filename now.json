@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-22T06:32:45-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T06:32:57-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dancing In the Dark",
-    "artist": "Bruce Springsteen",
-    "album": "Born In the U.S.A.",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bruce_Springsteen_-_Dancing_In_The_Dark.jpg",
-    "started_at": "2026-05-22T11:29:12Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
