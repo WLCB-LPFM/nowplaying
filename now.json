@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T21:33:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-21T21:36:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Pure Morning",
-    "artist": "Placebo",
-    "album": "Without You I'm Nothing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Placebo_-_Pure_Morning.jpg",
-    "started_at": "2026-05-22T02:32:53Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
