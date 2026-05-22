@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T18:16:48-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T18:19:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Thank You John",
-    "artist": "Willie Tee",
-    "album": "Teasin' You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Willie_Tee_-_Thank_You_John.jpg",
-    "started_at": "2026-05-22T23:16:34Z",
-    "duration_seconds": 162
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
