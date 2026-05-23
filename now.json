@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T21:50:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T21:51:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Diamonds in the Dirt",
+    "artist": "Joanne Shaw Taylor",
+    "album": "Songs from the Road",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joanne_Shaw_Taylor_-_Diamonds_In_The_Dirt.jpg",
+    "started_at": "2026-05-23T02:50:50Z",
+    "duration_seconds": 411
+  },
   "next_poll_seconds": 10
 }
