@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T22:17:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T22:18:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The World Could Change (Live)",
+    "artist": "Layla Zoe",
+    "album": "Back to the Spirit of 66 (Live)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/33ea8f0fe2313947096842806b3b1bba.png",
+    "started_at": "2026-05-23T03:17:56Z",
+    "duration_seconds": 368
+  },
   "next_poll_seconds": 10
 }
