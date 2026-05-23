@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:43:18-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T19:46:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Tenderness",
-    "artist": "Parquet Courts",
-    "album": "Tenderness",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Parquet_Courts_-_Tenderness.jpg",
-    "started_at": "2026-05-23T00:43:06Z",
-    "duration_seconds": 186
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
