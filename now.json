@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T21:37:16-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T21:37:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Say It (Live)",
+    "artist": "Samantha Fish",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Samantha_Fish_-_Don't_Say_It_(Live).jpg",
+    "started_at": "2026-05-23T02:37:37Z",
+    "duration_seconds": 442
+  },
   "next_poll_seconds": 10
 }
