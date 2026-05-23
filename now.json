@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-23T13:38:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T13:38:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Panama",
+    "artist": "Van Halen",
+    "album": "Panama",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Panama.jpg",
+    "started_at": "2026-05-23T18:38:29.1773215Z",
+    "duration_seconds": 208,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
