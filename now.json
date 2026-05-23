@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T20:50:04-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T20:50:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Devil's Canyon",
+    "artist": "Molly Hatchet",
+    "album": "The Devil Inside",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Molly_Hatchet_-_Devil's_Canyon.jpg",
+    "started_at": "2026-05-23T01:50:19Z",
+    "duration_seconds": 350
+  },
   "next_poll_seconds": 10
 }
