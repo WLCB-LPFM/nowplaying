@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T11:54:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T11:58:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Show Me With Your Love",
-    "artist": "Furac\u00e3o 2000",
-    "album": "Show Me With Your Love",
-    "artwork_url": "https://cdn.autopo.st/images/artists/f/Furac\u00e3o_2000.jpg",
-    "started_at": "2026-05-23T16:54:10Z",
-    "duration_seconds": 288
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
