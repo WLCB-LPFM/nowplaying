@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T22:45:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T22:46:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Midnight Rider",
+    "artist": "Vince Gill",
+    "album": "All My Friends: Celebrating The Songs & Voice Of Gregg Allman",
+    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vince_Gill.jpg",
+    "started_at": "2026-05-23T03:45:54Z",
+    "duration_seconds": 301
+  },
   "next_poll_seconds": 10
 }
