@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T22:32:22-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T22:36:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I'm Bad, I'm Nationwide",
-    "artist": "ZZ Top",
-    "album": "Live From Texas",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_I'm_Bad,_I'm_Nationwide.jpg",
-    "started_at": "2026-05-23T03:32:02Z",
-    "duration_seconds": 311
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
