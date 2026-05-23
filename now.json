@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-23T01:17:10-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-23T01:20:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Someone to Watch Over Me",
-    "artist": "Kiri Te Kanawa",
-    "album": "Kiri Sings Gershwin",
-    "artwork_url": "",
-    "started_at": "2026-05-23T06:17:00.7436878Z",
-    "duration_seconds": 221,
-    "year": "1987"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
