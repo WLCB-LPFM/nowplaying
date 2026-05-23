@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T17:31:17-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T17:33:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Sondance Beat",
+    "artist": "V.A",
+    "album": "Sondance Beat",
+    "artwork_url": "https://cdn.autopo.st/images/artists/v/V.a.jpg",
+    "started_at": "2026-05-23T22:33:22Z",
+    "duration_seconds": 300
+  },
   "next_poll_seconds": 10
 }
