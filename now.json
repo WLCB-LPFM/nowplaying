@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T11:00:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T11:02:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "F*ck Tha World",
+    "artist": "Lil Shadow",
+    "album": "Loyal 2 the Game",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lil_Shadow.jpg",
+    "started_at": "2026-05-23T16:02:21Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
