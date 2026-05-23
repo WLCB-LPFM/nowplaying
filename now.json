@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T21:13:56-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T21:14:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I'm Your Baby",
+    "artist": "Hubert Sumlin",
+    "album": "Wake Up Call",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hubert_Sumlin_-_I'm_Your_Baby.jpg",
+    "started_at": "2026-05-23T02:14:10Z",
+    "duration_seconds": 447
+  },
   "next_poll_seconds": 10
 }
