@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T22:00:47-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T22:01:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Texas Honey",
+    "artist": "Ally Venable",
+    "album": "Blues Caravan 2019",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ally_Venable_-_Texas_Honey.jpg",
+    "started_at": "2026-05-23T03:01:28Z",
+    "duration_seconds": 218
+  },
   "next_poll_seconds": 10
 }
