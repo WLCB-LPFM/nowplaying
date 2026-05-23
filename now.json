@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T22:40:19-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T22:40:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wasted Words",
+    "artist": "Widespread Panic",
+    "album": "All My Friends: Celebrating The Songs & Voice Of Gregg Allman",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_Wasted_Words.jpg",
+    "started_at": "2026-05-23T03:40:16Z",
+    "duration_seconds": 343
+  },
   "next_poll_seconds": 10
 }
