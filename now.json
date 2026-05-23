@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T22:24:25-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T22:28:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Dark Heart (Live)",
-    "artist": "Layla Zoe",
-    "album": "Back to the Spirit of 66 (Live)",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/33ea8f0fe2313947096842806b3b1bba.png",
-    "started_at": "2026-05-23T03:24:01Z",
-    "duration_seconds": 301
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
