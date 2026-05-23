@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T20:42:17-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T20:42:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Son of the Bourbon (Live)",
+    "artist": "Blackberry Smoke",
+    "album": "Leave a Scar: Live in North Carolina",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blackberry_Smoke.jpg",
+    "started_at": "2026-05-23T01:42:30Z",
+    "duration_seconds": 267
+  },
   "next_poll_seconds": 10
 }
