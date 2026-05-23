@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T18:44:18-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T18:44:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Earth Song (Radio Edit)",
+    "artist": "Michael Jackson",
+    "album": "The Essential Michael Jackson",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Earth_Song_(Radio_Edit).jpg",
+    "started_at": "2026-05-23T23:44:29Z",
+    "duration_seconds": 302
+  },
   "next_poll_seconds": 10
 }
