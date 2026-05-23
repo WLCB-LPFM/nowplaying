@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-22T23:24:44-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T23:25:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Life in the Fast Lane (Live) [1999 Remaster]",
+    "artist": "Eagles",
+    "album": "Life in the Fast Lane (Live) [1999 Remaster]",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eagles.jpg",
+    "started_at": "2026-05-23T04:24:56Z",
+    "duration_seconds": 310
+  },
   "next_poll_seconds": 10
 }
