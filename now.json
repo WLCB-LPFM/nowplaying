@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:49:57-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T19:51:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Livin' In The Wrong Time",
+    "artist": "Ike Reilly",
+    "album": "Crooked Love",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/55a5cec40f67d367f7379f3826ddc575.png",
+    "started_at": "2026-05-23T00:50:54Z",
+    "duration_seconds": 143
+  },
   "next_poll_seconds": 10
 }
