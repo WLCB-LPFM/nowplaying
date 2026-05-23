@@ -1,25 +1,18 @@
 {
-  "generated": "2026-05-22T20:26:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T20:30:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Through the Decades",
+    "name": "Graybeard's Clubhouse",
     "hosts": [
-      "Pauly J."
+      "Tim Graham"
     ],
     "automated": false,
-    "starts": "19:00",
-    "ends": "20:30",
+    "starts": "20:30",
+    "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Moneytalks",
-    "artist": "AC feat. DC",
-    "album": "The Razors Edge",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
-    "started_at": "2026-05-23T01:26:28Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
