@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T17:14:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T17:16:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Wanna Be Starting Something to Bilie Jean, Pt. 1",
-    "artist": "DJ K-More",
-    "album": "New Jack Funk, History",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_K-more_-_Wanna_Be_Starting_Something_To_Bilie_Jean,_Pt._1.jpg",
-    "started_at": "2026-05-23T22:13:49Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
