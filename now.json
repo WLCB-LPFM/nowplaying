@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-23T03:53:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-23T03:57:16-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Close to You",
-    "artist": "Rigmor Gustafsson",
-    "album": "Calling You",
-    "artwork_url": "",
-    "started_at": "2026-05-23T08:53:42.0191757Z",
-    "duration_seconds": 227,
-    "year": "2010"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
