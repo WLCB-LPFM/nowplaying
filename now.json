@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:53:06-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T19:54:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Whiskey Made Me Do It",
+    "artist": "Anthony Gomes",
+    "album": "Peace, Love & Loud Guitars",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anthony_Gomes_-_The_Whiskey_Made_Me_Do_It.jpg",
+    "started_at": "2026-05-23T00:54:35Z",
+    "duration_seconds": 181
+  },
   "next_poll_seconds": 10
 }
