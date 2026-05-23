@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-23T06:06:17-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T06:06:29-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Wanna Sex You Up",
+    "artist": "Color Me Badd",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-23T11:06:24.1152225Z",
+    "duration_seconds": 220,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
