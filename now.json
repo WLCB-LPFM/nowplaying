@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:38:06-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T19:38:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Life To Fix",
+    "artist": "The Record Company",
+    "album": "Life To Fix",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Record_Company_-_Life_To_Fix.jpg",
+    "started_at": "2026-05-23T00:38:20Z",
+    "duration_seconds": 239
+  },
   "next_poll_seconds": 10
 }
