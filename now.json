@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T20:34:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T20:37:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Good One Coming On",
-    "artist": "Blackberry Smoke",
-    "album": "Leave a Scar: Live in North Carolina",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackberry_Smoke_-_Good_One_Coming_On.jpg",
-    "started_at": "2026-05-23T01:34:16Z",
-    "duration_seconds": 229
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
