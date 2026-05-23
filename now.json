@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T18:01:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T18:05:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Chicago",
+    "artist": "Michael Jackson",
+    "album": "XSCAPE",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Chicago.jpg",
+    "started_at": "2026-05-23T23:05:14Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
