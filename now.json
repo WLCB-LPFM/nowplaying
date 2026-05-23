@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T11:22:03-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T11:25:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Batdance",
-    "artist": "Prince",
-    "album": "4Ever",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_Batdance.jpg",
-    "started_at": "2026-05-23T16:21:52Z",
-    "duration_seconds": 246
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
