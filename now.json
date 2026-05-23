@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T10:03:36-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T10:07:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Rough Boys",
-    "artist": "Pete Townshend",
-    "album": "Empty Glass",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pete_Townshend_-_Rough_Boys.jpg",
-    "started_at": "2026-05-23T15:03:23Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
