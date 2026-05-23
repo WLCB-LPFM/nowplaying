@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T20:18:53-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T20:23:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Cradle of Love",
-    "artist": "Billy Idol",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Idol_-_Cradle_Of_Love.jpg",
-    "started_at": "2026-05-23T01:18:39Z",
-    "duration_seconds": 280
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
