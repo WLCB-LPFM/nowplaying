@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T21:00:27-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T21:04:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Funky Butt",
+    "artist": "Muddy Waters",
+    "album": "Can't Get No Grindin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Muddy_Waters_-_Funky_Butt.jpg",
+    "started_at": "2026-05-23T02:04:24Z",
+    "duration_seconds": 172
+  },
   "next_poll_seconds": 10
 }
