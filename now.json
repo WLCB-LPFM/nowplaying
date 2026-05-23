@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T20:56:12-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T21:00:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Fall Of The Peacemakers (Live)",
-    "artist": "Molly Hatchet",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Molly_Hatchet.jpg",
-    "started_at": "2026-05-23T01:55:57Z",
-    "duration_seconds": 281
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
