@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:08:30-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T19:14:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Midnight Rambler",
-    "artist": "The Rolling Stones",
-    "album": "Let It Bleed",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Midnight_Rambler.jpg",
-    "started_at": "2026-05-23T00:08:12Z",
-    "duration_seconds": 413
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
