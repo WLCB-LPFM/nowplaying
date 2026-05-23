@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:19:58-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T19:22:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Coming Into Los Angeles",
-    "artist": "Arlo Guthrie",
-    "album": "Classic Acoustic",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Arlo_Guthrie_-_Coming_Into_Los_Angeles.jpg",
-    "started_at": "2026-05-23T00:19:41Z",
-    "duration_seconds": 185
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
