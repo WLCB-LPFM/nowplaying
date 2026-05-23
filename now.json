@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T11:30:23-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T11:30:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Real Love",
+    "artist": "Jody Watley",
+    "album": "You Wanna Dance With Me?",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jody_Watley_-_Real_Love.jpg",
+    "started_at": "2026-05-23T16:30:32Z",
+    "duration_seconds": 346
+  },
   "next_poll_seconds": 10
 }
