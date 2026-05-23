@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T20:47:18-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T20:50:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Bounty Hunter",
-    "artist": "Molly Hatchet",
-    "album": "Southern Rock Live",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Molly_Hatchet_-_Bounty_Hunter.jpg",
-    "started_at": "2026-05-23T01:47:04Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
