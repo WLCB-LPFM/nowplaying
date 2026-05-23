@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T22:05:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T22:08:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Nowhere to Hide",
-    "artist": "Ally Venable",
-    "album": "Blues Caravan 2019",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ally_Venable_-_Nowhere_To_Hide.jpg",
-    "started_at": "2026-05-23T03:05:09Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
