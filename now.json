@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T20:14:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T20:18:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Child Of The Wild Blue Yonder",
-    "artist": "John Hiatt",
-    "album": "Greatest Hits: The A&M Years '87- '94",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Hiatt_-_Child_Of_The_Wild_Blue_Yonder.jpg",
-    "started_at": "2026-05-23T01:13:53Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
