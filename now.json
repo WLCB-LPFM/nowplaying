@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-23T13:50:15-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T13:50:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Forever Your Girl",
+    "artist": "Paula Abdul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-23T18:50:14.4205145Z",
+    "duration_seconds": 288,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
