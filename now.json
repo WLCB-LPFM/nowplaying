@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-22T23:45:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T23:56:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": {
-    "title": "Free Bird",
-    "artist": "Lynyrd Skynyrd",
-    "album": "Freebird The Movie",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lynyrd_Skynyrd_-_Free_Bird.jpg",
-    "started_at": "2026-05-23T04:45:19Z",
-    "duration_seconds": 702
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
