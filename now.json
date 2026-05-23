@@ -1,23 +1,27 @@
 {
-  "generated": "2026-05-23T07:58:52-05:00",
+  "generated": "2026-05-23T08:00:10-05:00",
   "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "06:00",
-    "ends": "08:00",
-    "genre": null
+    "name": "Sports Weekly",
+    "hosts": [
+      "Lucas Vollmer",
+      "Matt Rosenberg",
+      "Pat Cameron"
+    ],
+    "automated": false,
+    "starts": "08:00",
+    "ends": "11:00",
+    "genre": "Sports"
   },
   "track": {
-    "title": "Jesus Just Left Chicago",
-    "artist": "ZZ Top",
-    "album": "Rancho Texicano: The Very Best of ZZ Top",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
-    "started_at": "2026-05-23T12:58:41Z",
-    "duration_seconds": 210
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Take Five",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-05-23T12:59:59Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
