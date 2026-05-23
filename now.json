@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T21:09:40-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T21:10:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Stop",
+    "artist": "Michael Bloomfield",
+    "album": "1968 : A Music Revolution",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Bloomfield_-_Stop.jpg",
+    "started_at": "2026-05-23T02:09:50Z",
+    "duration_seconds": 259
+  },
   "next_poll_seconds": 10
 }
