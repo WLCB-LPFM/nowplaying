@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T09:02:13-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T09:05:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Brother (feat. Gavin DeGraw)",
-    "artist": "NEEDTOBREATHE",
-    "album": "Brother",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Needtobreathe_-_Brother_(Feat._Gavin_Degraw).jpg",
-    "started_at": "2026-05-23T14:01:59Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
