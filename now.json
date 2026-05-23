@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-23T06:22:29-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T06:22:41-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "(You Drive Me) Crazy",
+    "artist": "Britney Spears",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-23T11:22:36.887664Z",
+    "duration_seconds": 188,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
