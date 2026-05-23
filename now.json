@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T21:07:03-05:00",
-  "source": "fallback",
+  "generated": "2026-05-22T21:07:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Don't Need You No More",
+    "artist": "The J. Geils Band",
+    "album": "I Don't Need You No More",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_J._Geils_Band_-_I_Don't_Need_You_No_More.jpg",
+    "started_at": "2026-05-23T02:07:13Z",
+    "duration_seconds": 156
+  },
   "next_poll_seconds": 10
 }
