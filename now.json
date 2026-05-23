@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T12:15:17-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T12:20:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "13:00",
     "genre": null
   },
-  "track": {
-    "title": "Rapture",
-    "artist": "Blondie",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blondie_-_Rapture.jpg",
-    "started_at": "2026-05-23T17:14:59Z",
-    "duration_seconds": 336
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
