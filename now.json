@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:04:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T19:08:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Nothing Is Easy",
-    "artist": "Jethro Tull",
-    "album": "All the Best",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jethro_Tull_-_Nothing_Is_Easy.jpg",
-    "started_at": "2026-05-23T00:03:51Z",
-    "duration_seconds": 264
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
