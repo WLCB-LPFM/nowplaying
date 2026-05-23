@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T07:58:29-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T07:58:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "08:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jesus Just Left Chicago",
+    "artist": "ZZ Top",
+    "album": "Rancho Texicano: The Very Best of ZZ Top",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
+    "started_at": "2026-05-23T12:58:41Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
