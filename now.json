@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T11:43:09-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T11:47:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Sweet Lady",
-    "artist": "Tyrese",
-    "album": "Tyrese",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tyrese_-_Sweet_Lady.jpg",
-    "started_at": "2026-05-23T16:42:54Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
