@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:57:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-22T20:00:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "She Got the Best of Me",
-    "artist": "Luke Combs",
-    "album": "This One\u2019s for You Too (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Luke_Combs_-_She_Got_The_Best_Of_Me.jpg",
-    "started_at": "2026-05-23T00:57:25Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
