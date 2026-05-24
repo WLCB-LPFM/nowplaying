@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T16:06:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T16:17:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Freak Me",
+    "artist": "Silk",
+    "album": "Freak Me",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Silk_-_Freak_Me.jpg",
+    "started_at": "2026-05-24T21:16:57Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
