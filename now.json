@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T19:45:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T19:47:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "In the Closet",
+    "artist": "Michael Jackson",
+    "album": "Dangerous",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_In_The_Closet.jpg",
+    "started_at": "2026-05-24T00:46:42Z",
+    "duration_seconds": 390
+  },
   "next_poll_seconds": 10
 }
