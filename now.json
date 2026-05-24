@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T16:50:37-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T16:51:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Return of the Mack",
+    "artist": "Mark Morrison",
+    "album": "Return of the Mack",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mark_Morrison_-_Return_Of_The_Mack.jpg",
+    "started_at": "2026-05-24T21:50:48Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
