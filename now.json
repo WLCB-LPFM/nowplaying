@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T21:07:24-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T21:16:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "There For Me",
+    "artist": "Doug Tha 3",
+    "album": "The Boy",
+    "artwork_url": "null",
+    "started_at": "2026-05-24T02:16:17Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
