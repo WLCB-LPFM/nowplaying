@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:33:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T18:36:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Memorial Day",
-    "artist": "James McMurty",
-    "album": "Childish Things",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/fd94e96ab168d06e3a310d74d63ec779.png",
-    "started_at": "2026-05-24T23:32:56Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
