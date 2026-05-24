@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:25:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T18:28:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Drive Me Home",
-    "artist": "Foghat",
-    "album": "Fool for the City",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foghat_-_Drive_Me_Home.jpg",
-    "started_at": "2026-05-24T23:24:54Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
