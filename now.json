@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T16:24:39-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T16:27:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Get On Up",
-    "artist": "Jodeci",
-    "album": "The Show, The After Party, The Hotel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jodeci_-_Get_On_Up.jpg",
-    "started_at": "2026-05-24T21:24:21Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
