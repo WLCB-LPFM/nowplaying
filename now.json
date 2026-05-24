@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-24T08:19:49-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T08:20:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Beat Me, Daddy, Eight to a Bar",
+    "artist": "Glenn Miller and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-24T13:20:00.3871511Z",
+    "duration_seconds": 176,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
