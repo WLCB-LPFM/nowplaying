@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-24T08:00:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T08:02:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "What-Cha-Call-'em Blues",
+    "artist": "Fletcher Henderson and His Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-24T13:02:40.3448335Z",
+    "duration_seconds": 165,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
