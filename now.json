@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T17:51:40-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T17:52:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "No Diggity (feat. Dr. Dre & Queen Pen)",
+    "artist": "Blackstreet",
+    "album": "Hip Hop: The Collection 2008",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blackstreet.jpg",
+    "started_at": "2026-05-24T22:51:44Z",
+    "duration_seconds": 305
+  },
   "next_poll_seconds": 10
 }
