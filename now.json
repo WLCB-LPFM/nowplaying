@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T19:16:07-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T19:23:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Off the Wall",
+    "artist": "Michael Jackson",
+    "album": "The Indispensable Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Off_The_Wall.jpg",
+    "started_at": "2026-05-24T00:22:51Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
