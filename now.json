@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:36:59-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T18:37:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Talking New Bob Dylan",
+    "artist": "Loudon Wainwright III",
+    "album": "History",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Loudon_Wainwright_Iii_-_Talking_New_Bob_Dylan.jpg",
+    "started_at": "2026-05-24T23:37:03Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
