@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T15:07:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T15:10:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "16:00",
     "genre": null
   },
-  "track": {
-    "title": "Boog-It (18-04-40)",
-    "artist": "Harry James",
-    "album": "Complete Jazz Series 1939 - 1940",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harry_James_-_Boog-it_(18-04-40).jpg",
-    "started_at": "2026-05-24T20:06:55Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
