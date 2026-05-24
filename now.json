@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T14:00:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T14:03:49-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "16:00",
     "genre": null
   },
-  "track": {
-    "title": "Story Of A Starry Night (from Music For Millions and Song Of My Heart feat. Little Miss Broadway)",
-    "artist": "Glenn Miller",
-    "album": "At The Movies - The Essential Collection (Digitally Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Glenn_Miller.jpg",
-    "started_at": "2026-05-24T19:00:34Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
