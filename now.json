@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:49:45-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T18:50:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Same Old Walk",
+    "artist": "Paul Kelly",
+    "album": "Under The Sun",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/4ab674006473017023354d73031399d9.png",
+    "started_at": "2026-05-24T23:49:50Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
