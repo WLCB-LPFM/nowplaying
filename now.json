@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-24T03:53:09-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-24T03:55:45-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "I Gotta Right to Sing the Blues",
-    "artist": "Louis Armstrong & His Orchestra",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-05-24T08:52:57.9360604Z",
-    "duration_seconds": 178,
-    "year": "1937"
+    "title": "I Gotta Right To Sing The Blues",
+    "artist": "Louis Armstrong",
+    "album": "Keepin' Out Of Mischief Now",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_I_Gotta_Right_To_Sing_The_Blues.jpg",
+    "started_at": "2026-05-24T08:53:09Z",
+    "duration_seconds": 182
   },
   "next_poll_seconds": 10
 }
