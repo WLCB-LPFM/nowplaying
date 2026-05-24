@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-23T23:30:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-23T23:33:35-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Crazeology (Take #4)",
-    "artist": "Charlie Parker Sextet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-05-24T04:30:51.1774477Z",
-    "duration_seconds": 171,
-    "year": "1987"
+    "title": "Crazyology, Pt. 2",
+    "artist": "Charlie Parker",
+    "album": "Happy Couple",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charlie_Parker.jpg",
+    "started_at": "2026-05-24T04:32:03Z",
+    "duration_seconds": 177
   },
   "next_poll_seconds": 10
 }
