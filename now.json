@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T16:33:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T16:42:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "One In A Million",
+    "artist": "Aaliyah",
+    "album": "I Care 4 U",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aaliyah_-_One_In_A_Million.jpg",
+    "started_at": "2026-05-24T21:42:21Z",
+    "duration_seconds": 269
+  },
   "next_poll_seconds": 10
 }
