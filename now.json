@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-24T07:55:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T07:55:23-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Down By the O-hi-o (1940)",
+    "artist": "Griff Willaims and his Stevens Hotel Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-24T12:55:19.0221704Z",
+    "duration_seconds": 142,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
