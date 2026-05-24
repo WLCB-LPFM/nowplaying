@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T21:26:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T21:28:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Cake Walk",
-    "artist": "Shall B One",
-    "album": "Cake Walk",
-    "artwork_url": "null",
-    "started_at": "2026-05-24T02:26:28Z",
-    "duration_seconds": 127
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
