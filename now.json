@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T20:01:04-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T20:01:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Workin' Day and Night",
-    "artist": "Michael Jackson",
-    "album": "The Indispensable Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Workin'_Day_And_Night.jpg",
-    "started_at": "2026-05-24T00:56:15Z",
-    "duration_seconds": 312
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
