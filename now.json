@@ -1,17 +1,17 @@
 {
-  "generated": "2026-05-24T12:32:00-05:00",
+  "generated": "2026-05-24T14:00:06-05:00",
   "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "Radio Roots",
+    "name": "Let's Get Real with Darrick Bynum",
     "hosts": [
-      "Rick Hagerty"
+      "Darrick Bynum"
     ],
     "automated": false,
-    "starts": "11:00",
-    "ends": "14:00",
-    "genre": "OTR"
+    "starts": "14:00",
+    "ends": "16:00",
+    "genre": null
   },
   "track": null,
   "next_poll_seconds": 10
