@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T21:42:28-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T21:42:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Chance For Our Love",
+    "artist": "Whistle",
+    "album": "The Best Of Whistle",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whistle_-_Chance_For_Our_Love.jpg",
+    "started_at": "2026-05-24T02:42:31Z",
+    "duration_seconds": 234
+  },
   "next_poll_seconds": 10
 }
