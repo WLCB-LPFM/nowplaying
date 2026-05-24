@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T21:37:29-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T21:42:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "There U Go",
-    "artist": "Johnny Gill",
-    "album": "Boomerang",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Gill_-_There_U_Go.jpg",
-    "started_at": "2026-05-24T02:37:19Z",
-    "duration_seconds": 316
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
