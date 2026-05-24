@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:57:10-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T18:58:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Sweet Black Angel",
+    "artist": "The Rolling Stones",
+    "album": "Exile On Main Street",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Sweet_Black_Angel.jpg",
+    "started_at": "2026-05-24T23:57:53Z",
+    "duration_seconds": 174
+  },
   "next_poll_seconds": 10
 }
