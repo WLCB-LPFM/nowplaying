@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-24T08:08:04-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-24T08:10:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ev'ry Little Thing",
-    "artist": "The Ramblers; Don Lawrence",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-24T13:08:03.9736955Z",
-    "duration_seconds": 157,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
