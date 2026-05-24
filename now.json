@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-24T07:19:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-24T07:22:43-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "This is No Laughing Matter",
-    "artist": "Anne Shelton",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-24T12:19:44.9782575Z",
-    "duration_seconds": 189,
-    "year": "1942"
+    "title": "Jesus Just Left Chicago",
+    "artist": "ZZ Top",
+    "album": "Rancho Texicano: The Very Best of ZZ Top",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
+    "started_at": "2026-05-24T12:19:35Z",
+    "duration_seconds": 210
   },
   "next_poll_seconds": 10
 }
