@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T17:05:47-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T17:23:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Can We Talk",
+    "artist": "Tevin Campbell",
+    "album": "Can We Talk",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tevin_Campbell_-_Can_We_Talk.jpg",
+    "started_at": "2026-05-24T22:23:07Z",
+    "duration_seconds": 285
+  },
   "next_poll_seconds": 10
 }
