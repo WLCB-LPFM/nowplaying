@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-23T23:34:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-23T23:37:29-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Haitian Fight Song",
+    "artist": "Charles Mingus",
+    "album": "The Story of the Rose",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charles_Mingus_-_Haitian_Fight_Song.jpg",
+    "started_at": "2026-05-24T04:37:15Z",
+    "duration_seconds": 718
+  },
   "next_poll_seconds": 10
 }
