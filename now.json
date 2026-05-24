@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T16:46:45-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T16:50:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Brown Sugar (Edited)",
-    "artist": "D'Angelo",
-    "album": "Dinner Party Songs",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/D'angelo.jpg",
-    "started_at": "2026-05-24T21:46:28Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
