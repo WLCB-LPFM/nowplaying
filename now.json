@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-24T08:45:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-24T08:48:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Put a Light in the Window",
-    "artist": "The Good-Fellows",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-24T13:45:43.8911402Z",
-    "duration_seconds": 171,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
