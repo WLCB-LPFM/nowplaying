@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T10:54:01-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T10:54:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "California Love (feat. Roger Troutman & Dr. Dre)",
+    "artist": "2pac",
+    "album": "The Best of 2Pac - Pt. 1: Thug",
+    "artwork_url": "https://cdn.autopo.st/images/artists/2/2pac.jpg",
+    "started_at": "2026-05-24T15:53:50Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
