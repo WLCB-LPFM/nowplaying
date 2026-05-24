@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:11:37-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T18:15:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Drive South",
-    "artist": "John Hiatt",
-    "album": "The Best Of John Hiatt",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Hiatt_-_Drive_South.jpg",
-    "started_at": "2026-05-24T23:11:28Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
