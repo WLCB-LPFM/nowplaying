@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:54:12-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T18:57:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Real Light",
-    "artist": "The Jayhawks",
-    "album": "Tomorrow The Green Grass",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jayhawks_-_Real_Light.jpg",
-    "started_at": "2026-05-24T23:53:58Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
