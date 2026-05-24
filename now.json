@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-24T04:17:06-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-24T04:21:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Nya Nya Nya",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-05-24T09:17:00.7905371Z",
-    "duration_seconds": 276,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
