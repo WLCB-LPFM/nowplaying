@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:05:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T18:08:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Driving Wheel",
-    "artist": "Al Green",
-    "album": "Gets Next To You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Green_-_Driving_Wheel.jpg",
-    "started_at": "2026-05-24T23:05:10Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
