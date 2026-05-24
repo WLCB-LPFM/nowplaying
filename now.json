@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T18:40:29-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T18:45:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Midwich Shuffle",
+    "artist": "John Carpenter",
+    "album": "Village Of The Damned",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/0c8c8bb551e321a344975a03d8148f8f.png",
+    "started_at": "2026-05-24T23:45:04Z",
+    "duration_seconds": 124
+  },
   "next_poll_seconds": 10
 }
