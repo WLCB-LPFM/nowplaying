@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-24T03:48:40-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T03:49:26-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "How Deep Is Your Love",
+    "artist": "Etypejazz",
+    "album": "Under the Influence",
+    "artwork_url": "",
+    "started_at": "2026-05-24T08:49:23.8367442Z",
+    "duration_seconds": 187,
+    "year": "2007"
+  },
   "next_poll_seconds": 10
 }
