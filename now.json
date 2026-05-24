@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T21:49:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-23T21:54:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Share My World",
-    "artist": "DeBarge",
-    "album": "Rhythm Of The Night",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Debarge_-_Share_My_World.jpg",
-    "started_at": "2026-05-24T02:49:27Z",
-    "duration_seconds": 337
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
