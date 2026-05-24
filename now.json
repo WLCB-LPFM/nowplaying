@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-24T02:21:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T02:22:01-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Riverboat Shuffle",
-    "artist": "Frankie Tumbauer And His Orchestra",
-    "album": "Maple Leaf Rag: Modern Jazz Roots",
-    "artwork_url": "null",
-    "started_at": "2026-05-24T07:19:01Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
