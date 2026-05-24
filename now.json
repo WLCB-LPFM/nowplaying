@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T09:37:17-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T10:38:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Whistlin' And Whittlin' (And Watchin' The World Go By)",
+    "artist": "Phil Harris & His Orchestra",
+    "album": "The Many Sides Of Phil Harris 1931-52",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Phil_Harris_&_His_Orchestra.jpg",
+    "started_at": "2026-05-24T15:38:13Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
