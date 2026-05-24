@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-24T06:09:27-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-24T06:12:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Tavern Melodies",
-    "artist": "Elmer's Orchestra with Singing",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-24T11:09:18.3768233Z",
-    "duration_seconds": 188,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
