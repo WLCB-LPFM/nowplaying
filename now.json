@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-24T06:22:40-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T06:22:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Chattanooga Choo Choo (1941)",
+    "artist": "Glenn Miller and his Orchestra",
+    "album": "78'er",
+    "artwork_url": "",
+    "started_at": "2026-05-24T11:22:46.0342809Z",
+    "duration_seconds": 195,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
