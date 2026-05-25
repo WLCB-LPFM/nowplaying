@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T08:33:44-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T08:34:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Independent Women, Pt. 1 (#1's Edit)",
+    "artist": "Destiny's Child",
+    "album": "rnb superclub Classics",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Destiny's_Child.jpg",
+    "started_at": "2026-05-25T13:33:52Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
