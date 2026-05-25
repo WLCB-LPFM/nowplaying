@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T21:38:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T21:39:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Car Was The One",
+    "artist": "Mark Knopfler",
+    "album": "Get Lucky",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mark_Knopfler_-_The_Car_Was_The_One.jpg",
+    "started_at": "2026-05-25T02:39:37Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
