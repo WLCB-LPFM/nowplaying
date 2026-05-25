@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T20:15:36-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T20:17:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Ordinary Pleasure",
+    "artist": "Toro Y Moi",
+    "album": "Ordinary Pleasure",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toro_Y_Moi_-_Ordinary_Pleasure.jpg",
+    "started_at": "2026-05-25T01:16:49Z",
+    "duration_seconds": 184
+  },
   "next_poll_seconds": 10
 }
