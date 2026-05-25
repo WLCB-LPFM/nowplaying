@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T07:39:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T07:42:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rock Me Amadeus (The American Edit)",
+    "artist": "Falco",
+    "album": "Exquisite",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Falco_-_Rock_Me_Amadeus_(The_American_Edit).jpg",
+    "started_at": "2026-05-25T12:42:03Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
