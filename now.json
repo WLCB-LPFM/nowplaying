@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T21:43:56-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T21:46:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Faster Than The Speed Of Life",
-    "artist": "Steppenwolf",
-    "album": "The Second",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steppenwolf_-_Faster_Than_The_Speed_Of_Life.jpg",
-    "started_at": "2026-05-25T02:43:44Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
