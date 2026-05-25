@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:22:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T19:25:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Wang Dang Doodle",
-    "artist": "Koko Taylor",
-    "album": "Koko Taylor",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Koko_Taylor_-_Wang_Dang_Doodle.jpg",
-    "started_at": "2026-05-25T00:22:36Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
