@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T07:45:03-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T07:45:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Hate Myself For Loving You",
+    "artist": "Joan Jett",
+    "album": "Monsters of Rock - Platinum Edition",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joan_Jett_-_I_Hate_Myself_For_Loving_You.jpg",
+    "started_at": "2026-05-25T12:45:18Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
