@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:25:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T19:27:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Dark Skies",
+    "artist": "Alison Krauss",
+    "album": "I've Got That Old Feeling",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alison_Krauss_-_Dark_Skies.jpg",
+    "started_at": "2026-05-25T00:27:10Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
