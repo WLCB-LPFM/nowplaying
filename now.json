@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T21:19:05-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T21:19:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Stickshifts and Safetybelts",
+    "artist": "Cake",
+    "album": "Fashion Nugget",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cake_-_Stickshifts_And_Safetybelts.jpg",
+    "started_at": "2026-05-25T02:19:15Z",
+    "duration_seconds": 129
+  },
   "next_poll_seconds": 10
 }
