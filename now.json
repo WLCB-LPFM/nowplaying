@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T20:55:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T20:55:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Bullet The Blue Sky",
+    "artist": "U2",
+    "album": "Rattle And Hum",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_Bullet_The_Blue_Sky.jpg",
+    "started_at": "2026-05-25T01:55:24Z",
+    "duration_seconds": 337
+  },
   "next_poll_seconds": 10
 }
