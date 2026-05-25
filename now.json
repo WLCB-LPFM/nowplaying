@@ -1,17 +1,25 @@
 {
-  "generated": "2026-05-25T06:56:29-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-05-25T07:00:00-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
-    "title": "She Ain't Got The Boom Like I Do",
-    "artist": "Blaque",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-25T11:56:21.5100453Z",
-    "duration_seconds": 230,
-    "year": "1999"
+    "title": "\u0110\u1ed9c L\u1eadp",
+    "artist": "Tui H\u00e1t",
+    "album": "\u0110\u1ed9c L\u1eadp",
+    "artwork_url": "null",
+    "started_at": "2026-05-25T11:56:29Z",
+    "duration_seconds": 343
   },
   "next_poll_seconds": 10
 }
