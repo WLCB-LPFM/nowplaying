@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T08:09:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T08:13:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Union of the Snake (2010 Remaster)",
-    "artist": "Duran Duran",
-    "album": "Seven and the Ragged Tiger (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duran_Duran.jpg",
-    "started_at": "2026-05-25T13:09:09Z",
-    "duration_seconds": 260
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
