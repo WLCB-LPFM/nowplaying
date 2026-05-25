@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-25T13:33:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T13:34:07-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You May Be Right (Album Version)",
-    "artist": "Billy Joel",
-    "album": "Greatest Hits Volume I & Volume II",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_Joel.jpg",
-    "started_at": "2026-05-25T18:30:06Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
