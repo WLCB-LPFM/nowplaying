@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:15:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T19:18:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Colour My World",
-    "artist": "Chicago",
-    "album": "Colour My World",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_Colour_My_World.jpg",
-    "started_at": "2026-05-25T00:15:40Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
