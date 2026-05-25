@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-25T12:00:07-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T12:02:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jessie\u2019s Girl",
+    "artist": "Rick Springfield",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-25T17:02:25.0029584Z",
+    "duration_seconds": 188,
+    "year": "1981"
+  },
   "next_poll_seconds": 10
 }
