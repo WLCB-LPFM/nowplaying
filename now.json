@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:44:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T19:48:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Cat 5 (Cyclone)",
-    "artist": "King Stingray",
-    "album": "For The Dreams",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/c292e356be375dcb06514d543217f2b9.png",
-    "started_at": "2026-05-25T00:44:30Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
