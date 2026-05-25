@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T21:13:09-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T21:14:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Faster",
+    "artist": "George Harrison",
+    "album": "George Harrison",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Harrison_-_Faster.jpg",
+    "started_at": "2026-05-25T02:14:29Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
