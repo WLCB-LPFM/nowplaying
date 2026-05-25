@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-25T18:30:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-25T18:33:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Another Night",
-    "artist": "Real Mccoy",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-25T23:30:08.362309Z",
-    "duration_seconds": 233,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
