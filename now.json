@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T20:12:48-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T20:15:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Road Head",
-    "artist": "Japanese Breakfast",
-    "album": "Soft Sounds from Another Planet",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Japanese_Breakfast_-_Road_Head.jpg",
-    "started_at": "2026-05-25T01:12:29Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
