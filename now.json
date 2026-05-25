@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T14:15:35-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T14:18:33-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Sexy and I Know It",
-    "artist": "LMFAO",
-    "album": "Zomerbox 2012 (RTL Viert De Zomer)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lmfao_-_Sexy_And_I_Know_It.jpg",
-    "started_at": "2026-05-25T19:15:25Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
