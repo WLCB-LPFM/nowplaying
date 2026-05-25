@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T21:10:45-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T21:13:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Hot Rod Lincoln",
-    "artist": "Commander Cody And His Lost Planet Airmen",
-    "album": "Lost In The Ozone",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Commander_Cody_And_His_Lost_Planet_Airmen_-_Hot_Rod_Lincoln.jpg",
-    "started_at": "2026-05-25T02:10:35Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
