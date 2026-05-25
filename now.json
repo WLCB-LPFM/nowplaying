@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:03:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T19:07:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Want You to Want Me (Live)",
-    "artist": "Cheap Trick",
-    "album": "Pop Giganten Rock",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cheap_Trick_-_I_Want_You_To_Want_Me_(Live).jpg",
-    "started_at": "2026-05-25T00:03:32Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
