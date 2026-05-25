@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:40:13-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T19:41:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Knees Deep",
+    "artist": "The Beths",
+    "album": "Expert In A Dying Field",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beths_-_Knees_Deep.jpg",
+    "started_at": "2026-05-25T00:40:49Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
