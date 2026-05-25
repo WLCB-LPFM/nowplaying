@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T20:32:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T20:37:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ronnie And Neil",
-    "artist": "Drive-By Truckers",
-    "album": "Southern Rock Opera",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Drive-by_Truckers_-_Ronnie_And_Neil.jpg",
-    "started_at": "2026-05-25T01:32:38Z",
-    "duration_seconds": 326
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
