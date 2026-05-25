@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T14:11:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T14:12:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "All That She Wants",
+    "artist": "Ace of Base",
+    "album": "All That She Wants (The Remixes)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ace_Of_Base_-_All_That_She_Wants.jpg",
+    "started_at": "2026-05-25T19:11:57Z",
+    "duration_seconds": 406
+  },
   "next_poll_seconds": 10
 }
