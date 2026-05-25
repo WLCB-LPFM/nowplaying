@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T14:04:40-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T14:05:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "My Prerogative",
+    "artist": "Bobby Brown",
+    "album": "NOW That's What I Call 80s Dance",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Brown_-_My_Prerogative.jpg",
+    "started_at": "2026-05-25T19:04:48Z",
+    "duration_seconds": 271
+  },
   "next_poll_seconds": 10
 }
