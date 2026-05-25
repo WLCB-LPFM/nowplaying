@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T20:06:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T20:08:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Oh!",
-    "artist": "The Linda Lindas",
-    "album": "Oh!",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Linda_Lindas_-_Oh!.jpg",
-    "started_at": "2026-05-25T01:06:24Z",
-    "duration_seconds": 155
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
