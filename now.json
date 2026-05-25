@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T21:04:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T21:10:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Daddy's Cup",
-    "artist": "Drive By Truckers",
-    "album": "The Dirty South",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/e66c9637f5404eafceff52bbb86bf534.png",
-    "started_at": "2026-05-25T02:04:31Z",
-    "duration_seconds": 353
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
