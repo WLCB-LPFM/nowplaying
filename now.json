@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:36:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T19:40:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Major League Chemicals",
-    "artist": "Unknown Mortal Orchestra",
-    "album": "Sex & Food",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Unknown_Mortal_Orchestra_-_Major_League_Chemicals.jpg",
-    "started_at": "2026-05-25T00:36:29Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
