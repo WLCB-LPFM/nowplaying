@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T20:02:55-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T20:06:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sacrilege",
-    "artist": "Yeah Yeah Yeahs",
-    "album": "Sacrilege",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yeah_Yeah_Yeahs_-_Sacrilege.jpg",
-    "started_at": "2026-05-25T01:02:43Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
