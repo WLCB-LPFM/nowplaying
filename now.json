@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T20:19:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T20:20:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Drown",
+    "artist": "Karen O",
+    "album": "Lux Prima",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Karen_O.jpg",
+    "started_at": "2026-05-25T01:19:51Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
