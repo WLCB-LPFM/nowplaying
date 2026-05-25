@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T21:51:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T21:52:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Highway Star",
+    "artist": "Deep Purple",
+    "album": "Highway Star",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_Highway_Star.jpg",
+    "started_at": "2026-05-25T02:52:11Z",
+    "duration_seconds": 366
+  },
   "next_poll_seconds": 10
 }
