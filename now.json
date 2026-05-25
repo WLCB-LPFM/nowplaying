@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-25T06:30:14-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-25T06:35:03-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hot Stuff",
-    "artist": "Donna Summer",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-25T11:30:05.4344335Z",
-    "duration_seconds": 305,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
