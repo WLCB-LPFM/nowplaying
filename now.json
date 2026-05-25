@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-24T23:36:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T23:36:56-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Don't Want To Talk About It",
-    "artist": "Inger Marie Gundersen",
-    "album": "By Myself",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inger_Marie_Gundersen_-_I_Don't_Want_To_Talk_About_It.jpg",
-    "started_at": "2026-05-25T04:32:48Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
