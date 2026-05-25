@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:51:24-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T19:52:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Taste",
+    "artist": "Pipe-eye",
+    "album": "Pipe-defy",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/adeecb92c04913515b9070db55b59c7c.png",
+    "started_at": "2026-05-25T00:52:32Z",
+    "duration_seconds": 203
+  },
   "next_poll_seconds": 10
 }
