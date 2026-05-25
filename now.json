@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T08:01:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T08:04:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Video Killed the Radio Star (Single Version)",
-    "artist": "The Buggles",
-    "album": "NOW 100 Hits Car Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Buggles_-_Video_Killed_The_Radio_Star_(Single_Version).jpg",
-    "started_at": "2026-05-25T13:01:08Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
