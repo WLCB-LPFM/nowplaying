@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T20:37:58-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T20:38:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Sweet Soul Music",
+    "artist": "Arthur Conley",
+    "album": "Sweet Soul Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Arthur_Conley_-_Sweet_Soul_Music.jpg",
+    "started_at": "2026-05-25T01:38:04Z",
+    "duration_seconds": 138
+  },
   "next_poll_seconds": 10
 }
