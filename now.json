@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T07:34:33-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T07:39:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Situation",
-    "artist": "Yazoo",
-    "album": "Blank & Jones Present so80s (SoEighties) Vol. 3",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yazoo_-_Situation.jpg",
-    "started_at": "2026-05-25T12:34:13Z",
-    "duration_seconds": 345
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
