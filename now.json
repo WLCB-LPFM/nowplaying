@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-24T22:00:41-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T22:00:54-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Drive System (Demo)",
-    "artist": "The Buzzcocks",
-    "album": "A Different Kind Of Tension (Special Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Buzzcocks.jpg",
-    "started_at": "2026-05-25T02:58:16Z",
-    "duration_seconds": 168
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
