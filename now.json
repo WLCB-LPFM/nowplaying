@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-25T15:32:10-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T15:32:23-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Dancing in the Dark",
+    "artist": "Bruce Springsteen",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-25T20:32:15.6037095Z",
+    "duration_seconds": 231,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
