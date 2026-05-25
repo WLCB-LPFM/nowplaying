@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T21:36:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-24T21:38:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Motorbike Song",
-    "artist": "Amyl and The Sniffers",
-    "album": "Cartoon Darkness",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Amyl_And_The_Sniffers.jpg",
-    "started_at": "2026-05-25T02:36:35Z",
-    "duration_seconds": 145
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
