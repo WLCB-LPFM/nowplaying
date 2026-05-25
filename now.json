@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-25T06:03:10-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-25T06:07:36-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Sweet Dreams (Are Made of This)",
+    "title": "Sweet Dreams",
     "artist": "Eurythmics",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-25T11:03:03.198438Z",
-    "duration_seconds": 284,
-    "year": "1983"
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eurythmics_-_Sweet_Dreams.jpg",
+    "started_at": "2026-05-25T11:03:09Z",
+    "duration_seconds": 292
   },
   "next_poll_seconds": 10
 }
