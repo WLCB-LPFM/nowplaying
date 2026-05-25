@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T19:11:02-05:00",
-  "source": "fallback",
+  "generated": "2026-05-24T19:11:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Respect Yourself",
+    "artist": "The Staple Singers",
+    "album": "Stax Volt Chartbusters Vol 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Staple_Singers_-_Respect_Yourself.jpg",
+    "started_at": "2026-05-25T00:11:07Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
