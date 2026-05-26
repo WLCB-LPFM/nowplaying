@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-26T13:31:36-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-26T13:34:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "People Are People",
-    "artist": "Depeche Mode",
-    "album": "The Best of Depeche Mode, Vol. 1",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Depeche_Mode_-_People_Are_People.jpg",
-    "started_at": "2026-05-26T18:31:18.2462379Z",
-    "duration_seconds": 217,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
