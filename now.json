@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-26T06:22:44-05:00",
-  "source": "fallback",
+  "generated": "2026-05-26T06:22:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Walk Like an Egyptian",
+    "artist": "The Bangles",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-26T11:22:45.2822689Z",
+    "duration_seconds": 196,
+    "year": "1986"
+  },
   "next_poll_seconds": 10
 }
