@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T08:43:27-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T08:45:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "The Curly Shuffle",
-    "artist": "Jump 'N' The Saddle Band",
-    "album": "The Curly Shuffle",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jump_'n'_The_Saddle_Band_-_The_Curly_Shuffle.jpg",
-    "started_at": "2026-05-26T13:43:08Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
