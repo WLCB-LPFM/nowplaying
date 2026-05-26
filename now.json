@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T20:43:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T20:46:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Here's That Rainy Day",
-    "artist": "US Army Field Band Jazz Ambassadors",
-    "album": "The Legacy Of Stan Kenton",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/ad958b6eefe43794ec3651f04527bbbc.png",
-    "started_at": "2026-05-26T01:43:11Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
