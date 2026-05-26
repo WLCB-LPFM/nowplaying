@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T16:36:37-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T16:40:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Maneater",
-    "artist": "Daryl Hall & John Oates",
-    "album": "Fetenhits 80's - Best Of",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daryl_Hall_&_John_Oates_-_Maneater.jpg",
-    "started_at": "2026-05-26T21:36:19Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
