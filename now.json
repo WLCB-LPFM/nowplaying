@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-26T04:03:05-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-26T04:05:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "How Deep Is Your Love",
-    "artist": "Etypejazz",
-    "album": "Under the Influence",
-    "artwork_url": "",
-    "started_at": "2026-05-26T09:02:59.5083407Z",
-    "duration_seconds": 187,
-    "year": "2007"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Legendary Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-05-26T09:01:28Z",
+    "duration_seconds": 323
   },
   "next_poll_seconds": 10
 }
