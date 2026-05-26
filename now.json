@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-26T02:02:17-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-26T02:06:22-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Love Is Here to Stay",
-    "artist": "Hans Ulrik",
-    "album": "Jazz and Mambo",
-    "artwork_url": "",
-    "started_at": "2026-05-26T07:02:15.0487589Z",
-    "duration_seconds": 260,
-    "year": "1998"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Legendary Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-05-26T07:02:11Z",
+    "duration_seconds": 323
   },
   "next_poll_seconds": 10
 }
