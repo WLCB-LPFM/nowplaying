@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T22:00:04-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T22:00:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Mambo Erroll",
-    "artist": "Erroll Garner",
-    "album": "Campus Concert",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/aa5ec8565e4c7120893f00af10badce3.png",
-    "started_at": "2026-05-26T02:58:25Z",
-    "duration_seconds": 141
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
