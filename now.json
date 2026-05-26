@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-26T13:30:16-05:00",
-  "source": "fallback",
+  "generated": "2026-05-26T13:31:24-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "People Are People",
+    "artist": "Depeche Mode",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-26T18:31:18.2462379Z",
+    "duration_seconds": 217,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
