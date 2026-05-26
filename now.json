@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T16:20:38-05:00",
-  "source": "fallback",
+  "generated": "2026-05-26T16:24:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Noventero (90's) - Solamente Tu",
+    "artist": "Dj Diana Peceros",
+    "album": "Noventero (90's) - Solamente Tu",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dj_Diana_Peceros.jpg",
+    "started_at": "2026-05-26T21:23:45Z",
+    "duration_seconds": 600
+  },
   "next_poll_seconds": 10
 }
