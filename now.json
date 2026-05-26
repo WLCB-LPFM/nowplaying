@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T20:55:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T20:59:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "One o'Clock Jump",
-    "artist": "The United States Air Force Band Airmen of Note",
-    "album": "60 Years of the Airmen of Note",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_United_States_Air_Force_Band_Airmen_Of_Note.jpg",
-    "started_at": "2026-05-26T01:55:32Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
