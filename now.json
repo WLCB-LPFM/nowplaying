@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T21:22:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T21:29:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Loves You Porgy",
-    "artist": "U.S. Navy Band Commodores Jazz Ensemble",
-    "album": "By Sea, By Air, By Land",
-    "artwork_url": "https://cdn.autopo.st/images/artists/u/U.s._Navy_Band_Commodores_Jazz_Ensemble.jpg",
-    "started_at": "2026-05-26T02:21:46Z",
-    "duration_seconds": 484
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
