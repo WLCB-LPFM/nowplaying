@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-26T12:33:36-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T12:33:49-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Footloose",
-    "artist": "Kenny Loggins",
-    "album": "Car Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Loggins_-_Footloose.jpg",
-    "started_at": "2026-05-26T17:30:12Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
