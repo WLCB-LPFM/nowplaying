@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T20:08:27-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T20:10:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "American Patrol (Remastered 1994)",
+    "artist": "Glenn Miller and his Orchestra",
+    "album": "Operation: Build Morale",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_And_His_Orchestra_-_American_Patrol_(Remastered_1994).jpg",
+    "started_at": "2026-05-26T01:09:58Z",
+    "duration_seconds": 196
+  },
   "next_poll_seconds": 10
 }
