@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T18:29:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T18:35:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Mistake Kindness For Weakness",
-    "artist": "Albert Collins",
-    "album": "Iceman",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Albert_Collins_-_Don't_Mistake_Kindness_For_Weakness.jpg",
-    "started_at": "2026-05-26T23:29:32Z",
-    "duration_seconds": 370
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
