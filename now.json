@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-26T05:16:52-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-26T05:21:41-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Blue in Green",
-    "artist": "Bill Evans Trio",
-    "album": "Classic Jazz: the Fifties",
-    "artwork_url": "",
-    "started_at": "2026-05-26T10:16:45.9509512Z",
-    "duration_seconds": 309,
-    "year": "2001"
+    "artist": "Bill Evans",
+    "album": "Introduction",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Evans_-_Blue_In_Green.jpg",
+    "started_at": "2026-05-26T10:18:13Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
