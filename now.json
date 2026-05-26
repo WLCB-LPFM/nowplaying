@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-26T14:44:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-26T14:45:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-26T19:44:54.5770945Z",
+    "duration_seconds": 236,
+    "year": "2024"
+  },
   "next_poll_seconds": 10
 }
