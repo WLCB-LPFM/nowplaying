@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T20:26:16-05:00",
-  "source": "fallback",
+  "generated": "2026-05-25T20:27:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Main Stem",
+    "artist": "The United States Army Blues Jazz Ensemble",
+    "album": "Live at Blues Alley",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_United_States_Army_Blues_Jazz_Ensemble.jpg",
+    "started_at": "2026-05-26T01:26:42Z",
+    "duration_seconds": 170
+  },
   "next_poll_seconds": 10
 }
