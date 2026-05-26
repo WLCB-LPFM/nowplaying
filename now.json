@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-26T02:46:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-26T02:48:56-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Weather Bird",
-    "artist": "Louis Armstrong And Earl Hines",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-05-26T07:46:26.5985533Z",
-    "duration_seconds": 158,
-    "year": "1997"
+    "artist": "Louis Armstrong",
+    "album": "Portrait Of The Artist As A Young Man 1923-1934",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Weather_Bird.jpg",
+    "started_at": "2026-05-26T07:46:38Z",
+    "duration_seconds": 165
   },
   "next_poll_seconds": 10
 }
