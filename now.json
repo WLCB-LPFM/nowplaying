@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-26T03:30:49-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-26T03:33:47-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Dead Man Blues",
-    "artist": "Jelly Roll Morton\u2019s Red Hot Peppers",
-    "album": "The Chronological Classics: Jelly-Roll Morton 1924-1926",
-    "artwork_url": "",
-    "started_at": "2026-05-26T08:30:43.5444184Z",
-    "duration_seconds": 190,
-    "year": "1991"
+    "artist": "Jelly Roll Morton",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jelly_Roll_Morton_-_Dead_Man_Blues.jpg",
+    "started_at": "2026-05-26T08:30:51Z",
+    "duration_seconds": 192
   },
   "next_poll_seconds": 10
 }
