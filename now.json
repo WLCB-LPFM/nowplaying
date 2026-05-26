@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T22:46:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-25T22:49:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "On The Loose",
-    "artist": "Saga",
-    "album": "How Do I Look",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Saga_-_On_The_Loose.jpg",
-    "started_at": "2026-05-26T03:45:54Z",
-    "duration_seconds": 253
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
