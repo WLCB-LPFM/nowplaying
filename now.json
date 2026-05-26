@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T07:34:38-05:00",
-  "source": "fallback",
+  "generated": "2026-05-26T07:35:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Voices Carry (Single Mix)",
+    "artist": "'Til Tuesday",
+    "album": "Back To The US of A",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/f08ab8101a764d9dcde6b9fa1d2c991f.png",
+    "started_at": "2026-05-26T12:35:16Z",
+    "duration_seconds": 260
+  },
   "next_poll_seconds": 10
 }
