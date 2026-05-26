@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-26T14:09:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T14:09:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Get Busy",
-    "artist": "Sean Paul",
-    "album": "Get Busy",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sean_Paul_-_Get_Busy.jpg",
-    "started_at": "2026-05-26T19:06:02Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
