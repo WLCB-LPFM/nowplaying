@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-26T05:05:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T05:06:03-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Windows",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Windows.jpg",
-    "started_at": "2026-05-26T10:03:15Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
