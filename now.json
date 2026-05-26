@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-26T14:17:02-05:00",
-  "source": "fallback",
+  "generated": "2026-05-26T14:17:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My Love",
+    "artist": "Justin Timberlake",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-26T19:17:02.7365577Z",
+    "duration_seconds": 194,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
