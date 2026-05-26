@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T09:36:39-05:00",
-  "source": "fallback",
+  "generated": "2026-05-26T09:41:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Holy Water",
+    "artist": "Bad Company",
+    "album": "Holy Water",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bad_Company_-_Holy_Water.jpg",
+    "started_at": "2026-05-26T14:41:03Z",
+    "duration_seconds": 247
+  },
   "next_poll_seconds": 10
 }
