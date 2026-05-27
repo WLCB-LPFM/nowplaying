@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T13:34:13-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T13:38:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "And We Will Love Again- 1984",
-    "artist": "US Air Force Airmen of Note",
-    "album": "Airmen of Note 60 Years Compilation CD",
-    "artwork_url": "https://cdn.autopo.st/images/artists/u/Us_Air_Force_Airmen_Of_Note.jpg",
-    "started_at": "2026-05-27T18:33:56Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
