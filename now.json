@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T13:47:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T13:58:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Mambo Erroll",
+    "artist": "Erroll Garner",
+    "album": "Campus Concert",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_Mambo_Erroll.jpg",
+    "started_at": "2026-05-27T18:57:47Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
