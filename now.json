@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T22:49:28-05:00",
-  "source": "fallback",
+  "generated": "2026-05-26T22:49:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "I Am The Walrus",
+    "artist": "The Beatles",
+    "album": "The Beatles 1967 - 1970",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_I_Am_The_Walrus.jpg",
+    "started_at": "2026-05-27T03:49:34Z",
+    "duration_seconds": 273
+  },
   "next_poll_seconds": 10
 }
