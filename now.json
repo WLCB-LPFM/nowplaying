@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T07:40:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T07:55:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Girl You Know It's True",
+    "artist": "Milli Vanilli",
+    "album": "Frank Farian - Summer Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Milli_Vanilli_-_Girl_You_Know_It's_True.jpg",
+    "started_at": "2026-05-27T12:54:57Z",
+    "duration_seconds": 198
+  },
   "next_poll_seconds": 10
 }
