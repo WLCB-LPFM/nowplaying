@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-27T01:51:54-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T01:52:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "In A Mellotone",
-    "artist": "Duke Ellington",
-    "album": "Jazz & Blues Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_In_A_Mellotone.jpg",
-    "started_at": "2026-05-27T06:49:20Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
