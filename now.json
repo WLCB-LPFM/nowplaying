@@ -1,18 +1,9 @@
 {
-  "generated": "2026-05-26T22:59:51-05:00",
+  "generated": "2026-05-26T23:00:03-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Classic Tuesdays with Ted",
-    "hosts": [
-      "Ted Runnels"
-    ],
-    "automated": false,
-    "starts": "20:00",
-    "ends": "23:00",
-    "genre": "Funk"
-  },
+  "show": null,
   "track": {
     "title": "Take Five",
     "artist": "Dave Brubeck",
