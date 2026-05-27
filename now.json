@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-27T17:59:53-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T18:00:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Der Kommissar",
-    "artist": "After The Fire",
-    "album": "Antes del Fin del Mundo - 80s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/After_The_Fire_-_Der_Kommissar.jpg",
-    "started_at": "2026-05-27T22:54:34Z",
-    "duration_seconds": 340
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
