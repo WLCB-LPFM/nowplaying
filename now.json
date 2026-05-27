@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T20:56:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T20:58:46-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Tush",
-    "artist": "ZZ Top",
-    "album": "Tush",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Tush.jpg",
-    "started_at": "2026-05-27T01:56:34Z",
-    "duration_seconds": 138
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
