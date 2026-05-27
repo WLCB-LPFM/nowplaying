@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T22:46:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T22:49:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Polk Salad Annie",
-    "artist": "Tony Joe White",
-    "album": "Polk Salad Annie",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_Polk_Salad_Annie.jpg",
-    "started_at": "2026-05-27T03:45:53Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
