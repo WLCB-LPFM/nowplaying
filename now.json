@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T21:52:14-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T21:55:33-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Black Dog (Live at MSG 1973) [2007 Remix]",
-    "artist": "Led Zeppelin",
-    "album": "Black Dog (Live at MSG 1973) [2007 Remix]",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Led_Zeppelin.jpg",
-    "started_at": "2026-05-27T02:51:53Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
