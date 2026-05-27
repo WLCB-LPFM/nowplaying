@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-27T16:47:54-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T16:48:06-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "This Is How We Do It",
+    "artist": "Montell Jordan",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-27T21:47:53.3451909Z",
+    "duration_seconds": 204,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
