@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T20:38:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T20:42:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Couldn't Stand The Weather",
-    "artist": "Stevie Ray Vaughan and Double Trouble",
-    "album": "Couldn't Stand The Weather",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_And_Double_Trouble_-_Couldn't_Stand_The_Weather.jpg",
-    "started_at": "2026-05-27T01:37:55Z",
-    "duration_seconds": 281
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
