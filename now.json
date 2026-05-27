@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T12:13:53-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T12:42:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Here's That Rainy Day",
+    "artist": "US Army Field Band Jazz Ambassadors",
+    "album": "The Legacy Of Stan Kenton",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Us_Army_Field_Band_Jazz_Ambassadors_-_Here's_That_Rainy_Day.jpg",
+    "started_at": "2026-05-27T17:42:31Z",
+    "duration_seconds": 226
+  },
   "next_poll_seconds": 10
 }
