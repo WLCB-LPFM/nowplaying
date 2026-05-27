@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-27T18:08:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-27T18:12:20-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Let's Groove",
-    "artist": "Earth Wind and Fire",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-27T23:08:42.9239858Z",
-    "duration_seconds": 230,
-    "year": "1981"
+    "artist": "Earth, Wind & Fire",
+    "album": "The Best Of Earth, Wind & Fire-Vol. II",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Earth,_Wind_&_Fire_-_Let's_Groove.jpg",
+    "started_at": "2026-05-27T23:08:53Z",
+    "duration_seconds": 335
   },
   "next_poll_seconds": 10
 }
