@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-27T13:18:56-05:00",
+  "generated": "2026-05-27T13:19:19-05:00",
   "source": "fallback",
-  "mode": "live",
-  "automation_on": false,
+  "mode": "rebroadcast",
+  "automation_on": true,
   "show": {
     "name": "Jazz Lives!",
     "hosts": [
