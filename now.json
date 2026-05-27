@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-26T23:37:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T23:37:35-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Crescendo in Blue",
-    "artist": "Duke Ellington & His Famous Orchestra",
-    "album": "Jazz Profiles",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington_&_His_Famous_Orchestra.jpg",
-    "started_at": "2026-05-27T04:34:27Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
