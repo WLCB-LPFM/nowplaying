@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-27T06:00:50-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T06:03:03-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "November Came",
-    "artist": "Malene Mortensen",
-    "album": "While Romantic",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Malene_Mortensen_-_November_Came.jpg",
-    "started_at": "2026-05-27T10:59:23Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
