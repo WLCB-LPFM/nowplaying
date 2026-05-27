@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T22:31:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T22:35:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Jealous Again",
-    "artist": "The Black Crowes",
-    "album": "Sho' Nuff",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Crowes_-_Jealous_Again.jpg",
-    "started_at": "2026-05-27T03:31:21Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
