@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-26T23:26:31-05:00",
-  "source": "autopost",
+  "generated": "2026-05-26T23:27:18-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "No Funkin' Way",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_No_Funkin'_Way.jpg",
-    "started_at": "2026-05-27T04:21:26Z",
-    "duration_seconds": 358
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
