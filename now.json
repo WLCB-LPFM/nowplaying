@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-27T06:36:52-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-27T06:40:23-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Out Of Touch",
-    "artist": "Hall & Oates",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-27T11:36:40.9302028Z",
-    "duration_seconds": 229,
-    "year": "2021"
+    "title": "Out of Touch",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Big Bam Boom",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daryl_Hall_&_John_Oates_-_Out_Of_Touch.jpg",
+    "started_at": "2026-05-27T11:36:41Z",
+    "duration_seconds": 238
   },
   "next_poll_seconds": 10
 }
