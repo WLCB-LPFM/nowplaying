@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T09:16:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T09:19:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Feeling That Way",
-    "artist": "Journey",
-    "album": "Greatest Hits 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Feeling_That_Way.jpg",
-    "started_at": "2026-05-27T14:15:51Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
