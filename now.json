@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-28T04:17:17-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-28T04:26:53-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Free Jazz (excerpt)",
+    "title": "Free Jazz",
     "artist": "Ornette Coleman",
-    "album": "The Smithsonian Collection of Classic Jazz",
-    "artwork_url": "",
-    "started_at": "2026-05-28T09:17:11.4773883Z",
-    "duration_seconds": 587,
-    "year": "1973"
+    "album": "First Take",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Ornette_Coleman_-_Free_Jazz.jpg",
+    "started_at": "2026-05-28T09:22:50Z",
+    "duration_seconds": 611
   },
   "next_poll_seconds": 10
 }
