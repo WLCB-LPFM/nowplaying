@@ -1,26 +1,9 @@
 {
-  "generated": "2026-05-27T21:59:52-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-05-27T22:00:05-05:00",
+  "source": "fallback",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Mix",
-    "hosts": [
-      "Tony Young",
-      "Carolyn Carmody"
-    ],
-    "automated": false,
-    "starts": "19:00",
-    "ends": "22:00",
-    "genre": "Variety"
-  },
-  "track": {
-    "title": "Have You Ever Seen The Rain",
-    "artist": "Creedence Clearwater Revival",
-    "album": "Rainy Day",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Creedence_Clearwater_Revival_-_Have_You_Ever_Seen_The_Rain.jpg",
-    "started_at": "2026-05-28T02:57:28Z",
-    "duration_seconds": 160
-  },
+  "show": null,
+  "track": null,
   "next_poll_seconds": 10
 }
