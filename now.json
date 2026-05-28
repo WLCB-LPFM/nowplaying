@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T17:49:54-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T17:53:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Games People Play (Digitally Remastered, 1997)",
-    "artist": "The Alan Parsons Project",
-    "album": "The Best Of The Alan Parsons Project",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Alan_Parsons_Project.jpg",
-    "started_at": "2026-05-28T22:49:33Z",
-    "duration_seconds": 265
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
