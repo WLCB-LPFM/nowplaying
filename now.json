@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T19:00:10-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T19:00:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Symphony Of Destruction",
+    "artist": "Megadeth",
+    "album": "Countdown To Extinction",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Megadeth_-_Symphony_Of_Destruction.jpg",
+    "started_at": "2026-05-28T00:00:31Z",
+    "duration_seconds": 247
+  },
   "next_poll_seconds": 10
 }
