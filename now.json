@@ -1,25 +1,18 @@
 {
-  "generated": "2026-05-28T16:56:23-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T17:00:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "Roadhouse Radio",
+    "name": "Brick's Rockheads",
     "hosts": [
-      "Joe Powers"
+      "Brick Brecker"
     ],
     "automated": false,
-    "starts": "15:00",
-    "ends": "17:00",
-    "genre": "Country"
+    "starts": "17:00",
+    "ends": "18:00",
+    "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sharp Dressed Man (2003 Remaster)",
-    "artist": "ZZ Top",
-    "album": "Sharp Dressed Man (2003 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/z/Zz_Top.jpg",
-    "started_at": "2026-05-28T21:55:58Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
