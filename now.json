@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-28T18:19:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-28T18:23:50-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "OMG",
-    "artist": "Usher feat. will.i.am",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-28T23:19:52.9715112Z",
-    "duration_seconds": 243,
-    "year": ""
+    "artist": "Usher",
+    "album": "OMG",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Usher_-_Omg.jpg",
+    "started_at": "2026-05-28T23:19:54Z",
+    "duration_seconds": 269
   },
   "next_poll_seconds": 10
 }
