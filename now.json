@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T19:04:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T19:06:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Owner of a Lonely Heart (2003 Remaster)",
+    "artist": "Yes",
+    "album": "Owner of a Lonely Heart (2003 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yes_-_Owner_Of_A_Lonely_Heart_(2003_Remaster).jpg",
+    "started_at": "2026-05-28T00:05:56Z",
+    "duration_seconds": 265
+  },
   "next_poll_seconds": 10
 }
