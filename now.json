@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T15:34:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T15:35:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Neutron Dance (12' Remix)",
+    "artist": "The Pointer Sisters",
+    "album": "Break Out (1983 Version - Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Pointer_Sisters.jpg",
+    "started_at": "2026-05-28T20:34:53Z",
+    "duration_seconds": 333
+  },
   "next_poll_seconds": 10
 }
