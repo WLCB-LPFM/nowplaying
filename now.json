@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-28T11:54:06-05:00",
+  "generated": "2026-05-28T11:54:19-05:00",
   "source": "autopost",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "09:00",
+    "ends": "15:00",
+    "genre": null
+  },
   "track": {
     "title": "You Might Think",
     "artist": "The Cars",
