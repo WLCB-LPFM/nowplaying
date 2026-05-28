@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T16:11:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T16:16:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Rhythm Nation",
-    "artist": "Janet Jackson",
-    "album": "Design Of A Decade 1986/1996",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Rhythm_Nation.jpg",
-    "started_at": "2026-05-28T21:10:52Z",
-    "duration_seconds": 358
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
