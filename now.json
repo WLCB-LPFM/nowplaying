@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T19:40:29-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T19:44:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Objects In The Mirror",
-    "artist": "a-ha",
-    "album": "Objects In The Mirror",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/A-ha_-_Objects_In_The_Mirror.jpg",
-    "started_at": "2026-05-28T00:40:11Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
