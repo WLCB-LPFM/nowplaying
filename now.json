@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-28T18:19:44-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T18:19:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "OMG",
+    "artist": "Usher feat. will.i.am",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-28T23:19:52.9715112Z",
+    "duration_seconds": 243,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
