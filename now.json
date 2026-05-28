@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-28T01:17:18-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T01:17:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Lonely Woman",
+    "artist": "Ornette Coleman Quartet",
+    "album": "The Love Revolution \u2013 Complete 1968 Italian Tour",
+    "artwork_url": "",
+    "started_at": "2026-05-28T06:17:30.0891538Z",
+    "duration_seconds": 275,
+    "year": "2005"
+  },
   "next_poll_seconds": 10
 }
