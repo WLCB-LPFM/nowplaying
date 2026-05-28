@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-28T10:09:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T10:10:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cold Hearted",
+    "artist": "Paula Abdul",
+    "album": "Greatest Hits - Straight Up!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paula_Abdul_-_Cold_Hearted.jpg",
+    "started_at": "2026-05-28T15:09:58.705875Z",
+    "duration_seconds": 202,
+    "year": "1989"
+  },
   "next_poll_seconds": 10
 }
