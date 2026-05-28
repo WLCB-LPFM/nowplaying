@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-28T18:27:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T18:27:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Oops Up",
-    "artist": "Snap!",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snap!_-_Oops_Up.jpg",
-    "started_at": "2026-05-28T23:24:01Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
