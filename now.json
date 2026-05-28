@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-28T01:22:42-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-28T01:27:12-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Confessions Of A Crime",
-    "artist": "Benni Chawes",
-    "album": "Up Close",
-    "artwork_url": "",
-    "started_at": "2026-05-28T06:22:31.8454625Z",
-    "duration_seconds": 292,
-    "year": "2006"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
