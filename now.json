@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T20:47:37-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T20:52:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Groove Is in the Heart (Meeting the Minds Mix)",
-    "artist": "Deee-Lite",
-    "album": "Groove Is in the Heart",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deee-lite_-_Groove_Is_In_The_Heart_(Meeting_The_Minds_Mix).jpg",
-    "started_at": "2026-05-28T01:47:26Z",
-    "duration_seconds": 310
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
