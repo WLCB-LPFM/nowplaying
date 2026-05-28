@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T19:50:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T19:52:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Outlander - The Skye Boat Song (The Journey's End) feat. Annie Lennox",
-    "artist": "Bear McCreary",
-    "album": "Outlander: Season 8 (Original Television Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bear_Mccreary.jpg",
-    "started_at": "2026-05-28T00:50:23Z",
-    "duration_seconds": 121
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
