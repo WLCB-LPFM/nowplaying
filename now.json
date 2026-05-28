@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-28T00:43:56-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T00:44:08-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Feel like Makin' Love",
+    "artist": "Joachim Bergstrom",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-28T05:44:04.6187518Z",
+    "duration_seconds": 298,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
