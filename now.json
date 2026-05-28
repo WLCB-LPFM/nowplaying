@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T19:20:49-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T19:24:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "teenage drama",
+    "artist": "paris jackson",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/717a2488de248c5efad34fd81de5ea05.png",
+    "started_at": "2026-05-28T00:24:09Z",
+    "duration_seconds": 184
+  },
   "next_poll_seconds": 10
 }
