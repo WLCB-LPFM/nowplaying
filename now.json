@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T21:04:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T21:10:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "One More Day",
+    "artist": "Diamond Rio",
+    "album": "16 Biggest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Diamond_Rio_-_One_More_Day.jpg",
+    "started_at": "2026-05-28T02:10:25Z",
+    "duration_seconds": 217
+  },
   "next_poll_seconds": 10
 }
