@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T19:12:03-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T19:14:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Coal Miner's Daughter",
-    "artist": "Loretta Lynn",
-    "album": "Legendary Country Singers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Loretta_Lynn_-_Coal_Miner's_Daughter.jpg",
-    "started_at": "2026-05-28T00:11:47Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
