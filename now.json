@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-28T12:24:31-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T12:24:44-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "LIVE IT UP",
+    "artist": "KIRK JAME$",
+    "album": "LIVE IT UP",
+    "artwork_url": "null",
+    "started_at": "2026-05-28T17:24:29Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
