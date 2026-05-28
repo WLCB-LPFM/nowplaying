@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T17:00:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T17:36:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Baby I'm a Want You",
+    "artist": "Bread",
+    "album": "Golden Era, Vol 7 Live",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bread_-_Baby_I'm_A_Want_You.jpg",
+    "started_at": "2026-05-28T22:36:06Z",
+    "duration_seconds": 143
+  },
   "next_poll_seconds": 10
 }
