@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-27T23:44:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T23:44:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My Favourite Things",
+    "artist": "Trine-Lise V\u00e6hing",
+    "album": "The Best Jazz Audiophile Recommended, Volume 3",
+    "artwork_url": "",
+    "started_at": "2026-05-28T04:44:09.2205598Z",
+    "duration_seconds": 387,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
