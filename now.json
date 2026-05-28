@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T20:57:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T20:58:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Never Saw It As Union",
-    "artist": "The High Strung",
-    "album": "Moxie Bravo",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/ac1436d9db9d46e3842ef981c581a75a.png",
-    "started_at": "2026-05-28T01:56:45Z",
-    "duration_seconds": 130
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
