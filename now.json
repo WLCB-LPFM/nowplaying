@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T20:39:59-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T20:42:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Go-Getter Greg",
-    "artist": "Ludo",
-    "album": "You're Awful, I Love You",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/5aa072a71a7b41744f8370a022569700.png",
-    "started_at": "2026-05-28T01:39:49Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
