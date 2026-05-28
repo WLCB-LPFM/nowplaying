@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T16:22:48-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T16:23:12-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Vogue",
+    "artist": "Madonna",
+    "album": "Vogue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Vogue.jpg",
+    "started_at": "2026-05-28T21:23:01Z",
+    "duration_seconds": 317
+  },
   "next_poll_seconds": 10
 }
