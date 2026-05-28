@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-28T09:21:25-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T09:21:37-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Circus",
+    "artist": "Britney Spears",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-28T14:21:33.2701553Z",
+    "duration_seconds": 187,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
