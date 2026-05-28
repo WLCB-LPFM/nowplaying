@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T21:33:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T21:35:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Holy Diver",
-    "artist": "Puddles Pity Party",
-    "album": "Holy Diver",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Puddles_Pity_Party_-_Holy_Diver.jpg",
-    "started_at": "2026-05-28T02:33:24Z",
-    "duration_seconds": 131
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
