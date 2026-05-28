@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T20:19:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T20:22:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ready To Stay",
-    "artist": "Video Age",
-    "album": "Away From The Castle",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/7cdfdd1bb81a4c4671f56c292aece82f.png",
-    "started_at": "2026-05-28T01:18:47Z",
-    "duration_seconds": 253
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
