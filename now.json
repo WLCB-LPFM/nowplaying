@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T20:52:38-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T20:56:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Magic Fly",
-    "artist": "Space",
-    "album": "VCO '80 (Voyage en France)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Space_-_Magic_Fly.jpg",
-    "started_at": "2026-05-28T01:52:25Z",
-    "duration_seconds": 260
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
