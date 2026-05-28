@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-28T09:24:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T09:25:56-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Circus",
-    "artist": "Britney Spears",
-    "album": "Bravo Hits 65",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Britney_Spears_-_Circus.jpg",
-    "started_at": "2026-05-28T14:22:59Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
