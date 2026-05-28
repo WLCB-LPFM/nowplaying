@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T07:14:09-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T07:14:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Mony Mony (Downtown Mix)",
+    "artist": "Billy Idol",
+    "album": "Mony Mony (Downtown Mix)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Idol_-_Mony_Mony_(Downtown_Mix).jpg",
+    "started_at": "2026-05-28T12:14:22Z",
+    "duration_seconds": 300
+  },
   "next_poll_seconds": 10
 }
