@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T19:53:50-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T19:56:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Shamemaker",
-    "artist": "Ween",
-    "album": "La Cucaracha",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Ween_-_Shamemaker.jpg",
-    "started_at": "2026-05-28T00:53:38Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
