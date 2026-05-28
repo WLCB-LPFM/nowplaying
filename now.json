@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T20:43:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T20:46:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Sound of Silence",
-    "artist": "Pentatonix",
-    "album": "The Sound of Silence",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pentatonix_-_The_Sound_Of_Silence.jpg",
-    "started_at": "2026-05-28T01:43:30Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
