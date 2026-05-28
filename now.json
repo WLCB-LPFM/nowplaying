@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-28T10:05:49-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-28T10:09:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Baby Got Back",
-    "artist": "Sir Mix-a-Lot",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-28T15:05:46.0865398Z",
-    "duration_seconds": 252,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
