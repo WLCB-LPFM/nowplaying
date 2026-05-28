@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T21:30:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T21:32:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "MECHANICAL GOD",
-    "artist": "AzAli",
-    "album": "MECHANICAL GOD",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/953a2c54db75d6b85968431001fa9da9.png",
-    "started_at": "2026-05-28T02:30:35Z",
-    "duration_seconds": 121
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
