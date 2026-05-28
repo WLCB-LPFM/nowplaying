@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T20:35:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T20:39:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Duncan",
-    "artist": "Paul Simon",
-    "album": "The Essential Paul Simon",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Simon_-_Duncan.jpg",
-    "started_at": "2026-05-28T01:34:50Z",
-    "duration_seconds": 269
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
