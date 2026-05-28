@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T21:54:30-05:00",
-  "source": "fallback",
+  "generated": "2026-05-27T21:57:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Have You Ever Seen The Rain",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Rainy Day",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Creedence_Clearwater_Revival_-_Have_You_Ever_Seen_The_Rain.jpg",
+    "started_at": "2026-05-28T02:57:28Z",
+    "duration_seconds": 160
+  },
   "next_poll_seconds": 10
 }
