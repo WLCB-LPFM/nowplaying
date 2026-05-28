@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T21:51:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T21:54:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Opalite (Skream Remix)",
-    "artist": "Taylor Swift",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/42fd23b656de7fd03513060715396605.png",
-    "started_at": "2026-05-28T02:50:45Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
