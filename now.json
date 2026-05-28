@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T19:15:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-27T19:20:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Black Coffee In Bed",
-    "artist": "Squeeze",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Squeeze_-_Black_Coffee_In_Bed.jpg",
-    "started_at": "2026-05-28T00:14:49Z",
-    "duration_seconds": 371
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
