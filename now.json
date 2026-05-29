@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T21:01:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T21:04:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Slow Ride",
-    "artist": "Beastie Boys",
-    "album": "Licensed To Ill",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_Slow_Ride.jpg",
-    "started_at": "2026-05-29T02:01:28Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
