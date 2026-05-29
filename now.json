@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T16:45:55-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T16:46:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Country State Of Mind",
+    "artist": "Hank Williams, Jr.",
+    "album": "Best Of - All My Rowdy Friends",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hank_Williams,_Jr._-_Country_State_Of_Mind.jpg",
+    "started_at": "2026-05-29T21:46:03Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
