@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T19:57:20-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T19:57:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Tequila Sunrise (1999 Remaster)",
+    "artist": "Eagles",
+    "album": "Tequila Sunrise (1999 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eagles.jpg",
+    "started_at": "2026-05-29T00:57:30Z",
+    "duration_seconds": 172
+  },
   "next_poll_seconds": 10
 }
