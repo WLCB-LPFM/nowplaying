@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T21:24:24-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T21:27:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Slow And Low",
-    "artist": "Beastie Boys",
-    "album": "Anthology: The Sounds Of Science",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_Slow_And_Low.jpg",
-    "started_at": "2026-05-29T02:24:14Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
