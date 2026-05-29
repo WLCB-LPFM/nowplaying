@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T16:02:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T16:07:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Sister Goldenhair (LIVE)",
-    "artist": "America",
-    "album": "America Live At The London Palladium",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/America.jpg",
-    "started_at": "2026-05-29T21:02:02Z",
-    "duration_seconds": 318
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
