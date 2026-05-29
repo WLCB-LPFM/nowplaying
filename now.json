@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T08:09:12-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T08:10:19-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Runaway",
+    "artist": "Janet Jackson",
+    "album": "The Best",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Runaway.jpg",
+    "started_at": "2026-05-29T13:10:09Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
