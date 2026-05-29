@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T13:55:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T13:58:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Statesboro Blues",
-    "artist": "The Allman Brothers Band",
-    "album": "Gold",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_Statesboro_Blues.jpg",
-    "started_at": "2026-05-29T18:54:44Z",
-    "duration_seconds": 259
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
