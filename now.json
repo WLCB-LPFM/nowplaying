@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T12:32:29-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T12:35:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "I'm A King Bee (Album Version)",
+    "artist": "Muddy Waters",
+    "album": "King Of The Electric Blues",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Muddy_Waters_-_I'm_A_King_Bee_(Album_Version).jpg",
+    "started_at": "2026-05-29T17:35:21Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
