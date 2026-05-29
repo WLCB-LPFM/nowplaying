@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T13:14:13-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T13:15:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Maybe I'm a Leo (2024 Remix)",
+    "artist": "Deep Purple",
+    "album": "Machine Head (Super Deluxe)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d32486590529cbefbf7c6982d53ad5bd.png",
+    "started_at": "2026-05-29T18:14:50Z",
+    "duration_seconds": 291
+  },
   "next_poll_seconds": 10
 }
