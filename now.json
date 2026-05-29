@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T16:09:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T16:10:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Spinning Wheel",
+    "artist": "Blood Sweat & Tears",
+    "album": "Blood, Sweat & Tears",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blood_Sweat_&_Tears_-_Spinning_Wheel.jpg",
+    "started_at": "2026-05-29T21:10:04Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
