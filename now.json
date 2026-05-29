@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-29T02:33:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T02:33:15-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'll Keep You Satisfied",
-    "artist": "Katrine Madsen",
-    "album": "Stunt Goes Beatles",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Katrine_Madsen_-_I'll_Keep_You_Satisfied.jpg",
-    "started_at": "2026-05-29T07:29:00Z",
-    "duration_seconds": 264
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
