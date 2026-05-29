@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T19:39:24-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T19:43:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Ceremony (Alternate 12' Version)",
-    "artist": "New Order",
-    "album": "Ceremony (Alternate 12' Version)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/New_Order.jpg",
-    "started_at": "2026-05-29T00:39:04Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
