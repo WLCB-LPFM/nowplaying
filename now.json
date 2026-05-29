@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T14:14:42-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T14:17:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Ain't Nothing Wrong with That",
-    "artist": "Robert Randolph & The Family Band",
-    "album": "Colorblind",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Randolph_&_The_Family_Band_-_Ain't_Nothing_Wrong_With_That.jpg",
-    "started_at": "2026-05-29T19:14:28Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
