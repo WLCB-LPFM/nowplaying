@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T12:28:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T12:29:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Star Spangled Banner (Live at The Woodstock Music & Art Fair, August 18, 1969)",
+    "artist": "Jimi Hendrix",
+    "album": "Experience Hendrix - The Best of Jimi Hendrix",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jimi_Hendrix.jpg",
+    "started_at": "2026-05-29T17:28:50Z",
+    "duration_seconds": 226
+  },
   "next_poll_seconds": 10
 }
