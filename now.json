@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T20:50:18-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T20:50:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The New Style",
+    "artist": "Beastie Boys",
+    "album": "Licensed To Ill",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_The_New_Style.jpg",
+    "started_at": "2026-05-29T01:50:37Z",
+    "duration_seconds": 276
+  },
   "next_poll_seconds": 10
 }
