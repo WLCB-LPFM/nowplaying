@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T15:07:58-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T15:10:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Wilbury Twist",
-    "artist": "Traveling Wilburys",
-    "album": "The Traveling Wilburys Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Traveling_Wilburys_-_Wilbury_Twist.jpg",
-    "started_at": "2026-05-29T20:07:48Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
