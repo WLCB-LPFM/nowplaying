@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T17:06:37-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T17:11:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "The Love I Lost",
+    "artist": "Harold Melvin & The Blue Notes",
+    "album": "Disco 100",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harold_Melvin_&_The_Blue_Notes_-_The_Love_I_Lost.jpg",
+    "started_at": "2026-05-29T22:11:38Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
