@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T20:26:22-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T20:46:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rhymin & Stealin",
+    "artist": "Beastie Boys",
+    "album": "Licensed To Ill",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_Rhymin_&_Stealin.jpg",
+    "started_at": "2026-05-29T01:46:17Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
