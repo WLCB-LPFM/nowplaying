@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T12:01:56-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T12:04:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Blues 'Nooze",
+    "artist": "Magic Sam",
+    "album": "The Magic Man",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Magic_Sam_-_Blues_'nooze.jpg",
+    "started_at": "2026-05-29T17:03:41Z",
+    "duration_seconds": 128
+  },
   "next_poll_seconds": 10
 }
