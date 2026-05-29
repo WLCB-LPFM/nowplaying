@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T21:18:26-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T21:21:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Hold It Now, Hit It",
-    "artist": "Beastie Boys",
-    "album": "Licensed To Ill",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_Hold_It_Now,_Hit_It.jpg",
-    "started_at": "2026-05-29T02:18:09Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
