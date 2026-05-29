@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T15:24:54-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T15:29:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Make It Last (Remastered)",
-    "artist": "Montrose",
-    "album": "Montrose (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Montrose.jpg",
-    "started_at": "2026-05-29T20:24:30Z",
-    "duration_seconds": 333
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
