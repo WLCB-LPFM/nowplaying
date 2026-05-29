@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T16:17:25-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T16:20:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "These Eyes",
-    "artist": "The Guess Who",
-    "album": "Pop & Doo-Wop Jukebox, Vol. 3",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Guess_Who_-_These_Eyes.jpg",
-    "started_at": "2026-05-29T21:17:13Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
