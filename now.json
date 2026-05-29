@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T07:51:06-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T07:54:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "She Drives Me Crazy (The David Z Remix)",
+    "artist": "Fine Young Cannibals",
+    "album": "She Drives Me Crazy (The David Z Remix)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fine_Young_Cannibals_-_She_Drives_Me_Crazy_(The_David_Z_Remix).jpg",
+    "started_at": "2026-05-29T12:54:04Z",
+    "duration_seconds": 425
+  },
   "next_poll_seconds": 10
 }
