@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T15:10:58-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T15:13:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Rain Dance (2024 Remaster)",
-    "artist": "The Guess Who",
-    "album": "Playlist: The Very Best Of The Guess Who",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Guess_Who.jpg",
-    "started_at": "2026-05-29T20:10:37Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
