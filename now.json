@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T21:28:07-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T21:31:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Time To Get Ill",
-    "artist": "Beastie Boys",
-    "album": "Licensed To Ill",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_Time_To_Get_Ill.jpg",
-    "started_at": "2026-05-29T02:27:55Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
