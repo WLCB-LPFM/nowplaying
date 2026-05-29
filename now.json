@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T17:15:08-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T17:20:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "You're Gonna Miss Me (Original Mono Single Mix)",
+    "artist": "13th Floor Elevators",
+    "album": "7th Heaven: Music of the Spheres",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/1/13th_Floor_Elevators_-_You're_Gonna_Miss_Me_(Original_Mono_Single_Mix).jpg",
+    "started_at": "2026-05-29T22:20:31Z",
+    "duration_seconds": 151
+  },
   "next_poll_seconds": 10
 }
