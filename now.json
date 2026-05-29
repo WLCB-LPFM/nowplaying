@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T21:14:31-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T21:17:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Paul revere",
-    "artist": "Beastie Boys",
-    "album": "Licensed to Ill",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_Paul_Revere.jpg",
-    "started_at": "2026-05-29T02:14:15Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
