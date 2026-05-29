@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T21:10:36-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T21:14:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "No Sleep Till Brooklyn",
-    "artist": "Beastie Boys",
-    "album": "Licensed To Ill",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_No_Sleep_Till_Brooklyn.jpg",
-    "started_at": "2026-05-29T02:10:21Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
