@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T15:19:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T15:24:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Harvest Moon",
-    "artist": "Neil Young",
-    "album": "Harvest Moon",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Neil_Young_-_Harvest_Moon.jpg",
-    "started_at": "2026-05-29T20:19:30Z",
-    "duration_seconds": 303
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
