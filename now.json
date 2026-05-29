@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T14:08:13-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T14:10:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Key To The Highway (Live)",
+    "artist": "The Derek Trucks Band",
+    "album": "Roadsongs",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Derek_Trucks_Band.jpg",
+    "started_at": "2026-05-29T19:09:55Z",
+    "duration_seconds": 382
+  },
   "next_poll_seconds": 10
 }
