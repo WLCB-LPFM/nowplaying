@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T20:22:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T20:26:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Rock Of Ages",
-    "artist": "Def Leppard",
-    "album": "Vault - Def Leppard Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Rock_Of_Ages.jpg",
-    "started_at": "2026-05-29T01:22:26Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
