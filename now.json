@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-28T23:21:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-28T23:24:02-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Singin' the Blues",
-    "artist": "Frankie Trumbauer and His Orchestra",
-    "album": "Swing Kings",
-    "artwork_url": "",
-    "started_at": "2026-05-29T04:21:20.7894863Z",
-    "duration_seconds": 172,
-    "year": "1994"
+    "title": "Singin' The Blues",
+    "artist": "Bix Beiderbecke",
+    "album": "Tiger Rag - The Best Of",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bix_Beiderbecke_-_Singin'_The_Blues.jpg",
+    "started_at": "2026-05-29T04:21:20Z",
+    "duration_seconds": 182
   },
   "next_poll_seconds": 10
 }
