@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-29T06:27:51-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T06:28:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Tiger",
-    "artist": "Recovery Mafia",
-    "album": "Tiger",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Recovery_Mafia.jpg",
-    "started_at": "2026-05-29T11:24:32Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
