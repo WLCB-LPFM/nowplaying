@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T20:55:07-05:00",
-  "source": "fallback",
+  "generated": "2026-05-28T20:55:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "She's Crafty",
+    "artist": "Beastie Boys",
+    "album": "Licensed To Ill",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_She's_Crafty.jpg",
+    "started_at": "2026-05-29T01:55:11Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
