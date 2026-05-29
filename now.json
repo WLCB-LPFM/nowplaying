@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-28T22:04:39-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-28T22:07:14-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Boplicity",
-    "artist": "Miles Davis And His Orchestra",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-05-29T03:04:29.079997Z",
-    "duration_seconds": 176,
-    "year": "1997"
+    "title": "Boplicity (2001 - Remaster)",
+    "artist": "Miles Davis",
+    "album": "Boplicity (2001 - Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miles_Davis.jpg",
+    "started_at": "2026-05-29T03:04:35Z",
+    "duration_seconds": 181
   },
   "next_poll_seconds": 10
 }
