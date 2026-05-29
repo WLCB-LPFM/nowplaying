@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T17:24:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T17:25:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Time Has Come Today",
+    "artist": "The Chambers Brothers",
+    "album": "The Time Has Come",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Chambers_Brothers_-_Time_Has_Come_Today.jpg",
+    "started_at": "2026-05-29T22:25:05Z",
+    "duration_seconds": 662
+  },
   "next_poll_seconds": 10
 }
