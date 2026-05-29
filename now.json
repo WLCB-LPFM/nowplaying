@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-28T22:47:25-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-28T22:49:28-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "All Alone",
-    "artist": "Sarah Vaughan",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-05-29T03:47:21.6879358Z",
-    "duration_seconds": 133,
-    "year": "1997"
+    "title": "Deep Ground",
+    "artist": "Marilyn Mazur",
+    "album": "Future Song Daylight Stories",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marilyn_Mazur_-_Deep_Ground.jpg",
+    "started_at": "2026-05-29T03:47:05Z",
+    "duration_seconds": 330
   },
   "next_poll_seconds": 10
 }
