@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T19:03:35-05:00",
-  "source": "autopost",
+  "generated": "2026-05-28T19:09:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wake Up",
-    "artist": "Rage Against The Machine",
-    "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rage_Against_The_Machine_-_Wake_Up.jpg",
-    "started_at": "2026-05-29T00:03:16Z",
-    "duration_seconds": 363
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
