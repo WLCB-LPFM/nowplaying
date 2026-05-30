@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T11:22:32-05:00",
-  "source": "fallback",
+  "generated": "2026-05-30T11:22:55-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Funk 1 - Plage06",
+    "artist": "Slick Dogg",
+    "album": "Funk 1 - Plage06",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Slick_Dogg.jpg",
+    "started_at": "2026-05-30T16:22:41Z",
+    "duration_seconds": 474
+  },
   "next_poll_seconds": 10
 }
