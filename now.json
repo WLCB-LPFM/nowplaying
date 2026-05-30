@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-29T23:13:32-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T23:13:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You'd Be So Nice To Come Home To",
+    "artist": "Ella Fitzgerald",
+    "album": "Ella at Juan-Les-Pins",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ella_Fitzgerald_-_You'd_Be_So_Nice_To_Come_Home_To.jpg",
+    "started_at": "2026-05-30T04:13:35Z",
+    "duration_seconds": 172
+  },
   "next_poll_seconds": 10
 }
