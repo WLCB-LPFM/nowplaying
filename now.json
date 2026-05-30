@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T21:15:46-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T21:16:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Slow Burn",
+    "artist": "Alastair Greene",
+    "album": "Standing out Loud",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alastair_Greene_-_Slow_Burn.jpg",
+    "started_at": "2026-05-30T02:16:04Z",
+    "duration_seconds": 168
+  },
   "next_poll_seconds": 10
 }
