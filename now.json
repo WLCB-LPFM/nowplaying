@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T22:53:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T22:57:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Penny For Your Dirty Mind",
-    "artist": "Blackwater Conspiracy",
-    "album": "Shootin' the Breeze",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackwater_Conspiracy_-_Penny_For_Your_Dirty_Mind.jpg",
-    "started_at": "2026-05-30T03:52:46Z",
-    "duration_seconds": 269
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
