@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T11:43:24-05:00",
-  "source": "autopost",
+  "generated": "2026-05-30T11:46:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "I Love Your Smile (Single Version)",
-    "artist": "Shanice",
-    "album": "Now That's What I Call 1992",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shanice.jpg",
-    "started_at": "2026-05-30T16:43:03Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
