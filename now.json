@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T09:02:47-05:00",
-  "source": "autopost",
+  "generated": "2026-05-30T09:05:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Cheeseburger In Paradise",
-    "artist": "Jimmy Buffett",
-    "album": "Son Of A Son Of A Sailor",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Buffett_-_Cheeseburger_In_Paradise.jpg",
-    "started_at": "2026-05-30T14:02:35Z",
-    "duration_seconds": 171
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
