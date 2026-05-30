@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-30T14:24:20-05:00",
-  "source": "fallback",
+  "generated": "2026-05-30T14:24:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "New Sensation",
+    "artist": "INXS",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-30T19:24:28.5540287Z",
+    "duration_seconds": 212,
+    "year": "1987"
+  },
   "next_poll_seconds": 10
 }
