@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T22:44:25-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T22:44:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Only A Fool",
+    "artist": "The Black Crowes",
+    "album": "By Your Side",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Crowes_-_Only_A_Fool.jpg",
+    "started_at": "2026-05-30T03:44:45Z",
+    "duration_seconds": 224
+  },
   "next_poll_seconds": 10
 }
