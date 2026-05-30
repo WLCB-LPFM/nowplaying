@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T12:17:27-05:00",
-  "source": "fallback",
+  "generated": "2026-05-30T12:17:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "13:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Danger Zone (From 'Top Gun' Original Soundtrack)",
+    "artist": "Kenny Loggins",
+    "album": "Seria Filmowa Empik - Sensacyjne",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kenny_Loggins.jpg",
+    "started_at": "2026-05-30T17:17:34Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
