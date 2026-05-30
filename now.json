@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T19:42:52-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T19:46:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Northern Lights",
-    "artist": "Death Cab for Cutie",
-    "album": "Thank You for Today",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Death_Cab_For_Cutie_-_Northern_Lights.jpg",
-    "started_at": "2026-05-30T00:42:35Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
