@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T22:24:00-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T22:28:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "The Wild, the Willing and the Innocent",
-    "artist": "UFO",
-    "album": "The Wild, the Willing and the Innocent",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Ufo_-_The_Wild,_The_Willing_And_The_Innocent.jpg",
-    "started_at": "2026-05-30T03:23:43Z",
-    "duration_seconds": 299
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
