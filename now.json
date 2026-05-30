@@ -1,16 +1,9 @@
 {
-  "generated": "2026-05-30T03:58:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-30T04:08:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue 7 (Remastered)",
-    "artist": "Sonny Rollins",
-    "album": "Jazz Legends",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sonny_Rollins.jpg",
-    "started_at": "2026-05-30T08:57:53Z",
-    "duration_seconds": 667
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
