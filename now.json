@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T20:21:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T20:24:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Thieves in the Temple",
-    "artist": "Prince",
-    "album": "The Hits / The B-Sides",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_Thieves_In_The_Temple.jpg",
-    "started_at": "2026-05-30T01:21:37Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
