@@ -1,9 +1,16 @@
 {
-  "generated": "2026-05-29T23:16:15-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T23:16:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Stardust",
+    "artist": "Rony Verbiest",
+    "album": "Nature Boy",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rony_Verbiest_-_Stardust.jpg",
+    "started_at": "2026-05-30T04:16:24Z",
+    "duration_seconds": 516
+  },
   "next_poll_seconds": 10
 }
