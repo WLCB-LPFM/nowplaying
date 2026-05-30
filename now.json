@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T22:13:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T22:13:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Stormtroopin'",
+    "artist": "Ted Nugent",
+    "album": "Ted Nugent",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Ted_Nugent_-_Stormtroopin'.jpg",
+    "started_at": "2026-05-30T03:13:31Z",
+    "duration_seconds": 190
+  },
   "next_poll_seconds": 10
 }
