@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T11:14:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-30T11:17:55-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Without You",
+    "artist": "Charlie Wilson",
+    "album": "Bridging the Gap Remastered",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Wilson_-_Without_You.jpg",
+    "started_at": "2026-05-30T16:17:41Z",
+    "duration_seconds": 301
+  },
   "next_poll_seconds": 10
 }
