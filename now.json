@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T21:13:43-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T21:15:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Keep on Playin'",
-    "artist": "Dry Riverbed Trio",
-    "album": "Chained and Bound",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/ab1d1fa655df42e652099d2033ee49bf.png",
-    "started_at": "2026-05-30T02:13:28Z",
-    "duration_seconds": 153
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
