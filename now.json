@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T09:05:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-30T09:32:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Son Of A Son Of A Sailor",
+    "artist": "Jimmy Buffett",
+    "album": "Son Of A Son Of A Sailor",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Buffett_-_Son_Of_A_Son_Of_A_Sailor.jpg",
+    "started_at": "2026-05-30T14:31:53Z",
+    "duration_seconds": 203
+  },
   "next_poll_seconds": 10
 }
