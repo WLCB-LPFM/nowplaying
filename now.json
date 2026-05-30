@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T20:41:13-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T20:45:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Good Livin'",
-    "artist": "Vanilla Fudge",
-    "album": "Then and Now",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/5a6eb2ee876e21bc6e46d23d7af1228b.png",
-    "started_at": "2026-05-30T01:40:55Z",
-    "duration_seconds": 288
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
