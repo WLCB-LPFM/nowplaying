@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T21:52:33-05:00",
-  "source": "fallback",
+  "generated": "2026-05-29T21:52:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Burn (2002 Remaster)",
+    "artist": "Deep Purple",
+    "album": "Burn (2002 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_Burn_(2002_Remaster).jpg",
+    "started_at": "2026-05-30T02:52:43Z",
+    "duration_seconds": 362
+  },
   "next_poll_seconds": 10
 }
