@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-30T01:18:52-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-30T01:21:17-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Lady Bird",
-    "artist": "Tadd Dameron Sextet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 3",
-    "artwork_url": "",
-    "started_at": "2026-05-30T06:18:44.3961007Z",
-    "duration_seconds": 163,
-    "year": "1997"
+    "title": "Jesus Just Left Chicago",
+    "artist": "ZZ Top",
+    "album": "Rancho Texicano: The Very Best of ZZ Top",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
+    "started_at": "2026-05-30T06:18:43Z",
+    "duration_seconds": 210
   },
   "next_poll_seconds": 10
 }
