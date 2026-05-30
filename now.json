@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T21:27:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-29T21:30:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I'm a Fatboy",
-    "artist": "Nick Schnebelen",
-    "album": "Crazy All By Myself",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nick_Schnebelen_-_I'm_A_Fatboy.jpg",
-    "started_at": "2026-05-30T02:27:08Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
