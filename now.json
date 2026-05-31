@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T16:06:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T16:12:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Got To Give It Up",
+    "artist": "Marvin Gaye",
+    "album": "Funky Grooves",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marvin_Gaye_-_Got_To_Give_It_Up.jpg",
+    "started_at": "2026-05-31T21:12:09Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
