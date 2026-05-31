@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T18:08:28-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T18:11:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Listen for the Laugh",
-    "artist": "Bruce Cockburn",
-    "album": "Anything Anytime Anywhere (Singles 1979-2002)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bruce_Cockburn_-_Listen_For_The_Laugh.jpg",
-    "started_at": "2026-05-31T23:08:09Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
