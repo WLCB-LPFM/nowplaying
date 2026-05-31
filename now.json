@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-31T06:36:42-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-31T06:39:17-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Andrews Sisters",
-    "artist": "Lonesome Mama",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-31T11:36:36.9765817Z",
-    "duration_seconds": 165,
-    "year": "1941"
+    "title": "Lonesome Mama",
+    "artist": "Andrews Sisters",
+    "album": "Wake up and Live the Songbook, The Energy, The Blend - Twenty Five Sensational Years",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Andrews_Sisters.jpg",
+    "started_at": "2026-05-31T11:36:49Z",
+    "duration_seconds": 169
   },
   "next_poll_seconds": 10
 }
