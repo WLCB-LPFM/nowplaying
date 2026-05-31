@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T18:44:26-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T18:45:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Gone Daddy Gone",
+    "artist": "Gnarls Barkley",
+    "album": "Gone Daddy Gone",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gnarls_Barkley_-_Gone_Daddy_Gone.jpg",
+    "started_at": "2026-05-31T23:44:49Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
