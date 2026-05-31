@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T14:30:52-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T15:02:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "16:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Come And Get It (18-03-40)",
+    "artist": "Harry James",
+    "album": "Complete Jazz Series 1939 - 1940",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harry_James_-_Come_And_Get_It_(18-03-40).jpg",
+    "started_at": "2026-05-31T20:02:44Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
