@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-31T05:58:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T06:01:00-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Pickanniny Doll Dance (1940)",
+    "artist": "Rex Irving's Modern Men of Music",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-31T11:00:51.7743232Z",
+    "duration_seconds": 153,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
