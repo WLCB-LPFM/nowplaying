@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-31T05:53:45-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T05:54:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I'll Keep You Satisfied",
+    "artist": "Katrine Madsen",
+    "album": "Supernatural Love",
+    "artwork_url": "",
+    "started_at": "2026-05-31T10:54:32.2616179Z",
+    "duration_seconds": 249,
+    "year": "2006"
+  },
   "next_poll_seconds": 10
 }
