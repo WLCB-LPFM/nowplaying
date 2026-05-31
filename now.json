@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T20:08:43-05:00",
-  "source": "fallback",
+  "generated": "2026-05-30T20:09:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rubberband Me",
+    "artist": "Project Pat",
+    "album": "Walkin' Bank Roll",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/bad5104edd1826fa0f6f67786130a070.png",
+    "started_at": "2026-05-31T01:09:27Z",
+    "duration_seconds": 188
+  },
   "next_poll_seconds": 10
 }
