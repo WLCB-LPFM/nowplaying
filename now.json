@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T14:11:19-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T14:13:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "16:00",
     "genre": null
   },
-  "track": {
-    "title": "The Jumpin' Jive",
-    "artist": "Cab Calloway",
-    "album": "Let's Swing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cab_Calloway_-_The_Jumpin'_Jive.jpg",
-    "started_at": "2026-05-31T19:11:08Z",
-    "duration_seconds": 171
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
