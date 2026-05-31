@@ -1,17 +1,9 @@
 {
-  "generated": "2026-05-31T07:21:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-31T07:23:55-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Conchita",
-    "artist": "The Marshalls and their Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-31T12:21:18.9006162Z",
-    "duration_seconds": 166,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
