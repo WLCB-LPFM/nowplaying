@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-31T08:50:07-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T08:50:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "All the Things You Are",
+    "artist": "Artie Shaw and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-31T13:50:15.6052093Z",
+    "duration_seconds": 195,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
