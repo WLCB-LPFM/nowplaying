@@ -1,18 +1,9 @@
 {
-  "generated": "2026-05-30T22:54:25-05:00",
+  "generated": "2026-05-30T23:00:08-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Late Night Chicago Radio",
-    "hosts": [
-      "Denny Farrell"
-    ],
-    "automated": false,
-    "starts": "22:00",
-    "ends": "23:00",
-    "genre": "Jazz"
-  },
+  "show": null,
   "track": {
     "title": "Perdido",
     "artist": "Johnny Hodges",
