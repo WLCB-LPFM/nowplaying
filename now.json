@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T18:21:49-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T18:24:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Listen",
-    "artist": "Amos Lee",
-    "album": "Last Days At The Lodge",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Amos_Lee_-_Listen.jpg",
-    "started_at": "2026-05-31T23:21:35Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
