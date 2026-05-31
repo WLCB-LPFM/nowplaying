@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-31T06:23:15-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T06:23:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hannah From Havanna (1940)",
+    "artist": "Antoine-Gibbs Quartet",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-31T11:23:23.9036021Z",
+    "duration_seconds": 144,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
