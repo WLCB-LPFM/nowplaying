@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-31T08:39:14-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T08:39:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ma, He's Making Eyes at Me (1940)",
+    "artist": "Johnny McGee and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-31T13:39:25.3995559Z",
+    "duration_seconds": 121,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
