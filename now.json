@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T16:32:21-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T16:34:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Run For Glory",
-    "artist": "Joseph  Alexander",
-    "album": "Achievement and Inspiration",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Joseph__Alexander.jpg",
-    "started_at": "2026-05-31T21:32:06Z",
-    "duration_seconds": 130
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
