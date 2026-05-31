@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-31T02:13:36-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-31T02:16:01-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bag's Groove",
-    "artist": "Thelonious Monk",
-    "album": "Jazz Styles: 8th Edition",
-    "artwork_url": "",
-    "started_at": "2026-05-31T07:13:27.4105362Z",
-    "duration_seconds": 163,
-    "year": "2003"
+    "title": "Bags' Groove",
+    "artist": "Miles Davis",
+    "album": "Bleue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Bags'_Groove.jpg",
+    "started_at": "2026-05-31T07:13:58Z",
+    "duration_seconds": 681
   },
   "next_poll_seconds": 10
 }
