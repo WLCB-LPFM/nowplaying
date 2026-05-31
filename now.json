@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T18:42:02-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T18:44:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Black Horse And The Cherry Tree",
-    "artist": "KT Tunstall",
-    "album": "Cooking Music and Cooking Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kt_Tunstall_-_Black_Horse_And_The_Cherry_Tree.jpg",
-    "started_at": "2026-05-31T23:41:47Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
