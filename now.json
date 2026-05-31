@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-31T07:09:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T07:09:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Someday You'll Find Your Bluebird (1940)",
+    "artist": "Lang Thompson and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-31T12:09:25.6914325Z",
+    "duration_seconds": 166,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
