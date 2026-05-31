@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T22:46:51-05:00",
-  "source": "autopost",
+  "generated": "2026-05-30T22:49:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Still Suits Me",
-    "artist": "Bing Crosby",
-    "album": "Bing Crosby And Some Jazz Friends",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bing_Crosby.jpg",
-    "started_at": "2026-05-31T03:46:27Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
