@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-31T07:51:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-31T07:53:48-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Take Me Home",
-    "artist": "Barry Sisters; Harold Grant & his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-05-31T12:51:21.0556997Z",
-    "duration_seconds": 160,
-    "year": "1942"
+    "artist": "The Barry Sisters",
+    "album": "At Their Very Best",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Barry_Sisters.jpg",
+    "started_at": "2026-05-31T12:51:24Z",
+    "duration_seconds": 162
   },
   "next_poll_seconds": 10
 }
