@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T16:25:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T16:28:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "We're in This Love Together",
-    "artist": "Al Jarreau",
-    "album": "Master Groove (Mellow Mood) GOLD",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Jarreau_-_We're_In_This_Love_Together.jpg",
-    "started_at": "2026-05-31T21:25:09Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
