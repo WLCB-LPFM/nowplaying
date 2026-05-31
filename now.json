@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T18:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T18:01:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "You Are My Lady",
-    "artist": "Freddie Jackson",
-    "album": "Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Freddie_Jackson_-_You_Are_My_Lady.jpg",
-    "started_at": "2026-05-31T22:57:18Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
