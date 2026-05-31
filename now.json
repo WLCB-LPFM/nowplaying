@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-31T07:48:12-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T07:48:58-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tommy's Mustache",
+    "artist": "Jean Cavall; Harold Grant's Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-05-31T12:48:53.1930563Z",
+    "duration_seconds": 147,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
