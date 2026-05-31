@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T18:50:46-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T18:53:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Planned Obsolescence",
-    "artist": "Sports Team",
-    "album": "Boys These Days",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sports_Team_-_Planned_Obsolescence.jpg",
-    "started_at": "2026-05-31T23:50:27Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
