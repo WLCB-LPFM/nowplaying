@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-31T02:16:13-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-31T02:19:00-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Dead Man Blues",
-    "artist": "Jelly Roll Morton\u2019s Red Hot Peppers",
-    "album": "The Chronological Classics: Jelly-Roll Morton 1924-1926",
-    "artwork_url": "",
-    "started_at": "2026-05-31T07:16:10.7633793Z",
-    "duration_seconds": 184,
-    "year": "1991"
+    "title": "Bags' Groove",
+    "artist": "Miles Davis",
+    "album": "Bleue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Bags'_Groove.jpg",
+    "started_at": "2026-05-31T07:13:58Z",
+    "duration_seconds": 681
   },
   "next_poll_seconds": 10
 }
