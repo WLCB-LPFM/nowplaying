@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T09:07:50-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T09:35:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Arthur Murray Taught Me Dancing in a Hurry",
+    "artist": "Betty Hutton",
+    "album": "Greatest Movie Soundtracks of All Time Film Festival - Part 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Betty_Hutton_-_Arthur_Murray_Taught_Me_Dancing_In_A_Hurry.jpg",
+    "started_at": "2026-05-31T14:34:51Z",
+    "duration_seconds": 312
+  },
   "next_poll_seconds": 10
 }
