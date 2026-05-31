@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T10:01:36-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T10:04:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Begin the Beguine",
-    "artist": "Artie Shaw",
-    "album": "Any Old Time",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Artie_Shaw_-_Begin_The_Beguine.jpg",
-    "started_at": "2026-05-31T15:01:18Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
