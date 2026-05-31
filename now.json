@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T18:27:44-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T18:29:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Can You See Me (Live At Monterey)",
-    "artist": "The Jimi Hendrix Experience",
-    "album": "Live At Monterey",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Jimi_Hendrix_Experience.jpg",
-    "started_at": "2026-05-31T23:27:28Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
