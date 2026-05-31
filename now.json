@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T20:26:44-05:00",
-  "source": "autopost",
+  "generated": "2026-05-30T20:30:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Put You On The Game",
-    "artist": "The Game",
-    "album": "Put You On The Game",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Game_-_Put_You_On_The_Game.jpg",
-    "started_at": "2026-05-31T01:26:34Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
