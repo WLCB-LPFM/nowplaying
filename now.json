@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T19:03:47-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T19:06:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "You, I",
-    "artist": "The Rugbys",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rugbys_-_You,_I.jpg",
-    "started_at": "2026-06-01T00:03:28Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
