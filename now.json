@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T21:05:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T21:09:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Crazy",
-    "artist": "Widespread Panic",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_Crazy.jpg",
-    "started_at": "2026-06-01T02:04:55Z",
-    "duration_seconds": 259
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
