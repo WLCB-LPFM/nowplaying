@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-01T14:59:05-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-06-01T15:00:06-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Motorsports Report",
-    "hosts": [
-      "Matthew Lodareii"
-    ],
-    "automated": false,
-    "starts": "14:00",
-    "ends": "15:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
     "title": "Weird Science",
     "artist": "Oingo Boingo",
     "album": "Halloween Mix",
     "artwork_url": "https://cdn.autopo.st/images/coverart/o/Oingo_Boingo_-_Weird_Science.jpg",
-    "started_at": "2026-06-01T19:58:45Z",
-    "duration_seconds": 364
+    "started_at": "2026-06-01T19:57:55.4694721Z",
+    "duration_seconds": 359,
+    "year": "2018"
   },
   "next_poll_seconds": 10
 }
