@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T19:21:05-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T19:21:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "In A Time",
+    "artist": "Hour Glass",
+    "album": "The Hourglass",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Hour_Glass.jpg",
+    "started_at": "2026-06-01T00:21:15Z",
+    "duration_seconds": 137
+  },
   "next_poll_seconds": 10
 }
