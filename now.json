@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T19:17:11-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T19:21:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "A Nickel\u2019S Worth Of Benny\u2019S Help",
-    "artist": "The 31st Of February",
-    "album": "Follow Me Down: Vanguard's Lost Psychedelic Era (1966 - 1970)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_31st_Of_February.jpg",
-    "started_at": "2026-06-01T00:16:54Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
