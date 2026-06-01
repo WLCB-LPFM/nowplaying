@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-01T04:32:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-01T04:32:48-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Big Butter and Egg Man From the West",
+    "artist": "Louis Armstrong and His Hot Five",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-06-01T09:32:38.1942758Z",
+    "duration_seconds": 175,
+    "year": "1927"
+  },
   "next_poll_seconds": 10
 }
