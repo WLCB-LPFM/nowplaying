@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T21:28:11-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T21:29:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Nobody but You",
+    "artist": "Lil Bob & The Lollipops",
+    "album": "Swamp Gold, Vol. 4",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lil_Bob_&_The_Lollipops.jpg",
+    "started_at": "2026-06-01T02:28:45Z",
+    "duration_seconds": 163
+  },
   "next_poll_seconds": 10
 }
