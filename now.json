@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T19:42:56-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T19:45:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Found Love",
-    "artist": "Fly-Bi-Nites",
-    "album": "Pebbles: Lost Gems of the 60s, Vol. 1",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fly-bi-nites_-_Found_Love.jpg",
-    "started_at": "2026-06-01T00:42:42Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
