@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T21:34:39-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T21:39:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Memphis",
-    "artist": "Joe Jackson",
-    "album": "Joe Jackson Live 1980 - 1986",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Jackson_-_Memphis.jpg",
-    "started_at": "2026-06-01T02:34:24Z",
-    "duration_seconds": 320
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
