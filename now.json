@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-01T01:42:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-01T01:45:51-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "These Foolish Things",
-    "artist": "Billie Holiday",
-    "album": "Blue Moon",
-    "artwork_url": "",
-    "started_at": "2026-06-01T06:42:27.6921122Z",
-    "duration_seconds": 208,
-    "year": "2003"
+    "artist": "Oscar Peterson",
+    "album": "Wonderful Soundtrack",
+    "artwork_url": "https://cdn.autopo.st/images/artists/o/Oscar_Peterson.jpg",
+    "started_at": "2026-06-01T06:42:36Z",
+    "duration_seconds": 216
   },
   "next_poll_seconds": 10
 }
