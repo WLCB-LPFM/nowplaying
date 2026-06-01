@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T21:49:05-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T21:50:57-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Out Of The Blue",
+    "artist": "Roxy Music",
+    "album": "Viva! Roxy Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roxy_Music_-_Out_Of_The_Blue.jpg",
+    "started_at": "2026-06-01T02:50:37Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
