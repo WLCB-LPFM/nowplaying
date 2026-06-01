@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-01T02:50:37-05:00",
-  "source": "autopost",
+  "generated": "2026-06-01T02:51:00-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Misterioso",
-    "artist": "Milt Jackson",
-    "album": "My Magic Christmas Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Milt_Jackson_-_Misterioso.jpg",
-    "started_at": "2026-06-01T07:47:56Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
