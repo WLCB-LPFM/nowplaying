@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T20:46:05-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T20:48:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "She Got Me (When She Got Her Dress On)",
-    "artist": "Masters Of Reality",
-    "album": "Sunrise On The Sufferbus",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Masters_Of_Reality_-_She_Got_Me_(When_She_Got_Her_Dress_On).jpg",
-    "started_at": "2026-06-01T01:45:48Z",
-    "duration_seconds": 168
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
