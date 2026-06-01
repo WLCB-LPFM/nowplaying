@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T20:16:39-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T20:17:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Turkish Train Conductor Blues",
+    "artist": "The Move",
+    "album": "Hits & Rarities - Singles a\u2019s & B\u2019s - The Move",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/528ae5a59c08f021de0d32492421e3c9.png",
+    "started_at": "2026-06-01T01:16:45Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
