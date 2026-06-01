@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T19:06:40-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T19:10:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Baby Please Don't Go",
-    "artist": "Tony Joe White",
-    "album": "Swamp Music: The Complete Monument Recordings",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_Baby_Please_Don't_Go.jpg",
-    "started_at": "2026-06-01T00:06:30Z",
-    "duration_seconds": 265
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
