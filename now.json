@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T19:23:21-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T19:26:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I Wonder",
+    "artist": "The Gants",
+    "album": "Road Runner! The Best Of The Gants",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Gants_-_I_Wonder.jpg",
+    "started_at": "2026-06-01T00:26:01Z",
+    "duration_seconds": 149
+  },
   "next_poll_seconds": 10
 }
