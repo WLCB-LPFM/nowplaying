@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T19:52:35-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T19:57:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Gloria",
+    "artist": "The Hombres",
+    "album": "Let It Out (Let It All Hang Out)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/a78093dbf1254b3ba49a6b9b04bcc4f3.png",
+    "started_at": "2026-06-01T00:57:14Z",
+    "duration_seconds": 338
+  },
   "next_poll_seconds": 10
 }
