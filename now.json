@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T20:40:08-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T20:44:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Electricland (2009 Remaster)",
-    "artist": "Bad Company",
-    "album": "Rough Diamonds (2009 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bad_Company.jpg",
-    "started_at": "2026-06-01T01:39:44Z",
-    "duration_seconds": 329
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
