@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T21:09:05-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T21:10:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Seven Turns",
+    "artist": "The Allman Brothers Band",
+    "album": "Seven Turns",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_Seven_Turns.jpg",
+    "started_at": "2026-06-01T02:10:20Z",
+    "duration_seconds": 303
+  },
   "next_poll_seconds": 10
 }
