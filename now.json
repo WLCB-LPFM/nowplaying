@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T20:02:03-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T20:03:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Why",
+    "artist": "Ringo Starr",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ringo_Starr_-_Why.jpg",
+    "started_at": "2026-06-01T01:03:18Z",
+    "duration_seconds": 170
+  },
   "next_poll_seconds": 10
 }
