@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T21:20:47-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T21:26:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Beaux's Romance",
+    "artist": "C.C. Adcock",
+    "album": "C.C. Adcock",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/60793eb7fe66f210839200c193f8879a.png",
+    "started_at": "2026-06-01T02:26:09Z",
+    "duration_seconds": 135
+  },
   "next_poll_seconds": 10
 }
