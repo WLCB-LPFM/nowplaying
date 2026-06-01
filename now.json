@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-01T05:10:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-01T05:14:06-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Body And Soul",
-    "artist": "Benny Goodman Trio",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
-    "artwork_url": "",
-    "started_at": "2026-06-01T10:10:53.9298848Z",
-    "duration_seconds": 201,
-    "year": "1997"
+    "title": "Body and soul",
+    "artist": "benny goodman sextet",
+    "album": "Benny Goodman Trio & Quintet & Sextet",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benny_Goodman_Sextet_-_Body_And_Soul.jpg",
+    "started_at": "2026-06-01T10:11:04Z",
+    "duration_seconds": 212
   },
   "next_poll_seconds": 10
 }
