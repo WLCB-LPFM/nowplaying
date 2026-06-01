@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T21:40:34-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T21:46:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Moonage Daydream (Live) [Stereo]",
-    "artist": "David Bowie",
-    "album": "Moonage Daydream (Live) [Stereo]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Bowie_-_Moonage_Daydream_(Live)_[stereo].jpg",
-    "started_at": "2026-06-01T02:40:15Z",
-    "duration_seconds": 385
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
