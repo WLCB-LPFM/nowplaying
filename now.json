@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-01T06:05:42-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-01T06:10:09-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Sweet Dreams (Are Made of This)",
-    "artist": "Eurythmics",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-01T11:05:38.7642461Z",
-    "duration_seconds": 277,
-    "year": "1983"
+    "title": "Sweet Dreams",
+    "artist": "Miami Mashups",
+    "album": "Miami Mashups Vol. 4",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miami_Mashups.jpg",
+    "started_at": "2026-06-01T11:05:42Z",
+    "duration_seconds": 337
   },
   "next_poll_seconds": 10
 }
