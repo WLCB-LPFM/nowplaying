@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-01T01:05:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-01T01:06:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blue in Green",
+    "artist": "Bill Evans Trio",
+    "album": "Classic Jazz: the Fifties",
+    "artwork_url": "",
+    "started_at": "2026-06-01T06:06:37.7081423Z",
+    "duration_seconds": 309,
+    "year": "2001"
+  },
   "next_poll_seconds": 10
 }
