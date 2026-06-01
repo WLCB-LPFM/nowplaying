@@ -1,17 +1,16 @@
 {
-  "generated": "2026-05-31T22:28:29-05:00",
-  "source": "playitlive",
+  "generated": "2026-05-31T22:34:02-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Diminuendo in Blue and Crescendo in Blue",
-    "artist": "Duke Ellington and His Famous Orchestra",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-06-01T03:28:21.13609Z",
-    "duration_seconds": 354,
-    "year": "1987"
+    "title": "Crescendo in Blue",
+    "artist": "Duke Ellington & His Famous Orchestra",
+    "album": "Jazz Profiles",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington_&_His_Famous_Orchestra.jpg",
+    "started_at": "2026-06-01T03:31:09Z",
+    "duration_seconds": 194
   },
   "next_poll_seconds": 10
 }
