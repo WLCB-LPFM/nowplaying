@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T16:39:33-05:00",
-  "source": "fallback",
+  "generated": "2026-06-01T17:30:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Legendary Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-06-01T22:29:55Z",
+    "duration_seconds": 323
+  },
   "next_poll_seconds": 10
 }
