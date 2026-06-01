@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T21:46:29-05:00",
-  "source": "fallback",
+  "generated": "2026-05-31T21:47:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "C'mon Everybody",
+    "artist": "The Who",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/be5052cf193bb6f0f61a6671a686bef4.png",
+    "started_at": "2026-06-01T02:47:22Z",
+    "duration_seconds": 115
+  },
   "next_poll_seconds": 10
 }
