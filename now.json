@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T20:56:20-05:00",
-  "source": "autopost",
+  "generated": "2026-05-31T20:58:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Hold on, Hold On (Live)",
-    "artist": "The Sadies",
-    "album": "In Concert Vol. 1",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/64d9883328831429a2bf1f794845c472.png",
-    "started_at": "2026-06-01T01:55:59Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
