@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-02T04:52:22-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T04:52:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Radiator",
-    "artist": "Christian Ratzer, Ole Theill, Steen Kyed, Klavs Nordso, Mikkel Nordso",
-    "album": "Arabesque",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Christian_Ratzer,_Ole_Theill,_Steen_Kyed,_Klavs_Nordso,_Mikkel_Nordso_-_Radiator.jpg",
-    "started_at": "2026-06-02T09:50:12Z",
-    "duration_seconds": 153
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
