@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T20:12:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-01T20:14:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Happy Go Lucky Local",
+    "artist": "Duke Ellington Legacy",
+    "album": "Single Petal of A Rose",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington_Legacy.jpg",
+    "started_at": "2026-06-02T01:13:52Z",
+    "duration_seconds": 409
+  },
   "next_poll_seconds": 10
 }
