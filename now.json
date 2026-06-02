@@ -1,9 +1,18 @@
 {
-  "generated": "2026-06-02T14:59:49-05:00",
+  "generated": "2026-06-02T15:00:01-05:00",
   "source": "autopost",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
+  },
   "track": {
     "title": "Cars",
     "artist": "Gary Numan",
