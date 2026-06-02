@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-02T12:45:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T12:45:24-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Show Me Love",
+    "artist": "Robin S",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-02T17:45:19.7509117Z",
+    "duration_seconds": 188,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
