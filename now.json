@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T20:54:28-05:00",
-  "source": "autopost",
+  "generated": "2026-06-01T20:59:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Make Someone Happy",
-    "artist": "Jack Wood",
-    "album": "Movie Magic: Great Songs from the Movies",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jack_Wood.jpg",
-    "started_at": "2026-06-02T01:54:11Z",
-    "duration_seconds": 315
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
