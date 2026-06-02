@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-02T05:06:17-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T05:08:19-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Haitian Fight Song",
+    "artist": "Charles Mingus feat. Dannie Richmond, Wade Legge, Curtis Porter, Jimmy Kneeper",
+    "album": "The Clown",
+    "artwork_url": "null",
+    "started_at": "2026-06-02T10:07:58Z",
+    "duration_seconds": 723
+  },
   "next_poll_seconds": 10
 }
