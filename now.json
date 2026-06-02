@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T20:46:08-05:00",
-  "source": "autopost",
+  "generated": "2026-06-01T20:51:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Happy Talk",
-    "artist": "Sherrie Maricle & The DIVA Jazz Orchestra",
-    "album": "Live From Jazz at Lincoln Center's Dizzy's Club Coca-Cola: Sherrie Maricle & The DIVA Jazz Orchestra (feat. Carmen Bradford) [Live]",
-    "artwork_url": "null",
-    "started_at": "2026-06-02T01:45:44Z",
-    "duration_seconds": 379
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
