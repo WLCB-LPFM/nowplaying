@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T15:26:37-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T15:29:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "TiK ToK",
-    "artist": "Ke$ha",
-    "album": "WM Party",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Ke$ha_-_Tik_Tok.jpg",
-    "started_at": "2026-06-02T20:26:27Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
