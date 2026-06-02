@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T20:34:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-01T20:37:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Happy Time",
-    "artist": "Buddy Rich",
-    "album": "Keep The Customer Satisfied",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Rich_-_Happy_Time.jpg",
-    "started_at": "2026-06-02T01:33:49Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
