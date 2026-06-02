@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T16:40:05-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T16:53:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Last Night In Miami",
+    "artist": "Dave Kurtis",
+    "album": "House Society - Best of 2009 Presented by Horny United",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dave_Kurtis.jpg",
+    "started_at": "2026-06-02T21:53:13Z",
+    "duration_seconds": 374
+  },
   "next_poll_seconds": 10
 }
