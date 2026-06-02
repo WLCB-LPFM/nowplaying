@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-02T13:37:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-02T13:41:38-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "One Minute Man",
-    "artist": "Missy Elliott feat. Ludacris and Trina",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-02T18:37:43.756661Z",
-    "duration_seconds": 241,
-    "year": ""
+    "title": "One Minute Man (feat. Ludacris)",
+    "artist": "Missy Elliott",
+    "album": "One Minute Man (feat. Ludacris)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Missy_Elliott_-_One_Minute_Man_(Feat._Ludacris).jpg",
+    "started_at": "2026-06-02T18:37:50Z",
+    "duration_seconds": 253
   },
   "next_poll_seconds": 10
 }
