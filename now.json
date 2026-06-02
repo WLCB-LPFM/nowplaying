@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T16:06:19-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T16:08:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Mama Said Knock You Out",
+    "artist": "LL Cool J",
+    "album": "All World",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Ll_Cool_J_-_Mama_Said_Knock_You_Out.jpg",
+    "started_at": "2026-06-02T21:08:33Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
