@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-01T19:01:27-05:00",
-  "source": "fallback",
+  "generated": "2026-06-01T19:03:30-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Lay Your Hands On Me",
+    "artist": "Thompson Twins",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-02T00:03:21.9172837Z",
+    "duration_seconds": 207,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
