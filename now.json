@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-01T19:19:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-01T19:23:42-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hip Hop Hooray",
-    "artist": "Naughty by Nature",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-02T00:19:54.6492762Z",
-    "duration_seconds": 232,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
