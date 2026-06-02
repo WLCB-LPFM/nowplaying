@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-02T16:57:37-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-06-02T17:00:02-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Roadhouse Radio",
-    "hosts": [
-      "Joe Powers"
-    ],
-    "automated": false,
-    "starts": "15:00",
-    "ends": "17:00",
-    "genre": "Country"
-  },
+  "show": null,
   "track": {
-    "title": "The Power of Love (From 'Back To The Future' Soundtrack)",
-    "artist": "Huey Lewis & The News",
-    "album": "NOW 100 Hits Car Songs",
-    "artwork_url": "https://cdn.autopo.st/images/artists/h/Huey_Lewis_&_The_News.jpg",
-    "started_at": "2026-06-02T21:57:20Z",
-    "duration_seconds": 234
+    "title": "The Power Of Love",
+    "artist": "Huey Lewis And The News",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-02T21:57:11.351024Z",
+    "duration_seconds": 220,
+    "year": "1985"
   },
   "next_poll_seconds": 10
 }
