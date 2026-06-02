@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T21:37:58-05:00",
-  "source": "fallback",
+  "generated": "2026-06-01T21:39:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Shadow of Your Smile",
+    "artist": "Sherrie Maricle",
+    "album": "Johnny Mandel: The Man and His Music",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sherrie_Maricle.jpg",
+    "started_at": "2026-06-02T02:38:51Z",
+    "duration_seconds": 363
+  },
   "next_poll_seconds": 10
 }
