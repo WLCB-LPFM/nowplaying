@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-02T02:44:08-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-02T02:46:33-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bag's Groove",
-    "artist": "Thelonious Monk",
-    "album": "Jazz Styles: 8th Edition",
-    "artwork_url": "",
-    "started_at": "2026-06-02T07:44:02.0946011Z",
-    "duration_seconds": 165,
-    "year": "2003"
+    "title": "Bags' Groove - RVG Remaster",
+    "artist": "Miles Davis",
+    "album": "Bags' Groove (Rudy Van Gelder Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miles_Davis.jpg",
+    "started_at": "2026-06-02T07:44:12Z",
+    "duration_seconds": 676
   },
   "next_poll_seconds": 10
 }
