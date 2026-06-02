@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T21:07:31-05:00",
-  "source": "fallback",
+  "generated": "2026-06-01T21:08:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "When Your Smiling",
+    "artist": "The Tom Kubis Big Band",
+    "album": "Slightly off the Ground",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/55b0806979aef50470ba72dfdf64f576.png",
+    "started_at": "2026-06-02T02:08:30Z",
+    "duration_seconds": 269
+  },
   "next_poll_seconds": 10
 }
