@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-02T06:54:35-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-02T06:58:06-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Jump",
+    "title": "Jump (2004 Remaster)",
     "artist": "Van Halen",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-02T11:54:26.0663137Z",
-    "duration_seconds": 231,
-    "year": "1983"
+    "album": "Jump (2004 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/v/Van_Halen.jpg",
+    "started_at": "2026-06-02T11:54:28Z",
+    "duration_seconds": 244
   },
   "next_poll_seconds": 10
 }
