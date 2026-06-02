@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T16:36:01-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T16:40:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Ice Ice Baby",
-    "artist": "Vanilla Ice",
-    "album": "Ice Ice Baby",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Vanilla_Ice_-_Ice_Ice_Baby.jpg",
-    "started_at": "2026-06-02T21:35:52Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
