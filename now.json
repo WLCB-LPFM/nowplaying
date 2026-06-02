@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-02T14:56:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T14:56:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cars",
+    "artist": "Gary Numan",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-02T19:56:29.7499414Z",
+    "duration_seconds": 213,
+    "year": "2010"
+  },
   "next_poll_seconds": 10
 }
