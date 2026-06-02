@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T21:49:55-05:00",
-  "source": "fallback",
+  "generated": "2026-06-01T21:51:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Joy Spring",
+    "artist": "Clifford Brown & Max Roach",
+    "album": "Jazz Masters",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Clifford_Brown_&_Max_Roach_-_Joy_Spring.jpg",
+    "started_at": "2026-06-02T02:51:00Z",
+    "duration_seconds": 411
+  },
   "next_poll_seconds": 10
 }
