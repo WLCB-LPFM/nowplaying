@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T20:44:25-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T20:48:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Cross-Eyed Mary (Steven Wilson Stereo Remix)",
-    "artist": "Jethro Tull",
-    "album": "Aqualung (40th Anniversary Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jethro_Tull_-_Cross-eyed_Mary_(Steven_Wilson_Stereo_Remix).jpg",
-    "started_at": "2026-06-03T01:44:09Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
