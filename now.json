@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T22:53:08-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T22:53:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Consider Me Gone",
+    "artist": "Sting",
+    "album": "The Dream Of The Blue Turtles",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sting_-_Consider_Me_Gone.jpg",
+    "started_at": "2026-06-03T03:53:25Z",
+    "duration_seconds": 261
+  },
   "next_poll_seconds": 10
 }
