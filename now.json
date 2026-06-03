@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T22:18:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T22:22:52-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Terrifying",
-    "artist": "The Rolling Stones",
-    "album": "Steel Wheels",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Terrifying.jpg",
-    "started_at": "2026-06-03T03:18:04Z",
-    "duration_seconds": 293
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
