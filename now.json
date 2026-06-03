@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T20:40:34-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T20:40:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Let It Be",
+    "artist": "Aretha Franklin",
+    "album": "GLASS ONION: SONGS OF THE BEATLES",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_Let_It_Be.jpg",
+    "started_at": "2026-06-03T01:40:41Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
