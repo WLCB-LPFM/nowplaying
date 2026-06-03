@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-03T04:09:03-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T04:09:48-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Wrappin\u2019 It Up",
+    "artist": "Fletcher Henderson and His Orchestra",
+    "album": "The Smithsonian Collection of Classic Jazz",
+    "artwork_url": "",
+    "started_at": "2026-06-03T09:09:46.7120815Z",
+    "duration_seconds": 153,
+    "year": "1973"
+  },
   "next_poll_seconds": 10
 }
