@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T21:54:34-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T21:54:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "All Day Music",
+    "artist": "War",
+    "album": "All Day Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/War_-_All_Day_Music.jpg",
+    "started_at": "2026-06-03T02:54:39Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
