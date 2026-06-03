@@ -1,18 +1,9 @@
 {
-  "generated": "2026-06-02T22:59:14-05:00",
+  "generated": "2026-06-02T23:00:11-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Classic Tuesdays with Ted",
-    "hosts": [
-      "Ted Runnels"
-    ],
-    "automated": false,
-    "starts": "20:00",
-    "ends": "23:00",
-    "genre": "Funk"
-  },
+  "show": null,
   "track": {
     "title": "Don't Mistake Kindness For Weakness",
     "artist": "Albert Collins",
