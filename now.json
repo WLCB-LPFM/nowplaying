@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T08:38:42-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T08:41:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I'm Too Sexy (Single Version)",
+    "artist": "Right Said Fred",
+    "album": "NOW That's What I Call Dance Classics",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Right_Said_Fred.jpg",
+    "started_at": "2026-06-03T13:41:07Z",
+    "duration_seconds": 172
+  },
   "next_poll_seconds": 10
 }
