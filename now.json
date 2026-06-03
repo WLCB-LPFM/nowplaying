@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T20:29:56-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T20:32:20-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Proud Mary",
+    "artist": "Tina Turner",
+    "album": "Proud Mary",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tina_Turner_-_Proud_Mary.jpg",
+    "started_at": "2026-06-03T01:32:01Z",
+    "duration_seconds": 327
+  },
   "next_poll_seconds": 10
 }
