@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-03T17:10:25-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T17:10:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Everything She Wants",
+    "artist": "Wham!",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-03T22:10:29.959604Z",
+    "duration_seconds": 285,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
