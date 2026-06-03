@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T21:15:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T21:19:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Easy Money",
+    "artist": "King Crimson",
+    "album": "Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/King_Crimson_-_Easy_Money.jpg",
+    "started_at": "2026-06-03T02:19:06Z",
+    "duration_seconds": 474
+  },
   "next_poll_seconds": 10
 }
