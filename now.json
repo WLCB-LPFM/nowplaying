@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T20:48:26-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T20:52:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Mary Jane's Last Dance",
-    "artist": "Tom Petty and the Heartbreakers",
-    "album": "Anthology: Through The Years",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_And_The_Heartbreakers_-_Mary_Jane's_Last_Dance.jpg",
-    "started_at": "2026-06-03T01:48:17Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
