@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-03T17:58:39-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T18:02:12-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "O.P.P.",
+    "artist": "Naughty by Nature",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-03T23:02:12.0233934Z",
+    "duration_seconds": 255,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
