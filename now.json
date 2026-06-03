@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T12:00:01-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T12:33:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Happy Time (Live) (Remixed & Remastered 01) (2001 Digital Remaster)",
+    "artist": "Buddy Rich",
+    "album": "Keep The Customer Satisfied",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buddy_Rich.jpg",
+    "started_at": "2026-06-03T17:32:57Z",
+    "duration_seconds": 237
+  },
   "next_poll_seconds": 10
 }
