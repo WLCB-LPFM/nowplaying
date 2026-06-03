@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T21:31:24-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T21:35:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Cold Turkey (Single Version) (2010 - Remaster)",
-    "artist": "John Lennon",
-    "album": "Power To The People - The Hits",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/John_Lennon.jpg",
-    "started_at": "2026-06-03T02:31:01Z",
-    "duration_seconds": 304
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
