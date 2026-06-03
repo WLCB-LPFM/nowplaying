@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T13:41:34-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T13:42:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "You've Made Me Feel so Very Happy",
+    "artist": "Blood",
+    "album": "Epic Rock",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blood.jpg",
+    "started_at": "2026-06-03T18:42:33Z",
+    "duration_seconds": 255
+  },
   "next_poll_seconds": 10
 }
