@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T22:11:58-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T22:12:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Skateaway",
+    "artist": "Dire Straits",
+    "album": "Skateaway",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dire_Straits_-_Skateaway.jpg",
+    "started_at": "2026-06-03T03:12:26Z",
+    "duration_seconds": 400
+  },
   "next_poll_seconds": 10
 }
