@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T22:44:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T22:48:52-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Bullet The Blue Sky",
-    "artist": "U2",
-    "album": "The Joshua Tree",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_Bullet_The_Blue_Sky.jpg",
-    "started_at": "2026-06-03T03:44:31Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
