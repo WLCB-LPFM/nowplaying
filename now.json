@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T20:26:29-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T20:27:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Hymn 43 (2011 Steven Wilson Remix)",
+    "artist": "Jethro Tull",
+    "album": "Aqualung (40th Anniversary Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jethro_Tull_-_Hymn_43_(2011_Steven_Wilson_Remix).jpg",
+    "started_at": "2026-06-03T01:26:49Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
