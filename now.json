@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T21:10:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T21:15:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Venus In Furs",
-    "artist": "The Velvet Underground",
-    "album": "Gold",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Velvet_Underground_-_Venus_In_Furs.jpg",
-    "started_at": "2026-06-03T02:09:59Z",
-    "duration_seconds": 312
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
