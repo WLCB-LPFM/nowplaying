@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-03T18:26:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T18:28:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "album": "Cross Road",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_You_Give_Love_A_Bad_Name.jpg",
+    "started_at": "2026-06-03T23:28:20.6622643Z",
+    "duration_seconds": 215,
+    "year": "2019"
+  },
   "next_poll_seconds": 10
 }
