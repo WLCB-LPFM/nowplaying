@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-02T23:28:55-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-02T23:31:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Evidence",
-    "artist": "Thelonius Monk Quartet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-06-03T04:28:45.7533293Z",
-    "duration_seconds": 150,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
