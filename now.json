@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-02T23:21:14-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T23:21:26-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hello Oscar - Ernest Olah Trio",
+    "artist": "Ernest Ol\u00e1h Trio",
+    "album": "The Best Jazz Audiophile Recommended Vol.2",
+    "artwork_url": "",
+    "started_at": "2026-06-03T04:21:10Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
