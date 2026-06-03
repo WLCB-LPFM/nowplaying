@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T08:55:22-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T08:56:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Regulate",
+    "artist": "Big Loud",
+    "album": "Regulate",
+    "artwork_url": "null",
+    "started_at": "2026-06-03T13:55:38Z",
+    "duration_seconds": 123
+  },
   "next_poll_seconds": 10
 }
