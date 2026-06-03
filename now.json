@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T20:05:19-05:00",
-  "source": "autopost",
+  "generated": "2026-06-02T20:11:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Symptom of the Universe (2013 Remaster)",
-    "artist": "Black Sabbath",
-    "album": "Sabotage (2014 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Sabbath_-_Symptom_Of_The_Universe_(2013_Remaster).jpg",
-    "started_at": "2026-06-03T01:05:08Z",
-    "duration_seconds": 388
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
