@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-03T15:06:58-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-03T15:11:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Give It Away",
-    "artist": "Red Hot Chili Peppers",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-03T20:06:46.2599354Z",
-    "duration_seconds": 271,
-    "year": "2015"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
