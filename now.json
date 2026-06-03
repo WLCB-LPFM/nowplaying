@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T21:35:51-05:00",
-  "source": "fallback",
+  "generated": "2026-06-02T21:36:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Losing You",
+    "artist": "John Lennon",
+    "album": "Double Fantasy Stripped Down",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Lennon_-_I'm_Losing_You.jpg",
+    "started_at": "2026-06-03T02:36:01Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
