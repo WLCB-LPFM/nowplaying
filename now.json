@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T19:59:11-05:00",
-  "source": "autopost",
+  "generated": "2026-06-03T20:01:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Silent Drift",
-    "artist": "aurora.heaven",
-    "album": "dreamcore vol.1",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/2b1186987f2d2002af0ecbb4f6c88a2b.png",
-    "started_at": "2026-06-04T00:58:49Z",
-    "duration_seconds": 150
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
