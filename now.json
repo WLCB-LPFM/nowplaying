@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-04T03:58:17-05:00",
-  "source": "fallback",
+  "generated": "2026-06-04T03:58:29-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Evidence",
+    "artist": "Thelonious Monk",
+    "album": "Saga Jazz: Monk Plays Thelonious",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_Evidence.jpg",
+    "started_at": "2026-06-04T08:58:14Z",
+    "duration_seconds": 155
+  },
   "next_poll_seconds": 10
 }
