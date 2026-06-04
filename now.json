@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T17:15:34-05:00",
-  "source": "autopost",
+  "generated": "2026-06-04T17:18:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Better Days (feat. J Raw)",
-    "artist": "Yung Steez",
-    "album": "Higher Living",
-    "artwork_url": "null",
-    "started_at": "2026-06-04T22:15:11Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
