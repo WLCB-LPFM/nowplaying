@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T20:31:51-05:00",
-  "source": "autopost",
+  "generated": "2026-06-03T20:33:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sixteen Tons",
-    "artist": "Tennessee Ernie Ford",
-    "album": "Country Gold",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tennessee_Ernie_Ford_-_Sixteen_Tons.jpg",
-    "started_at": "2026-06-04T01:31:33Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
