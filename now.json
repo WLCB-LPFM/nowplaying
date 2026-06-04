@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-04T06:23:05-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-04T06:26:37-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Bizarre Love Triangle",
-    "artist": "New Order",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-04T11:23:02.4156135Z",
-    "duration_seconds": 222,
-    "year": "2022"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
