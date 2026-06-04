@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-04T10:46:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-04T10:46:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Funky Cold Medina",
-    "artist": "Tone-Loc",
-    "album": "Loc-ed After Dark",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tone-loc_-_Funky_Cold_Medina.jpg",
-    "started_at": "2026-06-04T15:42:26Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
