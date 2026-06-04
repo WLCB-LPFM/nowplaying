@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T20:54:19-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T20:56:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "In the Middle of the House",
+    "artist": "Johnston Brothers",
+    "album": "British Hits of 1956, Vol. 4",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b946675f82a9468f9a9727d8f68a7583.png",
+    "started_at": "2026-06-04T01:56:29Z",
+    "duration_seconds": 121
+  },
   "next_poll_seconds": 10
 }
