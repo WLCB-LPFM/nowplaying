@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T20:50:58-05:00",
-  "source": "autopost",
+  "generated": "2026-06-03T20:54:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "A Boy Named Sue",
-    "artist": "Johnny Cash",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Cash_-_A_Boy_Named_Sue.jpg",
-    "started_at": "2026-06-04T01:50:38Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
