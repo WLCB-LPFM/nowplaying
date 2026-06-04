@@ -1,25 +1,9 @@
 {
-  "generated": "2026-06-04T08:57:00-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-06-04T09:00:09-05:00",
+  "source": "fallback",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The John and Heidi Show",
-    "hosts": [
-      "John and Heidi Small"
-    ],
-    "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
-  },
-  "track": {
-    "title": "All 4 Love",
-    "artist": "Color Me Badd",
-    "album": "All 4 Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Color_Me_Badd_-_All_4_Love.jpg",
-    "started_at": "2026-06-04T13:56:51Z",
-    "duration_seconds": 211
-  },
+  "show": null,
+  "track": null,
   "next_poll_seconds": 10
 }
