@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T17:34:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-04T17:46:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Expressway to Your Heart",
+    "artist": "Soul Survivors",
+    "album": "Expressway to Your Heart",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Soul_Survivors_-_Expressway_To_Your_Heart.jpg",
+    "started_at": "2026-06-04T22:46:24Z",
+    "duration_seconds": 140
+  },
   "next_poll_seconds": 10
 }
