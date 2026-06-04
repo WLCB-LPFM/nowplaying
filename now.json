@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-03T22:17:42-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T22:17:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Reminiscing",
+    "artist": "Jason Weber",
+    "album": "1996",
+    "artwork_url": "",
+    "started_at": "2026-06-04T03:17:51.4924222Z",
+    "duration_seconds": 279,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
