@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T21:43:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-03T21:46:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ready To Stay",
-    "artist": "Video Age",
-    "album": "Away From The Castle",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Video_Age_-_Ready_To_Stay.jpg",
-    "started_at": "2026-06-04T02:42:53Z",
-    "duration_seconds": 253
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
