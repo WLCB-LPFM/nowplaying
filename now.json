@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T19:54:53-05:00",
-  "source": "autopost",
+  "generated": "2026-06-03T19:57:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Danny Boy",
-    "artist": "The Twelve Irish Tenors",
-    "album": "Live in Concert",
-    "artwork_url": "null",
-    "started_at": "2026-06-04T00:54:29Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
