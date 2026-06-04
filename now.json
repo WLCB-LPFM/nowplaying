@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T19:00:05-05:00",
-  "source": "fallback",
+  "generated": "2026-06-03T19:38:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "City of New Orleans",
+    "artist": "Willie Nelson",
+    "album": "Willie Nelson - 16 Biggest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Willie_Nelson_-_City_Of_New_Orleans.jpg",
+    "started_at": "2026-06-04T00:38:11Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
