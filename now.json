@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-04T18:13:18-05:00",
-  "source": "fallback",
+  "generated": "2026-06-04T18:13:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Vogue",
+    "artist": "Madonna",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-04T23:13:18.747347Z",
+    "duration_seconds": 314,
+    "year": "1990"
+  },
   "next_poll_seconds": 10
 }
