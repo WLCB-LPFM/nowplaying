@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-03T22:30:47-05:00",
-  "source": "autopost",
+  "generated": "2026-06-03T22:32:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue In Green",
-    "artist": "Bill Evans Trio",
-    "album": "Wilkins - Jazz: The Great American Art Form",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Evans_Trio_-_Blue_In_Green.jpg",
-    "started_at": "2026-06-04T03:28:53Z",
-    "duration_seconds": 322
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
