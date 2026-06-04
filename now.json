@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-04T11:58:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-04T11:59:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Pump It Up",
-    "artist": "Elvis Costello",
-    "album": "The Very Best of Elvis Costello",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elvis_Costello_-_Pump_It_Up.jpg",
-    "started_at": "2026-06-04T16:56:11Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
