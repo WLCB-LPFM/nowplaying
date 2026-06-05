@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T17:10:15-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T17:48:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Jeopardy",
+    "artist": "Greg Kihn",
+    "album": "Les Ann\u00e9es 80",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Greg_Kihn_-_Jeopardy.jpg",
+    "started_at": "2026-06-05T22:48:25Z",
+    "duration_seconds": 190
+  },
   "next_poll_seconds": 10
 }
