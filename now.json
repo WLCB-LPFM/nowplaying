@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-05T02:03:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-05T02:05:59-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Radiator",
-    "artist": "Acoustic Guitars",
-    "album": "The Best Jazz Audiophile Recommended, Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-06-05T07:03:38.9118844Z",
-    "duration_seconds": 147,
-    "year": "2002"
+    "title": "Jesus Just Left Chicago",
+    "artist": "ZZ Top",
+    "album": "Rancho Texicano: The Very Best of ZZ Top",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
+    "started_at": "2026-06-05T07:03:32Z",
+    "duration_seconds": 210
   },
   "next_poll_seconds": 10
 }
