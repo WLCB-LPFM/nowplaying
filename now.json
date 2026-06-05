@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T16:40:08-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T16:40:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Alright",
+    "artist": "Janet Jackson",
+    "album": "Design Of A Decade 1986/1996",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Alright.jpg",
+    "started_at": "2026-06-05T21:40:05Z",
+    "duration_seconds": 279
+  },
   "next_poll_seconds": 10
 }
