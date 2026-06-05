@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T15:30:34-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T15:33:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Devil Went Down to Georgia",
-    "artist": "Jerry Reed",
-    "album": "Dixie Dreams",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jerry_Reed_-_The_Devil_Went_Down_To_Georgia.jpg",
-    "started_at": "2026-06-05T20:30:16Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
