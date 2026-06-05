@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T19:58:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-04T19:58:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Turn the Page (Live)",
+    "artist": "Bob Seger",
+    "album": "Ultimate Hits \u2013 Rock and Roll Never Forgets",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bob_Seger.jpg",
+    "started_at": "2026-06-05T00:58:29Z",
+    "duration_seconds": 306
+  },
   "next_poll_seconds": 10
 }
