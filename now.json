@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T19:50:41-05:00",
-  "source": "fallback",
+  "generated": "2026-06-04T19:51:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Still the Same",
+    "artist": "Bob Seger",
+    "album": "Ultimate Hits \u2013 Rock and Roll Never Forgets",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_-_Still_The_Same.jpg",
+    "started_at": "2026-06-05T00:51:06Z",
+    "duration_seconds": 203
+  },
   "next_poll_seconds": 10
 }
