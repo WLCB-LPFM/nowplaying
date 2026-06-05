@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T13:02:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T13:05:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Hooked On Love (AKA Lucky Lou)",
-    "artist": "Sue Foley",
-    "album": "Live In Austin Vol. 1",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d23c7778e033355445f1e9e74cfa5c36.png",
-    "started_at": "2026-06-05T18:01:56Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
