@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T21:32:07-05:00",
-  "source": "autopost",
+  "generated": "2026-06-04T21:34:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Have You Ever Seen The Rain",
-    "artist": "Creedence Clearwater Revival",
-    "album": "Pendulum",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Creedence_Clearwater_Revival_-_Have_You_Ever_Seen_The_Rain.jpg",
-    "started_at": "2026-06-05T02:31:57Z",
-    "duration_seconds": 160
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
