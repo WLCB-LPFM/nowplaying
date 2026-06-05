@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T13:05:55-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T13:06:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Pinky's Blues",
+    "artist": "Sue Foley",
+    "album": "Pinky's Blues",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sue_Foley_-_Pinky's_Blues.jpg",
+    "started_at": "2026-06-05T18:06:03Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
