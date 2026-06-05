@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T18:28:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T18:28:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Keep Me Wondering",
+    "artist": "Buddy Miles",
+    "album": "Best Of Buddy Miles",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Miles_-_Don't_Keep_Me_Wondering.jpg",
+    "started_at": "2026-06-05T23:28:18Z",
+    "duration_seconds": 121
+  },
   "next_poll_seconds": 10
 }
