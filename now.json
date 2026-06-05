@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T18:33:41-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T18:37:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Teasin' (Remastered Version)",
-    "artist": "Cornell Dupree",
-    "album": "Teasin' (Remastered Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cornell_Dupree_-_Teasin'_(Remastered_Version).jpg",
-    "started_at": "2026-06-05T23:33:30Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
