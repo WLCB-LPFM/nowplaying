@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T17:03:18-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T17:10:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "a) STRA (Illusions Of My Childhood-Part One) b)You Keep Me Hanging On c) WBER (Illusions Of My Childhood-Part Two)",
-    "artist": "Vanilla Fudge",
-    "album": "a) STRA (Illusions Of My Childhood-Part One) b)You Keep Me Hanging On c) WBER (Illusions Of My Childhood-Part Two)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Vanilla_Fudge_-_A)_Stra_(Illusions_Of_My_Childhood-part_One)_B)you_Keep_Me_Hanging_On_C)_Wber_(Illusions_Of_My_Childhood-part_Two).jpg",
-    "started_at": "2026-06-05T22:03:04Z",
-    "duration_seconds": 446
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
