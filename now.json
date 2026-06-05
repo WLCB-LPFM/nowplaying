@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T18:17:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T18:18:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Where Is the Love",
+    "artist": "Roberta Flack",
+    "album": "Where Is the Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roberta_Flack_-_Where_Is_The_Love.jpg",
+    "started_at": "2026-06-05T23:18:07Z",
+    "duration_seconds": 163
+  },
   "next_poll_seconds": 10
 }
