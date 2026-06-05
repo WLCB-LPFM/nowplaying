@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T21:42:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-04T21:46:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Ramble On (Remaster)",
-    "artist": "Led Zeppelin",
-    "album": "Mothership (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Ramble_On_(Remaster).jpg",
-    "started_at": "2026-06-05T02:42:22Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
