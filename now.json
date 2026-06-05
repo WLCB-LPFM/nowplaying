@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T20:58:51-05:00",
-  "source": "fallback",
+  "generated": "2026-06-04T21:25:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jesus Is Just Alright with Me",
+    "artist": "The Doobie Brothers",
+    "album": "Jesus Is Just Alright with Me",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_Jesus_Is_Just_Alright_With_Me.jpg",
+    "started_at": "2026-06-05T02:25:40Z",
+    "duration_seconds": 273
+  },
   "next_poll_seconds": 10
 }
