@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T18:03:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T18:06:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "What You See",
-    "artist": "Al Wilson",
-    "album": "Show And Tell (Digitally Remastered)",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/08c5d8ba46db0fda7da476290be52087.png",
-    "started_at": "2026-06-05T23:02:56Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
