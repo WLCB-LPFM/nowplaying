@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T18:47:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T18:48:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Cloud Nine",
+    "artist": "Marvin Gaye",
+    "album": "That's The Way Love Is",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marvin_Gaye_-_Cloud_Nine.jpg",
+    "started_at": "2026-06-05T23:47:49Z",
+    "duration_seconds": 198
+  },
   "next_poll_seconds": 10
 }
