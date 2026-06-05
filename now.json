@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T13:42:15-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T13:46:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Let Me Love You",
-    "artist": "Koko Taylor",
-    "album": "Live From Chicago - An Audience With The Queen",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/e8fdcca5ae830543ab0e928ae1ea770a.png",
-    "started_at": "2026-06-05T18:41:50Z",
-    "duration_seconds": 271
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
