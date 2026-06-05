@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T18:13:56-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T18:17:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Members Only",
-    "artist": "Bobby Bland",
-    "album": "Members Only",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Bland_-_Members_Only.jpg",
-    "started_at": "2026-06-05T23:13:47Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
