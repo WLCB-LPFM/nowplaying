@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T13:32:22-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T13:36:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "A Good Fool Is Hard To Find",
-    "artist": "Albert Collins",
-    "album": "Deluxe Edition",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Albert_Collins_-_A_Good_Fool_Is_Hard_To_Find.jpg",
-    "started_at": "2026-06-05T18:32:04Z",
-    "duration_seconds": 259
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
