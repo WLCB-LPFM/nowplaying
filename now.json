@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T07:00:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T07:04:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don\u2019t Stop \u2018Til You Get Enough",
+    "artist": "Michael Jackson",
+    "album": "Eldorado 6",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Jackson.jpg",
+    "started_at": "2026-06-05T12:03:53Z",
+    "duration_seconds": 297
+  },
   "next_poll_seconds": 10
 }
