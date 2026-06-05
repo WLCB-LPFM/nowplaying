@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T12:59:03-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T13:01:50-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Crosstown Traffic",
-    "artist": "Brian Bromberg",
-    "album": "Bromberg Plays Hendrix (2020 Remix and Remastered)",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/e9fb67c2e32df552782b21722dffae92.png",
-    "started_at": "2026-06-05T17:58:41Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
