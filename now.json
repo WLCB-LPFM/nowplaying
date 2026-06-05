@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T21:34:22-05:00",
-  "source": "fallback",
+  "generated": "2026-06-04T21:34:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bad Moon Rising",
+    "artist": "Creedence Clearwater Revival",
+    "album": "My Fellow Americans",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Creedence_Clearwater_Revival_-_Bad_Moon_Rising.jpg",
+    "started_at": "2026-06-05T02:34:33Z",
+    "duration_seconds": 140
+  },
   "next_poll_seconds": 10
 }
