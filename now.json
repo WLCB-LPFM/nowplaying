@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T18:50:58-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T18:52:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hope Of Fools",
+    "artist": "Brother Wallace",
+    "album": "Electric Love",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/8a743535f7f71a8568d9dc3acbe47330.png",
+    "started_at": "2026-06-05T23:51:43Z",
+    "duration_seconds": 182
+  },
   "next_poll_seconds": 10
 }
