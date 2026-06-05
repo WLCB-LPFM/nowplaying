@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T13:28:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T13:29:18-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Freedom",
+    "artist": "Brian Bromberg",
+    "album": "Bromberg Plays Hendrix (2020 Remix and Remastered)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/e9fb67c2e32df552782b21722dffae92.png",
+    "started_at": "2026-06-05T18:29:02Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
