@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T22:00:07-05:00",
-  "source": "autopost",
+  "generated": "2026-06-04T22:03:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Kashmir (1990 Remaster)",
-    "artist": "Led Zeppelin",
-    "album": "Kashmir (1990 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Led_Zeppelin.jpg",
-    "started_at": "2026-06-05T02:54:56Z",
-    "duration_seconds": 508
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
