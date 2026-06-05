@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T18:21:14-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T18:23:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Please, Please, Please",
-    "artist": "James Brown",
-    "album": "The Very Best of Rhythm & Blues",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_Please,_Please,_Please.jpg",
-    "started_at": "2026-06-05T23:20:56Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
