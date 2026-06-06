@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T21:40:29-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T21:40:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Roll On",
+    "artist": "J.J. Cale",
+    "album": "Roll On",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/J.j._Cale_-_Roll_On.jpg",
+    "started_at": "2026-06-06T02:40:39Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
