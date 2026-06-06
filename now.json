@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T22:46:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T22:46:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You Better You Bet",
+    "artist": "The Who",
+    "album": "The Who - Ultimate Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Who_-_You_Better_You_Bet.jpg",
+    "started_at": "2026-06-06T03:46:36Z",
+    "duration_seconds": 337
+  },
   "next_poll_seconds": 10
 }
