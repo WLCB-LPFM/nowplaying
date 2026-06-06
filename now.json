@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T11:04:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-06T11:08:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Hey There Lonely Girl",
-    "artist": "Gerry Woo",
-    "album": "The Power Of Love: Best Of Soul Essentials Ballads",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gerry_Woo_-_Hey_There_Lonely_Girl.jpg",
-    "started_at": "2026-06-06T16:03:52Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
