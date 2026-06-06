@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T20:51:34-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T20:55:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Blues With A Feeling",
-    "artist": "Carey Bell, Lurrie Bell",
-    "album": "Harpslinger",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/c7960a5a3fb60e720b19aa04e7585583.png",
-    "started_at": "2026-06-06T01:51:13Z",
-    "duration_seconds": 293
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
