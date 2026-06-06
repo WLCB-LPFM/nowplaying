@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T19:45:28-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T19:50:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Standing On Shakey Ground",
-    "artist": "Greg Koch",
-    "album": "Live! On The Radio",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b1507c35a6964b1b937b1b551dd26972.png",
-    "started_at": "2026-06-06T00:45:16Z",
-    "duration_seconds": 347
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
