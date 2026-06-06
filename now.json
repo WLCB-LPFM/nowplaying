@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T19:59:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T20:00:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Orange Sunshine",
+    "artist": "Kevin M Buck",
+    "album": "Euphoric Darkness",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kevin_M_Buck.jpg",
+    "started_at": "2026-06-06T00:59:48Z",
+    "duration_seconds": 132
+  },
   "next_poll_seconds": 10
 }
