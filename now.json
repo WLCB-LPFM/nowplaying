@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T22:02:31-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T22:06:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "My Baby Gets Around",
-    "artist": "Anthony Rosano and The Conqueroos",
-    "album": "Cheat the Devil",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/3180d184cab15f16e1b9d3c943497469.png",
-    "started_at": "2026-06-06T03:02:07Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
