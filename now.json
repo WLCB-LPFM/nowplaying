@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T21:45:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T21:45:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Blackest Day",
+    "artist": "Joanne Shaw Taylor",
+    "album": "White Sugar",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joanne_Shaw_Taylor_-_Blackest_Day.jpg",
+    "started_at": "2026-06-06T02:45:25Z",
+    "duration_seconds": 498
+  },
   "next_poll_seconds": 10
 }
