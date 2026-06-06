@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T20:13:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T20:14:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Across the Universe (2016 Remaster)",
+    "artist": "David Bowie",
+    "album": "Across the Universe (2016 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Bowie_-_Across_The_Universe_(2016_Remaster).jpg",
+    "started_at": "2026-06-06T01:14:09Z",
+    "duration_seconds": 273
+  },
   "next_poll_seconds": 10
 }
