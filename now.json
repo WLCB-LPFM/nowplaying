@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T22:14:22-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T22:20:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Ramblin",
-    "artist": "Mike Onesko",
-    "album": "Smokehouse Sessions, Vol. 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike_Onesko_-_Ramblin.jpg",
-    "started_at": "2026-06-06T03:14:03Z",
-    "duration_seconds": 406
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
