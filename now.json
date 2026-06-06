@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T11:37:23-05:00",
-  "source": "autopost",
+  "generated": "2026-06-06T11:41:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "One Heartbeat",
-    "artist": "Smokey Robinson",
-    "album": "True Motown / Spectrum 3 CD Set",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Smokey_Robinson_-_One_Heartbeat.jpg",
-    "started_at": "2026-06-06T16:37:04Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
