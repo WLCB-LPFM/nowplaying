@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T19:56:09-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T19:59:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Better Than",
-    "artist": "John Butler Trio",
-    "album": "Better Than",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Butler_Trio_-_Better_Than.jpg",
-    "started_at": "2026-06-06T00:55:54Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
