@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T10:33:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-06T10:37:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Celebration",
-    "artist": "Kool & The Gang",
-    "album": "Wedding Night",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kool_&_The_Gang_-_Celebration.jpg",
-    "started_at": "2026-06-06T15:33:44Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
