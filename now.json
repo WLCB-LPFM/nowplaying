@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T20:42:11-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T20:45:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "She's Dangerous",
-    "artist": "Wayne Baker Brooks",
-    "album": "Mystery",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wayne_Baker_Brooks_-_She's_Dangerous.jpg",
-    "started_at": "2026-06-06T01:41:54Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
