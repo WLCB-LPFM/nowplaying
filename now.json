@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-06T00:26:36-05:00",
-  "source": "autopost",
+  "generated": "2026-06-06T00:28:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Danny Boy",
-    "artist": "Bob Rockwell, Ben Sidran, Billy Peterson, Leo Sidran",
-    "album": "Bob's Ben:  A Salute to Ben Webster",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bob_Rockwell,_Ben_Sidran,_Billy_Peterson,_Leo_Sidran.jpg",
-    "started_at": "2026-06-06T05:26:07Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
