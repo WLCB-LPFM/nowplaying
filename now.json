@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T09:05:39-05:00",
-  "source": "fallback",
+  "generated": "2026-06-06T09:32:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Super Freak - 12' Version",
+    "artist": "Rick James",
+    "album": "Street Songs (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Rick_James.jpg",
+    "started_at": "2026-06-06T14:32:09Z",
+    "duration_seconds": 429
+  },
   "next_poll_seconds": 10
 }
