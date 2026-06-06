@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-06T07:35:28-05:00",
-  "source": "fallback",
+  "generated": "2026-06-06T07:35:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Temperature",
+    "artist": "Sean Paul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-06T12:35:31.1874303Z",
+    "duration_seconds": 215,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
