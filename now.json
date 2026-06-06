@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T20:23:46-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T20:24:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Sick Again (Remaster)",
+    "artist": "Led Zeppelin",
+    "album": "Sick Again (Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Sick_Again_(Remaster).jpg",
+    "started_at": "2026-06-06T01:23:54Z",
+    "duration_seconds": 283
+  },
   "next_poll_seconds": 10
 }
