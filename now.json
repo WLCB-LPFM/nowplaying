@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T22:41:35-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T22:46:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Space Oddity",
-    "artist": "David Bowie",
-    "album": "Bangers for Boomers - Feel Good Greatest Hits Of All Time",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Bowie_-_Space_Oddity.jpg",
-    "started_at": "2026-06-06T03:41:23Z",
-    "duration_seconds": 312
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
