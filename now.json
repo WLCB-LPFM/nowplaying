@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T18:54:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-06T18:57:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Popping Dance",
-    "artist": "V.A",
-    "album": "Popping Dance",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/V.a.jpg",
-    "started_at": "2026-06-06T23:53:48Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
