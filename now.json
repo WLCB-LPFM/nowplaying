@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T19:08:42-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T19:11:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Wood Guitar",
-    "artist": "Poi Dog Pondering",
-    "album": "Pdp X 3",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Poi_Dog_Pondering_-_Wood_Guitar.jpg",
-    "started_at": "2026-06-06T00:08:25Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
