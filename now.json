@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T20:45:55-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T20:46:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "She's A Golddigger",
+    "artist": "Ronnie Baker Brooks",
+    "album": "Golddigger",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/3b3451a67838435299ccfc409b1bbe68.png",
+    "started_at": "2026-06-06T01:46:01Z",
+    "duration_seconds": 315
+  },
   "next_poll_seconds": 10
 }
