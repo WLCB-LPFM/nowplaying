@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T20:38:27-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T20:41:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Daddy's Little Pumpkin",
-    "artist": "John Prine",
-    "album": "Live On Tour",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Prine_-_Daddy's_Little_Pumpkin.jpg",
-    "started_at": "2026-06-06T01:38:13Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
