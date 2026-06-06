@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T21:53:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T21:53:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Right as Rain",
+    "artist": "Tommy Castro",
+    "album": "The Very Best of Tommy Castro",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tommy_Castro_-_Right_As_Rain.jpg",
+    "started_at": "2026-06-06T02:53:40Z",
+    "duration_seconds": 261
+  },
   "next_poll_seconds": 10
 }
