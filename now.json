@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T22:10:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T22:10:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "When Whiskey Was My Friend",
+    "artist": "Too Slim and the Taildraggers",
+    "album": "Anthology",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Too_Slim_And_The_Taildraggers_-_When_Whiskey_Was_My_Friend.jpg",
+    "started_at": "2026-06-06T03:10:34Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
