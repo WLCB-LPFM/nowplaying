@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T22:28:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T22:32:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Too Old to Rock 'n' Roll: Too Young to Die! (2002 Remaster)",
+    "artist": "Jethro Tull",
+    "album": "5 Album Set (Aqualung / A Passion Play / Minstrel in the Gallery / Too Old to Rock 'n' Roll / Songs from the Wood)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jethro_Tull_-_Too_Old_To_Rock_'n'_Roll:_Too_Young_To_Die!_(2002_Remaster).jpg",
+    "started_at": "2026-06-06T03:32:02Z",
+    "duration_seconds": 339
+  },
   "next_poll_seconds": 10
 }
