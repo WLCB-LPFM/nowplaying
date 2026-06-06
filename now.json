@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T20:09:44-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T20:09:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Poker",
+    "artist": "Electric Light Orchestra",
+    "album": "Face the Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Electric_Light_Orchestra_-_Poker.jpg",
+    "started_at": "2026-06-06T01:09:48Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
