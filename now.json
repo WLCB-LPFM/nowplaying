@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-05T23:00:00-05:00",
-  "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
+  "generated": "2026-06-05T23:00:13-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
+  "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ruby Tuesday",
-    "artist": "The Rolling Stones",
-    "album": "Through The Past, Darkly (Big Hits Vol. 2)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Ruby_Tuesday.jpg",
-    "started_at": "2026-06-06T03:57:13Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
