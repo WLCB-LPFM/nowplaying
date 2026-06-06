@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T11:26:19-05:00",
-  "source": "fallback",
+  "generated": "2026-06-06T11:30:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Don't You Want Me",
+    "artist": "Jody Watley",
+    "album": "20th Century Masters: The Millennium Collection: Best Of Jody Watley",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jody_Watley_-_Don't_You_Want_Me.jpg",
+    "started_at": "2026-06-06T16:30:08Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
