@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T22:52:32-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T22:56:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Gimme Shelter",
-    "artist": "The Rolling Stones",
-    "album": "Hot Rocks 1964-1971",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Gimme_Shelter.jpg",
-    "started_at": "2026-06-06T03:52:14Z",
-    "duration_seconds": 271
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
