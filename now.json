@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T22:06:03-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T22:06:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Walk Away",
+    "artist": "Bryce Janey",
+    "album": "Sweet Baby Jane",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bryce_Janey_-_Walk_Away.jpg",
+    "started_at": "2026-06-06T03:06:14Z",
+    "duration_seconds": 263
+  },
   "next_poll_seconds": 10
 }
