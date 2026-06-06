@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T19:34:03-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T19:37:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "The Underdog",
-    "artist": "Spoon",
-    "album": "This Is Next",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spoon_-_The_Underdog.jpg",
-    "started_at": "2026-06-06T00:33:47Z",
-    "duration_seconds": 222
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
