@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-05T23:16:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-05T23:16:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When Lights Are Low",
+    "artist": "Lionel Hampton & His Orchestra",
+    "album": "Selected Sessions (1934-1943)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lionel_Hampton_&_His_Orchestra_-_When_Lights_Are_Low.jpg",
+    "started_at": "2026-06-06T04:16:18Z",
+    "duration_seconds": 135
+  },
   "next_poll_seconds": 10
 }
