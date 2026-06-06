@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T19:27:56-05:00",
-  "source": "autopost",
+  "generated": "2026-06-05T19:30:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Harlem Shuffle",
-    "artist": "The Rolling Stones",
-    "album": "Dirty Work",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Harlem_Shuffle.jpg",
-    "started_at": "2026-06-06T00:27:43Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
