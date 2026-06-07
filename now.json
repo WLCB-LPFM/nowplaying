@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T17:43:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T17:47:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Bump n' Grind",
-    "artist": "R. Kelly",
-    "album": "The R. In R&B Greatest Hits Collection Vol. 1",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R._Kelly_-_Bump_N'_Grind.jpg",
-    "started_at": "2026-06-07T22:43:17Z",
-    "duration_seconds": 253
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
