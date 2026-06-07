@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-07T06:10:08-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-07T06:12:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Oh! Mr. Morton (1940)",
-    "artist": "The Ramblers",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-07T11:09:59.2290597Z",
-    "duration_seconds": 156,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
