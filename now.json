@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T20:09:42-05:00",
-  "source": "fallback",
+  "generated": "2026-06-06T20:09:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Superhero (Heroes & Villains)",
+    "artist": "Metro Boomin",
+    "album": "HEROES & VILLAINS",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Metro_Boomin.jpg",
+    "started_at": "2026-06-07T01:09:30Z",
+    "duration_seconds": 182
+  },
   "next_poll_seconds": 10
 }
