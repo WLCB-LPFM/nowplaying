@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T18:19:20-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T18:19:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Looking At The World From The Bottom Of A Well",
+    "artist": "Mike Doughty",
+    "album": "Grey's Anatomy Original Soundtrack",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike_Doughty_-_Looking_At_The_World_From_The_Bottom_Of_A_Well.jpg",
+    "started_at": "2026-06-07T23:19:18Z",
+    "duration_seconds": 237
+  },
   "next_poll_seconds": 10
 }
