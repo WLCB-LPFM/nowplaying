@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T08:08:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T08:08:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Finesse",
+    "artist": "New Mayfair Dance Orchestra; Maltin & Doll",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-07T13:08:34.5983216Z",
+    "duration_seconds": 152,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
