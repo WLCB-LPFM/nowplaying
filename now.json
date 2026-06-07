@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T18:20:42-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T18:23:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Big Bottom",
-    "artist": "Spinal Tap",
-    "album": "This Is Spinal Tap",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spinal_Tap_-_Big_Bottom.jpg",
-    "started_at": "2026-06-07T23:20:23Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
