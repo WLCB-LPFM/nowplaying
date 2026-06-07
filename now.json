@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T17:18:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T17:18:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Love You Down - Extended Remix",
+    "artist": "Ready For The World",
+    "album": "80s Soul",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ready_For_The_World_-_Love_You_Down_-_Extended_Remix.jpg",
+    "started_at": "2026-06-07T22:18:34Z",
+    "duration_seconds": 392
+  },
   "next_poll_seconds": 10
 }
