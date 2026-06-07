@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T07:52:24-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T07:52:36-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "In the Mood",
+    "artist": "Nat Gonella and his New Georgians",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-07T12:52:36.38783Z",
+    "duration_seconds": 191,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
