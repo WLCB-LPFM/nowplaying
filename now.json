@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T06:43:49-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T06:44:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "A Sinner Kissed an Angel",
+    "artist": "Ina Ray Hutton and her Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-07T11:44:00.1718432Z",
+    "duration_seconds": 163,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
