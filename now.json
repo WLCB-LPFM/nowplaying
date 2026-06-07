@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T10:50:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T10:50:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Put Your Arms Around Me Honey",
+    "artist": "Dick Haymes With The Song Spinners",
+    "album": "Happy Days - The Oldies Gold Collection",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/57a557f22e4e40c1b26959a24d5f1d8b.png",
+    "started_at": "2026-06-07T15:50:24Z",
+    "duration_seconds": 161
+  },
   "next_poll_seconds": 10
 }
