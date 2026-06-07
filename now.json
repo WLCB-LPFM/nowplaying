@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T14:50:58-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T14:56:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "16:00",
     "genre": null
   },
-  "track": {
-    "title": "St. Louis Blues",
-    "artist": "First English Public Jam Session",
-    "album": "Jazz In Britain - The 40's",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/First_English_Public_Jam_Session_-_St._Louis_Blues.jpg",
-    "started_at": "2026-06-07T19:50:40Z",
-    "duration_seconds": 359
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
