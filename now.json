@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T09:51:07-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T09:54:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Rockin' Chair",
-    "artist": "The Mills Brothers",
-    "album": "Great Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Mills_Brothers_-_Rockin'_Chair.jpg",
-    "started_at": "2026-06-07T14:50:58Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
