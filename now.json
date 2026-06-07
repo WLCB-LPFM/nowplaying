@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-07T08:17:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-07T08:20:12-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "In My Own Quiet Way (1940)",
-    "artist": "The Ramblers; Don Lawrence",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-07T13:17:47.1795251Z",
-    "duration_seconds": 150,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
