@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-07T07:20:12-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-07T07:22:59-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Hodge Podge (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-07T12:20:10.4168546Z",
-    "duration_seconds": 175,
-    "year": "1940"
+    "title": "Hodge Podge",
+    "artist": "Harry James & His Orchestra",
+    "album": "The Best of Harry James from 1939 to 1941",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_James_&_His_Orchestra.jpg",
+    "started_at": "2026-06-07T12:20:41Z",
+    "duration_seconds": 177
   },
   "next_poll_seconds": 10
 }
