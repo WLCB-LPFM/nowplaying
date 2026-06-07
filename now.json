@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T20:28:59-05:00",
-  "source": "autopost",
+  "generated": "2026-06-06T20:30:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Droppin' the Bass",
-    "artist": "Nemesis",
-    "album": "Munchies for Your Bass",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/6901b641edc940546ca7ef1d67bae98a.png",
-    "started_at": "2026-06-07T01:28:48Z",
-    "duration_seconds": 92
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
