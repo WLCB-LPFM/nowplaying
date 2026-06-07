@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T16:27:01-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T16:30:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "We're in This Love Together",
-    "artist": "Al Jarreau",
-    "album": "We're in This Love Together",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Jarreau_-_We're_In_This_Love_Together.jpg",
-    "started_at": "2026-06-07T21:26:45Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
