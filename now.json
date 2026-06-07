@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T06:21:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T06:21:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Waitin' For You (1940)",
+    "artist": "Les Hite and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-07T11:21:32.5317794Z",
+    "duration_seconds": 189,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
