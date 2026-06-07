@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T18:23:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T18:24:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Lonely At The Top",
+    "artist": "Jamey Johnson",
+    "album": "The Guitar Song",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jamey_Johnson_-_Lonely_At_The_Top.jpg",
+    "started_at": "2026-06-07T23:24:31Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
