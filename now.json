@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T18:27:33-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T18:31:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Half Moon",
+    "artist": "Janis Joplin",
+    "album": "Pearl (Legacy Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janis_Joplin_-_Half_Moon.jpg",
+    "started_at": "2026-06-07T23:31:27Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
