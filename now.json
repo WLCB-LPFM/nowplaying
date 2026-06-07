@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T20:16:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-06T20:16:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Back Then",
+    "artist": "Mike Jones",
+    "album": "Back Then",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike_Jones_-_Back_Then.jpg",
+    "started_at": "2026-06-07T01:16:13Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
