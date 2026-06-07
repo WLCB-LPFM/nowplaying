@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T09:19:56-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T09:31:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Mafia 2: The Dipsy Doodle",
+    "artist": "Various Artists (21 hits)",
+    "album": "Selections From Mafia 2",
+    "artwork_url": "null",
+    "started_at": "2026-06-07T14:30:48Z",
+    "duration_seconds": 190
+  },
   "next_poll_seconds": 10
 }
