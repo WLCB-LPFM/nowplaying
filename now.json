@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T09:47:35-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T09:48:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "I Can't Get Started (Take 1)",
+    "artist": "Billie Holiday & Her Orchestra",
+    "album": "Lady Day: The Complete Billie Holiday On Columbia - Vol. 4",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billie_Holiday_&_Her_Orchestra.jpg",
+    "started_at": "2026-06-07T14:48:09Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
