@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T10:45:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T10:47:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Rose : Blueberry Hill",
+    "artist": "Louis Armstrong, Gordon Jenkins Orchestra, Various Artists",
+    "album": "Louis Armstrong Vol. 8 (Sing It, Satchmo)",
+    "artwork_url": "null",
+    "started_at": "2026-06-07T15:47:22Z",
+    "duration_seconds": 170
+  },
   "next_poll_seconds": 10
 }
