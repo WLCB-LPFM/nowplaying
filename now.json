@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T06:50:09-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T06:50:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Idaho",
+    "artist": "Les Hite and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-07T11:50:13.4336958Z",
+    "duration_seconds": 157,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
