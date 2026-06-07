@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T17:14:23-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T17:18:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Slow Jam",
-    "artist": "Midnight Star",
-    "album": "No Parking on the Dance Floor",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Midnight_Star_-_Slow_Jam.jpg",
-    "started_at": "2026-06-07T22:14:14Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
