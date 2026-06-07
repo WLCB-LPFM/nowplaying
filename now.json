@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T06:57:27-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T06:57:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Palms of Paradise (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-07T11:57:39.8512794Z",
+    "duration_seconds": 177,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
