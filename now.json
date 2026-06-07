@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T09:39:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T09:41:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "I'm Gonna Sit Right Down and Write Myself a Letter",
-    "artist": "Bing Crosby",
-    "album": "Who's There",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bing_Crosby_-_I'm_Gonna_Sit_Right_Down_And_Write_Myself_A_Letter.jpg",
-    "started_at": "2026-06-07T14:39:02Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
