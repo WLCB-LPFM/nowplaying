@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T20:52:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-06T21:02:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Way It Goes",
+    "artist": "Bria Seed & T.Maree",
+    "album": "The Way It Goes",
+    "artwork_url": "null",
+    "started_at": "2026-06-07T02:02:24Z",
+    "duration_seconds": 224
+  },
   "next_poll_seconds": 10
 }
