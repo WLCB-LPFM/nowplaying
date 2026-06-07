@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T06:04:31-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T06:04:55-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Shrine of Saint Cecilia",
+    "artist": "Clyde Lucas and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-07T11:04:45.8777744Z",
+    "duration_seconds": 166,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
