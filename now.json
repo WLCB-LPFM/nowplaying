@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T06:38:57-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T06:39:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Under Blue Canadian Skies",
+    "artist": "Glenn Miller and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-07T11:39:02.9724799Z",
+    "duration_seconds": 176,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
