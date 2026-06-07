@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-07T08:46:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-07T08:48:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Wave Song (1940)",
-    "artist": "John Ryan",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-07T13:46:11.2592186Z",
-    "duration_seconds": 145,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
