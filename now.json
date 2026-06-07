@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T09:09:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T09:11:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Rhythm Is Our Business",
-    "artist": "Sy Oliver",
-    "album": "Jimmie Lunceford In Hi-Fi",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/f1dd3bfbe6614a97a1f58688c272bc18.png",
-    "started_at": "2026-06-07T14:09:20Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
