@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T21:47:24-05:00",
-  "source": "autopost",
+  "generated": "2026-06-06T21:50:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "With You All The Way",
-    "artist": "New Edition",
-    "album": "All For Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Edition_-_With_You_All_The_Way.jpg",
-    "started_at": "2026-06-07T02:47:06Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
