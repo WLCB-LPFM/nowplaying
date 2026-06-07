@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-07T08:23:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T08:23:23-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tuxedo Junction (1940)",
+    "artist": "Glenn Miller and his Orchestra",
+    "album": "78'er",
+    "artwork_url": "",
+    "started_at": "2026-06-07T13:23:17.4621568Z",
+    "duration_seconds": 197,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
