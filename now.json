@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T18:51:43-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T18:52:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Hot Sauce",
+    "artist": "Son Seals",
+    "album": "Blues Kitchen",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Son_Seals_-_Hot_Sauce.jpg",
+    "started_at": "2026-06-07T23:52:16Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
