@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T10:43:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T10:45:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Starlit Hour",
-    "artist": "Glenn Miller",
-    "album": "Live on the Air (1938-1942)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_Starlit_Hour.jpg",
-    "started_at": "2026-06-07T15:43:02Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
