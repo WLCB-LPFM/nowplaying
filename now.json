@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T14:07:29-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T14:24:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Situation (U.S. 12' Mix)",
+    "artist": "Yazoo",
+    "album": "Situation (U.S. 12' Mix)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/y/Yazoo.jpg",
+    "started_at": "2026-06-08T19:24:11Z",
+    "duration_seconds": 345
+  },
   "next_poll_seconds": 10
 }
