@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-08T06:58:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-08T06:58:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Pop The Greatest Hits 80 90",
-    "artist": "Pop Mix",
-    "album": "Pop The Greatest Hits 80 90",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Pop_Mix.jpg",
-    "started_at": "2026-06-08T11:55:17Z",
-    "duration_seconds": 600
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
