@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T19:59:57-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T20:04:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Tender Blades",
+    "artist": "Iceage",
+    "album": "For Love of Grace & the Hereafter",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Iceage_-_Tender_Blades.jpg",
+    "started_at": "2026-06-08T01:04:41Z",
+    "duration_seconds": 243
+  },
   "next_poll_seconds": 10
 }
