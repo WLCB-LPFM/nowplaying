@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T20:53:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T20:54:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Is It True? (1999 Remaster)",
+    "artist": "Eagles",
+    "album": "Is It True? (1999 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eagles.jpg",
+    "started_at": "2026-06-08T01:53:43Z",
+    "duration_seconds": 194
+  },
   "next_poll_seconds": 10
 }
