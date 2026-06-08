@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-08T14:58:27-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-06-08T15:00:08-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Motorsports Report",
-    "hosts": [
-      "Matthew Lodareii"
-    ],
-    "automated": false,
-    "starts": "14:00",
-    "ends": "15:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
-    "title": "Walk This Way (Single Version)",
-    "artist": "RUN DMC",
-    "album": "NOW That's What I Call Running 2017",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Run_Dmc_-_Walk_This_Way_(Single_Version).jpg",
-    "started_at": "2026-06-08T19:58:14Z",
-    "duration_seconds": 220
+    "title": "Walk This Way",
+    "artist": "Run D.M.C. (Feat. Aerosmith)",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-08T19:57:59.9851507Z",
+    "duration_seconds": 211,
+    "year": "2025"
   },
   "next_poll_seconds": 10
 }
