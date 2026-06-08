@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T16:44:09-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T16:46:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Milky Way",
+    "artist": "Tone",
+    "album": "Hometown",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/7a8d8408586a5a9a547ce5289bab0013.png",
+    "started_at": "2026-06-08T21:45:48Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
