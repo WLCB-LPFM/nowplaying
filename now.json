@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T17:52:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T17:53:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Victor Glover",
+    "artist": "Klassic Kloudhead",
+    "album": "The Artemis Initiative",
+    "artwork_url": "null",
+    "started_at": "2026-06-08T22:53:01Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
