@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T20:17:28-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T20:22:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Chance to Bleed",
-    "artist": "Kurt Vile",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kurt_Vile_-_Chance_To_Bleed.jpg",
-    "started_at": "2026-06-08T01:17:17Z",
-    "duration_seconds": 295
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
