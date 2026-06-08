@@ -1,17 +1,25 @@
 {
-  "generated": "2026-06-08T13:57:59-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-06-08T14:00:10-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The Motorsports Report",
+    "hosts": [
+      "Matthew Lodareii"
+    ],
+    "automated": false,
+    "starts": "14:00",
+    "ends": "15:00",
+    "genre": null
+  },
   "track": {
-    "title": "Cruel Summer",
+    "title": "Cruel Summer (Extended Version)",
     "artist": "Bananarama",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-08T18:57:48.138862Z",
-    "duration_seconds": 206,
-    "year": "1983"
+    "album": "Bananarama (Collector's Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bananarama_-_Cruel_Summer_(Extended_Version).jpg",
+    "started_at": "2026-06-08T18:57:55Z",
+    "duration_seconds": 296
   },
   "next_poll_seconds": 10
 }
