@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T14:34:47-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T14:53:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Where Is My Mind?",
+    "artist": "Pixies",
+    "album": "Death To The Pixies",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pixies_-_Where_Is_My_Mind?.jpg",
+    "started_at": "2026-06-08T19:53:15Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
