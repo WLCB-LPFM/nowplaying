@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-08T13:57:47-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T13:57:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cruel Summer",
+    "artist": "Bananarama",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-08T18:57:48.138862Z",
+    "duration_seconds": 206,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
