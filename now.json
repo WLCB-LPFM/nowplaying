@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-07T22:37:14-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T22:37:26-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "New East St. Louis Toodle-Oo",
+    "artist": "Duke Ellington & His Orchestra",
+    "album": "Playlist: The Very Best of Duke Ellington",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington_&_His_Orchestra.jpg",
+    "started_at": "2026-06-08T03:37:08Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
