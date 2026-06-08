@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T19:50:27-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T19:51:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Look For The Light",
+    "artist": "Atlas' Slip",
+    "album": "Letters Of Severance",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/1f6467750f05e9afa3cd7659f6f671ca.png",
+    "started_at": "2026-06-08T00:51:27Z",
+    "duration_seconds": 258
+  },
   "next_poll_seconds": 10
 }
