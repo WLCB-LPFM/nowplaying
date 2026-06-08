@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T17:46:01-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T17:46:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Third Stone From The Sun",
+    "artist": "Jimi Hendrix",
+    "album": "The Dreamers [Original Soundtrack]",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimi_Hendrix_-_Third_Stone_From_The_Sun.jpg",
+    "started_at": "2026-06-08T22:46:05Z",
+    "duration_seconds": 404
+  },
   "next_poll_seconds": 10
 }
