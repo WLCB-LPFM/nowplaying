@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T20:38:03-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T20:42:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Solitude Standing",
-    "artist": "Suzanne Vega",
-    "album": "Colour Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Suzanne_Vega_-_Solitude_Standing.jpg",
-    "started_at": "2026-06-08T01:37:53Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
