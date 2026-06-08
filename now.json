@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T19:55:41-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T19:56:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Lead Them On",
+    "artist": "Atlas' Slip",
+    "album": "Letters Of Severance",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/1f6467750f05e9afa3cd7659f6f671ca.png",
+    "started_at": "2026-06-08T00:56:00Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
