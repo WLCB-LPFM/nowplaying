@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T19:46:55-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T19:50:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Paresthesia",
-    "artist": "Atlas' Slip",
-    "album": "Letters Of Severance",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/a2c75d532ecae66f6854b750dbbadda0.png",
-    "started_at": "2026-06-08T00:46:41Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
