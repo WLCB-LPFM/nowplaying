@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T20:08:53-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T20:12:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Turn On The Light",
-    "artist": "All Them Witches",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/f05629da4579da2880882f63e9231b64.png",
-    "started_at": "2026-06-08T01:08:35Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
