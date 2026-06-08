@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T19:16:24-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T19:16:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Beautiful Star",
+    "artist": "SNAPCAT BANDITS",
+    "album": "Beautiful Star",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Snapcat_Bandits.jpg",
+    "started_at": "2026-06-08T00:16:33Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
