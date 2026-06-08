@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T20:43:03-05:00",
-  "source": "autopost",
+  "generated": "2026-06-07T20:46:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ghost on the Beach",
-    "artist": "Insiders",
-    "album": "Ghost On The Beach",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Insiders_-_Ghost_On_The_Beach.jpg",
-    "started_at": "2026-06-08T01:42:52Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
