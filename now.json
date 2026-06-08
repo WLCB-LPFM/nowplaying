@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T17:56:35-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T17:57:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Do You Realize??",
+    "artist": "The Flaming Lips",
+    "album": "Do You Realize??",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Flaming_Lips_-_Do_You_Realize??.jpg",
+    "started_at": "2026-06-08T22:57:34Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
