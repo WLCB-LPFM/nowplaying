@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T20:22:05-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T20:25:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "How Heavenly A State",
+    "artist": "Death Cab for Cutie",
+    "album": "I Built You A Tower",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/92ee2bc63203ed2feebdb1de4d2a4e88.png",
+    "started_at": "2026-06-08T01:24:53Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
