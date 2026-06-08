@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T19:26:15-05:00",
-  "source": "fallback",
+  "generated": "2026-06-07T19:27:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Cecil'n'Stella",
+    "artist": "Tension Splash",
+    "album": "Soak",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b377e6161f3a7df0e4c7addcd265af06.png",
+    "started_at": "2026-06-08T00:26:44Z",
+    "duration_seconds": 257
+  },
   "next_poll_seconds": 10
 }
