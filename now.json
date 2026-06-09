@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-09T00:46:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-09T00:50:05-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bikini",
-    "artist": "Dexter Gordon Quartet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-06-09T05:46:42.7894913Z",
-    "duration_seconds": 208,
-    "year": "1987"
+    "title": "Take Five (from Manhattan Murder Mystery)",
+    "artist": "Dave Brubeck Quartet",
+    "album": "Woody Allen - Music From His Movies (Volume 3)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_Quartet_-_Take_Five_(From_Manhattan_Murder_Mystery).jpg",
+    "started_at": "2026-06-09T05:46:35Z",
+    "duration_seconds": 330
   },
   "next_poll_seconds": 10
 }
