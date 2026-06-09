@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-08T19:56:09-05:00",
-  "source": "autopost",
+  "generated": "2026-06-08T19:56:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Karma Chameleon",
-    "artist": "Culture Club",
-    "album": "Best 80s Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Culture_Club_-_Karma_Chameleon.jpg",
-    "started_at": "2026-06-09T00:52:31Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
