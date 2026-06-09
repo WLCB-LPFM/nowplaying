@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T16:22:56-05:00",
-  "source": "autopost",
+  "generated": "2026-06-09T16:26:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "...Baby One More Time",
-    "artist": "Britney Spears",
-    "album": "Fox Kids Party",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Britney_Spears_-_...baby_One_More_Time.jpg",
-    "started_at": "2026-06-09T21:22:46Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
