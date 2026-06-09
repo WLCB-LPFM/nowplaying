@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-08T19:41:19-05:00",
-  "source": "autopost",
+  "generated": "2026-06-08T19:41:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Wobble",
-    "artist": "V.I.C.",
-    "album": "Wobble",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/V.i.c._-_Wobble.jpg",
-    "started_at": "2026-06-09T00:36:15Z",
-    "duration_seconds": 324
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
