@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T20:21:19-05:00",
-  "source": "autopost",
+  "generated": "2026-06-08T20:26:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Walk On The Wild Side",
-    "artist": "Jimmy Smith",
-    "album": "The Jazz Age - A Celebration Of 1920s Swing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Smith_-_Walk_On_The_Wild_Side.jpg",
-    "started_at": "2026-06-09T01:21:08Z",
-    "duration_seconds": 354
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
