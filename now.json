@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T15:20:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-09T15:20:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "I Wanna Sex You Up (Single Mix)",
+    "artist": "Color Me Badd",
+    "album": "I Wanna Sex You Up (Single Mix)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Color_Me_Badd_-_I_Wanna_Sex_You_Up_(Single_Mix).jpg",
+    "started_at": "2026-06-09T20:20:32Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
