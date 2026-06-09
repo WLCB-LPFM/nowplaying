@@ -1,17 +1,25 @@
 {
-  "generated": "2026-06-09T06:56:59-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-06-09T07:00:11-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
-    "title": "Cult of Personality",
-    "artist": "Living Coulour",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-09T11:56:52.0539619Z",
-    "duration_seconds": 287,
-    "year": "1988"
+    "title": "Cult Of Personality",
+    "artist": "Living Colour",
+    "album": "Guitar Hero III Legends of Rock Companion Pack",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Living_Colour_-_Cult_Of_Personality.jpg",
+    "started_at": "2026-06-09T11:56:58Z",
+    "duration_seconds": 294
   },
   "next_poll_seconds": 10
 }
