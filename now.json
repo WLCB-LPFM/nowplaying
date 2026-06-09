@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-08T19:36:05-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T19:36:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Wobble",
+    "artist": "V.I.C.",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-09T00:36:11.3797701Z",
+    "duration_seconds": 319,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
