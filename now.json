@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T21:09:25-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T21:10:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Jive Samba",
+    "artist": "Cannonball Adderley",
+    "album": "Brazil Bossa Nova: Cannonball Adderley - The Bossa Rio Sextet",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cannonball_Adderley_-_The_Jive_Samba.jpg",
+    "started_at": "2026-06-09T02:10:34Z",
+    "duration_seconds": 690
+  },
   "next_poll_seconds": 10
 }
