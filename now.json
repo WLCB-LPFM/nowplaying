@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-09T13:15:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-09T13:15:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Now That We Found Love",
+    "artist": "Heavy D & The Boyz",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-09T18:15:04.9081772Z",
+    "duration_seconds": 255,
+    "year": "2009"
+  },
   "next_poll_seconds": 10
 }
