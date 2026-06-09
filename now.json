@@ -1,14 +1,17 @@
 {
-  "generated": "2026-06-09T17:59:22-05:00",
+  "generated": "2026-06-09T18:00:07-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "17:00",
-    "ends": "18:00",
+    "name": "Your Insurance Corner",
+    "hosts": [
+      "Bill Miksch",
+      "Sean Hauser"
+    ],
+    "automated": false,
+    "starts": "18:00",
+    "ends": "19:00",
     "genre": null
   },
   "track": null,
