@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-09T06:22:43-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-09T06:25:37-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'm Still Standing",
-    "artist": "Elton John",
-    "album": "Diamonds",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elton_John_-_I'm_Still_Standing.jpg",
-    "started_at": "2026-06-09T11:22:27.9433249Z",
-    "duration_seconds": 176,
-    "year": "2022"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
