@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-09T06:53:49-05:00",
-  "source": "fallback",
+  "generated": "2026-06-09T06:56:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cult of Personality",
+    "artist": "Living Coulour",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-09T11:56:52.0539619Z",
+    "duration_seconds": 287,
+    "year": "1988"
+  },
   "next_poll_seconds": 10
 }
