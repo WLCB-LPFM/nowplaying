@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-08T19:09:06-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-08T19:13:00-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Two Princes",
-    "artist": "Spin Doctors",
-    "album": "NOW That's What I Call The 90s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spin_Doctors_-_Two_Princes.jpg",
-    "started_at": "2026-06-09T00:08:40.6880771Z",
-    "duration_seconds": 266,
-    "year": "1993"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
