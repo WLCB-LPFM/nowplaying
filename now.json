@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T20:07:28-05:00",
-  "source": "fallback",
+  "generated": "2026-06-08T20:10:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Un Poco Loco",
+    "artist": "Shelly Manne & His Men",
+    "album": "Swinging Sounds - Album of 1956",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shelly_Manne_&_His_Men.jpg",
+    "started_at": "2026-06-09T01:09:51Z",
+    "duration_seconds": 544
+  },
   "next_poll_seconds": 10
 }
