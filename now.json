@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-09T12:59:29-05:00",
-  "source": "fallback",
+  "generated": "2026-06-09T13:01:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Poison",
+    "artist": "Bell Biv DeVoe",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-09T18:01:40.6320144Z",
+    "duration_seconds": 260,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
