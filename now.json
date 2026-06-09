@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-09T01:24:09-05:00",
-  "source": "autopost",
+  "generated": "2026-06-09T01:24:33-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cherokee",
-    "artist": "Peter Fuglsang Quartet",
-    "album": "Stunt Records Compilation Vol. 16",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Peter_Fuglsang_Quartet.jpg",
-    "started_at": "2026-06-09T06:19:19Z",
-    "duration_seconds": 322
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
