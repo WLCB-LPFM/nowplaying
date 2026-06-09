@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T20:35:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-08T20:42:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Come Sunday",
-    "artist": "Sherrie Maricle & The Diva Jazz Orchestra",
-    "album": "A Tommy Newsome Tribute",
-    "artwork_url": "null",
-    "started_at": "2026-06-09T01:35:26Z",
-    "duration_seconds": 438
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
