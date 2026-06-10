@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-09T19:34:37-05:00",
-  "source": "autopost",
+  "generated": "2026-06-09T19:34:49-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Jump (2004 Remaster)",
-    "artist": "Van Halen",
-    "album": "Jump (2004 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/Van_Halen.jpg",
-    "started_at": "2026-06-10T00:30:59Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
