@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T22:46:23-05:00",
-  "source": "autopost",
+  "generated": "2026-06-09T22:51:00-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Coyote",
-    "artist": "Joni Mitchell",
-    "album": "Coyote",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joni_Mitchell_-_Coyote.jpg",
-    "started_at": "2026-06-10T03:46:09Z",
-    "duration_seconds": 301
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
