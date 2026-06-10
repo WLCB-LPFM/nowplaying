@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T22:34:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-09T22:41:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Time Waits For No One",
-    "artist": "The Rolling Stones",
-    "album": "It's Only Rock 'N' Roll",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Time_Waits_For_No_One.jpg",
-    "started_at": "2026-06-10T03:34:40Z",
-    "duration_seconds": 397
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
