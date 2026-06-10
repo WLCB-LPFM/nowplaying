@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-10T02:34:25-05:00",
-  "source": "fallback",
+  "generated": "2026-06-10T02:50:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Will You Still Love Me Tomorrow",
+    "artist": "Inger Marie Gundersen",
+    "album": "Moreorless Jazz Seven",
+    "artwork_url": "",
+    "started_at": "2026-06-10T07:50:48.3665779Z",
+    "duration_seconds": 283,
+    "year": "2010"
+  },
   "next_poll_seconds": 10
 }
