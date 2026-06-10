@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T20:12:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-09T20:15:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Hail Hail Rock 'N' Roll",
-    "artist": "Garland Jeffreys",
-    "album": "Don't Call Me Buckwheat",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Garland_Jeffreys_-_Hail_Hail_Rock_'n'_Roll.jpg",
-    "started_at": "2026-06-10T01:11:58Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
