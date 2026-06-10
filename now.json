@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T21:30:19-05:00",
-  "source": "fallback",
+  "generated": "2026-06-09T21:31:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Sweet Soul Music",
+    "artist": "Arthur Conley",
+    "album": "MUSIKLADEN: Die legend\u00e4ren 70er Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Arthur_Conley_-_Sweet_Soul_Music.jpg",
+    "started_at": "2026-06-10T02:31:08Z",
+    "duration_seconds": 140
+  },
   "next_poll_seconds": 10
 }
