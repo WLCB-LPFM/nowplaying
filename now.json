@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T13:45:01-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T13:49:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Love For Sale",
-    "artist": "The Buddy Rich Big Band",
-    "album": "Big Swing Face",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Buddy_Rich_Big_Band_-_Love_For_Sale.jpg",
-    "started_at": "2026-06-10T18:44:50Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
