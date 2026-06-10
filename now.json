@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T12:52:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T12:57:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Wouldn't It be Lovely",
-    "artist": "Shelly Manne & His Friends",
-    "album": "Sunny Sounds",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shelly_Manne_&_His_Friends.jpg",
-    "started_at": "2026-06-10T17:52:21Z",
-    "duration_seconds": 330
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
