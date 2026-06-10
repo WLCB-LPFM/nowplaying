@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T12:42:58-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T12:49:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Skin Deep",
-    "artist": "Duke Ellington",
-    "album": "Ellington Uptown + The Liberian Suite + Masterpieces by Ellington",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Skin_Deep.jpg",
-    "started_at": "2026-06-10T17:42:49Z",
-    "duration_seconds": 411
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
