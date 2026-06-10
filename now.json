@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T20:36:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-09T20:39:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Turning Japanese",
-    "artist": "The Vapors",
-    "album": "Turning Japanese",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Vapors_-_Turning_Japanese.jpg",
-    "started_at": "2026-06-10T01:36:17Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
