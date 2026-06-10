@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T12:11:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T12:20:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Un Poco Loco",
-    "artist": "Shelly Manne & His Men",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shelly_Manne_&_His_Men.jpg",
-    "started_at": "2026-06-10T17:11:23Z",
-    "duration_seconds": 542
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
