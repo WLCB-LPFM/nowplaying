@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T21:03:53-05:00",
-  "source": "fallback",
+  "generated": "2026-06-09T21:07:57-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Ooo-Yum",
+    "artist": "Make Believe",
+    "album": "Going To The Bone Church",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Make_Believe_-_Ooo-yum.jpg",
+    "started_at": "2026-06-10T02:07:43Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
