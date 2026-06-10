@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-10T06:23:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-10T06:25:45-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "One Week",
+    "title": "One Week (Single Version)",
     "artist": "Barenaked Ladies",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-10T11:23:11.3749591Z",
-    "duration_seconds": 161,
-    "year": "1998"
+    "album": "Totally Hits",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Barenaked_Ladies.jpg",
+    "started_at": "2026-06-10T11:24:10Z",
+    "duration_seconds": 167
   },
   "next_poll_seconds": 10
 }
