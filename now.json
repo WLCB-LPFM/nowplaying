@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T13:11:12-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T13:21:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Jive Samba",
-    "artist": "Cannonball Adderley Sextet",
-    "album": "Jazz Masters",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/19c1f2c6ea214c16bf255c7ac555ac55.png",
-    "started_at": "2026-06-10T18:11:00Z",
-    "duration_seconds": 659
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
