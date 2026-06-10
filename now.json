@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T21:58:50-05:00",
-  "source": "autopost",
+  "generated": "2026-06-09T22:02:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "On The Wes Side",
-    "artist": "Jeff Golub",
-    "album": "Temptation",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeff_Golub_-_On_The_Wes_Side.jpg",
-    "started_at": "2026-06-10T02:58:40Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
