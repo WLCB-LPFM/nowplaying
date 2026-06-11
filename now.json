@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T20:59:41-05:00",
-  "source": "fallback",
+  "generated": "2026-06-10T21:19:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Route 66",
+    "artist": "Nat King Cole Trio",
+    "album": "Mona-Lisa",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nat_King_Cole_Trio_-_Route_66.jpg",
+    "started_at": "2026-06-11T02:18:56Z",
+    "duration_seconds": 175
+  },
   "next_poll_seconds": 10
 }
