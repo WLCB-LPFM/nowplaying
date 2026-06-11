@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-10T22:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T22:00:55-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Just Want To Dance With You",
-    "artist": "George Strait",
-    "album": "50 Number Ones",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Strait_-_I_Just_Want_To_Dance_With_You.jpg",
-    "started_at": "2026-06-11T02:57:33Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
