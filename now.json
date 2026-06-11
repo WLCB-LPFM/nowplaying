@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T21:29:14-05:00",
-  "source": "fallback",
+  "generated": "2026-06-10T21:31:36-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Mr. Roboto",
+    "artist": "Styx",
+    "album": "Kilroy Was Here",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Styx_-_Mr._Roboto.jpg",
+    "started_at": "2026-06-11T02:31:17Z",
+    "duration_seconds": 329
+  },
   "next_poll_seconds": 10
 }
