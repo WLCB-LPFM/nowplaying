@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-11T13:28:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T13:28:48-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Erde, Wasser, Blut",
+    "artist": "Massaka",
+    "album": "D\u00e4mmerung",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Massaka.jpg",
+    "started_at": "2026-06-11T18:28:34Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
