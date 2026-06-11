@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-11T18:09:26-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-11T18:12:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Magic Number",
-    "artist": "De La Soul",
-    "album": "The Magic Number",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/De_La_Soul_-_The_Magic_Number.jpg",
-    "started_at": "2026-06-11T23:09:06.5046896Z",
-    "duration_seconds": 192,
-    "year": "2023"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
