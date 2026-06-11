@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T17:17:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T17:21:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Come on Up",
+    "artist": "The Rascals",
+    "album": "Time Peace: The Rascals' Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rascals_-_Come_On_Up.jpg",
+    "started_at": "2026-06-11T22:21:15Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
