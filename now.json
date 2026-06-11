@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T17:35:49-05:00",
-  "source": "autopost",
+  "generated": "2026-06-11T17:38:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Ronnie",
-    "artist": "The Four Seasons",
-    "album": "Big Girls Don't Cry",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Four_Seasons_-_Ronnie.jpg",
-    "started_at": "2026-06-11T22:35:33Z",
-    "duration_seconds": 177
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
