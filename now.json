@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T19:07:09-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T19:09:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Get The Balance Right",
-    "artist": "Depeche Mode",
-    "album": "People Are People",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Depeche_Mode_-_Get_The_Balance_Right.jpg",
-    "started_at": "2026-06-11T00:06:52Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
