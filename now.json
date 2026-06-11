@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-11T09:44:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T09:44:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-11T14:44:39.0374348Z",
+    "duration_seconds": 249,
+    "year": "1982"
+  },
   "next_poll_seconds": 10
 }
