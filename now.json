@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-11T00:23:47-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T00:24:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Un Homme & Une Femme",
+    "artist": "Awa Ly",
+    "album": "The Best Jazz Audiophile Recommended, Volume 5",
+    "artwork_url": "",
+    "started_at": "2026-06-11T05:24:18.7967643Z",
+    "duration_seconds": 171,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
