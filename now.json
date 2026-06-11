@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-11T06:49:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-11T06:53:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Superstition",
-    "artist": "Stevie Wonder",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-11T11:49:15.5729124Z",
-    "duration_seconds": 263,
-    "year": "2009"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
