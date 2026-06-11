@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-11T01:24:57-05:00",
-  "source": "autopost",
+  "generated": "2026-06-11T01:25:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Lonely Woman",
-    "artist": "Ornette Coleman",
-    "album": "Change of the Century",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Ornette_Coleman_-_Lonely_Woman.jpg",
-    "started_at": "2026-06-11T06:22:55Z",
-    "duration_seconds": 299
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
