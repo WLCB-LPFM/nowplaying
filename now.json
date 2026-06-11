@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-11T12:45:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-11T12:49:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Humpty Dance",
-    "artist": "Digital Underground",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-11T17:45:10.9632821Z",
-    "duration_seconds": 268,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
