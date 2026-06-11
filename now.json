@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T21:27:28-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T21:29:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Skip a Rope",
-    "artist": "Jimmy Dean",
-    "album": "All Time Greatest Country Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Dean_-_Skip_A_Rope.jpg",
-    "started_at": "2026-06-11T02:26:44Z",
-    "duration_seconds": 160
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
