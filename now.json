@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T17:48:15-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T17:49:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "School's Out (2002 Remaster)",
+    "artist": "Alice Cooper",
+    "album": "School's Out (2002 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Alice_Cooper.jpg",
+    "started_at": "2026-06-11T22:49:00Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
