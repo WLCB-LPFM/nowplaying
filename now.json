@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T17:44:44-05:00",
-  "source": "autopost",
+  "generated": "2026-06-11T17:48:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Summer Rain",
-    "artist": "Johnny Rivers",
-    "album": "A Touch Of Gold",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Rivers_-_Summer_Rain.jpg",
-    "started_at": "2026-06-11T22:44:27Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
