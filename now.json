@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T20:18:53-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T20:22:50-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "If I Ever Lose My Faith In You",
-    "artist": "Sting",
-    "album": "Ten Summoner's Tales",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sting_-_If_I_Ever_Lose_My_Faith_In_You.jpg",
-    "started_at": "2026-06-11T01:18:39Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
