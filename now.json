@@ -1,23 +1,17 @@
 {
-  "generated": "2026-06-11T18:02:18-05:00",
-  "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "18:00",
-    "ends": "19:00",
-    "genre": null
-  },
+  "generated": "2026-06-11T18:04:54-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
-    "title": "Jesus Just Left Chicago",
-    "artist": "ZZ Top",
-    "album": "Rancho Texicano: The Very Best of ZZ Top",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
-    "started_at": "2026-06-11T23:02:01Z",
-    "duration_seconds": 210
+    "title": "Maneater",
+    "artist": "Daryl Hall & John Oates",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-11T23:04:48.3451052Z",
+    "duration_seconds": 258,
+    "year": "1981"
   },
   "next_poll_seconds": 10
 }
