@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T16:48:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T16:48:19-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Would I Lie To You?",
+    "artist": "Eurythmics",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eurythmics_-_Would_I_Lie_To_You?.jpg",
+    "started_at": "2026-06-11T21:48:04Z",
+    "duration_seconds": 294
+  },
   "next_poll_seconds": 10
 }
