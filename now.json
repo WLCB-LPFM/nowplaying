@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T17:38:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-11T17:41:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Never My Love (Remastered Version)",
-    "artist": "The Association",
-    "album": "Never My Love (Remastered Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Association_-_Never_My_Love_(Remastered_Version).jpg",
-    "started_at": "2026-06-11T22:38:36Z",
-    "duration_seconds": 188
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
