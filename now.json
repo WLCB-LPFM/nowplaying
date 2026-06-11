@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T15:14:39-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T15:15:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Stayin' Alive",
+    "artist": "Bee Gees",
+    "album": "Madagascar",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bee_Gees_-_Stayin'_Alive.jpg",
+    "started_at": "2026-06-11T20:14:49Z",
+    "duration_seconds": 283
+  },
   "next_poll_seconds": 10
 }
