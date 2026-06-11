@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-11T13:12:39-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T13:12:51-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Get Ready for This",
+    "artist": "2 Unlimited",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-11T18:12:47.5802766Z",
+    "duration_seconds": 213,
+    "year": "2021"
+  },
   "next_poll_seconds": 10
 }
