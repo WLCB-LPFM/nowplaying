@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T19:32:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-10T19:36:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Thrown Down",
-    "artist": "Fleetwood Mac",
-    "album": "Thrown Down",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fleetwood_Mac_-_Thrown_Down.jpg",
-    "started_at": "2026-06-11T00:32:28Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
