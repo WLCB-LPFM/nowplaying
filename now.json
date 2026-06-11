@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T17:07:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-11T17:09:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "For Your Love",
-    "artist": "Various Artist",
-    "album": "The Yardbirds",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Various_Artist_-_For_Your_Love.jpg",
-    "started_at": "2026-06-11T22:07:22Z",
-    "duration_seconds": 149
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
