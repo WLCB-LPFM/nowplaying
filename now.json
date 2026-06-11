@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-11T13:01:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-11T13:03:30-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Me Myself And I",
+    "artist": "De La Soul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-11T18:03:26.9602666Z",
+    "duration_seconds": 211,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
