@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-11T06:26:14-05:00",
-  "source": "autopost",
+  "generated": "2026-06-11T06:27:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ooops Up",
-    "artist": "Snap!",
-    "album": "World Power",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snap!_-_Ooops_Up.jpg",
-    "started_at": "2026-06-11T11:25:15Z",
-    "duration_seconds": 402
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
