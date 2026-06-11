@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-11T10:10:04-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-11T10:13:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Jumpin Jumpin",
-    "artist": "Destiny's Child",
-    "album": "The Writing's On The Wall",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Destiny's_Child_-_Jumpin',_Jumpin'.jpg",
-    "started_at": "2026-06-11T15:09:47.621379Z",
-    "duration_seconds": 222,
-    "year": "2000"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
