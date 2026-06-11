@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T19:12:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-10T19:20:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Pariah",
+    "artist": "Steven Wilson",
+    "album": "Pariah",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steven_Wilson_-_Pariah.jpg",
+    "started_at": "2026-06-11T00:20:20Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
