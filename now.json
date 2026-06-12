@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T14:27:21-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T14:29:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Whenever You're Ready",
+    "artist": "Brian Auger's Oblivion Express",
+    "album": "Closer To It",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brian_Auger's_Oblivion_Express_-_Whenever_You're_Ready.jpg",
+    "started_at": "2026-06-12T19:28:47Z",
+    "duration_seconds": 380
+  },
   "next_poll_seconds": 10
 }
