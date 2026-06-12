@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T14:22:00-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T14:27:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Can't See The Streets for My Tears",
-    "artist": "Coco Montoya",
-    "album": "The Best Of Coco Montoya - The Alligator Records Years",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Coco_Montoya_-_Can't_See_The_Streets_For_My_Tears.jpg",
-    "started_at": "2026-06-12T19:21:51Z",
-    "duration_seconds": 342
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
