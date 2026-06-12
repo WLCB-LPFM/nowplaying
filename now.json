@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T12:35:30-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T12:35:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Turn Up The Zydeco (What You Gonna Do)",
+    "artist": "Rockin' Dopsie, Jr. And The Zydeco Twisters",
+    "album": "Turn Up the Zydeco!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rockin'_Dopsie,_Jr._And_The_Zydeco_Twisters_-_Turn_Up_The_Zydeco_(What_You_Gonna_Do).jpg",
+    "started_at": "2026-06-12T17:35:24Z",
+    "duration_seconds": 254
+  },
   "next_poll_seconds": 10
 }
