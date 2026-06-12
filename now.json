@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T18:27:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T18:28:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Knock My Love, Pt. 1 (2006 Remaster) [Single Version]",
+    "artist": "Wilson Pickett",
+    "album": "Don't Knock My Love, Pt. 1 (2006 Remaster) [Single Version]",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Wilson_Pickett.jpg",
+    "started_at": "2026-06-12T23:27:47Z",
+    "duration_seconds": 137
+  },
   "next_poll_seconds": 10
 }
