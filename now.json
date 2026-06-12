@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T11:27:34-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T11:31:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Come To Me",
-    "artist": "Vicki Peterson",
-    "album": "Come To Me",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vicki_Peterson.jpg",
-    "started_at": "2026-06-12T16:27:17Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
