@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T14:01:25-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T14:04:33-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "The Solution",
-    "artist": "Nick Moss Band",
-    "album": "Get Your Back Into It!",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Nick_Moss_Band.jpg",
-    "started_at": "2026-06-12T19:01:02Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
