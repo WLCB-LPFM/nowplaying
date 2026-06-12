@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T12:31:37-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T12:32:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Baby Please Don't Go",
+    "artist": "C.J. Chenier",
+    "album": "Can't Sit Down",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/C.j._Chenier_-_Baby_Please_Don't_Go.jpg",
+    "started_at": "2026-06-12T17:31:42Z",
+    "duration_seconds": 237
+  },
   "next_poll_seconds": 10
 }
