@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T21:19:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-11T21:21:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Brass Monkey",
-    "artist": "Beastie Boys",
-    "album": "Licensed To Ill",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beastie_Boys_-_Brass_Monkey.jpg",
-    "started_at": "2026-06-12T02:18:56Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
