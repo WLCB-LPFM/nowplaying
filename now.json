@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T16:21:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T16:24:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Old Days (2002 Remaster)",
-    "artist": "Chicago",
-    "album": "Old Days (2002 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_Old_Days_(2002_Remaster).jpg",
-    "started_at": "2026-06-12T21:20:55Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
