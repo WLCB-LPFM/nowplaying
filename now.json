@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T18:50:42-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T18:53:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "I'll Never Leave",
-    "artist": "Les Imprim\u00e9s",
-    "album": "I'll Never Leave",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Les_Imprim\u00e9s_-_I'll_Never_Leave.jpg",
-    "started_at": "2026-06-12T23:50:33Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
