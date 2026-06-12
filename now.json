@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T18:23:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T18:23:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Searching",
+    "artist": "Roy Ayers",
+    "album": "Vibrations",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roy_Ayers_-_Searching.jpg",
+    "started_at": "2026-06-12T23:23:27Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
