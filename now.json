@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T14:52:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T14:55:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Come To Me",
-    "artist": "The Kinsey Report",
-    "album": "Edge Of The City",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/93c4a7566ac84111a8ce049cc415b866.png",
-    "started_at": "2026-06-12T19:52:14Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
