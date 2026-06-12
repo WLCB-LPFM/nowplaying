@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T13:57:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T13:57:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Tangerine Skyline",
+    "artist": "The Rippingtons",
+    "album": "Open Road",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rippingtons_-_Tangerine_Skyline.jpg",
+    "started_at": "2026-06-12T18:57:34Z",
+    "duration_seconds": 155
+  },
   "next_poll_seconds": 10
 }
