@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-12T01:50:00-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-12T01:52:58-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Blue Serge",
-    "artist": "Duke Ellington And His Famous Orchestra",
-    "album": "Blue Serge / Jumpin' Punkins",
-    "artwork_url": "",
-    "started_at": "2026-06-12T06:49:49.8063805Z",
-    "duration_seconds": 193,
-    "year": "1941"
+    "artist": "Duke Ellington & His Famous Orchestra",
+    "album": "In A Mellotone",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington_&_His_Famous_Orchestra.jpg",
+    "started_at": "2026-06-12T06:51:32Z",
+    "duration_seconds": 201
   },
   "next_poll_seconds": 10
 }
