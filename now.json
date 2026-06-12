@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T12:09:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T12:17:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "RU4 Real?",
+    "artist": "Smokin' Joe Kubek & Bnois King",
+    "album": "Have Blues, Will Travel",
+    "artwork_url": "null",
+    "started_at": "2026-06-12T17:16:45Z",
+    "duration_seconds": 368
+  },
   "next_poll_seconds": 10
 }
