@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T14:04:33-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T14:05:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Dead End Street",
+    "artist": "Billy Branch & The Sons of Blues",
+    "album": "The Blues is My Biography",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_Branch_&_The_Sons_Of_Blues.jpg",
+    "started_at": "2026-06-12T19:04:43Z",
+    "duration_seconds": 287
+  },
   "next_poll_seconds": 10
 }
