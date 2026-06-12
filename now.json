@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T14:13:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T14:13:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Nothing But Fine",
+    "artist": "Tinsley Ellis",
+    "album": "Winning Hand",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tinsley_Ellis_-_Nothing_But_Fine.jpg",
+    "started_at": "2026-06-12T19:13:37Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
