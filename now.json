@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T12:22:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T12:25:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I Saw It Coming",
-    "artist": "Smokin' Joe Kubek & Bnois King",
-    "album": "Show Me The Money",
-    "artwork_url": "null",
-    "started_at": "2026-06-12T17:22:10Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
