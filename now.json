@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-12T05:07:12-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T05:08:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Congeniality",
-    "artist": "Ornette Coleman",
-    "album": "Congeniality",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Ornette_Coleman_-_Congeniality.jpg",
-    "started_at": "2026-06-12T10:01:30Z",
-    "duration_seconds": 408
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
