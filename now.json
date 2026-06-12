@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T18:37:17-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T18:38:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Fire",
+    "artist": "Ohio Players",
+    "album": "Gold",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Ohio_Players_-_Fire.jpg",
+    "started_at": "2026-06-12T23:37:58Z",
+    "duration_seconds": 274
+  },
   "next_poll_seconds": 10
 }
