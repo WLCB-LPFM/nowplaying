@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T12:28:07-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T12:31:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "What Good Is Life?",
-    "artist": "Guitar Shorty",
-    "album": "We The People",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Guitar_Shorty_-_What_Good_Is_Life?.jpg",
-    "started_at": "2026-06-12T17:27:48Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
