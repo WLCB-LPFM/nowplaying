@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-13T00:44:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T00:50:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hotter Than That",
+    "artist": "Louis Armstrong & His Hot Seven",
+    "album": "Portrait Of The Artist As A Young Man 1923-1934",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Louis_Armstrong_&_His_Hot_Seven.jpg",
+    "started_at": "2026-06-13T05:50:31Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
