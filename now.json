@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-12T23:13:20-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T23:18:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Nardis",
-    "artist": "Mariane Bitran, Olivier Cahours, Rasmus Ehlers, Christophe Lavergne",
-    "album": "All One",
-    "artwork_url": "null",
-    "started_at": "2026-06-13T04:12:58Z",
-    "duration_seconds": 331
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
