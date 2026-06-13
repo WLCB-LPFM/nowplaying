@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T19:07:03-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T19:08:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Execution",
+    "artist": "Spoon",
+    "album": "Execution",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/2b3baac8f90a481cc87141a0b2e94872.png",
+    "started_at": "2026-06-13T00:08:33Z",
+    "duration_seconds": 123
+  },
   "next_poll_seconds": 10
 }
