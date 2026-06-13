@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T21:09:34-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T21:18:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Sweet Southern Sounds",
+    "artist": "Samantha Fish",
+    "album": "Sweet Southern Sounds",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Samantha_Fish_-_Sweet_Southern_Sounds.jpg",
+    "started_at": "2026-06-13T02:18:27Z",
+    "duration_seconds": 299
+  },
   "next_poll_seconds": 10
 }
