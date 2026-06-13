@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T18:39:18-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T18:44:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Right and a Wrong Way",
-    "artist": "Keith Sweat",
-    "album": "Right and a Wrong Way",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Keith_Sweat_-_Right_And_A_Wrong_Way.jpg",
-    "started_at": "2026-06-13T23:39:00Z",
-    "duration_seconds": 317
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
