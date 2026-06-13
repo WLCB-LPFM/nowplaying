@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T19:35:47-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T19:36:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "So Long",
+    "artist": "Marvin Gaye",
+    "album": "That's The Way Love Is",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marvin_Gaye_-_So_Long.jpg",
+    "started_at": "2026-06-13T00:35:54Z",
+    "duration_seconds": 143
+  },
   "next_poll_seconds": 10
 }
