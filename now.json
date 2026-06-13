@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T18:27:35-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T18:27:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Ready Or Not",
+    "artist": "After 7",
+    "album": "After 7",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/After_7_-_Ready_Or_Not.jpg",
+    "started_at": "2026-06-13T23:27:43Z",
+    "duration_seconds": 276
+  },
   "next_poll_seconds": 10
 }
