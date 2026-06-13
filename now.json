@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-13T15:12:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-13T15:15:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-    "artist": "ABBA",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-13T20:12:22.8714152Z",
-    "duration_seconds": 189,
-    "year": "2009"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
