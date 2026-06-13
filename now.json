@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T22:26:45-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T22:29:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "On My List to Quit",
-    "artist": "Altered Five Blues Band",
-    "album": "Charmed & Dangerous",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Altered_Five_Blues_Band_-_On_My_List_To_Quit.jpg",
-    "started_at": "2026-06-13T03:26:34Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
