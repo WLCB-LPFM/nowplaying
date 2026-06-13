@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T18:14:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T18:18:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Good Girls",
-    "artist": "Joe",
-    "album": "Good Girls EP",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_-_Good_Girls.jpg",
-    "started_at": "2026-06-13T23:14:15Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
