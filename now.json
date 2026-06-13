@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T20:12:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T20:12:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Act Naturally",
+    "artist": "Buck Owens",
+    "album": "100 Best Oldie Hits from the 50s & 60s",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buck_Owens_-_Act_Naturally.jpg",
+    "started_at": "2026-06-13T01:12:19Z",
+    "duration_seconds": 138
+  },
   "next_poll_seconds": 10
 }
