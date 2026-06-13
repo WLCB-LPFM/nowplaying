@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T20:52:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T20:57:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Blues With A Feeling",
-    "artist": "Carey Bell, Lurrie Bell",
-    "album": "Harpslinger",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Carey_Bell,_Lurrie_Bell_-_Blues_With_A_Feeling.jpg",
-    "started_at": "2026-06-13T01:52:26Z",
-    "duration_seconds": 293
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
