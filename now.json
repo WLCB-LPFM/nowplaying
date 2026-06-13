@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T21:01:16-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T21:06:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Drinking Through",
+    "artist": "Jonathon Boogie Long",
+    "album": "Courage in the Chaos",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jonathon_Boogie_Long_-_Drinking_Through.jpg",
+    "started_at": "2026-06-13T02:06:31Z",
+    "duration_seconds": 198
+  },
   "next_poll_seconds": 10
 }
