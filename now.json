@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T19:46:50-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T19:49:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "A Time for Everything?",
-    "artist": "Jethro Tull",
-    "album": "Benefit",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jethro_Tull_-_A_Time_For_Everything?.jpg",
-    "started_at": "2026-06-13T00:46:31Z",
-    "duration_seconds": 164
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
