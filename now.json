@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-13T13:53:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T13:53:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "We Are Family",
+    "artist": "Sister Sledge",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-13T18:53:38.4526847Z",
+    "duration_seconds": 204,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
