@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T20:20:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T20:23:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Walking the Dog",
-    "artist": "Rufus Thomas",
-    "album": "Walking the Dog",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rufus_Thomas_-_Walking_The_Dog.jpg",
-    "started_at": "2026-06-13T01:20:34Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
