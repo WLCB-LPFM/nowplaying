@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T17:10:51-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T17:14:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Treat me Gently",
-    "artist": "IngaRose",
-    "album": "Treat me Gently",
-    "artwork_url": "https://cdn.autopo.st/images/artists/i/Ingarose.jpg",
-    "started_at": "2026-06-13T22:10:30Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
