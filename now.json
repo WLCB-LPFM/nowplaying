@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T17:41:00-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T17:45:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Real Love",
-    "artist": "Skyy",
-    "album": "Real Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Skyy_-_Real_Love.jpg",
-    "started_at": "2026-06-13T22:40:51Z",
-    "duration_seconds": 315
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
