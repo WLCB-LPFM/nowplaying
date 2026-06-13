@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T19:27:41-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T19:33:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "It's A Shame (Remastered Version)",
+    "artist": "Spinners",
+    "album": "It's A Shame (Remastered Version)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Spinners.jpg",
+    "started_at": "2026-06-13T00:32:50Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
