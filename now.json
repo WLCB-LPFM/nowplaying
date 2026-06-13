@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T20:06:58-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T20:08:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Marching Thru Madrid",
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "album": "Solid Gold Herb Alpert & The Tijuana Brass",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Herb_Alpert_&_The_Tijuana_Brass_-_Marching_Thru_Madrid.jpg",
+    "started_at": "2026-06-13T01:07:20Z",
+    "duration_seconds": 153
+  },
   "next_poll_seconds": 10
 }
