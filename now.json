@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T22:37:18-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T22:37:56-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Whistler (Steven Wilson Stereo Remix)",
+    "artist": "Jethro Tull",
+    "album": "Songs from the Wood (40th Anniversary Edition) [The Steven Wilson Remix]",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jethro_Tull.jpg",
+    "started_at": "2026-06-13T03:37:37Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
