@@ -1,23 +1,17 @@
 {
-  "generated": "2026-06-13T06:48:13-05:00",
-  "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "06:00",
-    "ends": "08:00",
-    "genre": null
-  },
+  "generated": "2026-06-13T06:48:25-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
     "title": "Good Vibrations",
     "artist": "Marky Mark And The Funky Bunch",
     "album": "Music For The People",
     "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marky_Mark_And_The_Funky_Bunch_-_Good_Vibrations.jpg",
-    "started_at": "2026-06-13T11:46:49Z",
-    "duration_seconds": 270
+    "started_at": "2026-06-13T11:46:38.1724137Z",
+    "duration_seconds": 268,
+    "year": "1991"
   },
   "next_poll_seconds": 10
 }
