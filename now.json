@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T10:15:35-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T10:19:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Back in Black",
-    "artist": "AC feat. DC",
-    "album": "Back In Black",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
-    "started_at": "2026-06-13T15:14:59Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
