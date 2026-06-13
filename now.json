@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T20:23:25-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T20:26:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Take Five",
-    "artist": "Quincy Jones",
-    "album": "Plays Hip Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/q/Quincy_Jones_-_Take_Five.jpg",
-    "started_at": "2026-06-13T01:23:10Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
