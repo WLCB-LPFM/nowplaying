@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T18:08:23-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T18:13:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Cruisin'",
-    "artist": "Smokey Robinson",
-    "album": "Where There's Smoke...",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Smokey_Robinson_-_Cruisin'.jpg",
-    "started_at": "2026-06-13T23:08:10Z",
-    "duration_seconds": 355
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
