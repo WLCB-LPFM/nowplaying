@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-13T16:20:50-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-13T16:24:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Whoomp! There It Is",
-    "artist": "Tag Team",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-13T21:20:45.4079873Z",
-    "duration_seconds": 220,
-    "year": "2021"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
