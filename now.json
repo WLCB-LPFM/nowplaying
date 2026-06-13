@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-13T03:05:29-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T03:06:15-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Write Your Name in My Head",
+    "artist": "Nadja",
+    "album": "Autopergamene",
+    "artwork_url": "",
+    "started_at": "2026-06-13T08:06:07.0015614Z",
+    "duration_seconds": 303,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
