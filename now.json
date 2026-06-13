@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T18:22:59-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T18:27:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "The Love Scene",
-    "artist": "Joe",
-    "album": "All That I Am",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_-_The_Love_Scene.jpg",
-    "started_at": "2026-06-13T23:22:44Z",
-    "duration_seconds": 301
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
