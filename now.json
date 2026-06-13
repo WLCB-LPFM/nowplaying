@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T20:04:55-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T20:06:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Got to Move",
-    "artist": "Sonny Boy Williamson II",
-    "album": "The Real Folk Blues",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/838892489747b5b89fbbbc5f24db46d6.png",
-    "started_at": "2026-06-13T01:04:44Z",
-    "duration_seconds": 147
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
