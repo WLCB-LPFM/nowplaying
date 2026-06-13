@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T11:33:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T11:34:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Down Low (Nobody Has To Know)",
+    "artist": "R. Kelly",
+    "album": "The Essential Isley Brothers",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R._Kelly_-_Down_Low_(Nobody_Has_To_Know).jpg",
+    "started_at": "2026-06-13T16:33:56Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
