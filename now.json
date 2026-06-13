@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T20:09:57-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T20:12:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Ring of Fire (Single Version)",
-    "artist": "Johnny Cash",
-    "album": "Country: The American Tradition",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Cash_-_Ring_Of_Fire_(Single_Version).jpg",
-    "started_at": "2026-06-13T01:09:43Z",
-    "duration_seconds": 155
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
