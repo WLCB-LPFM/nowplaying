@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T19:00:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T19:00:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "People Get Ready",
-    "artist": "The Impressions",
-    "album": "The Singer, The Song",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Impressions_-_People_Get_Ready.jpg",
-    "started_at": "2026-06-12T23:57:55Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
