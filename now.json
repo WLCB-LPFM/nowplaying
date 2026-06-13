@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T20:18:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-12T20:20:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Louie Louie",
-    "artist": "The Kingsmen",
-    "album": "The Best of The Kingsmen",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Kingsmen_-_Louie_Louie.jpg",
-    "started_at": "2026-06-13T01:17:57Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
