@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T19:21:13-05:00",
-  "source": "fallback",
+  "generated": "2026-06-12T19:21:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Give the Mule What He Wants",
+    "artist": "Queens of the Stone Age",
+    "album": "Give the Mule What He Wants",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/q/Queens_Of_The_Stone_Age_-_Give_The_Mule_What_He_Wants.jpg",
+    "started_at": "2026-06-13T00:21:20Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
