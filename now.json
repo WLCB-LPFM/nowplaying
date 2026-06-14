@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T10:09:20-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T10:11:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Million Dollar Smile",
-    "artist": "Lionel Hampton And His Orchestra",
-    "album": "Swingsation:  Lionel Hampton",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lionel_Hampton_And_His_Orchestra_-_Million_Dollar_Smile.jpg",
-    "started_at": "2026-06-14T15:09:07Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
