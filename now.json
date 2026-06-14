@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T21:26:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T21:30:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Mississippi",
-    "artist": "Pistol Maine",
-    "album": "Round 1",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/14f7f821125dd202b59f2bcfa304d35d.png",
-    "started_at": "2026-06-14T02:25:58Z",
-    "duration_seconds": 311
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
