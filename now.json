@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T20:55:57-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T20:56:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bass What Is It",
+    "artist": "DJ Magic Mike",
+    "album": "The Outer Limits of Audio Fidelity",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d6250a2b3dc249c4b0539617d883d6e9.png",
+    "started_at": "2026-06-14T01:56:16Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
