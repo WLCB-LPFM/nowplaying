@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T19:17:08-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T19:21:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Spend My Life with You",
-    "artist": "Eric Benet",
-    "album": "Black / R&B / Hip-Hop",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Benet_-_Spend_My_Life_With_You.jpg",
-    "started_at": "2026-06-14T00:16:56Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
