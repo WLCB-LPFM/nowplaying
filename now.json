@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T09:26:31-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T09:31:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Scrub Me Mama, With a Boogie Beat",
+    "artist": "Charlie Barnet & His Orchestra",
+    "album": "Essential, Vol. 3",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charlie_Barnet_&_His_Orchestra.jpg",
+    "started_at": "2026-06-14T14:30:55Z",
+    "duration_seconds": 184
+  },
   "next_poll_seconds": 10
 }
