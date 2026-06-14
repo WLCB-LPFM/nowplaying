@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T17:21:57-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T17:28:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Love You Down - Extended Remix",
-    "artist": "Ready For The World",
-    "album": "80s Soul",
-    "artwork_url": "",
-    "started_at": "2026-06-14T22:21:39Z",
-    "duration_seconds": 392
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
