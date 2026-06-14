@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-14T08:28:25-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-14T08:31:01-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "It's the Last Time I Fall in Love (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-14T13:28:20.6408798Z",
-    "duration_seconds": 174,
-    "year": "1940"
+    "title": "It's the Last Time I Fall in Love",
+    "artist": "Harry James",
+    "album": "Harry James - With Dick Haymes, 1940",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_James.jpg",
+    "started_at": "2026-06-14T13:28:42Z",
+    "duration_seconds": 180
   },
   "next_poll_seconds": 10
 }
