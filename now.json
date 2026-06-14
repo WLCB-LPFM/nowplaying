@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T14:17:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T14:17:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cuckoo Watz",
+    "artist": "REN\u00c9 MUSETTE ORCHESTRA; H. Grant",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T19:17:47.1135304Z",
+    "duration_seconds": 179,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
