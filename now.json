@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-14T08:17:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-14T08:20:12-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Do I Love You (1940)",
-    "artist": "The Three Suns",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-14T13:17:39.3476985Z",
-    "duration_seconds": 159,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
