@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T06:54:58-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T06:55:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ay, Ay, Ay",
+    "artist": "Jack Hastings and His Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T11:55:06.2171711Z",
+    "duration_seconds": 155,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
