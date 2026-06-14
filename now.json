@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T20:02:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T20:05:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Lyric Licking",
+    "artist": "Just-Ice",
+    "album": "Kool & Deadly (Justicisms)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Just-ice_-_Lyric_Licking.jpg",
+    "started_at": "2026-06-14T01:05:30Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
