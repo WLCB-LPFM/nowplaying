@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T07:54:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T07:54:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You've Got Me Out On a Limb (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T12:54:47.0520972Z",
+    "duration_seconds": 159,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
