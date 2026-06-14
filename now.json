@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T20:30:47-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T20:32:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Genius Of Love",
+    "artist": "Tom Tom Club",
+    "album": "Island Records Post Punk Box Set - Out Come The Freaks",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Tom_Club_-_Genius_Of_Love.jpg",
+    "started_at": "2026-06-14T01:32:23Z",
+    "duration_seconds": 334
+  },
   "next_poll_seconds": 10
 }
