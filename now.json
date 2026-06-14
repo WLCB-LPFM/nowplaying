@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T15:41:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T15:41:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Java Jive",
+    "artist": "Maurice Rocco And His Rockin' Rhythm",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T20:41:36.5329282Z",
+    "duration_seconds": 159,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
