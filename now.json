@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T09:11:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T09:14:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Marie",
-    "artist": "Tommy Dorsey",
-    "album": "Maple Leaf Rag",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tommy_Dorsey_-_Marie.jpg",
-    "started_at": "2026-06-14T14:11:38Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
