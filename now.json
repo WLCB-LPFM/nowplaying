@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T08:42:50-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T08:43:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Words Fail Me (1940)",
+    "artist": "Al Golden and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T13:42:57.8699788Z",
+    "duration_seconds": 127,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
