@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-14T08:53:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-14T08:55:44-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Moonlight Becomes You",
-    "artist": "Johnny Jones and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-14T13:53:15.263144Z",
-    "duration_seconds": 155,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
