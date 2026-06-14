@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T03:32:49-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T03:33:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Over the Rainbow",
+    "artist": "Carsten Dahl",
+    "album": "Solo Piano",
+    "artwork_url": "",
+    "started_at": "2026-06-14T08:32:58.2751548Z",
+    "duration_seconds": 323,
+    "year": "2003"
+  },
   "next_poll_seconds": 10
 }
