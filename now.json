@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T17:49:28-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T17:54:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Slow Dance (Hey Mr. DJ)",
-    "artist": "R. Kelly",
-    "album": "Remix City Volume 1",
-    "artwork_url": "",
-    "started_at": "2026-06-14T22:49:11Z",
-    "duration_seconds": 303
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
