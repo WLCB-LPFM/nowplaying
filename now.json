@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T14:59:55-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T15:02:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Moon Love (1940)",
+    "artist": "Al Bowlly; David; Davis; Kostelanetz",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T20:02:09.4716956Z",
+    "duration_seconds": 179,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
