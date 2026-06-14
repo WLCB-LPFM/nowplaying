@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T18:09:32-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T18:10:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I'm the Man Who Loves You",
+    "artist": "Wilco",
+    "album": "What's Your 20? Essential Tracks 1994 - 2014",
+    "artwork_url": "",
+    "started_at": "2026-06-14T23:10:00Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
