@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T18:53:12-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T18:58:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Game Of Love",
-    "artist": "The Kinsey Report",
-    "album": "Edge Of The City",
-    "artwork_url": "",
-    "started_at": "2026-06-14T23:52:56Z",
-    "duration_seconds": 363
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
