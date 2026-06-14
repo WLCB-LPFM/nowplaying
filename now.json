@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T09:32:38-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T09:34:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "The Darktown Strutter's Ball",
-    "artist": "Ted Lewis",
-    "album": "A Jazz Holiday",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Ted_Lewis.jpg",
-    "started_at": "2026-06-14T14:32:15Z",
-    "duration_seconds": 152
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
