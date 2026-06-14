@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T15:57:33-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T15:57:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Midnight Sun (1943)",
+    "artist": "Lionel Hampton",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T20:57:46.8078226Z",
+    "duration_seconds": 180,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
