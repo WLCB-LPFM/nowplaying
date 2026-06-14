@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T18:18:03-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T18:21:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Talkin' About Love",
-    "artist": "Steve Gaines",
-    "album": "One in the Sun",
-    "artwork_url": "",
-    "started_at": "2026-06-14T23:17:49Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
