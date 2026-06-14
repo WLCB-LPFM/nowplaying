@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-14T08:20:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-14T08:22:49-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Danish Blues (1940)",
-    "artist": "Aagaard and his Swingers",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-14T13:20:18.8645418Z",
-    "duration_seconds": 160,
-    "year": "1940"
+    "title": "Blues Upstairs (1988 Remaster)",
+    "artist": "Cecil Aagaard & His Swingers",
+    "album": "Blues Upstairs (1988 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cecil_Aagaard_&_His_Swingers.jpg",
+    "started_at": "2026-06-14T13:21:06Z",
+    "duration_seconds": 170
   },
   "next_poll_seconds": 10
 }
