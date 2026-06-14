@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-14T14:08:42-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-14T14:11:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Me and My Melinda",
-    "artist": "Bunny Berigan and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-14T19:08:39.7344088Z",
-    "duration_seconds": 183,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
