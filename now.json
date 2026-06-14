@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T20:17:06-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T20:20:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Grindin'",
-    "artist": "Clipse",
-    "album": "Rapper's Delight - Ministry of Sound",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Clipse_-_Grindin'.jpg",
-    "started_at": "2026-06-14T01:16:47Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
