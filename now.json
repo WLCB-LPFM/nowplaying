@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T19:52:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T19:52:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "If You",
+    "artist": "Silk",
+    "album": "If You",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Silk_-_If_You.jpg",
+    "started_at": "2026-06-14T00:52:04Z",
+    "duration_seconds": 337
+  },
   "next_poll_seconds": 10
 }
