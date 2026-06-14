@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T20:29:28-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T20:30:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Stand So Close (Radio Edit)",
-    "artist": "Gangsta Boo",
-    "album": "Nasty Trick",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Gangsta_Boo.jpg",
-    "started_at": "2026-06-14T01:29:08Z",
-    "duration_seconds": 264
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
