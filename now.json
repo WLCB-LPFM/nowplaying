@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T10:30:20-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T10:32:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Put Your Arms Around Me Honey",
-    "artist": "Dick Haymes, The Song Spinners",
-    "album": "1000 Hits of the Forties, Vol. 14",
-    "artwork_url": "null",
-    "started_at": "2026-06-14T15:29:56Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
