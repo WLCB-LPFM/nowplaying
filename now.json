@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T18:48:02-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T18:52:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Help The Poor",
-    "artist": "Eric Clapton",
-    "album": "Riding With The King",
-    "artwork_url": "",
-    "started_at": "2026-06-14T23:47:44Z",
-    "duration_seconds": 306
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
