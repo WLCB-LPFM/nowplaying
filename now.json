@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T20:37:50-05:00",
-  "source": "fallback",
+  "generated": "2026-06-13T20:38:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Roxanne's Revenge (Re-Recorded  feat.  Remastered)",
+    "artist": "Roxanne Shante",
+    "album": "80s & '90s Dance Hits (Re-Recorded / Remastered Versions)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Roxanne_Shante.jpg",
+    "started_at": "2026-06-14T01:38:14Z",
+    "duration_seconds": 299
+  },
   "next_poll_seconds": 10
 }
