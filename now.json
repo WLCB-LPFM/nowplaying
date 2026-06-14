@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T21:32:47-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T21:36:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Make It Real",
-    "artist": "The Jets",
-    "album": "20th Century Masters: The Millennium Collection: Best Of The Jets",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jets_-_Make_It_Real.jpg",
-    "started_at": "2026-06-14T02:32:29Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
