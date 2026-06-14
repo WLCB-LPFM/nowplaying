@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-14T07:28:12-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-14T07:30:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "My Devotion",
-    "artist": "The Marshalls and their Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-14T12:28:06.2544544Z",
-    "duration_seconds": 172,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
