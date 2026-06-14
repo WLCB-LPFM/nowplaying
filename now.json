@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T18:21:44-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T18:23:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Now That We've Found Love",
+    "artist": "Third World",
+    "album": "Top Of The Pops 1975 - 1979",
+    "artwork_url": "",
+    "started_at": "2026-06-14T23:23:14Z",
+    "duration_seconds": 459
+  },
   "next_poll_seconds": 10
 }
