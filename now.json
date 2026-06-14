@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T14:32:02-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T14:32:25-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Can't Believe That You're in Love With Me",
+    "artist": "Jess Stacy and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T19:32:16.2614696Z",
+    "duration_seconds": 155,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
