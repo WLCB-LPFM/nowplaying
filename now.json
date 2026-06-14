@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T09:40:58-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T09:44:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Chattanooga Choo Choo",
+    "artist": "Banda de Baile",
+    "album": "Music World, Copacabana",
+    "artwork_url": "null",
+    "started_at": "2026-06-14T14:44:11Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
