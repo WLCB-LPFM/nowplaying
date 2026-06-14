@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T10:11:56-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T10:12:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "(I Got Spurs) Jingle Jangle Jingle",
+    "artist": "Trudy Erwin",
+    "album": "Sound of the Movies Vol. 14",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Trudy_Erwin.jpg",
+    "started_at": "2026-06-14T15:12:22Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
