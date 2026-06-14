@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T09:23:22-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T09:23:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Beginning to See The Light",
+    "artist": "Duke Ellington",
+    "album": "Saga Jazz: Duke's Singing Ladies",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_I'm_Beginning_To_See_The_Light.jpg",
+    "started_at": "2026-06-14T14:23:33Z",
+    "duration_seconds": 191
+  },
   "next_poll_seconds": 10
 }
