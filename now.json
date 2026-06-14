@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T12:57:42-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T13:00:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "OTR"
   },
-  "track": {
-    "title": "Muddy River Blues",
-    "artist": "Jack Teagarden",
-    "album": "King of the Blues Trombone (HD Remastered)",
-    "artwork_url": "",
-    "started_at": "2026-06-14T17:57:24Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
