@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T18:06:45-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T18:09:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Want Your Love",
-    "artist": "Chris Isaak",
-    "album": "San Francisco Days",
-    "artwork_url": "",
-    "started_at": "2026-06-14T23:06:32Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
