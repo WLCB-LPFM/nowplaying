@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T18:38:56-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T18:39:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Light My Fire",
+    "artist": "Al Green",
+    "album": "Anthology",
+    "artwork_url": "",
+    "started_at": "2026-06-14T23:39:04Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
