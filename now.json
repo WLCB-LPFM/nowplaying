@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-14T15:11:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-14T15:13:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Oh! (1940)",
-    "artist": "Griff Willaims and his Stevens Hotel Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-14T20:11:02.1059767Z",
-    "duration_seconds": 139,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
