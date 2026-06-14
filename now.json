@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T14:00:05-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T14:00:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Wonder When My Baby's Coming Home",
+    "artist": "Johnny Scat Davis and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-14T19:00:08.5257536Z",
+    "duration_seconds": 169,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
