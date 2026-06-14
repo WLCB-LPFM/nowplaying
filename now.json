@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T20:52:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T20:55:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Just The Two Of Us",
-    "artist": "Chubb Rock",
-    "album": "The One",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chubb_Rock_-_Just_The_Two_Of_Us.jpg",
-    "started_at": "2026-06-14T01:52:35Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
