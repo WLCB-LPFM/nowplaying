@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T21:23:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T21:25:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "How Could U Go",
-    "artist": "Buzzed Beyond",
-    "album": "How Could U Go",
-    "artwork_url": "null",
-    "started_at": "2026-06-14T02:23:09Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
