@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T19:12:42-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T19:16:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Happily Ever After",
-    "artist": "Case",
-    "album": "Def Jam 25, Vol. 11 - Cheers To You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Case_-_Happily_Ever_After.jpg",
-    "started_at": "2026-06-14T00:12:23Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
