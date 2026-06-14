@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T21:53:57-05:00",
-  "source": "autopost",
+  "generated": "2026-06-13T21:58:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "All at Once",
-    "artist": "Whitney Houston",
-    "album": "Disco Sweet 80's",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitney_Houston_-_All_At_Once.jpg",
-    "started_at": "2026-06-14T02:53:43Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
