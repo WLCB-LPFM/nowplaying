@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-15T13:38:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-15T13:42:20-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Uptown Funk",
-    "artist": "Mark Ronson ft. Bruno Mars",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-15T18:38:38.4302839Z",
-    "duration_seconds": 233,
-    "year": ""
+    "artist": "Mark Ronson",
+    "album": "Happy Songs",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mark_Ronson_-_Uptown_Funk.jpg",
+    "started_at": "2026-06-15T18:38:53Z",
+    "duration_seconds": 270
   },
   "next_poll_seconds": 10
 }
