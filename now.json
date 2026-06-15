@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T20:43:59-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T20:47:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Chicken Heads",
-    "artist": "Jimmy Johnson",
-    "album": "Bar Room Preacher",
-    "artwork_url": "",
-    "started_at": "2026-06-15T01:43:45Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
