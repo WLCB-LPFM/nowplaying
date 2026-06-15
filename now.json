@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-15T13:28:24-05:00",
-  "source": "fallback",
+  "generated": "2026-06-15T13:30:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Heart And Soul",
+    "artist": "Huey Lewis & The News",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-15T18:30:10.6200679Z",
+    "duration_seconds": 241,
+    "year": "2021"
+  },
   "next_poll_seconds": 10
 }
