@@ -1,16 +1,17 @@
 {
-  "generated": "2026-06-15T04:11:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-15T04:11:39-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Alabama",
-    "artist": "John Coltrane",
-    "album": "Chasing Trane: The John Coltrane Documentary",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Coltrane_-_Alabama.jpg",
-    "started_at": "2026-06-15T09:07:40Z",
-    "duration_seconds": 318
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Take Five, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-06-15T09:11:27.9604707Z",
+    "duration_seconds": 313,
+    "year": "1990"
   },
   "next_poll_seconds": 10
 }
