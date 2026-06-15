@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-15T12:38:28-05:00",
-  "source": "fallback",
+  "generated": "2026-06-15T12:38:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Just Can\u00b4t Get Enough",
+    "artist": "Depeche Mode",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-15T17:38:30.9781771Z",
+    "duration_seconds": 213,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
