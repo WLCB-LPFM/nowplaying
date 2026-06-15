@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-15T15:19:44-05:00",
-  "source": "autopost",
+  "generated": "2026-06-15T15:19:56-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Principal's Office",
-    "artist": "Young MC",
-    "album": "Stone Cold Rhymin'",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young_Mc_-_Principal's_Office.jpg",
-    "started_at": "2026-06-15T20:15:48Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
