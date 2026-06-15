@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T20:03:31-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T20:08:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Plush",
-    "artist": "Stone Temple Pilots",
-    "album": "Plush",
-    "artwork_url": "",
-    "started_at": "2026-06-15T01:03:13Z",
-    "duration_seconds": 310
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
