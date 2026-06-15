@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T19:33:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T19:35:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "That'll Be the Day (2016 Remaster)",
-    "artist": "Foghat",
-    "album": "That'll Be the Day (2016 Remaster)",
-    "artwork_url": "",
-    "started_at": "2026-06-15T00:33:03Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
