@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T07:04:00-05:00",
-  "source": "autopost",
+  "generated": "2026-06-15T07:07:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Cars That Go Boom",
-    "artist": "L'Trimm",
-    "album": "Cars That Go Boom - Greatest Hits (Digitally Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/L'trimm_-_Cars_That_Go_Boom.jpg",
-    "started_at": "2026-06-15T12:03:45Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
