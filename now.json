@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T19:57:23-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T20:00:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sweet Home Chicago (2016 Remaster)",
-    "artist": "Foghat",
-    "album": "Sweet Home Chicago (2016 Remaster)",
-    "artwork_url": "",
-    "started_at": "2026-06-15T00:57:08Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
