@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T20:00:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T20:02:57-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Jesus Just Left Chicago",
+    "artist": "ZZ Top",
+    "album": "Rancho Texicano: The Very Best of ZZ Top",
+    "artwork_url": "",
+    "started_at": "2026-06-15T01:02:47Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
