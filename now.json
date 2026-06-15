@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-14T21:52:42-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T21:53:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Caravan",
+    "artist": "Kasper Villaume Trio",
+    "album": "The Best Jazz Audiophile Recommended, Volume 3",
+    "artwork_url": "",
+    "started_at": "2026-06-15T02:53:13.0579654Z",
+    "duration_seconds": 407,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
