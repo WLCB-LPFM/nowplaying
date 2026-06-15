@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T14:20:31-05:00",
-  "source": "autopost",
+  "generated": "2026-06-15T14:24:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Sharp Dressed Man (2003 Remaster)",
-    "artist": "ZZ Top",
-    "album": "Sharp Dressed Man (2003 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/z/Zz_Top.jpg",
-    "started_at": "2026-06-15T19:19:52Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
