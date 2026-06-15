@@ -1,17 +1,17 @@
 {
-  "generated": "2026-06-15T08:57:29-05:00",
+  "generated": "2026-06-15T09:00:01-05:00",
   "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "The John and Heidi Show",
+    "name": "The Mark Ricky Radio Show",
     "hosts": [
-      "John and Heidi Small"
+      "Mark Ricky"
     ],
     "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
+    "starts": "09:00",
+    "ends": "12:00",
+    "genre": "Rock and Roll"
   },
   "track": {
     "title": "Going Down feat.  Love In An Elevator (Album Version)",
