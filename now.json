@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T19:53:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T19:56:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Fool's Hall of Fame",
-    "artist": "Foghat",
-    "album": "Foghat",
-    "artwork_url": "",
-    "started_at": "2026-06-15T00:53:14Z",
-    "duration_seconds": 177
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
