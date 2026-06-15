@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T20:27:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T20:31:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Hunger Strike",
-    "artist": "Temple of the Dog",
-    "album": "Hunger Strike (25th Anniversary Mix)",
-    "artwork_url": "",
-    "started_at": "2026-06-15T01:27:17Z",
-    "duration_seconds": 246
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
