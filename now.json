@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T20:08:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T20:12:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "No Excuses",
-    "artist": "Alice In Chains",
-    "album": "The Essential Alice In Chains",
-    "artwork_url": "",
-    "started_at": "2026-06-15T01:08:25Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
