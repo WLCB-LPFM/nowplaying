@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T20:12:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T20:13:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "In Bloom",
+    "artist": "Nirvana",
+    "album": "Nirvana",
+    "artwork_url": "",
+    "started_at": "2026-06-15T01:12:45Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
