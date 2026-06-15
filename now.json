@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T20:21:44-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T20:22:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Rusty Cage (Remastered 2016)",
+    "artist": "Soundgarden",
+    "album": "A-Sides",
+    "artwork_url": "",
+    "started_at": "2026-06-15T01:22:04Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
