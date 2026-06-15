@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T21:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T21:00:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Rats In The Cellar",
-    "artist": "Aerosmith",
-    "album": "Pandora's Box",
-    "artwork_url": "",
-    "started_at": "2026-06-15T01:56:59Z",
-    "duration_seconds": 246
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
