@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T08:32:05-05:00",
-  "source": "autopost",
+  "generated": "2026-06-15T08:35:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "I'm Gonna Be (500 Miles) [2011 Remaster Version]",
-    "artist": "The Proclaimers",
-    "album": "Qmusic Top 500 van het Foute Uur (2019)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Proclaimers_-_I'm_Gonna_Be_(500_Miles)_[2011_Remaster_Version].jpg",
-    "started_at": "2026-06-15T13:31:49Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
