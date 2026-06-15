@@ -1,16 +1,17 @@
 {
-  "generated": "2026-06-15T02:18:08-05:00",
-  "source": "autopost",
+  "generated": "2026-06-15T02:18:31-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Django",
-    "artist": "Modern Jazz Quartet",
-    "album": "The Roots of Mod",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Modern_Jazz_Quartet_-_Django.jpg",
-    "started_at": "2026-06-15T07:14:02Z",
-    "duration_seconds": 326
+    "title": "King Porter Stomp",
+    "artist": "Jelly Roll Morton",
+    "album": "Miller's Crossing",
+    "artwork_url": "",
+    "started_at": "2026-06-15T07:18:26.4733503Z",
+    "duration_seconds": 166,
+    "year": "1990"
   },
   "next_poll_seconds": 10
 }
