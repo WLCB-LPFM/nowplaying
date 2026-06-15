@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T19:49:45-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T19:52:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Leavin' Again (Again)",
-    "artist": "Foghat",
-    "album": "Foghat",
-    "artwork_url": "",
-    "started_at": "2026-06-15T00:49:33Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
