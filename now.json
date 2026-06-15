@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T19:44:09-05:00",
-  "source": "fallback",
+  "generated": "2026-06-14T19:45:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Take It or Leave It (2016 Remaster)",
+    "artist": "Foghat",
+    "album": "The Complete Bearsville Album Collection",
+    "artwork_url": "",
+    "started_at": "2026-06-15T00:44:47Z",
+    "duration_seconds": 295
+  },
   "next_poll_seconds": 10
 }
