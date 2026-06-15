@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T20:34:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T20:36:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Fly Like An Eagle",
-    "artist": "The Marshall Tucker Band",
-    "album": "Carolina Dreams",
-    "artwork_url": "",
-    "started_at": "2026-06-15T01:34:00Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
