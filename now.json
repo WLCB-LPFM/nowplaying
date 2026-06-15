@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T19:04:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-14T19:07:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Gypsy (Of A Strange And Distant Time)",
-    "artist": "The Moody Blues",
-    "album": "Gold",
-    "artwork_url": "",
-    "started_at": "2026-06-15T00:04:00Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
