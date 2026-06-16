@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T20:29:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-15T20:41:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Sermonette (Album Version)",
+    "artist": "Lambert Hendricks & Ross",
+    "album": "Everybody's Boppin'",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lambert_Hendricks_&_Ross.jpg",
+    "started_at": "2026-06-16T01:41:18Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
