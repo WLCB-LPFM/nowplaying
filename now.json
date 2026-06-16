@@ -1,17 +1,23 @@
 {
-  "generated": "2026-06-15T19:46:10-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "generated": "2026-06-15T19:46:34-05:00",
+  "source": "autopost",
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "18:00",
+    "ends": "20:00",
+    "genre": null
+  },
   "track": {
     "title": "Talking in Your Sleep",
     "artist": "The Romantics",
     "album": "100 80's Hits",
     "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Romantics_-_Talking_In_Your_Sleep.jpg",
-    "started_at": "2026-06-16T00:45:48.938328Z",
-    "duration_seconds": 226,
-    "year": "1983"
+    "started_at": "2026-06-16T00:46:01Z",
+    "duration_seconds": 235
   },
   "next_poll_seconds": 10
 }
