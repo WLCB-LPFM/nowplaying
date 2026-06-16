@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T16:19:15-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T16:21:18-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Pour Some Sugar On Me",
+    "artist": "Def Leppard",
+    "album": "Hairy Bikers Roadtrip",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Pour_Some_Sugar_On_Me.jpg",
+    "started_at": "2026-06-16T21:21:02Z",
+    "duration_seconds": 263
+  },
   "next_poll_seconds": 10
 }
