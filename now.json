@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-16T12:56:53-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T13:00:37-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Take Five",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-06-16T18:00:14Z",
+    "duration_seconds": 327
+  },
   "next_poll_seconds": 10
 }
