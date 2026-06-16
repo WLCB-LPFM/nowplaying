@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T15:26:35-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T15:26:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "PokerSexyFace (Mash-Up Remix)",
+    "artist": "Lady Gaga, Justin Timberlake",
+    "album": "PokerSexyFace (Mash-Up Remix)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lady_Gaga,_Justin_Timberlake.jpg",
+    "started_at": "2026-06-16T20:26:37Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
