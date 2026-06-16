@@ -1,18 +1,9 @@
 {
-  "generated": "2026-06-15T23:57:36-05:00",
+  "generated": "2026-06-16T00:00:11-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Rock of Ages",
-    "hosts": [
-      "Mark Ricky"
-    ],
-    "automated": false,
-    "starts": "22:00",
-    "ends": "24:00",
-    "genre": "Rock and Roll"
-  },
+  "show": null,
   "track": {
     "title": "Midnight Rendezvous",
     "artist": "The Babys",
