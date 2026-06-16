@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-16T06:08:59-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T06:09:22-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Get Up! (Before the Night is Over)",
+    "artist": "Technotronic",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-16T11:09:11.5250873Z",
+    "duration_seconds": 190,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
