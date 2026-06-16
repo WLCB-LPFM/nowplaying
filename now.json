@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-16T14:05:57-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-16T14:09:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hypnotize",
-    "artist": "The Notorious B.I.G.",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-16T19:05:45.0793011Z",
-    "duration_seconds": 213,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
