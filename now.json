@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-16T01:42:52-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T01:43:05-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cherokee",
+    "artist": "Peter Cincotti",
+    "album": "On the Moon",
+    "artwork_url": "",
+    "started_at": "2026-06-16T06:42:59.2397588Z",
+    "duration_seconds": 307,
+    "year": "2004"
+  },
   "next_poll_seconds": 10
 }
