@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T20:54:27-05:00",
-  "source": "autopost",
+  "generated": "2026-06-15T20:59:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Wish I Knew How It Would Feel to Be Free",
-    "artist": "David Childs",
-    "album": "Childs Play",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/David_Childs.jpg",
-    "started_at": "2026-06-16T01:54:06Z",
-    "duration_seconds": 322
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
