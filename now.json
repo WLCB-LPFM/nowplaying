@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-16T00:00:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T00:02:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "And I Love Her",
+    "artist": "Katrine Madsen",
+    "album": "Close to You",
+    "artwork_url": "",
+    "started_at": "2026-06-16T05:02:10.6626793Z",
+    "duration_seconds": 287,
+    "year": "2004"
+  },
   "next_poll_seconds": 10
 }
