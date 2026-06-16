@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-16T11:59:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-16T11:59:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Things Can Only Get Better",
-    "artist": "Howard Jones",
-    "album": "Best Of",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Howard_Jones_-_Things_Can_Only_Get_Better.jpg",
-    "started_at": "2026-06-16T16:55:48Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
