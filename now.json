@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-16T17:27:06-05:00",
-  "source": "autopost",
+  "generated": "2026-06-16T17:27:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Right Here Right Now",
-    "artist": "Various Artist",
-    "album": "Billboard Top Hits 1991",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/Various_Artist.jpg",
-    "started_at": "2026-06-16T22:24:49Z",
-    "duration_seconds": 186
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
