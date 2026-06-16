@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-16T05:51:58-05:00",
-  "source": "autopost",
+  "generated": "2026-06-16T05:52:32-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Embraceable You",
-    "artist": "Charlie Parker",
-    "album": "The 25 Best Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Embraceable_You.jpg",
-    "started_at": "2026-06-16T10:50:37Z",
-    "duration_seconds": 127
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
