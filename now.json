@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T10:53:34-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T10:57:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Don't Let Go",
-    "artist": "Johnny Blue Skies",
-    "album": "Don't Let Go",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Johnny_Blue_Skies.jpg",
-    "started_at": "2026-06-17T15:53:17Z",
-    "duration_seconds": 284
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
