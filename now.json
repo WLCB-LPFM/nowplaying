@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T21:15:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T21:15:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Because You're Young (1999 Remaster)",
+    "artist": "David Bowie",
+    "album": "Because You're Young (1999 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/David_Bowie.jpg",
+    "started_at": "2026-06-17T02:15:06Z",
+    "duration_seconds": 294
+  },
   "next_poll_seconds": 10
 }
