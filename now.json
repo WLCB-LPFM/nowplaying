@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T09:08:11-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T09:11:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Starrider (Remastered)",
-    "artist": "Foreigner",
-    "album": "40",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foreigner_-_Starrider_(Remastered).jpg",
-    "started_at": "2026-06-17T14:07:54Z",
-    "duration_seconds": 241
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
