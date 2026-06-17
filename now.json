@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T12:15:09-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T12:16:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "My Heart Belongs To Daddy",
-    "artist": "Peggy Lee",
-    "album": "Black Coffee With Peggy Lee",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peggy_Lee_-_My_Heart_Belongs_To_Daddy.jpg",
-    "started_at": "2026-06-17T17:14:37Z",
-    "duration_seconds": 125
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
