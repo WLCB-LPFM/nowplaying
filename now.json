@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T11:51:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T11:51:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Guitars, Cadillacs (2006 Remaster)",
+    "artist": "Dwight Yoakam",
+    "album": "15 Of The Best - Country Classics",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dwight_Yoakam_-_Guitars,_Cadillacs_(2006_Remaster).jpg",
+    "started_at": "2026-06-17T16:51:38Z",
+    "duration_seconds": 182
+  },
   "next_poll_seconds": 10
 }
