@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T13:54:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T13:57:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Memories of You",
+    "artist": "Erroll Garner",
+    "album": "Erroll Garner",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_Memories_Of_You.jpg",
+    "started_at": "2026-06-17T18:57:25Z",
+    "duration_seconds": 317
+  },
   "next_poll_seconds": 10
 }
