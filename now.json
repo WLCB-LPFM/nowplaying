@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T11:20:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T11:21:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Run Back To Me",
+    "artist": "Robert Jon & The Wreck",
+    "album": "Wreckage, Vol. 3",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Robert_Jon_&_The_Wreck.jpg",
+    "started_at": "2026-06-17T16:20:38Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
