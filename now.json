@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T11:30:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T11:35:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "1952 Vincent Black Lightning(Live At La Zona Rosa, Austin, Texas  feat.  March 31, 2006)",
-    "artist": "Reckless Kelly",
-    "album": "Reckless Kelly Was Here(Live At La Zona Rosa, Austin, Texas / March 31, 2006)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Reckless_Kelly.jpg",
-    "started_at": "2026-06-17T16:29:57Z",
-    "duration_seconds": 330
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
