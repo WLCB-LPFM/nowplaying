@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T10:32:51-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T10:36:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Man on the Silver Mountain",
-    "artist": "Sebastian Bach feat. Doug Aldrich feat. Mick Box feat. Jonathan Cain feat. Bob Daisley feat. Carmine Appice",
-    "album": "Ride \u200bThe Rainbow - The \u200bUltimate \u200bTribute to Ritchie Blackmore's Rainbow",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sebastian_Bach_Feat._Doug_Aldrich_Feat._Mick_Box_Feat._Jonathan_Cain_Feat._Bob_Daisley_Feat._Carmine_Appice.jpg",
-    "started_at": "2026-06-17T15:32:28Z",
-    "duration_seconds": 275
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
