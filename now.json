@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T11:14:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T11:16:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Keep My Hands Clean",
-    "artist": "Duane Betts",
-    "album": "Isle of Hope",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duane_Betts_-_Keep_My_Hands_Clean.jpg",
-    "started_at": "2026-06-17T16:13:54Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
