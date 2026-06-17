@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T12:53:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T13:09:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "God Bless The Child",
+    "artist": "Billie Holiday",
+    "album": "Enron: The Smartest Guys In The Room",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billie_Holiday_-_God_Bless_The_Child.jpg",
+    "started_at": "2026-06-17T18:09:41Z",
+    "duration_seconds": 240
+  },
   "next_poll_seconds": 10
 }
