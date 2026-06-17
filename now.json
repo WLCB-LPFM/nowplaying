@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-17T15:50:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T15:50:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blue Monday",
+    "artist": "New Order",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-17T20:50:22.361058Z",
+    "duration_seconds": 428,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
