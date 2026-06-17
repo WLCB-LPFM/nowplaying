@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T22:18:51-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T22:21:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Perfect",
+    "artist": "Smashing Pumpkins",
+    "album": "Rarities & B-Sides",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Smashing_Pumpkins_-_Perfect.jpg",
+    "started_at": "2026-06-17T03:21:14Z",
+    "duration_seconds": 204
+  },
   "next_poll_seconds": 10
 }
