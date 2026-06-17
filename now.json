@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T11:39:50-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T11:40:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Can't You See (Live at the Ryman Auditorium, Nashville, TN - January 2000)",
+    "artist": "Waylon Jennings",
+    "album": "Setlist: The Very Best Of Waylon Jennings LIVE",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Waylon_Jennings.jpg",
+    "started_at": "2026-06-17T16:39:55Z",
+    "duration_seconds": 295
+  },
   "next_poll_seconds": 10
 }
