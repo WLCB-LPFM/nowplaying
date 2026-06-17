@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T11:54:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T11:54:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "It's All Going to Pot",
+    "artist": "Willie Nelson",
+    "album": "Django and Jimmie",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Willie_Nelson_-_It's_All_Going_To_Pot.jpg",
+    "started_at": "2026-06-17T16:54:40Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
