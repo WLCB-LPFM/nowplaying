@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-17T17:54:49-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T17:55:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Boombastic",
+    "artist": "Shaggy",
+    "album": "Essential",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shaggy_-_Boombastic.jpg",
+    "started_at": "2026-06-17T22:54:50.0204265Z",
+    "duration_seconds": 225,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
