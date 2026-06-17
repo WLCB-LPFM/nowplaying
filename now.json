@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T10:38:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T10:41:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Mission Of Mercy",
-    "artist": "Mike Campbell & The Dirty Knobs",
-    "album": "Mission Of Mercy",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mike_Campbell_&_The_Dirty_Knobs.jpg",
-    "started_at": "2026-06-17T15:37:53Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
