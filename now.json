@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T21:49:08-05:00",
-  "source": "fallback",
+  "generated": "2026-06-16T22:14:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "I Wanna Be Adored",
+    "artist": "The Stone Roses",
+    "album": "The Stone Roses",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Stone_Roses_-_I_Wanna_Be_Adored.jpg",
+    "started_at": "2026-06-17T03:14:05Z",
+    "duration_seconds": 293
+  },
   "next_poll_seconds": 10
 }
