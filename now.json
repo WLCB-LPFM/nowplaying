@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T13:14:44-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T13:16:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "This Little Light of Mine",
-    "artist": "Mark Burnell",
-    "album": "Gospel Piano",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mark_Burnell.jpg",
-    "started_at": "2026-06-17T18:14:27Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
