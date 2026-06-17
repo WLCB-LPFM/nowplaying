@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T10:10:59-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T10:15:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Endless Highway feat. Randi Fishenfeld",
+    "artist": "Dion feat. Randi Fishenfeld",
+    "album": "Girl Friends",
+    "artwork_url": "null",
+    "started_at": "2026-06-17T15:14:54Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
