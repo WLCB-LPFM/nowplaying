@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T13:42:46-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T13:44:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Just A Closer Walk With Thee",
+    "artist": "The John Temmerman Quartet",
+    "album": "Live in Evanston - John's Mixed Bag",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_John_Temmerman_Quartet.jpg",
+    "started_at": "2026-06-17T18:43:45Z",
+    "duration_seconds": 194
+  },
   "next_poll_seconds": 10
 }
