@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T20:56:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-16T20:59:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Love Train",
-    "artist": "The O'Jays",
-    "album": "Pop Music: The Golden Era 1951-1975",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_O'jays_-_Love_Train.jpg",
-    "started_at": "2026-06-17T01:56:40Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
