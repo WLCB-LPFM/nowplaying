@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T22:44:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-16T22:50:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Slippin' Into Darkness",
-    "artist": "War",
-    "album": "Slippin' Into Darkness",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/War_-_Slippin'_Into_Darkness.jpg",
-    "started_at": "2026-06-17T03:44:02Z",
-    "duration_seconds": 419
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
