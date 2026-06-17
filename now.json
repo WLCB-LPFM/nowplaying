@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T12:25:21-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T12:26:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Down Here On The Ground",
+    "artist": "Lou Rawls",
+    "album": "Natural Man / Classic Lou",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lou_Rawls_-_Down_Here_On_The_Ground.jpg",
+    "started_at": "2026-06-17T17:26:32Z",
+    "duration_seconds": 186
+  },
   "next_poll_seconds": 10
 }
