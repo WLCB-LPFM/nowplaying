@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T21:36:32-05:00",
-  "source": "autopost",
+  "generated": "2026-06-16T21:40:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Philby",
-    "artist": "Rory Gallagher",
-    "album": "Top Priority",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rory_Gallagher_-_Philby.jpg",
-    "started_at": "2026-06-17T02:36:21Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
