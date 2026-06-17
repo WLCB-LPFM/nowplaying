@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T13:32:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T13:37:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Don't Let It Happen Here",
-    "artist": "Mingus Big Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mingus_Big_Band_-_Don't_Let_It_Happen_Here.jpg",
-    "started_at": "2026-06-17T18:32:01Z",
-    "duration_seconds": 312
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
