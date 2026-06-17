@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-17T03:48:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-17T03:50:49-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Crazy",
-    "artist": "Lils Mackintosh",
-    "album": "About Crazy",
-    "artwork_url": "",
-    "started_at": "2026-06-17T08:48:21.4587028Z",
-    "duration_seconds": 161,
-    "year": "2008"
+    "title": "Blue Horizon",
+    "artist": "Sidney Bechet",
+    "album": "The Best Of Sidney Bechet",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidney_Bechet_-_Blue_Horizon.jpg",
+    "started_at": "2026-06-17T08:48:17Z",
+    "duration_seconds": 264
   },
   "next_poll_seconds": 10
 }
