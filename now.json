@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T09:11:43-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T09:26:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Movin' On (Live)",
+    "artist": "Bad Company",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bad_Company.jpg",
+    "started_at": "2026-06-17T14:26:20Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
