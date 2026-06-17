@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T13:23:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T13:25:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Amazing Grace",
-    "artist": "Dave Chamberlain's Band of Bones",
-    "album": "Stomp!",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dave_Chamberlain's_Band_Of_Bones.jpg",
-    "started_at": "2026-06-17T18:22:55Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
