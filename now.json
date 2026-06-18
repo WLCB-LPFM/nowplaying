@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-18T08:58:48-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-06-18T09:00:06-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The John and Heidi Show",
-    "hosts": [
-      "John and Heidi Small"
-    ],
-    "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
-    "title": "Magic (2016 Remaster)",
+    "title": "Magic",
     "artist": "The Cars",
-    "album": "The Elektra Years 1978 - 1987",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Cars.jpg",
-    "started_at": "2026-06-18T13:58:31Z",
-    "duration_seconds": 237
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-18T13:57:46.0301786Z",
+    "duration_seconds": 218,
+    "year": "1984"
   },
   "next_poll_seconds": 10
 }
