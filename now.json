@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T19:05:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T19:09:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Friend Who Can",
-    "artist": "Thomas Mac",
-    "album": "Friend Who Can",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Thomas_Mac.jpg",
-    "started_at": "2026-06-18T00:05:34Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
