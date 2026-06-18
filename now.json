@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-18T02:45:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T02:45:50-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Deep Ground",
+    "artist": "Marilyn Mazur",
+    "album": "Future Song Daylight Stories",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marilyn_Mazur_-_Deep_Ground.jpg",
+    "started_at": "2026-06-18T07:45:32Z",
+    "duration_seconds": 330
+  },
   "next_poll_seconds": 10
 }
