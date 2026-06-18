@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T20:31:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T20:34:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Casey's Last Ride",
-    "artist": "Kris Kristofferson",
-    "album": "Kristofferson",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kris_Kristofferson_-_Casey's_Last_Ride.jpg",
-    "started_at": "2026-06-18T01:31:00Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
