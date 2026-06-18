@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T16:00:20-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T16:02:45-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Love Shack",
+    "artist": "The B-52's",
+    "album": "Love Shack",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_B-52's_-_Love_Shack.jpg",
+    "started_at": "2026-06-18T21:02:29Z",
+    "duration_seconds": 230
+  },
   "next_poll_seconds": 10
 }
