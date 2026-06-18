@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-18T14:39:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-18T14:41:57-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "What I Like About You",
-    "artist": "The Romantics",
-    "album": "Rocktober 2010",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Romantics_-_What_I_Like_About_You.jpg",
-    "started_at": "2026-06-18T19:39:10.3392429Z",
-    "duration_seconds": 171,
-    "year": "2015"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
