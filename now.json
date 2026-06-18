@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T17:39:39-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T17:58:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "For Pete's Sake [Closing Theme]",
+    "artist": "The Monkees",
+    "album": "Headquarters Sessions [Digital Version]",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/0a27c12b4f07b3aca1b38631863c0dd6.png",
+    "started_at": "2026-06-18T22:58:05Z",
+    "duration_seconds": 129
+  },
   "next_poll_seconds": 10
 }
