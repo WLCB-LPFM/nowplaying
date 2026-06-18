@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T17:16:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T17:18:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Don't Let The Sun Catch You Crying",
-    "artist": "Gerry & The Pacemakers",
-    "album": "Dreamboats & Miniskirts: Young And In Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gerry_&_The_Pacemakers_-_Don't_Let_The_Sun_Catch_You_Crying.jpg",
-    "started_at": "2026-06-18T22:15:59Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
