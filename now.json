@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T07:00:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T07:02:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Runnin' Down A Dream",
-    "artist": "Tom Petty",
-    "album": "Anthology: Through The Years",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_-_Runnin'_Down_A_Dream.jpg",
-    "started_at": "2026-06-18T11:57:56Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
