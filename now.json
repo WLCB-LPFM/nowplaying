@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T15:30:26-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T15:33:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Down Under",
-    "artist": "Men at Work",
-    "album": "Business As Usual",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Men_At_Work_-_Down_Under.jpg",
-    "started_at": "2026-06-18T20:30:11Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
