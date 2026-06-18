@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T20:46:40-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T20:50:00-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "After the Gold Rush (2017 Remaster)",
-    "artist": "Neil Young",
-    "album": "After the Gold Rush (2017 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Neil_Young.jpg",
-    "started_at": "2026-06-18T01:46:23Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
