@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T17:37:30-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T17:39:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "She's My Girl",
-    "artist": "The Turtles",
-    "album": "Happy Together: The Very Best of The Turtles",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Turtles_-_She's_My_Girl.jpg",
-    "started_at": "2026-06-18T22:37:16Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
