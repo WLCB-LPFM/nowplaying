@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T08:40:42-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T08:43:18-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Men In Black (From 'Men In Black' Soundtrack)",
+    "artist": "Will Smith",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Will_Smith.jpg",
+    "started_at": "2026-06-18T13:42:54Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
