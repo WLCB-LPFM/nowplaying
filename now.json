@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T21:33:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T21:33:30-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Wicked Game",
+    "artist": "Ursine Vulpine",
+    "album": "Wicked Game",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Ursine_Vulpine_-_Wicked_Game.jpg",
+    "started_at": "2026-06-18T02:33:15Z",
+    "duration_seconds": 285
+  },
   "next_poll_seconds": 10
 }
