@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-18T09:48:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-18T09:53:52-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Weird Science",
-    "artist": "Oingo Boingo",
-    "album": "Halloween Mix",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Oingo_Boingo_-_Weird_Science.jpg",
-    "started_at": "2026-06-18T14:47:51.6749749Z",
-    "duration_seconds": 370,
-    "year": "2018"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
