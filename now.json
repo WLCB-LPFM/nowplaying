@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T21:16:50-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T21:18:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Wayfaring Stranger",
+    "artist": "Johnny Cash",
+    "album": "American III: Solitary Man",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Cash_-_Wayfaring_Stranger.jpg",
+    "started_at": "2026-06-18T02:18:31Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
