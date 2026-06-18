@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T20:26:47-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T20:28:49-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I'd Really Love To See You Tonight",
-    "artist": "England Dan Seals",
-    "album": "Nights Are Forever",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/England_Dan_Seals_-_I'd_Really_Love_To_See_You_Tonight.jpg",
-    "started_at": "2026-06-18T01:26:26Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
