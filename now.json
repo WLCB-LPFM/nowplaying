@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-18T18:05:41-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-18T18:11:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Don't Stop 'Til You Get Enough",
+    "title": "Don't Stop 'Til You Get Enough (Single Version)",
     "artist": "Michael Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-18T23:05:29.1003954Z",
-    "duration_seconds": 358,
-    "year": "2021"
+    "album": "Disco",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Jackson.jpg",
+    "started_at": "2026-06-18T23:05:40Z",
+    "duration_seconds": 360
   },
   "next_poll_seconds": 10
 }
