@@ -1,16 +1,18 @@
 {
-  "generated": "2026-06-18T14:59:56-05:00",
-  "source": "autopost",
-  "mode": "music_block",
+  "generated": "2026-06-18T15:00:09-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Karma Chameleon",
-    "artist": "Culture Club",
-    "album": "Best 80s Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Culture_Club_-_Karma_Chameleon.jpg",
-    "started_at": "2026-06-18T19:56:20Z",
-    "duration_seconds": 238
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
