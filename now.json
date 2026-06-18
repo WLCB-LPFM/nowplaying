@@ -1,26 +1,9 @@
 {
-  "generated": "2026-06-17T21:57:06-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-06-17T22:00:04-05:00",
+  "source": "fallback",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Mix",
-    "hosts": [
-      "Tony Young",
-      "Carolyn Carmody"
-    ],
-    "automated": false,
-    "starts": "19:00",
-    "ends": "22:00",
-    "genre": "Variety"
-  },
-  "track": {
-    "title": "Harper Valley P.T.A.",
-    "artist": "Jeannie C. Riley",
-    "album": "Country Story Time",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeannie_C._Riley_-_Harper_Valley_P.t.a..jpg",
-    "started_at": "2026-06-18T02:56:53Z",
-    "duration_seconds": 196
-  },
+  "show": null,
+  "track": null,
   "next_poll_seconds": 10
 }
