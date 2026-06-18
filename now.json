@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T15:24:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T15:28:02-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Happy (From 'Despicable Me 2')",
-    "artist": "Pharrell Williams",
-    "album": "Now That's What I Call Music! 87",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pharrell_Williams_-_Happy_(From_'despicable_Me_2').jpg",
-    "started_at": "2026-06-18T20:24:20Z",
-    "duration_seconds": 233
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
