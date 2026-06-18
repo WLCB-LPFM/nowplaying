@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T20:19:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T20:24:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Can't Make You Love Me",
-    "artist": "Bonnie Raitt",
-    "album": "The Best Of Bonnie Raitt On Capitol 1989-2003",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonnie_Raitt_-_I_Can't_Make_You_Love_Me.jpg",
-    "started_at": "2026-06-18T01:18:51Z",
-    "duration_seconds": 332
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
