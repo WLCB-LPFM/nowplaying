@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-17T22:14:43-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-17T22:17:07-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bag's Groove",
-    "artist": "Thelonious Monk",
-    "album": "Jazz Styles: 8th Edition",
-    "artwork_url": "",
-    "started_at": "2026-06-18T03:14:30.5823819Z",
-    "duration_seconds": 163,
-    "year": "2003"
+    "title": "Bags' Groove",
+    "artist": "Miles Davis",
+    "album": "The Definitive Miles Davis on Prestige",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Bags'_Groove.jpg",
+    "started_at": "2026-06-18T03:14:40Z",
+    "duration_seconds": 676
   },
   "next_poll_seconds": 10
 }
