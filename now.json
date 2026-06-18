@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-18T09:40:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T09:40:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Gonna Make You Sweat (Everybody Dance Now)",
+    "artist": "C&C Music Factory",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-18T14:40:24.1169261Z",
+    "duration_seconds": 242,
+    "year": "1990"
+  },
   "next_poll_seconds": 10
 }
