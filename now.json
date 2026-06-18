@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T21:37:45-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T21:57:06-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Harper Valley P.T.A.",
+    "artist": "Jeannie C. Riley",
+    "album": "Country Story Time",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeannie_C._Riley_-_Harper_Valley_P.t.a..jpg",
+    "started_at": "2026-06-18T02:56:53Z",
+    "duration_seconds": 196
+  },
   "next_poll_seconds": 10
 }
