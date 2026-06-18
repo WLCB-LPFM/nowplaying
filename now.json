@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T19:09:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-17T19:13:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Choosin' Texas",
-    "artist": "Ella Langley",
-    "album": "Choosin' Texas",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ella_Langley_-_Choosin'_Texas.jpg",
-    "started_at": "2026-06-18T00:09:28Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
