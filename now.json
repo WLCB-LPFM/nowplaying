@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T20:09:10-05:00",
-  "source": "fallback",
+  "generated": "2026-06-17T20:12:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "A Rainy Night in Soho",
+    "artist": "The Pogues",
+    "album": "A Rainy Night in Soho",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Pogues_-_A_Rainy_Night_In_Soho.jpg",
+    "started_at": "2026-06-18T01:12:34Z",
+    "duration_seconds": 335
+  },
   "next_poll_seconds": 10
 }
