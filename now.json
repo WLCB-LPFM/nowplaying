@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T21:32:09-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T21:35:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Disconnected",
-    "artist": "Face To Face",
-    "album": "Don't Turn Away",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Face_To_Face_-_Disconnected.jpg",
-    "started_at": "2026-06-19T02:31:54Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
