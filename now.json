@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T15:20:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T15:23:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Come To My Window",
-    "artist": "Melissa Etheridge",
-    "album": "Yes I Am",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Melissa_Etheridge_-_Come_To_My_Window.jpg",
-    "started_at": "2026-06-19T20:20:09Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
