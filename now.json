@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T15:06:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T15:10:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Til It's Gone",
-    "artist": "Ghost Hounds",
-    "album": "Til It's Gone",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Ghost_Hounds.jpg",
-    "started_at": "2026-06-19T20:06:29Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
