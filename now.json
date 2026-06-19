@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-19T01:30:59-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T01:31:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Summertime",
-    "artist": "Uffe Steen",
-    "album": "Play",
-    "artwork_url": "https://cdn.autopo.st/images/artists/u/Uffe_Steen.jpg",
-    "started_at": "2026-06-19T06:28:17Z",
-    "duration_seconds": 348
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
