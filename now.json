@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T12:11:58-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T12:15:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Trouble Trouble",
-    "artist": "Joanna Connor",
-    "album": "4801 South Indiana Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joanna_Connor_-_Trouble_Trouble.jpg",
-    "started_at": "2026-06-19T17:11:42Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
