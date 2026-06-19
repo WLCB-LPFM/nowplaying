@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:55:22-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T20:58:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Happy Hour",
-    "artist": "Living Struggle",
-    "album": "The Ones We Keep",
-    "artwork_url": "null",
-    "started_at": "2026-06-19T01:55:02Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
