@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T12:46:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T12:50:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I Beg Your Pardon",
-    "artist": "Little Charlie & the Nightcats",
-    "album": "Deluxe Edition",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Little_Charlie_&_The_Nightcats.jpg",
-    "started_at": "2026-06-19T17:45:31Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
