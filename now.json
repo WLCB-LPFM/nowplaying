@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T21:08:34-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T21:13:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Need You Around",
+    "artist": "Smoking Popes",
+    "album": "Born To Quit",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Smoking_Popes_-_Need_You_Around.jpg",
+    "started_at": "2026-06-19T02:13:28Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
