@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:06:02-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T20:12:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Born On The Bayou",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Bayou Country",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Creedence_Clearwater_Revival_-_Born_On_The_Bayou.jpg",
+    "started_at": "2026-06-19T01:12:19Z",
+    "duration_seconds": 316
+  },
   "next_poll_seconds": 10
 }
