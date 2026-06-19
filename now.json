@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:44:24-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T18:45:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "These Eyes",
+    "artist": "Jr. Walker & The All Stars",
+    "album": "Gotta Hold On To This Feeling / What Does It Take To Win Your Love",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jr._Walker_&_The_All_Stars.jpg",
+    "started_at": "2026-06-19T23:44:53Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
