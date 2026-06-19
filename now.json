@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:41:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T20:42:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wooden Jesus",
+    "artist": "Temple Of The Dog",
+    "album": "Temple Of The Dog",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Temple_Of_The_Dog_-_Wooden_Jesus.jpg",
+    "started_at": "2026-06-19T01:41:48Z",
+    "duration_seconds": 249
+  },
   "next_poll_seconds": 10
 }
