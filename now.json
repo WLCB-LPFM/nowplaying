@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T16:38:30-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T16:40:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Every Night I Burn Another Honky Tonk Down",
-    "artist": "Dallas Moore",
-    "album": "The Rain",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dallas_Moore_-_Every_Night_I_Burn_Another_Honky_Tonk_Down.jpg",
-    "started_at": "2026-06-19T21:38:13Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
