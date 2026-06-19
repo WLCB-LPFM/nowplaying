@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T16:44:35-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T16:47:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Change My Mind",
-    "artist": "Riley Green",
-    "album": "Change My Mind",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Riley_Green_-_Change_My_Mind.jpg",
-    "started_at": "2026-06-19T21:44:18Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
