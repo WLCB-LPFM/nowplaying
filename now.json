@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T16:32:37-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T16:35:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Johnny Went Down To Hell (feat. Diana Daw & Philip Bowen)",
-    "artist": "Thomas Mac",
-    "album": "Johnny Went Down To Hell (feat. Diana Daw & Philip Bowen)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Thomas_Mac.jpg",
-    "started_at": "2026-06-19T21:32:22Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
