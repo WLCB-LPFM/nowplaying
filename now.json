@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T15:53:36-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T15:54:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Walking in Memphis",
-    "artist": "Marc Cohn",
-    "album": "Walking in Memphis",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marc_Cohn_-_Walking_In_Memphis.jpg",
-    "started_at": "2026-06-19T20:50:30Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
