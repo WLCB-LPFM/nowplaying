@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:55:00-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T18:56:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Keep On Calling",
+    "artist": "Thee Sinseers",
+    "album": "Sinseerly Yours",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/1d74027b2666db7be1843890cd290836.png",
+    "started_at": "2026-06-19T23:55:43Z",
+    "duration_seconds": 257
+  },
   "next_poll_seconds": 10
 }
