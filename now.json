@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T19:37:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T19:43:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "New York Minute",
-    "artist": "Don Henley",
-    "album": "The Very Best Of",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Don_Henley_-_New_York_Minute.jpg",
-    "started_at": "2026-06-19T00:37:36Z",
-    "duration_seconds": 396
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
