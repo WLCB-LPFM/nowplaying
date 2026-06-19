@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:36:56-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T18:37:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Cheaper To Keep Her",
+    "artist": "Johnnie Taylor",
+    "album": "Chronicle: The 20 Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnnie_Taylor_-_Cheaper_To_Keep_Her.jpg",
+    "started_at": "2026-06-19T23:37:02Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
