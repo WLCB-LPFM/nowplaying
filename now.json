@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T16:06:14-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T16:06:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Somebody Lost the File",
+    "artist": "Kim Butler",
+    "album": "Kaleidoscope",
+    "artwork_url": "null",
+    "started_at": "2026-06-19T21:06:19Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
