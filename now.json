@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:22:21-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T20:25:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Against All Odds (Take A Look At Me Now)",
-    "artist": "Phil Collins",
-    "album": "MY PERFECT LIST - SLOWS (Digital)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Phil_Collins_-_Against_All_Odds_(Take_A_Look_At_Me_Now).jpg",
-    "started_at": "2026-06-19T01:22:05Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
