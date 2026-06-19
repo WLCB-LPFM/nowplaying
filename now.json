@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:31:59-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T20:36:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Sadie",
-    "artist": "Alkaline Trio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alkaline_Trio_-_Sadie.jpg",
-    "started_at": "2026-06-19T01:31:50Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
