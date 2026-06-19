@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-19T06:40:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T06:40:16-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Wake Me Up Before You Go-Go (Remastered)",
-    "artist": "Wham!",
-    "album": "Twenty Five",
-    "artwork_url": "https://cdn.autopo.st/images/artists/w/Wham!.jpg",
-    "started_at": "2026-06-19T11:36:39Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
