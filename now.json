@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:17:29-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T20:17:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Nightswimming",
+    "artist": "R.E.M.",
+    "album": "So Beautiful 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R.e.m._-_Nightswimming.jpg",
+    "started_at": "2026-06-19T01:17:44Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
