@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T16:50:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T16:51:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Black Mountain Whiskey Rebellion",
+    "artist": "Black Mountain Whiskey Rebellion",
+    "album": "Black Mountain Whiskey Rebellion",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/7419f1601e27cc2f4a18a17b4e473c1b.png",
+    "started_at": "2026-06-19T21:50:22Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
