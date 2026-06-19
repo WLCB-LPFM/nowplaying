@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:00:15-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T20:03:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Night Moves",
+    "artist": "Bob Seger",
+    "album": "Ultimate Hits \u2013 Rock and Roll Never Forgets",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_-_Night_Moves.jpg",
+    "started_at": "2026-06-19T01:02:34Z",
+    "duration_seconds": 326
+  },
   "next_poll_seconds": 10
 }
