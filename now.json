@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T21:53:37-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T21:57:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "One Thing",
-    "artist": "Finger Eleven",
-    "album": "Finger Eleven",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Finger_Eleven_-_One_Thing.jpg",
-    "started_at": "2026-06-19T02:53:21Z",
-    "duration_seconds": 280
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
