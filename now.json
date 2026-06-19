@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T15:24:14-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T15:28:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Fortune Teller",
-    "artist": "Too Slim and the Taildraggers",
-    "album": "Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Too_Slim_And_The_Taildraggers_-_The_Fortune_Teller.jpg",
-    "started_at": "2026-06-19T20:24:03Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
