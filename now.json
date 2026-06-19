@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:48:56-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T18:51:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Lying Eyes",
-    "artist": "Monophonics",
-    "album": "Sound of Sinning",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Monophonics_-_Lying_Eyes.jpg",
-    "started_at": "2026-06-19T23:48:47Z",
-    "duration_seconds": 177
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
