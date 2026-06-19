@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T13:42:25-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T13:42:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "The Blues Is My Business",
+    "artist": "Etta James",
+    "album": "Collected",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Etta_James_-_The_Blues_Is_My_Business.jpg",
+    "started_at": "2026-06-19T18:42:22Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
