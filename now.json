@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:16:53-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T18:18:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Trouble Man",
+    "artist": "Buddy Guy",
+    "album": "Feels Like Rain",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_Trouble_Man.jpg",
+    "started_at": "2026-06-19T23:18:24Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
