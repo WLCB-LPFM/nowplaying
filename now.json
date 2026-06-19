@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T19:31:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T19:37:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "New York State of Mind",
-    "artist": "Billy Joel",
-    "album": "Piano Man: The Very Best of Billy Joel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_New_York_State_Of_Mind.jpg",
-    "started_at": "2026-06-19T00:31:32Z",
-    "duration_seconds": 362
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
