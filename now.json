@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T21:49:59-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T21:53:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Cold Little Heart",
-    "artist": "Michael Kiwanuka",
-    "album": "Chill Tracks",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Kiwanuka_-_Cold_Little_Heart.jpg",
-    "started_at": "2026-06-19T02:49:40Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
