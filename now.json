@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:25:42-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T20:29:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Lullaby",
-    "artist": "James",
-    "album": "Laid - Deluxe Edition",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_-_Lullaby.jpg",
-    "started_at": "2026-06-19T01:25:33Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
