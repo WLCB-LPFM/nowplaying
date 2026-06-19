@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:58:43-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T21:01:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wild Hearts",
-    "artist": "Living Struggle",
-    "album": "Never Fade Away",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/7c746f78694d4fccafe9d203b5189615.png",
-    "started_at": "2026-06-19T01:58:30Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
