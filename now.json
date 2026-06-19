@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T20:46:06-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T20:48:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Can't Stop Lovin'",
-    "artist": "George Thorogood And The Destroyers",
-    "album": "Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Thorogood_And_The_Destroyers_-_Can't_Stop_Lovin'.jpg",
-    "started_at": "2026-06-19T01:45:56Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
