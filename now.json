@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:12:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T18:14:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Inner City Blues (Make Me Wanna Holler)",
+    "artist": "Marvin Gaye",
+    "album": "What's Going On - 40th Anniversary (Super Deluxe)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marvin_Gaye_-_Inner_City_Blues_(Make_Me_Wanna_Holler).jpg",
+    "started_at": "2026-06-19T23:13:50Z",
+    "duration_seconds": 332
+  },
   "next_poll_seconds": 10
 }
