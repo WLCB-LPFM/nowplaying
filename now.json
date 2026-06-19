@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T14:30:43-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T14:35:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "You Just Don't Know",
-    "artist": "Craig Erickson",
-    "album": "Two Sides of the Blues",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Craig_Erickson_-_You_Just_Don't_Know.jpg",
-    "started_at": "2026-06-19T19:30:30Z",
-    "duration_seconds": 313
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
