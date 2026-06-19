@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T15:35:37-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T15:38:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Walk This Way",
-    "artist": "Aerosmith",
-    "album": "Toys In The Attic",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Walk_This_Way.jpg",
-    "started_at": "2026-06-19T20:35:19Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
