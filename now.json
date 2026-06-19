@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T14:07:19-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T14:08:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "The Church Of Electric Swamp Funkin' Blues",
+    "artist": "Selwyn Birchwood",
+    "album": "Electric Swamp Funkin' Blues",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Selwyn_Birchwood_-_The_Church_Of_Electric_Swamp_Funkin'_Blues.jpg",
+    "started_at": "2026-06-19T19:08:36Z",
+    "duration_seconds": 304
+  },
   "next_poll_seconds": 10
 }
