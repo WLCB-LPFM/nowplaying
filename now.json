@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T13:45:45-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T13:45:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Ease My Mind",
+    "artist": "Kenny Wayne Shepherd",
+    "album": "Dirt On My Diamonds, Vol. 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Wayne_Shepherd_-_Ease_My_Mind.jpg",
+    "started_at": "2026-06-19T18:45:50Z",
+    "duration_seconds": 416
+  },
   "next_poll_seconds": 10
 }
