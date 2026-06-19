@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T13:52:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T13:52:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Deja Voodoo",
+    "artist": "Kenny Wayne Shepherd Band",
+    "album": "Deja Voodoo",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Wayne_Shepherd_Band_-_Deja_Voodoo.jpg",
+    "started_at": "2026-06-19T18:52:33Z",
+    "duration_seconds": 369
+  },
   "next_poll_seconds": 10
 }
