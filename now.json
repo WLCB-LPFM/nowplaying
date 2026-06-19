@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T21:16:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-18T21:17:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I'm The One",
+    "artist": "Descendents",
+    "album": "Everything Sucks",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Descendents_-_I'm_The_One.jpg",
+    "started_at": "2026-06-19T02:17:09Z",
+    "duration_seconds": 135
+  },
   "next_poll_seconds": 10
 }
