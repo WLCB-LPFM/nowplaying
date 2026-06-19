@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T16:41:03-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T16:43:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Can't Hold Me Back",
-    "artist": "Kyle Daniel",
-    "album": "Can't Hold Me Back",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/cbd2b715c6b54bf7610df8370c14313c.png",
-    "started_at": "2026-06-19T21:40:50Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
