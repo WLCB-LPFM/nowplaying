@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T19:50:38-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T19:56:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Dazed and Confused (2007 Remix)",
-    "artist": "Led Zeppelin",
-    "album": "Dazed and Confused (2007 Remix)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Led_Zeppelin.jpg",
-    "started_at": "2026-06-19T00:50:24Z",
-    "duration_seconds": 387
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
