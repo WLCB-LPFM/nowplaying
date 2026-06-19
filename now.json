@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T16:53:37-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T16:54:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Hot Mama",
+    "artist": "Trace Adkins",
+    "album": "Comin' On Strong",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Trace_Adkins_-_Hot_Mama.jpg",
+    "started_at": "2026-06-19T21:53:50Z",
+    "duration_seconds": 201
+  },
   "next_poll_seconds": 10
 }
