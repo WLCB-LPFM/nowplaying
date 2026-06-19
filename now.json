@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:28:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T18:31:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Power to the People (Demo Version)",
-    "artist": "Curtis Mayfield",
-    "album": "Power to the People (Demo Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Curtis_Mayfield_-_Power_To_The_People_(Demo_Version).jpg",
-    "started_at": "2026-06-19T23:28:35Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
