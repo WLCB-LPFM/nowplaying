@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T15:15:24-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T15:16:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Cold Night",
+    "artist": "Robert Jon & the Wreck",
+    "album": "Glory Bound",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Robert_Jon_&_The_Wreck.jpg",
+    "started_at": "2026-06-19T20:15:35Z",
+    "duration_seconds": 267
+  },
   "next_poll_seconds": 10
 }
