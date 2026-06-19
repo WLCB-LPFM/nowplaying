@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T19:44:31-05:00",
-  "source": "autopost",
+  "generated": "2026-06-18T19:47:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Empire State of Mind (Part II) Broken Down",
-    "artist": "Alicia Keys",
-    "album": "538 Hitzone - Best Of 2010",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alicia_Keys_-_Empire_State_Of_Mind_(Part_Ii)_Broken_Down.jpg",
-    "started_at": "2026-06-19T00:44:19Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
