@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:23:11-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T18:28:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "He's Misstra Know-It-All",
-    "artist": "Stevie Wonder",
-    "album": "Innervisions",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_He's_Misstra_Know-it-all.jpg",
-    "started_at": "2026-06-19T23:22:57Z",
-    "duration_seconds": 333
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
