@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T07:49:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T07:53:02-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Ultimate Club Bangaz Vol 1 (DJ Mashup Mix 16)",
-    "artist": "DJ Dave Jam",
-    "album": "Ultimate Club Bangaz Vol 1",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dj_Dave_Jam.jpg",
-    "started_at": "2026-06-19T12:48:51Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
