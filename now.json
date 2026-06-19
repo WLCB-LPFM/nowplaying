@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-19T01:42:10-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T01:47:33-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Haitian Fight Song",
+    "artist": "Charles Mingus",
+    "album": "Mingus Three / The Clown",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charles_Mingus_-_Haitian_Fight_Song.jpg",
+    "started_at": "2026-06-19T06:47:22Z",
+    "duration_seconds": 723
+  },
   "next_poll_seconds": 10
 }
