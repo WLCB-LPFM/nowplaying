@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T12:36:13-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T12:36:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Slow Down (Live in Houston 2006)",
+    "artist": "The Fabulous Thunderbirds",
+    "album": "Live In Houston",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Fabulous_Thunderbirds.jpg",
+    "started_at": "2026-06-19T17:36:12Z",
+    "duration_seconds": 377
+  },
   "next_poll_seconds": 10
 }
