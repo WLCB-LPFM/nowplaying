@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T18:41:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T18:44:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Shakey Ground",
-    "artist": "The Temptations",
-    "album": "True Funk [3 CD Set]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_Shakey_Ground.jpg",
-    "started_at": "2026-06-19T23:40:31Z",
-    "duration_seconds": 241
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
