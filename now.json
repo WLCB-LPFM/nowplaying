@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:24:39-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T19:25:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "History Eraser",
+    "artist": "Courtney Barnett",
+    "album": "The Double EP: A Sea of Split Peas",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Courtney_Barnett_-_History_Eraser.jpg",
+    "started_at": "2026-06-20T00:25:25Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
