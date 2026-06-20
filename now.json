@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-20T15:58:25-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T15:58:38-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Don't Stop The Rock",
-    "artist": "Freestyle Express",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-06-20T20:53:17Z",
-    "duration_seconds": 330
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
