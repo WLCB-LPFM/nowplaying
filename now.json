@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-19T23:35:24-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T23:35:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "That Smell",
+    "artist": "Canned Heat",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Canned_Heat_-_That_Smell.jpg",
+    "started_at": "2026-06-20T04:35:40Z",
+    "duration_seconds": 299
+  },
   "next_poll_seconds": 10
 }
