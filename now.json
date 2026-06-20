@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T11:07:35-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T11:08:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Tonight I Celebrate My Love",
+    "artist": "Peabo Bryson",
+    "album": "Love To Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peabo_Bryson_-_Tonight_I_Celebrate_My_Love.jpg",
+    "started_at": "2026-06-20T16:08:07Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
