@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:07:15-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T20:09:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Twilight Time",
-    "artist": "The Platters",
-    "album": "True 50's love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Platters_-_Twilight_Time.jpg",
-    "started_at": "2026-06-20T01:07:03Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
