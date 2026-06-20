@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-20T00:54:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T00:55:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Muffin Man",
+    "artist": "Frank Zappa",
+    "album": "FZ:OZ",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Zappa_-_Muffin_Man.jpg",
+    "started_at": "2026-06-20T05:55:03Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
