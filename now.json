@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T22:17:01-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T22:17:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "It Takes Two (with Tina Turner)",
+    "artist": "Rod Stewart",
+    "album": "It Takes Two (with Tina Turner)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rod_Stewart_-_It_Takes_Two_(With_Tina_Turner).jpg",
+    "started_at": "2026-06-20T03:17:10Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
