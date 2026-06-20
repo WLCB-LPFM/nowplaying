@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:06:13-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T19:06:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Take It Or Leave It",
+    "artist": "Cage The Elephant",
+    "album": "Melophobia",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cage_The_Elephant_-_Take_It_Or_Leave_It.jpg",
+    "started_at": "2026-06-20T00:06:33Z",
+    "duration_seconds": 207
+  },
   "next_poll_seconds": 10
 }
