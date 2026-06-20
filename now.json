@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:40:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T20:46:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Love Life & Money",
-    "artist": "Johnny Winter",
-    "album": "Live in Sweden 1987",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Johnny_Winter.jpg",
-    "started_at": "2026-06-20T01:40:00Z",
-    "duration_seconds": 424
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
