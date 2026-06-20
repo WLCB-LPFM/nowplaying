@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T21:12:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T21:15:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "10 A.M. Automatic",
-    "artist": "The Black Keys",
-    "album": "Rubber Factory",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Keys_-_10_A.m._Automatic.jpg",
-    "started_at": "2026-06-20T02:12:32Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
