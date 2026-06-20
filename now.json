@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T21:38:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T21:38:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Freeway Soul",
+    "artist": "Tinsley Ellis",
+    "album": "The Best Of Tinsley Ellis",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tinsley_Ellis_-_Freeway_Soul.jpg",
+    "started_at": "2026-06-20T02:38:22Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
