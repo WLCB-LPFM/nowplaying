@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T22:09:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T22:13:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I'm A Man (Live)",
-    "artist": "The Zac Schulze Gang",
-    "album": "Live and Loud",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Zac_Schulze_Gang_-_I'm_A_Man_(Live).jpg",
-    "started_at": "2026-06-20T03:09:35Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
