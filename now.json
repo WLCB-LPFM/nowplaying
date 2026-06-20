@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:39:09-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T19:39:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Time Out Of Mind",
+    "artist": "Steely Dan",
+    "album": "Showbiz Kids: The Steely Dan Story 1972 - 1980",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_Time_Out_Of_Mind.jpg",
+    "started_at": "2026-06-20T00:39:18Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
