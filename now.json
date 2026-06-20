@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T11:36:55-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T11:42:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Body and Soul",
-    "artist": "Anita Baker",
-    "album": "Body and Soul",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anita_Baker_-_Body_And_Soul.jpg",
-    "started_at": "2026-06-20T16:36:44Z",
-    "duration_seconds": 342
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
