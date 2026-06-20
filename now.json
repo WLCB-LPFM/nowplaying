@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:44:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T19:47:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Flesh And Blood (Remastered 1999)",
-    "artist": "Roxy Music",
-    "album": "Flesh And Blood",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Roxy_Music.jpg",
-    "started_at": "2026-06-20T00:44:04Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
