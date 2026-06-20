@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:30:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T20:33:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Owl Hoot Trail",
+    "artist": "Rebel Hooves",
+    "album": "Rust and Dust",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Rebel_Hooves.jpg",
+    "started_at": "2026-06-20T01:33:17Z",
+    "duration_seconds": 194
+  },
   "next_poll_seconds": 10
 }
