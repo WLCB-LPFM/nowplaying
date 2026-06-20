@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:13:20-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T20:14:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Maybe Baby",
-    "artist": "Buddy Holly & The Crickets",
-    "album": "Rocking in America",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Holly_&_The_Crickets_-_Maybe_Baby.jpg",
-    "started_at": "2026-06-20T01:13:07Z",
-    "duration_seconds": 123
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
