@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:09:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T20:10:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Fever (1998 Remaster)",
+    "artist": "Peggy Lee",
+    "album": "When Cool Was King - Ministry of Sound",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Peggy_Lee.jpg",
+    "started_at": "2026-06-20T01:09:52Z",
+    "duration_seconds": 198
+  },
   "next_poll_seconds": 10
 }
