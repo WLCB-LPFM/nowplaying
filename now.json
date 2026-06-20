@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:21:43-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T19:24:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Shuggie",
-    "artist": "Foxygen",
-    "album": "Orphan Black",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foxygen_-_Shuggie.jpg",
-    "started_at": "2026-06-20T00:21:31Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
