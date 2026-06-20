@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-20T00:58:45-05:00",
+  "generated": "2026-06-20T01:00:03-05:00",
   "source": "autopost",
   "mode": "live",
   "automation_on": false,
-  "show": null,
+  "show": {
+    "name": "All Night Jazz",
+    "hosts": [],
+    "automated": true,
+    "starts": "01:00",
+    "ends": "06:00",
+    "genre": "Jazz"
+  },
   "track": {
     "title": "The Take Out",
     "artist": "Widespread Panic",
