@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T04:00:42-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-20T04:02:55-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
@@ -8,10 +8,9 @@
     "title": "Windows",
     "artist": "Jason Weber",
     "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-06-20T09:00:33.0431534Z",
-    "duration_seconds": 151,
-    "year": "1996"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Windows.jpg",
+    "started_at": "2026-06-20T09:02:38Z",
+    "duration_seconds": 175
   },
   "next_poll_seconds": 10
 }
