@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T22:21:08-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T22:21:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Brown Sugar",
+    "artist": "The Rolling Stones",
+    "album": "Honk",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Brown_Sugar.jpg",
+    "started_at": "2026-06-20T03:21:18Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
