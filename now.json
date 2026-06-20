@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:17:41-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T20:19:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Whole Lotta Loving",
-    "artist": "Fats Domino",
-    "album": "The Best Of Fats Domino",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fats_Domino_-_Whole_Lotta_Loving.jpg",
-    "started_at": "2026-06-20T01:17:27Z",
-    "duration_seconds": 101
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
