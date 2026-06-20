@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-20T00:21:14-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T00:23:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": {
-    "title": "Hot Fun",
-    "artist": "Stanley Clarke",
-    "album": "Sony Jazz Trios",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stanley_Clarke_-_Hot_Fun.jpg",
-    "started_at": "2026-06-20T05:21:00Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
