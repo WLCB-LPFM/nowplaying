@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:19:39-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T20:21:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Good Goody Miss Molly",
-    "artist": "Little Richard",
-    "album": "The Soul Of Music",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Little_Richard.jpg",
-    "started_at": "2026-06-20T01:19:25Z",
-    "duration_seconds": 130
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
