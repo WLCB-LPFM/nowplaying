@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T22:01:41-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T22:01:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "My Baby Gets Around",
+    "artist": "Anthony Rosano and The Conqueroos",
+    "album": "Cheat the Devil",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anthony_Rosano_And_The_Conqueroos_-_My_Baby_Gets_Around.jpg",
+    "started_at": "2026-06-20T03:01:34Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
