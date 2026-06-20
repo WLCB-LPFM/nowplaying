@@ -1,25 +1,18 @@
 {
-  "generated": "2026-06-19T20:27:56-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T20:30:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Through the Decades",
+    "name": "Graybeard's Clubhouse",
     "hosts": [
-      "Pauly J."
+      "Tim Graham"
     ],
     "automated": false,
-    "starts": "19:00",
-    "ends": "20:30",
+    "starts": "20:30",
+    "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Willie and the Hand Jive",
-    "artist": "Johnny Otis",
-    "album": "Hum-Ding-a-Ling. The 1957-1959 Rock & Roll Recordings",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Otis_-_Willie_And_The_Hand_Jive.jpg",
-    "started_at": "2026-06-20T01:27:39Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
