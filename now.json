@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T21:03:13-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T21:06:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Astronomy Domine",
-    "artist": "Pink Floyd",
-    "album": "A Foot in the Door: The Best of Pink Floyd",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_Astronomy_Domine.jpg",
-    "started_at": "2026-06-20T02:02:59Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
