@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:21:39-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T20:23:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Johnny B. Goode",
-    "artist": "Chuck Berry",
-    "album": "Dictionnaire chronologique du Rock - Chronological dictionnary of Rock, 1944-1962",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chuck_Berry_-_Johnny_B._Goode.jpg",
-    "started_at": "2026-06-20T01:21:22Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
