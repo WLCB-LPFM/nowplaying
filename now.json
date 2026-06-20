@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:54:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T19:59:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Snake Eyes",
-    "artist": "Grover Washington, Jr.",
-    "album": "Skylarkin'",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grover_Washington,_Jr._-_Snake_Eyes.jpg",
-    "started_at": "2026-06-20T00:54:41Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
