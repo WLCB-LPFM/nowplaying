@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T21:42:45-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T21:49:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Bullets",
-    "artist": "Stoney Curtis Band",
-    "album": "Acid Blues Experience",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b305493c52a27e366e0097256a541d3c.png",
-    "started_at": "2026-06-20T02:42:29Z",
-    "duration_seconds": 442
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
