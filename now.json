@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:49:27-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T20:49:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Midnight Train",
+    "artist": "Buddy Guy",
+    "album": "Buddy's Baddest: The Best Of Buddy Guy",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_Midnight_Train.jpg",
+    "started_at": "2026-06-20T01:49:33Z",
+    "duration_seconds": 323
+  },
   "next_poll_seconds": 10
 }
