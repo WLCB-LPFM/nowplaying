@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T17:35:46-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T17:52:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Rock With You",
+    "artist": "DJ K-More",
+    "album": "New Jack Funk, History",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_K-more_-_Rock_With_You.jpg",
+    "started_at": "2026-06-20T22:52:34Z",
+    "duration_seconds": 136
+  },
   "next_poll_seconds": 10
 }
