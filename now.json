@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T21:24:34-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T21:25:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jack the Stripper  feat.  Fairies Wear Boots (2012 - Remaster)",
+    "artist": "Black Sabbath",
+    "album": "Jack the Stripper / Fairies Wear Boots (2012 - Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Black_Sabbath.jpg",
+    "started_at": "2026-06-20T02:25:34Z",
+    "duration_seconds": 374
+  },
   "next_poll_seconds": 10
 }
