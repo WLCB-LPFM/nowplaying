@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:49:48-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T19:50:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Whiskey River",
+    "artist": "Willie Nelson",
+    "album": "Honeysuckle Rose - Music From The Original Soundtrack",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Willie_Nelson_-_Whiskey_River.jpg",
+    "started_at": "2026-06-20T00:50:21Z",
+    "duration_seconds": 235
+  },
   "next_poll_seconds": 10
 }
