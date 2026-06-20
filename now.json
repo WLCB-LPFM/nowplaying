@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:32:05-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T19:36:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Expresso Love",
-    "artist": "Dire Straits",
-    "album": "Expresso Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dire_Straits_-_Expresso_Love.jpg",
-    "started_at": "2026-06-20T00:31:56Z",
-    "duration_seconds": 312
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
