@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T11:04:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T11:07:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Back & Forth",
-    "artist": "Aaliyah",
-    "album": "Age Ain't Nothing But A Number",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aaliyah_-_Back_&_Forth.jpg",
-    "started_at": "2026-06-20T16:04:00Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
