@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:02:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T19:06:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Even When The Water's Cold",
-    "artist": "!!!",
-    "album": "Thr!!!er",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/34f1e351845f4250a6b7e8ff574ba101.png",
-    "started_at": "2026-06-20T00:02:39Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
