@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:14:55-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T20:15:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hard Headed Women",
+    "artist": "Elvis Presley with Band",
+    "album": "Are You Lonesome Tonight?",
+    "artwork_url": "null",
+    "started_at": "2026-06-20T01:15:04Z",
+    "duration_seconds": 112
+  },
   "next_poll_seconds": 10
 }
