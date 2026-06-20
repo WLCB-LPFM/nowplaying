@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-19T23:49:16-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T23:50:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "El Diablo",
+    "artist": "ZZ Top",
+    "album": "Rock & Roll Forever, Vol. 2",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_El_Diablo.jpg",
+    "started_at": "2026-06-20T04:49:47Z",
+    "duration_seconds": 263
+  },
   "next_poll_seconds": 10
 }
