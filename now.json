@@ -1,16 +1,20 @@
 {
-  "generated": "2026-06-20T07:54:24-05:00",
-  "source": "autopost",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Let Me Clear My Throat",
-    "artist": "The Remix Cartell",
-    "album": "The Remix Cartell Vol. 16",
-    "artwork_url": "null",
-    "started_at": "2026-06-20T12:51:52Z",
-    "duration_seconds": 332
+  "generated": "2026-06-20T08:00:37-05:00",
+  "source": "fallback",
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "Sports Weekly",
+    "hosts": [
+      "Lucas Vollmer",
+      "Matt Rosenberg",
+      "Pat Cameron"
+    ],
+    "automated": false,
+    "starts": "08:00",
+    "ends": "11:00",
+    "genre": "Sports"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
