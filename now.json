@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-19T23:06:52-05:00",
-  "source": "fallback",
+  "generated": "2026-06-19T23:07:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Bad Bad Whiskey",
+    "artist": "Buddy Guy",
+    "album": "Bad Bad Whiskey",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buddy_Guy.jpg",
+    "started_at": "2026-06-20T04:06:49Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
