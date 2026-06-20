@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T19:47:27-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T19:49:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Play It All Night Long",
-    "artist": "Warren Zevon",
-    "album": "Play It All Night Long",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Warren_Zevon_-_Play_It_All_Night_Long.jpg",
-    "started_at": "2026-06-20T00:47:06Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
