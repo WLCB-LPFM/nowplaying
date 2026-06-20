@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T11:20:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T11:25:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "I Wanna Be Down",
-    "artist": "Brandy",
-    "album": "I Wanna Be Down",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brandy_-_I_Wanna_Be_Down.jpg",
-    "started_at": "2026-06-20T16:20:42Z",
-    "duration_seconds": 292
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
