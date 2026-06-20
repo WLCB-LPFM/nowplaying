@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T17:27:35-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T17:28:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Stop",
+    "artist": "Dj Maze",
+    "album": "Rnb Selexion",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dj_Maze.jpg",
+    "started_at": "2026-06-20T22:28:02Z",
+    "duration_seconds": 365
+  },
   "next_poll_seconds": 10
 }
