@@ -1,17 +1,25 @@
 {
-  "generated": "2026-06-20T16:58:16-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-06-20T17:00:03-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Vibing with Mz. Hollywood",
+    "hosts": [
+      "Mz. Hollywood"
+    ],
+    "automated": false,
+    "starts": "17:00",
+    "ends": "20:00",
+    "genre": "Hip-Hop"
+  },
   "track": {
     "title": "Two Of Hearts",
     "artist": "Stacey Q",
     "album": "Sounds of the Eighties: The Mid '80s",
     "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stacey_Q_-_Two_Of_Hearts.jpg",
-    "started_at": "2026-06-20T21:57:14.7694053Z",
-    "duration_seconds": 226,
-    "year": "2024"
+    "started_at": "2026-06-20T21:58:07Z",
+    "duration_seconds": 240
   },
   "next_poll_seconds": 10
 }
