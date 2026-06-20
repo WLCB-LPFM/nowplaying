@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-20T00:58:33-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T00:58:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Take Out",
+    "artist": "Widespread Panic",
+    "album": "Space Wrangler",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_The_Take_Out.jpg",
+    "started_at": "2026-06-20T05:58:31Z",
+    "duration_seconds": 136
+  },
   "next_poll_seconds": 10
 }
