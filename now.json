@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T12:01:58-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T12:47:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "13:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Can't Help Myself",
+    "artist": "The Four Tops",
+    "album": "S.O.S. Summer of Soul - Beach Party Forever",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Four_Tops_-_I_Can't_Help_Myself.jpg",
+    "started_at": "2026-06-20T17:47:27Z",
+    "duration_seconds": 163
+  },
   "next_poll_seconds": 10
 }
