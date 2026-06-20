@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-20T00:15:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T00:16:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Time Zones",
+    "artist": "Widespread Panic",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_Time_Zones.jpg",
+    "started_at": "2026-06-20T05:15:48Z",
+    "duration_seconds": 315
+  },
   "next_poll_seconds": 10
 }
