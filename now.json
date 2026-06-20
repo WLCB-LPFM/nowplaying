@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T20:24:47-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T20:26:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Summertime Blues",
-    "artist": "Eddie Cochran",
-    "album": "50 Hits from 50s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eddie_Cochran_-_Summertime_Blues.jpg",
-    "started_at": "2026-06-20T01:24:37Z",
-    "duration_seconds": 121
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
