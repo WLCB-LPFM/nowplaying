@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T21:50:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T21:58:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "No Good Place for the Lonely",
-    "artist": "Joe Bonamassa",
-    "album": "Blues of Desperation",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_No_Good_Place_For_The_Lonely.jpg",
-    "started_at": "2026-06-20T02:49:51Z",
-    "duration_seconds": 519
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
