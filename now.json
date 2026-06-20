@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-20T05:00:20-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T05:01:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Black Coffee",
+    "artist": "Kendra Lou",
+    "album": "To The End Of The World",
+    "artwork_url": "",
+    "started_at": "2026-06-20T10:01:13.423797Z",
+    "duration_seconds": 339,
+    "year": "2010"
+  },
   "next_poll_seconds": 10
 }
