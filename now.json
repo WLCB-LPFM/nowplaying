@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T22:52:41-05:00",
-  "source": "autopost",
+  "generated": "2026-06-19T22:58:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Sweet Little Angel",
-    "artist": "Blindside Blues Band",
-    "album": "Smokehouse Sessions",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blindside_Blues_Band_-_Sweet_Little_Angel.jpg",
-    "started_at": "2026-06-20T03:52:31Z",
-    "duration_seconds": 384
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
