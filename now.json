@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T11:55:40-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T11:59:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "I'll Make Love To You",
-    "artist": "Boyz II Men",
-    "album": "Love Songs #1's",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boyz_Ii_Men_-_I'll_Make_Love_To_You.jpg",
-    "started_at": "2026-06-20T16:55:23Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
