@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-20T07:22:28-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T07:22:41-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Girls Ain't Nothing But Trouble",
+    "artist": "DJ Jazzy Jeff & The Fresh Prince",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-20T12:22:35.7062446Z",
+    "duration_seconds": 270,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
