@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-20T05:34:56-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T05:35:08-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Lady Bird",
-    "artist": "Tadd Dameron Sextet",
-    "album": "Encyclopedia of Jazz, Vol. 4",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tadd_Dameron_Sextet.jpg",
-    "started_at": "2026-06-20T10:32:25Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
