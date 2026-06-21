@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T22:25:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T22:29:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Manhattan",
-    "artist": "Marian McPartland",
-    "album": "Timeless: Marian McPartland",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marian_Mcpartland_-_Manhattan.jpg",
-    "started_at": "2026-06-21T03:25:35Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
