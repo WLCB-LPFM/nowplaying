@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T16:06:27-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T16:17:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "We Gonna Take U Back (Lude) feat.  Don't Leave Me",
+    "artist": "Blackstreet",
+    "album": "Another Level",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blackstreet.jpg",
+    "started_at": "2026-06-21T21:17:07Z",
+    "duration_seconds": 317
+  },
   "next_poll_seconds": 10
 }
