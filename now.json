@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T21:48:02-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T21:48:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Am I Dreaming",
+    "artist": "Atlantic Starr",
+    "album": "The Best Of Atlantic Starr",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Atlantic_Starr_-_Am_I_Dreaming.jpg",
+    "started_at": "2026-06-21T02:48:17Z",
+    "duration_seconds": 337
+  },
   "next_poll_seconds": 10
 }
