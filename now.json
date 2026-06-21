@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T09:13:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T09:16:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Cecilia",
+    "artist": "Ted Heath & His Music",
+    "album": "Crazy Rhythm",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Ted_Heath_&_His_Music.jpg",
+    "started_at": "2026-06-21T14:16:24Z",
+    "duration_seconds": 142
+  },
   "next_poll_seconds": 10
 }
