@@ -1,25 +1,18 @@
 {
-  "generated": "2026-06-21T17:55:43-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T18:00:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Old School Throwbacks",
+    "name": "Crossing Genres",
     "hosts": [
-      "J. Cornelius"
+      "Pauly J."
     ],
     "automated": false,
-    "starts": "16:00",
-    "ends": "18:00",
-    "genre": "Hip-Hop"
+    "starts": "18:00",
+    "ends": "21:00",
+    "genre": "Variety"
   },
-  "track": {
-    "title": "There's Nothing Better Than Love",
-    "artist": "Luther Vandross",
-    "album": "The Essential Luther Vandross",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Luther_Vandross_-_There's_Nothing_Better_Than_Love.jpg",
-    "started_at": "2026-06-21T22:55:33Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
