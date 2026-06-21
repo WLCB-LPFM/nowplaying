@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-21T06:17:05-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-21T06:19:41-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Concerto for Two",
-    "artist": "Billy Cotton and his Band",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-21T11:16:56.7829473Z",
-    "duration_seconds": 171,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
