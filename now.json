@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T21:32:01-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T21:33:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Quiero Hablarte",
+    "artist": "Rapza",
+    "album": "Quiero Hablarte - Single",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Rapza.jpg",
+    "started_at": "2026-06-21T02:32:40Z",
+    "duration_seconds": 294
+  },
   "next_poll_seconds": 10
 }
