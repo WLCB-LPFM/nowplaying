@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T20:19:47-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T20:23:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Get Buck",
-    "artist": "Young Buck",
-    "album": "Buck The World",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young_Buck_-_Get_Buck.jpg",
-    "started_at": "2026-06-21T01:19:36Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
