@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-21T15:35:43-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T15:35:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Paddy Callahan Has Joined the Army (1940)",
+    "artist": "Tommy Doyle and his Rhythm Toppers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-21T20:35:49.7652944Z",
+    "duration_seconds": 165,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
