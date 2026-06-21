@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T17:03:41-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T17:16:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Bad Boy  feat.  Having a Party",
+    "artist": "Luther Vandross",
+    "album": "Forever, For Always, For Love",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Luther_Vandross.jpg",
+    "started_at": "2026-06-21T22:16:18Z",
+    "duration_seconds": 316
+  },
   "next_poll_seconds": 10
 }
