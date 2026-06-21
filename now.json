@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T21:43:33-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T21:43:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "All Cried Out",
+    "artist": "Lisa Lisa & Cult Jam",
+    "album": "Super Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lisa_Lisa_&_Cult_Jam_-_All_Cried_Out.jpg",
+    "started_at": "2026-06-21T02:43:31Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
