@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T20:35:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T20:36:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "None Of Ur Friends Business (Album Version)",
+    "artist": "Ginuwine",
+    "album": "100% Ginuwine",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Ginuwine.jpg",
+    "started_at": "2026-06-21T01:35:52Z",
+    "duration_seconds": 366
+  },
   "next_poll_seconds": 10
 }
