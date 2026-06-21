@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-21T01:55:27-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-21T01:58:03-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Lost Your Head Blues",
-    "artist": "Bessie Smith",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 1",
-    "artwork_url": "",
-    "started_at": "2026-06-21T06:55:23.6837292Z",
-    "duration_seconds": 166,
-    "year": "1987"
+    "title": "Blue Horizon",
+    "artist": "Sidney Bechet",
+    "album": "The Best Of Sidney Bechet",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidney_Bechet_-_Blue_Horizon.jpg",
+    "started_at": "2026-06-21T06:55:18Z",
+    "duration_seconds": 264
   },
   "next_poll_seconds": 10
 }
