@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-21T07:20:18-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T07:20:30-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ring Dem Bells",
+    "artist": "Asmussen Sextet; Ellington",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-21T12:20:25.0365452Z",
+    "duration_seconds": 183,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
