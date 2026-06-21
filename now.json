@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-21T06:30:18-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-21T06:33:16-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Rhumba Jumps! (1940)",
-    "artist": "Phil Harris and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-21T11:30:15.8064564Z",
-    "duration_seconds": 185,
-    "year": "1940"
+    "title": "The Rhumba Jumps!",
+    "artist": "Phil Harris and His Orchestra feat. Phil Harris",
+    "album": "Vault Originals: Varsity Big Band Bash, Volume 2 (1939-1940)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Phil_Harris_And_His_Orchestra_Feat._Phil_Harris.jpg",
+    "started_at": "2026-06-21T11:32:14Z",
+    "duration_seconds": 190
   },
   "next_poll_seconds": 10
 }
