@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T09:34:42-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T09:41:30-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Swinging on a Star",
+    "artist": "Bing Crosby",
+    "album": "The Coming Together Of Music & Movies",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bing_Crosby_-_Swinging_On_A_Star.jpg",
+    "started_at": "2026-06-21T14:41:20Z",
+    "duration_seconds": 149
+  },
   "next_poll_seconds": 10
 }
