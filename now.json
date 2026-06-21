@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T18:11:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T18:15:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Please Don't Leave Me",
+    "artist": "Fats Domino",
+    "album": "Fats Domino Swings",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fats_Domino_-_Please_Don't_Leave_Me.jpg",
+    "started_at": "2026-06-21T23:15:43Z",
+    "duration_seconds": 160
+  },
   "next_poll_seconds": 10
 }
