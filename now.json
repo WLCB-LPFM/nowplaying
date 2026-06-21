@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-21T15:18:48-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T15:19:24-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I'll Pray for You",
+    "artist": "Clyde Lucas and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-21T20:19:24.0071326Z",
+    "duration_seconds": 188,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
