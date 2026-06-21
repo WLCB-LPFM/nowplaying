@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T18:46:06-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T18:49:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "When You Dance I Can Really Love",
-    "artist": "Neil Young",
-    "album": "When You Dance I Can Really Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Neil_Young_-_When_You_Dance_I_Can_Really_Love.jpg",
-    "started_at": "2026-06-21T23:45:53Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
