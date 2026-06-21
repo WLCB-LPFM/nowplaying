@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T20:32:42-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T20:35:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "She's Always in My Hair (7' Version) [2025 Remaster]",
-    "artist": "Prince",
-    "album": "She's Always in My Hair (7' Version) [2025 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Prince.jpg",
-    "started_at": "2026-06-21T01:32:24Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
