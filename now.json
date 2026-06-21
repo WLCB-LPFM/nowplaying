@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T18:49:38-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T18:53:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Wanton Song (1990 Remaster)",
-    "artist": "Led Zeppelin",
-    "album": "The Wanton Song (1990 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Led_Zeppelin.jpg",
-    "started_at": "2026-06-21T23:49:21Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
