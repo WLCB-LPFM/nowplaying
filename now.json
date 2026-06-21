@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T20:09:45-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T20:10:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Came Down",
+    "artist": "Al Fatz",
+    "album": "Came Down",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Al_Fatz.jpg",
+    "started_at": "2026-06-21T01:09:51Z",
+    "duration_seconds": 240
+  },
   "next_poll_seconds": 10
 }
