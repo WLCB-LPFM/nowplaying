@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T09:56:01-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T09:58:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Everything Happens To Me",
-    "artist": "DENNIS",
-    "album": "Double Best Collection",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dennis.jpg",
-    "started_at": "2026-06-21T14:55:38Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
