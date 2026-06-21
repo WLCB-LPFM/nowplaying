@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T22:18:32-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T22:25:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Can't Get Started",
-    "artist": "Zoot Sims",
-    "album": "Suddenly It's Spring",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zoot_Sims_-_I_Can't_Get_Started.jpg",
-    "started_at": "2026-06-21T03:18:12Z",
-    "duration_seconds": 428
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
