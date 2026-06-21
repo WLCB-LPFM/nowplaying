@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T17:25:29-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T17:25:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Tha Crossroads",
+    "artist": "Bone Thugs N Harmony",
+    "album": "R&B: From Doo-Wop To Hip-Hop",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bone_Thugs_N_Harmony_-_Tha_Crossroads.jpg",
+    "started_at": "2026-06-21T22:25:38Z",
+    "duration_seconds": 223
+  },
   "next_poll_seconds": 10
 }
