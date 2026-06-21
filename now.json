@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T17:49:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T17:55:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "There's Nothing Better Than Love",
+    "artist": "Luther Vandross",
+    "album": "The Essential Luther Vandross",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Luther_Vandross_-_There's_Nothing_Better_Than_Love.jpg",
+    "started_at": "2026-06-21T22:55:33Z",
+    "duration_seconds": 283
+  },
   "next_poll_seconds": 10
 }
