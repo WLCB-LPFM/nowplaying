@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T20:52:34-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T20:59:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Waste Your Time",
-    "artist": "Yarbrough & Peoples",
-    "album": "The Best Of Yarbrough & Peoples",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yarbrough_&_Peoples_-_Don't_Waste_Your_Time.jpg",
-    "started_at": "2026-06-21T01:52:21Z",
-    "duration_seconds": 449
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
