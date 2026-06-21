@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-21T07:59:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T08:01:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Story of a Starry Night",
+    "artist": "Glenn Miller and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-21T13:01:25.9781325Z",
+    "duration_seconds": 205,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
