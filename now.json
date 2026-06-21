@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-21T06:05:52-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T06:06:04-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tea for Two (1940)",
+    "artist": "Asmussen Trio; Youmans",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-21T11:06:00.8484846Z",
+    "duration_seconds": 173,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
