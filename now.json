@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T21:00:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T21:05:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Whispering Wind",
-    "artist": "Moby",
-    "album": "The Whispering Wind",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Moby_-_The_Whispering_Wind.jpg",
-    "started_at": "2026-06-21T01:59:56Z",
-    "duration_seconds": 363
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
