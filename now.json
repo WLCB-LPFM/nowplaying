@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T20:15:16-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T20:18:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Everything They Owe",
-    "artist": "2Pac",
-    "album": "Until The End Of Time",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/2/2pac_-_Everything_They_Owe.jpg",
-    "started_at": "2026-06-21T01:15:03Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
