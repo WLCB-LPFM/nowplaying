@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T18:07:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T18:07:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Leaving Trunk (Album Version)",
+    "artist": "Taj Mahal",
+    "album": "The Essential Taj Mahal",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Taj_Mahal.jpg",
+    "started_at": "2026-06-21T23:07:02Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
