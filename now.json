@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T17:45:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T17:45:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "If Only You Knew",
+    "artist": "Patti LaBelle",
+    "album": "The Essential Patti LaBelle",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Patti_Labelle_-_If_Only_You_Knew.jpg",
+    "started_at": "2026-06-21T22:45:22Z",
+    "duration_seconds": 287
+  },
   "next_poll_seconds": 10
 }
