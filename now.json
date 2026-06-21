@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T21:39:15-05:00",
-  "source": "autopost",
+  "generated": "2026-06-20T21:43:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Maybe Tomorrow",
-    "artist": "Jackson 5",
-    "album": "The Ultimate Collection: Jackson 5",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jackson_5_-_Maybe_Tomorrow.jpg",
-    "started_at": "2026-06-21T02:38:58Z",
-    "duration_seconds": 287
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
