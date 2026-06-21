@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-21T07:42:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-21T07:45:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Schubert's Serenade (1940)",
-    "artist": "Johnny McGee and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-21T12:42:41.9017529Z",
-    "duration_seconds": 168,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
