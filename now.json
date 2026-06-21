@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T09:11:02-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T09:13:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "The Elk's Parade",
-    "artist": "Bobby Sherwood and His Orchestra",
-    "album": "Sherwood's Forest",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Sherwood_And_His_Orchestra_-_The_Elk's_Parade.jpg",
-    "started_at": "2026-06-21T14:10:45Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
