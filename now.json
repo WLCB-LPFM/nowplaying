@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-21T06:11:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T06:11:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Can't Love You Anymore (1940)",
+    "artist": "Aagaard and his Swingsters",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-21T11:11:16.3551078Z",
+    "duration_seconds": 160,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
