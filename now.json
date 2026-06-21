@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T09:23:37-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T09:26:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Cow Cow Boogie",
-    "artist": "Ella Fitzgerald",
-    "album": "Best of Swing Jazz",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ella_Fitzgerald_-_Cow_Cow_Boogie.jpg",
-    "started_at": "2026-06-21T14:23:20Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
