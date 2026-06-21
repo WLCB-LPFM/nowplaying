@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T17:21:00-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T17:25:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Not Gon' Cry",
-    "artist": "Mary J. Blige",
-    "album": "Waiting To Exhale",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mary_J._Blige_-_Not_Gon'_Cry.jpg",
-    "started_at": "2026-06-21T22:20:39Z",
-    "duration_seconds": 298
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
