@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T20:18:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-20T20:18:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Where My Twin @ (Bonus)",
+    "artist": "Future",
+    "album": "WE DON'T TRUST YOU",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d544e3d38ab803e81ce942f847e260da.png",
+    "started_at": "2026-06-21T01:18:05Z",
+    "duration_seconds": 122
+  },
   "next_poll_seconds": 10
 }
