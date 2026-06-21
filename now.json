@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-21T14:22:39-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T14:22:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Merry-Go-Round Broke Down",
+    "artist": "B\u00f8rge Roger Henrichsens Sekstet",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-21T19:22:44.593712Z",
+    "duration_seconds": 186,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
