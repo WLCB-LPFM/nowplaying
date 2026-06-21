@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T09:26:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T09:32:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Blue Rain",
+    "artist": "Glenn Miller",
+    "album": "All the Best",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_Blue_Rain.jpg",
+    "started_at": "2026-06-21T14:31:47Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
