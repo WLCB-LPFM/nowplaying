@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T19:41:07-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T19:47:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Birds Can't Row Boats",
+    "artist": "Johnny Winter",
+    "album": "Texas: '63-'68",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Winter_-_Birds_Can't_Row_Boats.jpg",
+    "started_at": "2026-06-22T00:47:01Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
