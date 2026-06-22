@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-22T13:49:42-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-22T13:52:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Who Can It Be Now",
-    "artist": "Men at Work",
-    "album": "Big Box Of 80s Remixes (Box Set)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Men_At_Work_-_Who_Can_It_Be_Now.jpg",
-    "started_at": "2026-06-22T18:49:14.7552888Z",
-    "duration_seconds": 198,
-    "year": "1981"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
