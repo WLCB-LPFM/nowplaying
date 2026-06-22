@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T16:44:05-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T16:46:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Milky Way",
+    "artist": "Tone",
+    "album": "Hometown",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tone_-_Milky_Way.jpg",
+    "started_at": "2026-06-22T21:45:46Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
