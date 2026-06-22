@@ -1,25 +1,16 @@
 {
-  "generated": "2026-06-21T20:56:56-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:00:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Crossing Genres",
-    "hosts": [
-      "Pauly J."
-    ],
-    "automated": false,
-    "starts": "18:00",
-    "ends": "21:00",
-    "genre": "Variety"
+    "name": "All Night Jazz",
+    "hosts": [],
+    "automated": true,
+    "starts": "21:00",
+    "ends": "24:00",
+    "genre": "Jazz"
   },
-  "track": {
-    "title": "52 Girls",
-    "artist": "The B-52's",
-    "album": "52 Girls",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_B-52's_-_52_Girls.jpg",
-    "started_at": "2026-06-22T01:56:37Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
