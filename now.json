@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:14:24-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:17:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "The Train I'm On",
-    "artist": "Tony Joe White",
-    "album": "The Train I'm On",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_The_Train_I'm_On.jpg",
-    "started_at": "2026-06-22T02:14:11Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
