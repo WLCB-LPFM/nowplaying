@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T14:30:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T14:33:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Formula 1 Theme",
-    "artist": "Brian Tyler",
-    "album": "Formula 1 Theme",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brian_Tyler_-_Formula_1_Theme.jpg",
-    "started_at": "2026-06-22T19:30:33Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
