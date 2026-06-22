@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-22T15:14:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-22T15:18:51-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Billie Jean",
     "artist": "Michael Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-22T20:14:26.3740334Z",
-    "duration_seconds": 279,
-    "year": "1983"
+    "album": "The Ultimate Fan Extras Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Billie_Jean.jpg",
+    "started_at": "2026-06-22T20:18:43Z",
+    "duration_seconds": 380
   },
   "next_poll_seconds": 10
 }
