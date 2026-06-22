@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T17:02:20-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T17:07:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Black Hole Sun",
-    "artist": "Soundgarden",
-    "album": "Telephantasm",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Soundgarden_-_Black_Hole_Sun.jpg",
-    "started_at": "2026-06-22T22:02:01Z",
-    "duration_seconds": 318
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
