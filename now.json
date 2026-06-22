@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-22T03:52:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-22T03:54:21-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Oh, Lady Be Good",
-    "artist": "Charlie Parker with Jazz at the Philharmonic",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-06-22T08:51:32.1480794Z",
-    "duration_seconds": 180,
-    "year": "1987"
+    "title": "Oh, Lady, Be Good!",
+    "artist": "Charlie Parker",
+    "album": "Now's the Time, Vol. 6",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Oh,_Lady,_Be_Good!.jpg",
+    "started_at": "2026-06-22T08:52:08Z",
+    "duration_seconds": 665
   },
   "next_poll_seconds": 10
 }
