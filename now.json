@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:55:33-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T20:56:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "52 Girls",
+    "artist": "The B-52's",
+    "album": "52 Girls",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_B-52's_-_52_Girls.jpg",
+    "started_at": "2026-06-22T01:56:37Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
