@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:05:53-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T20:06:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "1234Ever",
+    "artist": "Jon Lanford",
+    "album": "Choice Cuts: the Best of Jon Langford",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jon_Lanford.jpg",
+    "started_at": "2026-06-22T01:06:06Z",
+    "duration_seconds": 247
+  },
   "next_poll_seconds": 10
 }
