@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:11:15-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:13:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Watching the Trains Go By",
-    "artist": "Tony Joe White",
-    "album": "Watching the Trains Go By",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_Watching_The_Trains_Go_By.jpg",
-    "started_at": "2026-06-22T02:10:56Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
