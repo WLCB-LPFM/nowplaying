@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:26:58-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:30:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Alligator, Mississippi",
-    "artist": "Tony Joe White",
-    "album": "Hoodoo (Commentary Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_Alligator,_Mississippi.jpg",
-    "started_at": "2026-06-22T02:26:47Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
