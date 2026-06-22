@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:02:20-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T20:05:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Betrayal",
-    "artist": "Stace England",
-    "album": "The Amazing Oscar Micheaux",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Stace_England.jpg",
-    "started_at": "2026-06-22T01:01:59Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
