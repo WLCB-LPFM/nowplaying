@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-21T22:07:33-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-21T22:12:51-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Imagine",
-    "artist": "Simone Kopmajer",
-    "album": "Nothing\u2019s Gonna Change",
-    "artwork_url": "",
-    "started_at": "2026-06-22T03:07:26.219793Z",
-    "duration_seconds": 331,
-    "year": "2011"
+    "artist": "J.Lennon",
+    "album": "Nothing's Gonna Change",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/J.lennon_-_Imagine.jpg",
+    "started_at": "2026-06-22T03:07:46Z",
+    "duration_seconds": 351
   },
   "next_poll_seconds": 10
 }
