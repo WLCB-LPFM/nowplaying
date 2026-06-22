@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T14:04:20-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T14:08:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Hell Yeah",
-    "artist": "Rev Theory",
-    "album": "Light It Up",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rev_Theory_-_Hell_Yeah.jpg",
-    "started_at": "2026-06-22T19:04:06Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
