@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T16:35:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T16:39:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Solar System",
-    "artist": "Sub Focus",
-    "album": "Solar System / Siren",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sub_Focus_-_Solar_System.jpg",
-    "started_at": "2026-06-22T21:34:55Z",
-    "duration_seconds": 288
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
