@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-22T18:26:37-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T18:29:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mysterious Ways",
+    "artist": "U2",
+    "album": "The Best Of 1990-2000",
+    "artwork_url": "",
+    "started_at": "2026-06-22T23:28:57.1593674Z",
+    "duration_seconds": 235,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
