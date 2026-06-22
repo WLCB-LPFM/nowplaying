@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:50:56-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T21:51:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Burn One Down",
+    "artist": "Ben Harper",
+    "album": "Fight For Your Mind",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Ben_Harper_-_Burn_One_Down.jpg",
+    "started_at": "2026-06-22T02:51:17Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
