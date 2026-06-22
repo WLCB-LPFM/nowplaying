@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:10:38-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T20:12:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Vacation",
-    "artist": "John Mayall & The Bluesbreakers",
-    "album": "Blues From Laurel Canyon",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/John_Mayall_&_The_Bluesbreakers.jpg",
-    "started_at": "2026-06-22T01:10:13Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
