@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:12:48-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T20:13:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Wayfaring Stranger",
+    "artist": "H.P. Lovecraft",
+    "album": "H. P. Lovecraft I",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/H.p._Lovecraft_-_Wayfaring_Stranger.jpg",
+    "started_at": "2026-06-22T01:13:41Z",
+    "duration_seconds": 156
+  },
   "next_poll_seconds": 10
 }
