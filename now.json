@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T19:05:56-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T19:08:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Want To Hold Your Hand",
-    "artist": "Moving Sidewalks",
-    "album": "The Complete Moving Sidewalks",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/e0705a1e4bdc429ec27ec77185768d6b.png",
-    "started_at": "2026-06-22T00:05:37Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
