@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-22T06:54:44-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T06:54:56-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Don't Stop 'Til You Get Enough (Single Version)",
-    "artist": "Michael Jackson",
-    "album": "Disco",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Jackson.jpg",
-    "started_at": "2026-06-22T11:49:05Z",
-    "duration_seconds": 360
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
