@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T16:06:27-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T16:07:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "ROCKET TO THE MOON",
+    "artist": "Thomas  Bergersen",
+    "album": "Humanity - Chapter 4",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Thomas__Bergersen.jpg",
+    "started_at": "2026-06-22T21:06:57Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
