@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T16:49:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T16:54:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Space Song",
+    "artist": "Beach House",
+    "album": "Depression Cherry",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beach_House_-_Space_Song.jpg",
+    "started_at": "2026-06-22T21:54:26Z",
+    "duration_seconds": 321
+  },
   "next_poll_seconds": 10
 }
