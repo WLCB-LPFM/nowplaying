@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:52:50-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T20:55:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Waking Up",
-    "artist": "Django Django",
-    "album": "Glowing in the Dark",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Django_Django_-_Waking_Up.jpg",
-    "started_at": "2026-06-22T01:52:30Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
