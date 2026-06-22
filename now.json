@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:58:14-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T22:00:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "No-No Song",
-    "artist": "Ringo Starr",
-    "album": "Very Best Of",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ringo_Starr_-_No-no_Song.jpg",
-    "started_at": "2026-06-22T02:58:01Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
