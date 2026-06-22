@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:16:09-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T20:17:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Last of the Steam-Powered Trains (2018 Mono Remaster)",
+    "artist": "The Kinks",
+    "album": "Last of the Steam-Powered Trains (2018 Mono Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Kinks.jpg",
+    "started_at": "2026-06-22T01:16:57Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
