@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T19:32:59-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T19:35:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Journey to Tyme",
-    "artist": "Kenny & the Kasuals",
-    "album": "Nuggets: Original Artyfacts From The First Psychedelic Era 1965-1968 Disc 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_&_The_Kasuals_-_Journey_To_Tyme.jpg",
-    "started_at": "2026-06-22T00:32:43Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
