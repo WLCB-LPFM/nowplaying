@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:29:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T20:29:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Cruisin' Down the Highway",
+    "artist": "James Gang",
+    "album": "Cruisin' Down the Highway",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Gang_-_Cruisin'_Down_The_Highway.jpg",
+    "started_at": "2026-06-22T01:29:44Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
