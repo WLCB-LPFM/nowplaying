@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:38:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:43:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Want To Take You Higher",
-    "artist": "Sly & The Family Stone",
-    "album": "Classic 21 - 1969 The Woodstock Generation",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sly_&_The_Family_Stone_-_I_Want_To_Take_You_Higher.jpg",
-    "started_at": "2026-06-22T02:38:17Z",
-    "duration_seconds": 321
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
