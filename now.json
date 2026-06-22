@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:44:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:47:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Stoned Woman",
-    "artist": "Ten Years After",
-    "album": "Ssssh",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Ten_Years_After_-_Stoned_Woman.jpg",
-    "started_at": "2026-06-22T02:43:55Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
