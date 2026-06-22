@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T19:08:53-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T19:10:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Hot Smoke and Sasafrass (Mono Single Version)",
+    "artist": "The Bubble Puppy",
+    "album": "A Gathering of Promises",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Bubble_Puppy_-_Hot_Smoke_And_Sasafrass_(Mono_Single_Version).jpg",
+    "started_at": "2026-06-22T00:09:57Z",
+    "duration_seconds": 155
+  },
   "next_poll_seconds": 10
 }
