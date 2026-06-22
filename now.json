@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:40:37-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T20:42:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Funny Thing",
-    "artist": "Thundercat",
-    "album": "It Is What It Is",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thundercat_-_Funny_Thing.jpg",
-    "started_at": "2026-06-22T01:40:22Z",
-    "duration_seconds": 116
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
