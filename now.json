@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-22T14:55:40-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-06-22T15:00:12-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Motorsports Report",
-    "hosts": [
-      "Matthew Lodareii"
-    ],
-    "automated": false,
-    "starts": "14:00",
-    "ends": "15:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
-    "title": "C\u00f9ng Vui \u0110\u00eam Nay",
-    "artist": "C\u00e1t Ti\u00ean",
-    "album": "C\u00f9ng Vui \u0110\u00eam Nay",
-    "artwork_url": "null",
-    "started_at": "2026-06-22T19:55:16Z",
-    "duration_seconds": 387
+    "title": "Principal's Office",
+    "artist": "Young MC",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-22T19:56:44.5802024Z",
+    "duration_seconds": 245,
+    "year": "2021"
   },
   "next_poll_seconds": 10
 }
