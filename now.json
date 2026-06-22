@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:47:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:50:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Medicated Goo",
-    "artist": "Traffic",
-    "album": "Smiling Phases",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Traffic_-_Medicated_Goo.jpg",
-    "started_at": "2026-06-22T02:47:36Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
