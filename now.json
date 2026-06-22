@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T20:33:31-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T20:36:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Jimmy Jimmy (feat. AJ Tracey)",
-    "artist": "Gorillaz",
-    "album": "Jimmy Jimmy (feat. AJ Tracey)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gorillaz_-_Jimmy_Jimmy_(Feat._Aj_Tracey).jpg",
-    "started_at": "2026-06-22T01:33:12Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
