@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:21:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:25:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Elements and Things",
-    "artist": "Tony Joe White",
-    "album": "Elements and Things",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_Elements_And_Things.jpg",
-    "started_at": "2026-06-22T02:20:56Z",
-    "duration_seconds": 307
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
