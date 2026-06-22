@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-21T23:00:12-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T23:01:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Joyride",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Joyride.jpg",
-    "started_at": "2026-06-22T03:58:30Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
