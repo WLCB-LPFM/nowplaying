@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T19:24:18-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T19:25:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It's Gone",
-    "artist": "American Blues",
-    "album": "Is Here",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/ab098a6111d140d48154ee8a31af2430.png",
-    "started_at": "2026-06-22T00:24:02Z",
-    "duration_seconds": 119
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
