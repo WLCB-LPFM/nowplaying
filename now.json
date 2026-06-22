@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T21:17:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-21T21:20:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Dusty Marshmallow (Version 2)",
-    "artist": "Tony Joe White",
-    "album": "Swamp Music: The Complete Monument Recordings",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tony_Joe_White.jpg",
-    "started_at": "2026-06-22T02:17:15Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
