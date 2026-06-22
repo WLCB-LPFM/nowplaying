@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T16:23:53-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T16:29:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Jupiter",
-    "artist": "Sufjan Stevens, Bryce Dessner, Nico Muhly, James McAlister",
-    "album": "Jupiter",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sufjan_Stevens,_Bryce_Dessner,_Nico_Muhly,_James_Mcalister.jpg",
-    "started_at": "2026-06-22T21:23:39Z",
-    "duration_seconds": 430
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
