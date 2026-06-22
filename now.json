@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-22T04:15:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-22T04:20:09-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Lonely Woman",
-    "artist": "Ornette Coleman Quartet",
-    "album": "The Love Revolution \u2013 Complete 1968 Italian Tour",
-    "artwork_url": "",
-    "started_at": "2026-06-22T09:15:42.3356763Z",
-    "duration_seconds": 282,
-    "year": "2005"
+    "title": "Lonely Woman (Mono)",
+    "artist": "Ornette Coleman",
+    "album": "Lonely Woman (Mono)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/o/Ornette_Coleman.jpg",
+    "started_at": "2026-06-22T09:15:46Z",
+    "duration_seconds": 299
   },
   "next_poll_seconds": 10
 }
