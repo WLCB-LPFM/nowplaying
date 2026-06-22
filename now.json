@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T19:12:18-05:00",
-  "source": "fallback",
+  "generated": "2026-06-21T19:15:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Let's Take A Walk In The Woods",
+    "artist": "Mourning Sun",
+    "album": "Local Customs: Lone Star Lowlands",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d6d5d3f75901dd4e28ba933b3390269b.png",
+    "started_at": "2026-06-22T00:15:09Z",
+    "duration_seconds": 119
+  },
   "next_poll_seconds": 10
 }
