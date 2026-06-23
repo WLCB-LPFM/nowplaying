@@ -1,17 +1,15 @@
 {
-  "generated": "2026-06-23T09:00:10-05:00",
+  "generated": "2026-06-23T11:00:08-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Rock of Ages",
-    "hosts": [
-      "Mark Ricky"
-    ],
-    "automated": false,
-    "starts": "09:00",
-    "ends": "11:00",
-    "genre": "Rock and Roll"
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "11:00",
+    "ends": "15:00",
+    "genre": null
   },
   "track": null,
   "next_poll_seconds": 10
