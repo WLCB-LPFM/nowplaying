@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T22:00:09-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T22:02:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "El Papa Grande",
-    "artist": "Erroll Garner",
-    "album": "Close-Up In Swing",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/760c8f3ea60a41bdad1f270e7e90232d.png",
-    "started_at": "2026-06-23T02:58:15Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
