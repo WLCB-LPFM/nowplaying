@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T20:41:45-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T20:50:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "(Used To Be A) Cha-Cha (Album Version)",
-    "artist": "Jaco Pastorius",
-    "album": "Jaco Pastorius",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jaco_Pastorius.jpg",
-    "started_at": "2026-06-23T01:41:28Z",
-    "duration_seconds": 537
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
