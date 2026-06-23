@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-22T19:38:17-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T19:38:29-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Jump Off",
+    "artist": "Lil' Kim",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-23T00:38:26.3208422Z",
+    "duration_seconds": 227,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
