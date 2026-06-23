@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T21:07:40-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T21:13:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "El Manisero",
-    "artist": "Band of Bones",
-    "album": "Band of Bones",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Band_Of_Bones_-_El_Manisero.jpg",
-    "started_at": "2026-06-23T02:07:29Z",
-    "duration_seconds": 400
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
