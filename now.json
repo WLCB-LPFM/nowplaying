@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-22T19:44:53-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T19:45:05-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Stayin' Alive",
+    "artist": "Bee Gees",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-23T00:45:00.9466853Z",
+    "duration_seconds": 244,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
