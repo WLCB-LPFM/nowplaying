@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T21:45:42-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T21:48:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "America",
+    "artist": "Natalie Cole",
+    "album": "The Songs Of West Side Story",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/4f29f46b6cf28defbc70297663f849bd.png",
+    "started_at": "2026-06-23T02:48:30Z",
+    "duration_seconds": 374
+  },
   "next_poll_seconds": 10
 }
