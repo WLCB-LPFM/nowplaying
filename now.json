@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T21:18:34-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T21:20:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Besame Mucho",
+    "artist": "Bobby Sanabria",
+    "album": "Big Band Urban Folktales",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Sanabria_-_Besame_Mucho.jpg",
+    "started_at": "2026-06-23T02:20:17Z",
+    "duration_seconds": 363
+  },
   "next_poll_seconds": 10
 }
