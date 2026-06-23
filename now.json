@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T21:34:49-05:00",
-  "source": "fallback",
+  "generated": "2026-06-22T21:39:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Manteca",
+    "artist": "GRP All-Star Big Band",
+    "album": "GRP All-Star Big Band",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grp_All-star_Big_Band_-_Manteca.jpg",
+    "started_at": "2026-06-23T02:38:57Z",
+    "duration_seconds": 418
+  },
   "next_poll_seconds": 10
 }
