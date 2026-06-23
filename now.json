@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T21:15:14-05:00",
-  "source": "autopost",
+  "generated": "2026-06-22T21:18:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Peanut Vendor",
-    "artist": "Harry James Band, Stan Kenton Orchestra",
-    "album": "Big Band Brothers",
-    "artwork_url": "null",
-    "started_at": "2026-06-23T02:14:51Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
