@@ -1,14 +1,16 @@
 {
-  "generated": "2026-06-23T06:00:04-05:00",
+  "generated": "2026-06-23T07:00:01-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "06:00",
-    "ends": "07:00",
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
     "genre": null
   },
   "track": null,
