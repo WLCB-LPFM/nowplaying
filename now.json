@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T20:42:21-05:00",
-  "source": "fallback",
+  "generated": "2026-06-23T20:43:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Bring Me Some Water",
+    "artist": "Melissa Etheridge",
+    "album": "Greatest Hits - The Road Less Traveled",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Melissa_Etheridge_-_Bring_Me_Some_Water.jpg",
+    "started_at": "2026-06-24T01:43:33Z",
+    "duration_seconds": 233
+  },
   "next_poll_seconds": 10
 }
