@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-23T19:52:05-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-23T19:54:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Faith",
-    "artist": "George Michael",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-24T00:51:57.0567533Z",
-    "duration_seconds": 152,
-    "year": "2022"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
