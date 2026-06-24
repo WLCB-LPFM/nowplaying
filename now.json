@@ -1,17 +1,23 @@
 {
-  "generated": "2026-06-24T15:02:46-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "generated": "2026-06-24T15:03:32-05:00",
+  "source": "autopost",
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "15:00",
+    "ends": "19:00",
+    "genre": null
+  },
   "track": {
     "title": "Pump It Up",
     "artist": "Elvis Costello",
     "album": "The Very Best of Elvis Costello",
     "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elvis_Costello_-_Pump_It_Up.jpg",
-    "started_at": "2026-06-24T20:02:31.3005655Z",
-    "duration_seconds": 189,
-    "year": "2013"
+    "started_at": "2026-06-24T20:02:36Z",
+    "duration_seconds": 193
   },
   "next_poll_seconds": 10
 }
