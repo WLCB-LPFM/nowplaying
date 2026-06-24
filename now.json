@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T22:17:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-23T22:19:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Happy Feelin's",
+    "artist": "Maze",
+    "album": "The Greatest Hits: Lifelines Volume 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Maze_-_Happy_Feelin's.jpg",
+    "started_at": "2026-06-24T03:19:12Z",
+    "duration_seconds": 431
+  },
   "next_poll_seconds": 10
 }
