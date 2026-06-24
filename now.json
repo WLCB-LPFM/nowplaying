@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T20:00:11-05:00",
-  "source": "autopost",
+  "generated": "2026-06-23T20:01:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Talking in Your Sleep",
-    "artist": "The Romantics",
-    "album": "100 80's Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Romantics_-_Talking_In_Your_Sleep.jpg",
-    "started_at": "2026-06-24T00:58:01Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
