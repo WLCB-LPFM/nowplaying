@@ -1,23 +1,17 @@
 {
-  "generated": "2026-06-24T15:13:12-05:00",
-  "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "15:00",
-    "ends": "19:00",
-    "genre": null
-  },
+  "generated": "2026-06-24T15:13:36-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
     "title": "So Emotional",
     "artist": "Whitney Houston",
     "album": "I Will Always Love You: The Best Of Whitney Houston",
     "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitney_Houston_-_So_Emotional.jpg",
-    "started_at": "2026-06-24T20:10:12Z",
-    "duration_seconds": 277
+    "started_at": "2026-06-24T20:10:10.3771297Z",
+    "duration_seconds": 263,
+    "year": "2023"
   },
   "next_poll_seconds": 10
 }
