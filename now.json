@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T22:39:22-05:00",
-  "source": "fallback",
+  "generated": "2026-06-23T22:40:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "A Woman In Love (It's Not Me)",
+    "artist": "Tom Petty and the Heartbreakers",
+    "album": "Anthology: Through The Years",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_And_The_Heartbreakers_-_A_Woman_In_Love_(It's_Not_Me).jpg",
+    "started_at": "2026-06-24T03:39:48Z",
+    "duration_seconds": 260
+  },
   "next_poll_seconds": 10
 }
