@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T12:34:03-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T12:39:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Granada Bus",
-    "artist": "Ernesto Cervini's Turboprop",
-    "album": "Rev",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ernesto_Cervini's_Turboprop_-_Granada_Bus.jpg",
-    "started_at": "2026-06-24T17:33:50Z",
-    "duration_seconds": 346
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
