@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T22:50:30-05:00",
-  "source": "autopost",
+  "generated": "2026-06-23T22:54:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Theme from Boat Weirdos",
-    "artist": "Joe Walsh",
-    "album": "But Seriously, Folks...",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Walsh_-_Theme_From_Boat_Weirdos.jpg",
-    "started_at": "2026-06-24T03:50:12Z",
-    "duration_seconds": 282
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
