@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-24T15:53:04-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-24T15:56:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You Shook Me All Night Long",
-    "artist": "AC DC",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-24T20:52:54.4193761Z",
-    "duration_seconds": 204,
-    "year": "1980"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
