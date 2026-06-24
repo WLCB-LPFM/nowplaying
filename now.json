@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T22:44:12-05:00",
-  "source": "autopost",
+  "generated": "2026-06-23T22:48:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Welcome To The Club",
-    "artist": "Joe Walsh",
-    "album": "So What",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Walsh_-_Welcome_To_The_Club.jpg",
-    "started_at": "2026-06-24T03:43:55Z",
-    "duration_seconds": 314
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
