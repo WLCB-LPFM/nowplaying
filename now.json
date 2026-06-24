@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T21:44:02-05:00",
-  "source": "autopost",
+  "generated": "2026-06-23T21:47:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Stupid Girl (2015 - Remaster)",
-    "artist": "Garbage",
-    "album": "Garbage (20th Anniversary Super Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Garbage_-_Stupid_Girl_(2015_-_Remaster).jpg",
-    "started_at": "2026-06-24T02:43:51Z",
-    "duration_seconds": 257
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
