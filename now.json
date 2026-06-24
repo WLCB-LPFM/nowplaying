@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T22:31:32-05:00",
-  "source": "autopost",
+  "generated": "2026-06-23T22:34:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Shakin'",
-    "artist": "Eddie Money",
-    "album": "The Essential Eddie Money",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eddie_Money_-_Shakin'.jpg",
-    "started_at": "2026-06-24T03:31:20Z",
-    "duration_seconds": 188
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
