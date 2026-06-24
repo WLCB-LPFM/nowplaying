@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T11:46:11-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T11:48:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sweet Emotion",
-    "artist": "Aerosmith",
-    "album": "Toys In The Attic",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Sweet_Emotion.jpg",
-    "started_at": "2026-06-24T16:45:55Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
