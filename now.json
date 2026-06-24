@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T07:32:47-05:00",
-  "source": "fallback",
+  "generated": "2026-06-24T07:34:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "\u0110\u1ed9c L\u1eadp",
+    "artist": "Tui H\u00e1t",
+    "album": "\u0110\u1ed9c L\u1eadp",
+    "artwork_url": "null",
+    "started_at": "2026-06-24T12:34:08Z",
+    "duration_seconds": 343
+  },
   "next_poll_seconds": 10
 }
