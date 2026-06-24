@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-24T00:22:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-24T00:24:57-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Lady Bird",
-    "artist": "Tadd Dameron Sextet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 3",
-    "artwork_url": "",
-    "started_at": "2026-06-24T05:22:26.3283499Z",
-    "duration_seconds": 163,
-    "year": "1997"
+    "title": "Bags' Groove",
+    "artist": "Miles Davis",
+    "album": "Bleue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Bags'_Groove.jpg",
+    "started_at": "2026-06-24T05:19:21Z",
+    "duration_seconds": 681
   },
   "next_poll_seconds": 10
 }
