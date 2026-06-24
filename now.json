@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T21:06:48-05:00",
-  "source": "fallback",
+  "generated": "2026-06-23T21:19:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Born to Be Wild",
+    "artist": "Steppenwolf",
+    "album": "101 Classic Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steppenwolf_-_Born_To_Be_Wild.jpg",
+    "started_at": "2026-06-24T02:19:21Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
