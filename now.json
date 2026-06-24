@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T12:49:35-05:00",
-  "source": "fallback",
+  "generated": "2026-06-24T12:51:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Viva Cepeda",
+    "artist": "Afro Bop Alliance",
+    "album": "Una M\u00e1s",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Afro_Bop_Alliance.jpg",
+    "started_at": "2026-06-24T17:51:11Z",
+    "duration_seconds": 404
+  },
   "next_poll_seconds": 10
 }
