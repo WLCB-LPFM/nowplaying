@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T22:13:25-05:00",
-  "source": "autopost",
+  "generated": "2026-06-23T22:17:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Don't You Worry 'Bout A Thing",
-    "artist": "Stevie Wonder",
-    "album": "Innervisions",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Don't_You_Worry_'bout_A_Thing.jpg",
-    "started_at": "2026-06-24T03:13:08Z",
-    "duration_seconds": 284
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
