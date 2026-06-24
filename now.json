@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-24T05:27:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T05:28:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cherokee",
-    "artist": "Peter Fuglsang",
-    "album": "File Under Purple",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Peter_Fuglsang.jpg",
-    "started_at": "2026-06-24T10:23:47Z",
-    "duration_seconds": 323
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
