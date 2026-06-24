@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T13:45:03-05:00",
-  "source": "fallback",
+  "generated": "2026-06-24T13:59:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "El Papa Grande",
+    "artist": "Erroll Garner",
+    "album": "Close-Up In Swing",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_El_Papa_Grande.jpg",
+    "started_at": "2026-06-24T18:59:16Z",
+    "duration_seconds": 254
+  },
   "next_poll_seconds": 10
 }
