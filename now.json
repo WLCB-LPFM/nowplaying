@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-24T04:04:37-05:00",
-  "source": "fallback",
+  "generated": "2026-06-24T04:04:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cake Walking Babies From Home",
+    "artist": "Red Onion Jazz Babies",
+    "album": "Louis Armstrong and King Oliver",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Red_Onion_Jazz_Babies_-_Cake_Walking_Babies_From_Home.jpg",
+    "started_at": "2026-06-24T09:04:39.0385297Z",
+    "duration_seconds": 184,
+    "year": "1992"
+  },
   "next_poll_seconds": 10
 }
