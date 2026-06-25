@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T16:19:48-05:00",
-  "source": "fallback",
+  "generated": "2026-06-25T16:20:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Pump Up The Jam",
+    "artist": "Technotronic",
+    "album": "Pump Up The Jam",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Technotronic_-_Pump_Up_The_Jam.jpg",
+    "started_at": "2026-06-25T21:19:43Z",
+    "duration_seconds": 320
+  },
   "next_poll_seconds": 10
 }
