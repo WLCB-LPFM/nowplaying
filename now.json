@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T20:53:15-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T20:57:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Girlhood",
-    "artist": "Genevieve Hannelius",
-    "album": "Girlhood",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/14e3df1d93bc24aa60d390f424e87f17.png",
-    "started_at": "2026-06-25T01:53:03Z",
-    "duration_seconds": 294
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
