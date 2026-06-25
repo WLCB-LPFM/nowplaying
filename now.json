@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-25T12:28:55-05:00",
-  "source": "fallback",
+  "generated": "2026-06-25T12:30:47-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Neutron Dance",
+    "artist": "The Pointer Sisters",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-25T17:30:41.5829096Z",
+    "duration_seconds": 229,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
