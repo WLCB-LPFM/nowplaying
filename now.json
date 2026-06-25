@@ -1,17 +1,25 @@
 {
-  "generated": "2026-06-25T14:57:24-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-06-25T15:00:01-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
+  },
   "track": {
-    "title": "Shake It Up",
+    "title": "Shake It Up (2016 Remaster)",
     "artist": "The Cars",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-25T19:57:13.8390156Z",
-    "duration_seconds": 198,
-    "year": "1981"
+    "album": "Shake It Up (2016 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cars_-_Shake_It_Up_(2016_Remaster).jpg",
+    "started_at": "2026-06-25T19:57:19Z",
+    "duration_seconds": 214
   },
   "next_poll_seconds": 10
 }
