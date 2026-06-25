@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T19:42:47-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T19:49:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Beekeeper (Album Version)",
-    "artist": "Tori Amos",
-    "album": "The Beekeeper",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tori_Amos.jpg",
-    "started_at": "2026-06-25T00:42:34Z",
-    "duration_seconds": 409
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
