@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T21:03:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-24T21:18:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "In The Navy (Single Version)",
+    "artist": "Village People",
+    "album": "Best Of",
+    "artwork_url": "https://cdn.autopo.st/images/artists/v/Village_People.jpg",
+    "started_at": "2026-06-25T02:17:46Z",
+    "duration_seconds": 341
+  },
   "next_poll_seconds": 10
 }
