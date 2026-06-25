@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-25T14:50:39-05:00",
-  "source": "fallback",
+  "generated": "2026-06-25T14:51:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Genie In A Bottle",
+    "artist": "Christina Aguilera",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-25T19:50:50.6290059Z",
+    "duration_seconds": 209,
+    "year": "1999"
+  },
   "next_poll_seconds": 10
 }
