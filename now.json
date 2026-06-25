@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-25T18:27:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-25T18:30:03-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Shake Your Body (Down to the Ground)",
+    "artist": "The Jacksons",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-25T23:29:54.328271Z",
+    "duration_seconds": 219,
+    "year": "2021"
+  },
   "next_poll_seconds": 10
 }
