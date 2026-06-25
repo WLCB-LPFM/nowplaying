@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T15:26:39-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T15:30:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Can't Stop The Feeling!",
-    "artist": "Justin Timberlake",
-    "album": "Now 31",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Justin_Timberlake_-_Can't_Stop_The_Feeling!.jpg",
-    "started_at": "2026-06-25T20:26:23Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
