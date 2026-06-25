@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-25T08:57:43-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-06-25T09:00:08-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The John and Heidi Show",
-    "hosts": [
-      "John and Heidi Small"
-    ],
-    "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
     "title": "Never Gonna Give You Up",
     "artist": "Rick Astley",
     "album": "Fetenhits 80's Maxi Classics",
     "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_Astley_-_Never_Gonna_Give_You_Up.jpg",
-    "started_at": "2026-06-25T13:57:34Z",
-    "duration_seconds": 347
+    "started_at": "2026-06-25T13:57:27.0302528Z",
+    "duration_seconds": 206,
+    "year": "1987"
   },
   "next_poll_seconds": 10
 }
