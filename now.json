@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T21:25:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T21:28:02-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Drum Machine",
-    "artist": "Melanie C",
-    "album": "Sweat",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Melanie_C_-_Drum_Machine.jpg",
-    "started_at": "2026-06-25T02:24:55Z",
-    "duration_seconds": 197
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
