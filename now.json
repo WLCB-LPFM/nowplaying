@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T15:58:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-25T16:00:45-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eurythmics_-_Sweet_Dreams.jpg",
+    "started_at": "2026-06-25T21:00:25Z",
+    "duration_seconds": 292
+  },
   "next_poll_seconds": 10
 }
