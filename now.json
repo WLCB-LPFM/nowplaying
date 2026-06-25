@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T21:21:23-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T21:24:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Seasons in the Sun",
-    "artist": "Terry Jacks",
-    "album": "Essential Memories Of Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Terry_Jacks_-_Seasons_In_The_Sun.jpg",
-    "started_at": "2026-06-25T02:21:14Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
