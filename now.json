@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T19:51:35-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T19:58:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Welcome To The Machine",
-    "artist": "Pink Floyd",
-    "album": "Wish You Were Here [2011 - Remaster] (2011 - Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_Welcome_To_The_Machine.jpg",
-    "started_at": "2026-06-25T00:51:27Z",
-    "duration_seconds": 452
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
