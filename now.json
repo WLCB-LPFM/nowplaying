@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T20:45:00-05:00",
-  "source": "autopost",
+  "generated": "2026-06-24T20:49:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Remember When",
-    "artist": "Alan Jackson",
-    "album": "Greatest Hits Volume II",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alan_Jackson_-_Remember_When.jpg",
-    "started_at": "2026-06-25T01:44:48Z",
-    "duration_seconds": 271
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
