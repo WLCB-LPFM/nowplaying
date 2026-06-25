@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T20:28:34-05:00",
-  "source": "fallback",
+  "generated": "2026-06-24T20:32:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Human",
+    "artist": "The Human League",
+    "album": "Now! That'S What I Call 80'S",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Human_League_-_Human.jpg",
+    "started_at": "2026-06-25T01:32:01Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
