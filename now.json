@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T19:10:44-05:00",
-  "source": "fallback",
+  "generated": "2026-06-24T19:18:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Love-Hate Mashup Mix 6",
+    "artist": "DJ Godfather",
+    "album": "Love-Hate The Mashup Mix",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Godfather_-_Love-hate_Mashup_Mix_6.jpg",
+    "started_at": "2026-06-25T00:17:50Z",
+    "duration_seconds": 363
+  },
   "next_poll_seconds": 10
 }
