@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T16:08:24-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T16:11:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Cold Hearted",
-    "artist": "Paula Abdul",
-    "album": "Greatest Hits - Straight Up!",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paula_Abdul_-_Cold_Hearted.jpg",
-    "started_at": "2026-06-25T21:08:13Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
