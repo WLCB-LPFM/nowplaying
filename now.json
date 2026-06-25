@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-24T22:02:16-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-24T22:04:41-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "He\u2019s Funny That Way",
-    "artist": "Billie Holiday and Her Orchestra",
-    "album": "Int\u00e9grale Billy Holiday Lester Young 1937\u20131946",
-    "artwork_url": "",
-    "started_at": "2026-06-25T03:02:13.7661912Z",
-    "duration_seconds": 156,
-    "year": "1998"
+    "title": "He's Funny That Way",
+    "artist": "Lester Young",
+    "album": "Lester Young: Ken Burns Jazz",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lester_Young_-_He's_Funny_That_Way.jpg",
+    "started_at": "2026-06-25T03:02:26Z",
+    "duration_seconds": 160
   },
   "next_poll_seconds": 10
 }
