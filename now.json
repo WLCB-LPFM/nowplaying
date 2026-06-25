@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-25T01:51:55-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T01:52:07-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Summertime",
-    "artist": "Miles Davis",
-    "album": "Jazz Moods - Cool",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Summertime.jpg",
-    "started_at": "2026-06-25T06:49:02Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
