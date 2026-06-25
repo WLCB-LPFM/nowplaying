@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T15:39:24-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T15:41:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Without Me (Hardwell Tomorrowland 2018 Intro Bootleg)",
-    "artist": "Eminem, Hardwell",
-    "album": "Without Me (Hardwell Tomorrowland 2018 Intro Bootleg)",
-    "artwork_url": "null",
-    "started_at": "2026-06-25T20:38:57Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
