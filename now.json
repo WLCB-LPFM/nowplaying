@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T19:25:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-24T19:28:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Things We Do For Love",
+    "artist": "10cc",
+    "album": "The Greatest Hits..........And More",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/1/10cc_-_The_Things_We_Do_For_Love.jpg",
+    "started_at": "2026-06-25T00:28:14Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
