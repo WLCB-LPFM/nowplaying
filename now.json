@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T12:37:15-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T12:40:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "It Hurts Me Too (Live)",
-    "artist": "Sonny Landreth",
-    "album": "Live at the 2025 New Orleans Jazz & Heritage Festival",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sonny_Landreth_-_It_Hurts_Me_Too_(Live).jpg",
-    "started_at": "2026-06-26T17:36:55Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
