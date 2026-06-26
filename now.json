@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T12:28:18-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T12:30:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "57th Street",
+    "artist": "Brian Tarquin",
+    "album": "Last Kiss Goodbye",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brian_Tarquin_-_57th_Street.jpg",
+    "started_at": "2026-06-26T17:29:59Z",
+    "duration_seconds": 313
+  },
   "next_poll_seconds": 10
 }
