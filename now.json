@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-25T23:56:00-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-25T23:59:20-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Danny Boy",
-    "artist": "Bob Rockwell Quartet",
-    "album": "Bob's Ben - A Salute to Ben Webster",
-    "artwork_url": "",
-    "started_at": "2026-06-26T04:55:53.8261936Z",
-    "duration_seconds": 221,
-    "year": "2004"
+    "title": "Joana's Waltz",
+    "artist": "Wunsch feat. Strauch Sextet",
+    "album": "Joana's Waltz",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Wunsch_Feat._Strauch_Sextet.jpg",
+    "started_at": "2026-06-26T04:52:18Z",
+    "duration_seconds": 564
   },
   "next_poll_seconds": 10
 }
