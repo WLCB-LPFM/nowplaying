@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T20:12:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T20:17:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Piano Man (Remastered)",
-    "artist": "Billy Joel",
-    "album": "The Greatest Singer-Songwriter Classics",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_Joel.jpg",
-    "started_at": "2026-06-26T01:11:59Z",
-    "duration_seconds": 338
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
