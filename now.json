@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-26T05:41:59-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T05:44:02-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blue 7",
+    "artist": "Sonny Rollins",
+    "album": "Wilkins - Jazz: The Great American Art Form",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sonny_Rollins_-_Blue_7.jpg",
+    "started_at": "2026-06-26T10:43:49Z",
+    "duration_seconds": 672
+  },
   "next_poll_seconds": 10
 }
