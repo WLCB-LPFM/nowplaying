@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T16:24:45-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T16:25:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Peaceful Easy Feeling (1999 Remaster)",
+    "artist": "Eagles",
+    "album": "Peaceful Easy Feeling (1999 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eagles.jpg",
+    "started_at": "2026-06-26T21:24:50Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
