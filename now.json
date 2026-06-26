@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T15:10:15-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T15:11:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Helplessly Hoping (2005 Remaster)",
+    "artist": "Crosby, Stills & Nash",
+    "album": "Helplessly Hoping (2005 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Crosby,_Stills_&_Nash.jpg",
+    "started_at": "2026-06-26T20:10:41Z",
+    "duration_seconds": 158
+  },
   "next_poll_seconds": 10
 }
