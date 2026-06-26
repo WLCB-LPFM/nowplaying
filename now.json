@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T20:27:36-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T20:32:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Ringfinger",
-    "artist": "Nine Inch Nails",
-    "album": "Pretty Hate Machine",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nine_Inch_Nails_-_Ringfinger.jpg",
-    "started_at": "2026-06-26T01:27:23Z",
-    "duration_seconds": 342
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
