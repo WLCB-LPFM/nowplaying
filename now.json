@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T15:58:15-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T16:03:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "December, 1963 (Oh, What a Night) [2007 Remaster]",
+    "artist": "Frankie Valli & The Four Seasons",
+    "album": "December, 1963 (Oh, What a Night) [2007 Remaster]",
+    "artwork_url": "https://cdn.autopo.st/images/artists/f/Frankie_Valli_&_The_Four_Seasons.jpg",
+    "started_at": "2026-06-26T21:02:43Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
