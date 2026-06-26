@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T18:53:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T18:54:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Sorrow For Tomorrow",
+    "artist": "Thee Sacred Souls",
+    "album": "The Instrumentals",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thee_Sacred_Souls_-_Sorrow_For_Tomorrow.jpg",
+    "started_at": "2026-06-26T23:54:02Z",
+    "duration_seconds": 178
+  },
   "next_poll_seconds": 10
 }
