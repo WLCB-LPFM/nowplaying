@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T19:57:59-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T20:00:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wrapped In My Memory",
-    "artist": "Shawn Smith",
-    "album": "Shield of Thorns (Remastered 2022)",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d2fc4b56f7d10f51cd402e29fc2fa73f.png",
-    "started_at": "2026-06-26T00:57:41Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
