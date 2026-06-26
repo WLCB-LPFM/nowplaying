@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T07:00:03-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T07:00:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "1950",
+    "artist": "King Princess",
+    "album": "1950",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/King_Princess_-_1950.jpg",
+    "started_at": "2026-06-26T11:59:56Z",
+    "duration_seconds": 224
+  },
   "next_poll_seconds": 10
 }
