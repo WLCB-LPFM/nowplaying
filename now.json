@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T21:49:20-05:00",
-  "source": "fallback",
+  "generated": "2026-06-25T21:49:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Dream It's Over",
+    "artist": "Hurricane",
+    "album": "Love Dreams, Vol. 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hurricane_-_Don't_Dream_It's_Over.jpg",
+    "started_at": "2026-06-26T02:49:33Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
