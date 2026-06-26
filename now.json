@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T21:22:19-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T21:26:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Blind",
-    "artist": "Korn",
-    "album": "Korn",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Korn_-_Blind.jpg",
-    "started_at": "2026-06-26T02:22:01Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
