@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T13:14:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T13:14:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Whiskey, Beer & Wine",
+    "artist": "Buddy Guy",
+    "album": "Born To Play Guitar (Google Play Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_Whiskey,_Beer_&_Wine.jpg",
+    "started_at": "2026-06-26T18:14:13Z",
+    "duration_seconds": 270
+  },
   "next_poll_seconds": 10
 }
