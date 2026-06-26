@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T18:06:00-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T18:06:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Good to Me as I Am to You",
+    "artist": "Aretha Franklin",
+    "album": "Good to Me as I Am to You",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_Good_To_Me_As_I_Am_To_You.jpg",
+    "started_at": "2026-06-26T23:05:54Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
