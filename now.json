@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T17:40:08-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T17:40:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I'll Stick Around",
+    "artist": "Foo Fighters",
+    "album": "Foo Fighters",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foo_Fighters_-_I'll_Stick_Around.jpg",
+    "started_at": "2026-06-26T22:40:19Z",
+    "duration_seconds": 233
+  },
   "next_poll_seconds": 10
 }
