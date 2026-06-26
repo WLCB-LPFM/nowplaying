@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T17:20:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T17:20:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Miles Away",
+    "artist": "Fleetwood Mac",
+    "album": "Mystery to Me",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fleetwood_Mac_-_Miles_Away.jpg",
+    "started_at": "2026-06-26T22:20:09Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
