@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T19:03:34-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T19:09:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wake Up (Album Version)",
-    "artist": "Rage Against the Machine",
-    "album": "Rage Against The Machine",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Rage_Against_The_Machine.jpg",
-    "started_at": "2026-06-26T00:03:13Z",
-    "duration_seconds": 364
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
