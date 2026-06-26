@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T13:56:34-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T13:59:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Your Lady, She's Shady",
-    "artist": "JJ Grey",
-    "album": "This River",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jj_Grey.jpg",
-    "started_at": "2026-06-26T18:56:19Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
