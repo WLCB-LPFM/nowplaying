@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T15:19:57-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T15:20:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Stay With Me",
+    "artist": "Faces",
+    "album": "NOW 100 Hits Classic Rock",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Faces_-_Stay_With_Me.jpg",
+    "started_at": "2026-06-26T20:20:00Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
