@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T15:49:08-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T15:52:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Nothin' But The Taillights",
-    "artist": "Clint Black",
-    "album": "Super Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Clint_Black_-_Nothin'_But_The_Taillights.jpg",
-    "started_at": "2026-06-26T20:48:50Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
