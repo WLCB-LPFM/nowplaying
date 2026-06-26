@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T17:07:42-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T17:07:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Tick Tock",
+    "artist": "The Vaughan Brothers",
+    "album": "Family Style",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Vaughan_Brothers_-_Tick_Tock.jpg",
+    "started_at": "2026-06-26T22:07:35Z",
+    "duration_seconds": 297
+  },
   "next_poll_seconds": 10
 }
