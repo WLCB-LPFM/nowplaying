@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T12:14:00-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T12:16:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Say Goodbye",
-    "artist": "McKinley James",
-    "album": "Working Class Blues",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/1c908a500d1f946cda2236efbfce8640.png",
-    "started_at": "2026-06-26T17:13:43Z",
-    "duration_seconds": 188
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
