@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T19:52:25-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T19:57:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Goodnight Elisabeth",
-    "artist": "Counting Crows",
-    "album": "Recovering The Satellites",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Counting_Crows_-_Goodnight_Elisabeth.jpg",
-    "started_at": "2026-06-26T00:52:13Z",
-    "duration_seconds": 320
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
