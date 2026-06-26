@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-25T22:08:46-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T22:09:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Caribbean Sunset",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Caribbean_Sunset.jpg",
-    "started_at": "2026-06-26T03:04:31Z",
-    "duration_seconds": 301
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
