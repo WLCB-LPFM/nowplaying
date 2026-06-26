@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T15:06:43-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T15:07:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Listen to the Music",
+    "artist": "The Doobie Brothers",
+    "album": "Supercars Australia: Rock N Roll Party Anthems",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_Listen_To_The_Music.jpg",
+    "started_at": "2026-06-26T20:07:00Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
