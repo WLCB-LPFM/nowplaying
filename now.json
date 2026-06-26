@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T18:16:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T18:17:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Heavy Fallin' Out",
+    "artist": "The Stylistics",
+    "album": "The Best of The Stylistics",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Stylistics_-_Heavy_Fallin'_Out.jpg",
+    "started_at": "2026-06-26T23:16:58Z",
+    "duration_seconds": 316
+  },
   "next_poll_seconds": 10
 }
