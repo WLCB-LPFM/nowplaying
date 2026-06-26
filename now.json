@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T16:34:57-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T16:38:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "State Of Mind",
-    "artist": "Mike Campbell & The Dirty Knobs",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mike_Campbell_&_The_Dirty_Knobs.jpg",
-    "started_at": "2026-06-26T21:34:38Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
