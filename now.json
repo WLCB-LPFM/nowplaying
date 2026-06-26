@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T17:04:45-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T17:07:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Long Way from Home",
-    "artist": "The Vaughan Brothers",
-    "album": "Family Style",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Vaughan_Brothers_-_Long_Way_From_Home.jpg",
-    "started_at": "2026-06-26T22:04:33Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
