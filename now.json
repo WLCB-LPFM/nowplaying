@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T16:39:12-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T16:43:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Up Against The Wall, Red Neck",
-    "artist": "Jerry Jeff Walker",
-    "album": "Viva Terlingua",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jerry_Jeff_Walker_-_Up_Against_The_Wall,_Red_Neck.jpg",
-    "started_at": "2026-06-26T21:38:58Z",
-    "duration_seconds": 275
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
