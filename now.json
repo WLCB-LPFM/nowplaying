@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T15:39:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T15:39:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "We Had It All",
+    "artist": "Willie Nelson",
+    "album": "Outlaws And Angels",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/7281ada8a9764f72a680bd669980ae3e.png",
+    "started_at": "2026-06-26T20:39:31Z",
+    "duration_seconds": 200
+  },
   "next_poll_seconds": 10
 }
