@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T21:08:30-05:00",
-  "source": "autopost",
+  "generated": "2026-06-25T21:11:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Search & Destroy",
-    "artist": "KMFDM",
-    "album": "Nihil",
-    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kmfdm.jpg",
-    "started_at": "2026-06-26T02:08:08Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
