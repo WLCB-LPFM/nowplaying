@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T14:33:41-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T14:38:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I Can't Stand It",
-    "artist": "Bobby Rush",
-    "album": "All My Love For You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Rush_-_I_Can't_Stand_It.jpg",
-    "started_at": "2026-06-26T19:33:23Z",
-    "duration_seconds": 313
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
