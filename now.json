@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-26T01:20:55-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T01:21:30-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Maple Leaf Rag",
+    "artist": "Jelly Roll Morton",
+    "album": "The Smithsonian Collection of Classic Jazz",
+    "artwork_url": "",
+    "started_at": "2026-06-26T06:21:27.5686751Z",
+    "duration_seconds": 152,
+    "year": "1973"
+  },
   "next_poll_seconds": 10
 }
