@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T18:23:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T18:30:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "I'll Play The Blues For You (Parts 1 & 2)",
-    "artist": "Albert King",
-    "album": "I'll Play The Blues For You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Albert_King_-_I'll_Play_The_Blues_For_You_(Parts_1_&_2).jpg",
-    "started_at": "2026-06-26T23:23:02Z",
-    "duration_seconds": 437
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
