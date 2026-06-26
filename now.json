@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T18:56:51-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T18:57:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Shou Shou Do",
+    "artist": "Josh Hoyer and Soul Colossal",
+    "album": "Green Light",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Josh_Hoyer_And_Soul_Colossal.jpg",
+    "started_at": "2026-06-26T23:56:51Z",
+    "duration_seconds": 224
+  },
   "next_poll_seconds": 10
 }
