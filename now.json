@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T13:21:50-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T13:23:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Born Under A Bad Sign",
+    "artist": "Pat Travers",
+    "album": "Crash And Burn",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pat_Travers_-_Born_Under_A_Bad_Sign.jpg",
+    "started_at": "2026-06-26T18:23:19Z",
+    "duration_seconds": 347
+  },
   "next_poll_seconds": 10
 }
