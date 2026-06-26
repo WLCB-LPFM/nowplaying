@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T17:52:35-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T17:57:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sex On Wheelz",
-    "artist": "My Life With the Thrill Kill Kult",
-    "album": "Sexplosion",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/My_Life_With_The_Thrill_Kill_Kult_-_Sex_On_Wheelz.jpg",
-    "started_at": "2026-06-26T22:52:15Z",
-    "duration_seconds": 300
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
