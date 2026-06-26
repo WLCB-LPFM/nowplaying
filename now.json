@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T16:48:05-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T16:51:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Redneck Side of Me",
-    "artist": "Jamey Johnson",
-    "album": "The Dollar",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jamey_Johnson_-_Redneck_Side_Of_Me.jpg",
-    "started_at": "2026-06-26T21:47:51Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
