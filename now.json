@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T12:51:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T12:57:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Leaving Here Walking",
-    "artist": "Jimmy Burns",
-    "album": "Live At B.L.U.E.S.",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Burns_-_Leaving_Here_Walking.jpg",
-    "started_at": "2026-06-26T17:51:40Z",
-    "duration_seconds": 389
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
