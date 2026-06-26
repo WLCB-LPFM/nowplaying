@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T21:45:59-05:00",
-  "source": "fallback",
+  "generated": "2026-06-25T21:46:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Disappearing Ones",
+    "artist": "RNDM",
+    "album": "Acts",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rndm_-_The_Disappearing_Ones.jpg",
+    "started_at": "2026-06-26T02:46:18Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
