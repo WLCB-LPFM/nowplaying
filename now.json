@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T14:12:46-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T14:13:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Rilly Groovy",
+    "artist": "Beautiful People",
+    "album": "If 60's Were 90's",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beautiful_People_-_Rilly_Groovy.jpg",
+    "started_at": "2026-06-26T19:13:01Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
