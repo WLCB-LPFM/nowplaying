@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T18:13:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T18:14:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Way You Do The Things You Do",
+    "artist": "The Temptations",
+    "album": "Anthology",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_The_Way_You_Do_The_Things_You_Do.jpg",
+    "started_at": "2026-06-26T23:14:09Z",
+    "duration_seconds": 162
+  },
   "next_poll_seconds": 10
 }
