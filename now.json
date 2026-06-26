@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T18:10:06-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T18:13:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "I Can't Get Next To You",
-    "artist": "Al Green",
-    "album": "Gets Next To You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Green_-_I_Can't_Get_Next_To_You.jpg",
-    "started_at": "2026-06-26T23:09:49Z",
-    "duration_seconds": 229
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
