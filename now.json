@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-26T00:35:47-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T00:37:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Django",
-    "artist": "Modern Jazz Quartet",
-    "album": "The Roots of Mod",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Modern_Jazz_Quartet_-_Django.jpg",
-    "started_at": "2026-06-26T05:31:46Z",
-    "duration_seconds": 326
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
