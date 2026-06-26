@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T16:09:32-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T16:11:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Crazy Love",
+    "artist": "Van Morrison",
+    "album": "Moondance",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Morrison_-_Crazy_Love.jpg",
+    "started_at": "2026-06-26T21:11:23Z",
+    "duration_seconds": 155
+  },
   "next_poll_seconds": 10
 }
