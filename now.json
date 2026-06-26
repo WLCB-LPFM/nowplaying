@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T15:46:20-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T15:48:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Slide Off Of Your Satin",
-    "artist": "Johnny Paycheck",
-    "album": "Slide off Your Satin Sheets",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Paycheck_-_Slide_Off_Of_Your_Satin.jpg",
-    "started_at": "2026-06-26T20:46:01Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
