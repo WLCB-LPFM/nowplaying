@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T14:16:29-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T14:22:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Electric Church Red House",
-    "artist": "Jimi Hendrix",
-    "album": "Blues",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimi_Hendrix_-_Electric_Church_Red_House.jpg",
-    "started_at": "2026-06-26T19:16:16Z",
-    "duration_seconds": 372
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
