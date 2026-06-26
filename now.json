@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T12:04:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T12:08:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Gettin' My Blues On",
-    "artist": "Johnny Burgin",
-    "album": "Ramblin' From Coast to Coast",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Burgin_-_Gettin'_My_Blues_On.jpg",
-    "started_at": "2026-06-26T17:04:37Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
