@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T17:29:00-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T17:30:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Good Times Are Better",
-    "artist": "Nils",
-    "album": "Caught in the Groove",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nils_-_Good_Times_Are_Better.jpg",
-    "started_at": "2026-06-26T22:28:50Z",
-    "duration_seconds": 229
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
