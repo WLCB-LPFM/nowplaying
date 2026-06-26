@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T19:37:25-05:00",
-  "source": "fallback",
+  "generated": "2026-06-25T19:39:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Into The Mystic",
+    "artist": "Van Morrison",
+    "album": "Moondance (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Morrison_-_Into_The_Mystic.jpg",
+    "started_at": "2026-06-26T00:39:26Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
