@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T19:03:45-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T19:07:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "As the Raven Flies",
-    "artist": "Dan Fogelberg",
-    "album": "The Essential Dan Fogelberg",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dan_Fogelberg_-_As_The_Raven_Flies.jpg",
-    "started_at": "2026-06-27T00:03:35Z",
-    "duration_seconds": 269
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
