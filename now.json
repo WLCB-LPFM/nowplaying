@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T19:08:28-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T19:12:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Black Water",
-    "artist": "The Doobie Brothers",
-    "album": "Best of the Doobies",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_Black_Water.jpg",
-    "started_at": "2026-06-27T00:08:08Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
