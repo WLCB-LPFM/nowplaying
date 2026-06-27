@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T11:47:26-05:00",
-  "source": "fallback",
+  "generated": "2026-06-27T11:52:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "The Way You Do The Things You Do",
+    "artist": "The Temptations",
+    "album": "Say It Loud! A Celebration Of Black Music In America: Soundtrack From The Documentary Series",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_The_Way_You_Do_The_Things_You_Do.jpg",
+    "started_at": "2026-06-27T16:51:45Z",
+    "duration_seconds": 164
+  },
   "next_poll_seconds": 10
 }
