@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-26T23:34:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T23:40:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "File Under Purple",
+    "artist": "Peter Fuglsang",
+    "album": "File Under Purple",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Peter_Fuglsang.jpg",
+    "started_at": "2026-06-27T04:40:18Z",
+    "duration_seconds": 311
+  },
   "next_poll_seconds": 10
 }
