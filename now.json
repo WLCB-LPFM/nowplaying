@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T19:49:53-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T19:52:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Beat The Time",
-    "artist": "Edie Brickell & New Bohemians",
-    "album": "Shooting Rubberbands At The Stars",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Edie_Brickell_&_New_Bohemians.jpg",
-    "started_at": "2026-06-27T00:49:35Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
