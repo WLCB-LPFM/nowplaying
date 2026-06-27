@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-26T23:00:04-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T23:09:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Doggin' Around",
+    "artist": "Count Basie",
+    "album": "Best of Count Basie the Golden Years",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_Doggin'_Around.jpg",
+    "started_at": "2026-06-27T04:09:44Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
