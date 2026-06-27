@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T09:03:15-05:00",
-  "source": "autopost",
+  "generated": "2026-06-27T09:07:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-    "artist": "Elton John",
-    "album": "Honky Chateau",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elton_John_-_Rocket_Man_(I_Think_It's_Going_To_Be_A_Long,_Long_Time).jpg",
-    "started_at": "2026-06-27T14:03:02Z",
-    "duration_seconds": 281
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
