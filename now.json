@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T18:56:50-05:00",
-  "source": "autopost",
+  "generated": "2026-06-27T18:58:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Me And You",
-    "artist": "Tony! Toni! Ton\u00e9!",
-    "album": "Boyz N The Hood Motion Picture Sound Track",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tony!_Toni!_Ton\u00e9!.jpg",
-    "started_at": "2026-06-27T23:56:33Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
