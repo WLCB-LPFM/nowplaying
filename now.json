@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T19:25:53-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T19:28:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Fumblin' With The Blues",
-    "artist": "Tom Waits",
-    "album": "The Heart Of Saturday Night",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Waits_-_Fumblin'_With_The_Blues.jpg",
-    "started_at": "2026-06-27T00:25:42Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
