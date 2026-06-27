@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T20:11:20-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T20:11:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Sound of Settling",
+    "artist": "Death Cab for Cutie",
+    "album": "Transatlanticism",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Death_Cab_For_Cutie_-_The_Sound_Of_Settling.jpg",
+    "started_at": "2026-06-27T01:11:42Z",
+    "duration_seconds": 132
+  },
   "next_poll_seconds": 10
 }
