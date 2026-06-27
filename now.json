@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T21:42:08-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T21:48:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Bullets",
-    "artist": "Stoney Curtis Band",
-    "album": "Acid Blues Experience",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stoney_Curtis_Band_-_Bullets.jpg",
-    "started_at": "2026-06-27T02:41:48Z",
-    "duration_seconds": 442
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
