@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T11:42:28-05:00",
-  "source": "autopost",
+  "generated": "2026-06-27T11:47:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Don't Push It Don't Force It",
-    "artist": "Leon Haywood",
-    "album": "The Best Of Leon Haywood",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Leon_Haywood_-_Don't_Push_It_Don't_Force_It.jpg",
-    "started_at": "2026-06-27T16:42:13Z",
-    "duration_seconds": 327
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
