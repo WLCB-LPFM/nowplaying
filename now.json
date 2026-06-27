@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T21:32:51-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T21:33:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Steamy Windows",
+    "artist": "Tina Turner",
+    "album": "Tina Live",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tina_Turner_-_Steamy_Windows.jpg",
+    "started_at": "2026-06-27T02:33:33Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
