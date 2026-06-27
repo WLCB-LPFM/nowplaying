@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T19:41:22-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T19:41:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Billy's Revenge (2006 Remaster)",
+    "artist": "Robert Plant",
+    "album": "Billy's Revenge (2006 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Robert_Plant.jpg",
+    "started_at": "2026-06-27T00:41:33Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
