@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-27T06:45:39-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-27T06:48:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Power",
-    "artist": "Snap!",
-    "album": "Coyote Ugly",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snap_-_The_Power.jpg",
-    "started_at": "2026-06-27T11:45:17.6023898Z",
-    "duration_seconds": 217,
-    "year": "2024"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
