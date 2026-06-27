@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T08:07:33-05:00",
-  "source": "fallback",
+  "generated": "2026-06-27T08:34:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Honky Cat",
+    "artist": "Elton John",
+    "album": "Honky Chateau",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elton_John_-_Honky_Cat.jpg",
+    "started_at": "2026-06-27T13:33:59Z",
+    "duration_seconds": 313
+  },
   "next_poll_seconds": 10
 }
