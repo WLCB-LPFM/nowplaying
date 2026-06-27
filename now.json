@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T19:33:33-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T19:38:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "When You Come",
-    "artist": "Crowded House",
-    "album": "Crowded House/Temple of Low/Woodface",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Crowded_House_-_When_You_Come.jpg",
-    "started_at": "2026-06-27T00:33:19Z",
-    "duration_seconds": 290
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
