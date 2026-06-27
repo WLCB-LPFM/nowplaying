@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T20:22:40-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T20:23:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Give It Up",
+    "artist": "LCD Soundsystem",
+    "album": "LCD Soundsystem",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lcd_Soundsystem_-_Give_It_Up.jpg",
+    "started_at": "2026-06-27T01:22:45Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
