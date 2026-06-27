@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T19:21:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-26T19:21:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Can Help",
+    "artist": "Billy Swan",
+    "album": "Always On My Mind: A Tribute To Elvis Presley",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Swan_-_I_Can_Help.jpg",
+    "started_at": "2026-06-27T00:21:21Z",
+    "duration_seconds": 239
+  },
   "next_poll_seconds": 10
 }
