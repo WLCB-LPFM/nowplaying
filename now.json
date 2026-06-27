@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T11:30:30-05:00",
-  "source": "fallback",
+  "generated": "2026-06-27T11:34:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Tell Me Something Good",
+    "artist": "Rufus",
+    "album": "The Very Best Of Rufus Featuring Chaka Khan",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rufus_-_Tell_Me_Something_Good.jpg",
+    "started_at": "2026-06-27T16:34:24Z",
+    "duration_seconds": 275
+  },
   "next_poll_seconds": 10
 }
