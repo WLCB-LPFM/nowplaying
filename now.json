@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T20:03:23-05:00",
-  "source": "autopost",
+  "generated": "2026-06-26T20:07:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "What Was I Thinkin'",
-    "artist": "Dierks Bentley",
-    "album": "Dierks Bentley",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dierks_Bentley_-_What_Was_I_Thinkin'.jpg",
-    "started_at": "2026-06-27T01:03:14Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
