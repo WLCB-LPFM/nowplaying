@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-27T02:38:11-05:00",
-  "source": "fallback",
+  "generated": "2026-06-27T02:40:35-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Haitian Fight Song",
+    "artist": "Charles Mingus",
+    "album": "The Ultimate Best of Charles's Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charles_Mingus_-_Haitian_Fight_Song.jpg",
+    "started_at": "2026-06-27T07:40:17Z",
+    "duration_seconds": 725
+  },
   "next_poll_seconds": 10
 }
