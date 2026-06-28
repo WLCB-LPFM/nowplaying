@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T21:19:10-05:00",
-  "source": "fallback",
+  "generated": "2026-06-27T21:19:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Early In The Morning",
+    "artist": "The Gap Band",
+    "album": "The Best Of The Gap Band",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Gap_Band_-_Early_In_The_Morning.jpg",
+    "started_at": "2026-06-28T02:19:02Z",
+    "duration_seconds": 459
+  },
   "next_poll_seconds": 10
 }
