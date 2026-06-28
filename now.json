@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-28T07:09:35-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-28T07:12:01-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "This Is the Beginning of the End (1940)",
-    "artist": "Buddy Clark",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-28T12:09:24.4834349Z",
-    "duration_seconds": 162,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
