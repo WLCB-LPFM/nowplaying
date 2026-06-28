@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:03:26-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T18:05:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Got The Feelin'",
-    "artist": "James Brown",
-    "album": "Soul Legends",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_I_Got_The_Feelin'.jpg",
-    "started_at": "2026-06-28T23:03:08Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
