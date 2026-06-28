@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T22:14:06-05:00",
-  "source": "fallback",
+  "generated": "2026-06-27T22:14:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Alone Together",
+    "artist": "Ron Carter",
+    "album": "Standard Bearer",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/ad7e1fe5504e448eb66294850f08de61.png",
+    "started_at": "2026-06-28T03:14:22Z",
+    "duration_seconds": 557
+  },
   "next_poll_seconds": 10
 }
