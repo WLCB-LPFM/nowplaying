@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T21:03:51-05:00",
-  "source": "fallback",
+  "generated": "2026-06-27T21:13:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "And The Beat Goes On",
+    "artist": "The Whispers",
+    "album": "Radio Kiss Kiss pres. Legendary Disco",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Whispers_-_And_The_Beat_Goes_On.jpg",
+    "started_at": "2026-06-28T02:13:37Z",
+    "duration_seconds": 293
+  },
   "next_poll_seconds": 10
 }
