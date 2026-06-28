@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:09:44-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T18:11:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Let Me Love You Baby",
-    "artist": "Stevie Ray Vaughan & Double Trouble",
-    "album": "In Step",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_Let_Me_Love_You_Baby.jpg",
-    "started_at": "2026-06-28T23:09:26Z",
-    "duration_seconds": 162
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
