@@ -1,18 +1,9 @@
 {
-  "generated": "2026-06-27T22:48:40-05:00",
+  "generated": "2026-06-27T23:00:06-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Late Night Chicago Radio",
-    "hosts": [
-      "Denny Farrell"
-    ],
-    "automated": false,
-    "starts": "22:00",
-    "ends": "23:00",
-    "genre": "Jazz"
-  },
+  "show": null,
   "track": {
     "title": "Sing Sing Sing",
     "artist": "Benny Goodman",
