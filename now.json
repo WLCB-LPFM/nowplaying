@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T20:06:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-27T20:07:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Left, Right, Left (Radio Edit)",
+    "artist": "Drama",
+    "album": "Left, Right, Left (Radio Edit)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d8c1c5085926479eba3646123bed5833.png",
+    "started_at": "2026-06-28T01:07:03Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
