@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-28T06:47:21-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T06:48:06-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Why Can't You Do It Right Now",
+    "artist": "Tommy Doyle and his Rhythm Toppers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-28T11:47:58.0220683Z",
+    "duration_seconds": 150,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
