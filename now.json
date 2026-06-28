@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:19:53-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T18:23:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Wait A Minute Baby",
-    "artist": "Buckwheat Zydeco",
-    "album": "Wait A Minute Baby",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/e914df322f9b0be8e35f308c5eb14c4b.png",
-    "started_at": "2026-06-28T23:19:37Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
