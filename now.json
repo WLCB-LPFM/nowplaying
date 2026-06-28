@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:06:02-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T18:09:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "My Baby Don't Tolerate",
-    "artist": "Lyle Lovett",
-    "album": "My Baby Don't Tolerate",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lyle_Lovett_-_My_Baby_Don't_Tolerate.jpg",
-    "started_at": "2026-06-28T23:05:44Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
