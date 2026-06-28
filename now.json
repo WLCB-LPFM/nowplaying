@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T09:18:05-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T09:21:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Thanks For Everything",
-    "artist": "Artie Shaw",
-    "album": "Dancing With The Ballroom Stars",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Artie_Shaw_-_Thanks_For_Everything.jpg",
-    "started_at": "2026-06-28T14:17:55Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
