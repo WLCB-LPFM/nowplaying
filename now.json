@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T09:21:25-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T09:30:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Jumpin Jive",
+    "artist": "Cab Calloway",
+    "album": "Je n'aime toujours pas le jazz mais \u00e7a j'aime bien",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cab_Calloway.jpg",
+    "started_at": "2026-06-28T14:30:29Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
