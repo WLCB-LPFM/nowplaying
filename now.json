@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-28T07:18:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-28T07:20:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Let's All Sing Together (1940)",
-    "artist": "Happy Felton and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-28T12:18:19.8739458Z",
-    "duration_seconds": 165,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
