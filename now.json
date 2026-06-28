@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:12:31-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T18:16:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "You Are The Best Thing",
-    "artist": "Ray LaMontagne",
-    "album": "Gossip in The Grain",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Lamontagne_-_You_Are_The_Best_Thing.jpg",
-    "started_at": "2026-06-28T23:12:15Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
