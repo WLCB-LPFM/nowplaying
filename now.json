@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:43:22-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T18:46:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Mother of Violence (Single Mix)",
-    "artist": "Peter Gabriel",
-    "album": "Flotsam and Jetsam",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/481a6a33fba9acb36877fb72afca1879.png",
-    "started_at": "2026-06-28T23:43:04Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
