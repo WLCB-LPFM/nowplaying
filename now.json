@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-28T14:14:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-28T14:17:07-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Last Time I Saw Paris",
-    "artist": "Noel Coward; Hammerstein 2nd",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-28T19:14:11.3726539Z",
-    "duration_seconds": 180,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
