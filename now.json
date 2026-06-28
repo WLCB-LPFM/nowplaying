@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-28T14:05:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-28T14:08:32-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "This is No Laughing Matter",
-    "artist": "Glenn Miller and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-28T19:05:33.1602086Z",
-    "duration_seconds": 188,
-    "year": "1942"
+    "title": "This Is No Laughing Matter",
+    "artist": "Glenn Miller",
+    "album": "Everything I Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_This_Is_No_Laughing_Matter.jpg",
+    "started_at": "2026-06-28T19:05:42Z",
+    "duration_seconds": 193
   },
   "next_poll_seconds": 10
 }
