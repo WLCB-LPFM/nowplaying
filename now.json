@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T20:22:02-05:00",
-  "source": "autopost",
+  "generated": "2026-06-27T20:25:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Loyal To The Game",
-    "artist": "2Pac",
-    "album": "Loyal To The Game",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/2/2pac_-_Loyal_To_The_Game.jpg",
-    "started_at": "2026-06-28T01:21:48Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
