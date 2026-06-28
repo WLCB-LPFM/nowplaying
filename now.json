@@ -1,18 +1,17 @@
 {
-  "generated": "2026-06-28T11:00:07-05:00",
-  "source": "fallback",
-  "mode": "rebroadcast",
+  "generated": "2026-06-28T14:00:09-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Radio Roots",
-    "hosts": [
-      "Rick Hagerty"
-    ],
-    "automated": false,
-    "starts": "11:00",
-    "ends": "14:00",
-    "genre": "OTR"
+  "show": null,
+  "track": {
+    "title": "I, YI, YI, YI, YI (I Like You very much)",
+    "artist": "Xavier Cugat and His Waldorf Astoria Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-28T19:00:07.3216334Z",
+    "duration_seconds": 180,
+    "year": "1941"
   },
-  "track": null,
   "next_poll_seconds": 10
 }
