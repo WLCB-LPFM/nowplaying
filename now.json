@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T21:45:32-05:00",
-  "source": "autopost",
+  "generated": "2026-06-27T21:50:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "(There You Go) Tellin' Me No Again",
-    "artist": "Keith Sweat",
-    "album": "(There You Go) Tellin' Me No Again",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Keith_Sweat_-_(There_You_Go)_Tellin'_Me_No_Again.jpg",
-    "started_at": "2026-06-28T02:45:16Z",
-    "duration_seconds": 308
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
