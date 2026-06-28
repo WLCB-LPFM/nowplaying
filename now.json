@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:00:05-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T18:02:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Baby Elephant Walk",
+    "artist": "Henry Mancini & His Orchestra",
+    "album": "All Time Greatest Hits, Vol. 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Henry_Mancini_&_His_Orchestra_-_Baby_Elephant_Walk.jpg",
+    "started_at": "2026-06-28T23:02:29Z",
+    "duration_seconds": 160
+  },
   "next_poll_seconds": 10
 }
