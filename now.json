@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-28T14:10:47-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T14:10:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "'Tis Autumn",
+    "artist": "Bunny Berigan and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-28T19:10:58.5000251Z",
+    "duration_seconds": 192,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
