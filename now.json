@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T16:01:48-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T16:06:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Breezin' (2015 GH Version)",
-    "artist": "George Benson",
-    "album": "The Ultimate Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Benson_-_Breezin'_(2015_Gh_Version).jpg",
-    "started_at": "2026-06-28T21:01:30Z",
-    "duration_seconds": 321
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
