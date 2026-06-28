@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-28T07:39:55-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-28T07:42:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "A House with a Little Red Barn (1940)",
-    "artist": "Johnny Green and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-28T12:39:47.3681232Z",
-    "duration_seconds": 147,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
