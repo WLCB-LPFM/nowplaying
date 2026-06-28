@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-28T07:51:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-28T07:53:43-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Sometimes",
-    "artist": "Vincent Lopez and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-28T12:51:10.6707438Z",
-    "duration_seconds": 157,
-    "year": "1941"
+    "artist": "Vincent Lopez",
+    "album": "All the Best",
+    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vincent_Lopez.jpg",
+    "started_at": "2026-06-28T12:51:24Z",
+    "duration_seconds": 162
   },
   "next_poll_seconds": 10
 }
