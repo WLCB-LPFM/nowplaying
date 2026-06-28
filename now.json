@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:23:23-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T18:24:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Worry Baby",
+    "artist": "Los Lobos",
+    "album": "Don't Worry Baby",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Los_Lobos_-_Don't_Worry_Baby.jpg",
+    "started_at": "2026-06-28T23:23:57Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
