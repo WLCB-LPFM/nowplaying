@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-28T08:38:02-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T08:38:14-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "When Manuel Shakes His Maracas",
-    "artist": "The Good Fellows,Harold Grant and His Orchestra",
-    "album": "Perfect Harmony",
-    "artwork_url": "null",
-    "started_at": "2026-06-28T13:35:38Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
