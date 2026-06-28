@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:51:28-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T18:52:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "As It Is",
+    "artist": "Pat Metheny Group",
+    "album": "As It Is",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pat_Metheny_Group_-_As_It_Is.jpg",
+    "started_at": "2026-06-28T23:51:44Z",
+    "duration_seconds": 461
+  },
   "next_poll_seconds": 10
 }
