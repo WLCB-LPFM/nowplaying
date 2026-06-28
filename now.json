@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-28T06:17:41-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-28T06:21:35-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rumba Fanatasy",
-    "artist": "Andre Kostelanetz and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-28T11:17:34.7026413Z",
-    "duration_seconds": 248,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
