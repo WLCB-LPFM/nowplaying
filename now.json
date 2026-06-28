@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-28T14:59:50-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T15:02:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Honysuckle Rose (1940)",
+    "artist": "Antoine-Gibbs Quartet; Waller-Rozaf",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-28T20:02:08.8231796Z",
+    "duration_seconds": 154,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
