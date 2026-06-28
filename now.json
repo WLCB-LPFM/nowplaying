@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-28T14:52:21-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T14:52:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "He's a Tough Hombre (1940)",
+    "artist": "Jimmie Livingston and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-28T19:52:31.7033106Z",
+    "duration_seconds": 150,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
