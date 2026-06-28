@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T21:15:18-05:00",
-  "source": "autopost",
+  "generated": "2026-06-27T21:19:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "So Fine",
-    "artist": "Howard Johnson",
-    "album": "Funk Classics The 80's",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Howard_Johnson_-_So_Fine.jpg",
-    "started_at": "2026-06-28T02:15:08Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
