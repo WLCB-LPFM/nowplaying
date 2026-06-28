@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T09:11:46-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T09:17:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Boop-Boop Dit-Tem Dot-Tem What-Tem Chu! Three Little Fishies (Itty Bitty Poo)",
+    "artist": "Ginny Simms",
+    "album": "Ginny Simms",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Ginny_Simms.jpg",
+    "started_at": "2026-06-28T14:16:50Z",
+    "duration_seconds": 190
+  },
   "next_poll_seconds": 10
 }
