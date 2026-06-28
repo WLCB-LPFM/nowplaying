@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-28T06:35:58-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-28T06:38:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Fable of the Rose (1940)",
-    "artist": "Buster Bailey and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-28T11:35:55.5893786Z",
-    "duration_seconds": 177,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
