@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-28T08:27:56-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T08:30:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Take Me Home",
+    "artist": "Barry Sisters; Harold Grant & his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-28T13:30:04.3685237Z",
+    "duration_seconds": 156,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
