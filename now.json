@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:54:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T21:57:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Discovering Japan",
-    "artist": "Graham Parker & The Rumour",
-    "album": "Master Hits",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Graham_Parker_&_The_Rumour.jpg",
-    "started_at": "2026-06-29T02:53:54Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
