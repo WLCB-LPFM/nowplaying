@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T17:39:36-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T17:39:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Don't Know My Name",
+    "artist": "Grace VanderWaal",
+    "album": "Veertig Hits Volume 3",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grace_Vanderwaal_-_I_Don't_Know_My_Name.jpg",
+    "started_at": "2026-06-29T22:39:39Z",
+    "duration_seconds": 150
+  },
   "next_poll_seconds": 10
 }
