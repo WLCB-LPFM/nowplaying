@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T20:25:49-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T20:26:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Great Gig in the Sky",
+    "artist": "Pink Floyd",
+    "album": "A Foot in the Door: The Best of Pink Floyd",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_The_Great_Gig_In_The_Sky.jpg",
+    "started_at": "2026-06-29T01:26:42Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
