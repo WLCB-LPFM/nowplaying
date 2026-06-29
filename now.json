@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:19:20-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T21:20:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Chasin' the Voodoo",
+    "artist": "Al Di Meola",
+    "album": "Casino",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Di_Meola_-_Chasin'_The_Voodoo.jpg",
+    "started_at": "2026-06-29T02:20:02Z",
+    "duration_seconds": 305
+  },
   "next_poll_seconds": 10
 }
