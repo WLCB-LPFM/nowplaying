@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T19:43:19-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T19:44:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "March on for Pax Ramona",
+    "artist": "Psychedelic Porn Crumpets",
+    "album": "March on for Pax Ramona",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Psychedelic_Porn_Crumpets_-_March_On_For_Pax_Ramona.jpg",
+    "started_at": "2026-06-29T00:44:25Z",
+    "duration_seconds": 273
+  },
   "next_poll_seconds": 10
 }
