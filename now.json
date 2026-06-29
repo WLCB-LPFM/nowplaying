@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T20:53:53-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T20:54:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Buick McCane",
+    "artist": "T. Rex",
+    "album": "The Slider",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/T._Rex_-_Buick_Mccane.jpg",
+    "started_at": "2026-06-29T01:54:01Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
