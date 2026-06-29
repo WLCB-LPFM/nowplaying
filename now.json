@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T20:19:08-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T20:19:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Growin' Up (Album Version)",
+    "artist": "Bruce Springsteen",
+    "album": "Darkness On The Edge Of Town / The Wild, The Innocent And The E Street Shuffle / Greetings From Asbury Park N.J.",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bruce_Springsteen.jpg",
+    "started_at": "2026-06-29T01:19:07Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
