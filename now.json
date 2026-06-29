@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-29T02:44:28-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-29T02:47:38-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Don't Be That Way",
-    "artist": "Delicatessen",
-    "album": "My Baby Just Cares for Me",
-    "artwork_url": "",
-    "started_at": "2026-06-29T07:44:18.6344005Z",
-    "duration_seconds": 212,
-    "year": "2008"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
