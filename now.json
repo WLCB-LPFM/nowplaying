@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:09:53-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T21:13:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Waiting On A Friend",
-    "artist": "The Rolling Stones",
-    "album": "Jump Back - The Best Of The Rolling Stones, '71 - '93",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Waiting_On_A_Friend.jpg",
-    "started_at": "2026-06-29T02:09:38Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
