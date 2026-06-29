@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:48:20-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T21:49:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Preaching Blues (Up Jumped The Devil)",
+    "artist": "John Hammond",
+    "album": "At The Crossroads: The Blues Of Robert Johnson",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/be90e093eb6d4d08b794ac5f24383217.png",
+    "started_at": "2026-06-29T02:49:07Z",
+    "duration_seconds": 263
+  },
   "next_poll_seconds": 10
 }
