@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T16:29:01-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T16:30:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Kings & Queens (Fairlane Remix)",
+    "artist": "Ava Max",
+    "album": "Kings & Queens (The Remixes)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ava_Max_-_Kings_&_Queens_(Fairlane_Remix).jpg",
+    "started_at": "2026-06-29T21:30:42Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
