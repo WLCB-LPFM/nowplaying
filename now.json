@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-29T12:13:37-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T12:14:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "That's The Way (I Like It)",
+    "artist": "KC & The Sunshine Band",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-29T17:13:49.8474997Z",
+    "duration_seconds": 173,
+    "year": "2010"
+  },
   "next_poll_seconds": 10
 }
