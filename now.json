@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T19:32:54-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T19:37:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "When A Good Man Cries",
-    "artist": "CMAT",
-    "album": "EURO-COUNTRY",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cmat_-_When_A_Good_Man_Cries.jpg",
-    "started_at": "2026-06-29T00:32:43Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
