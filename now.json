@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T19:08:04-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T19:11:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Derecho Demonico",
-    "artist": "Jack White",
-    "album": "G.O.D. And The Broken Ribs / Derecho Demonico",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jack_White_-_Derecho_Demonico.jpg",
-    "started_at": "2026-06-29T00:07:47Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
