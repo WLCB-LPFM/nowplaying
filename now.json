@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-29T12:00:08-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T12:02:23-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Who Can It Be Now",
+    "artist": "Men at Work",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-29T17:02:13.7035262Z",
+    "duration_seconds": 192,
+    "year": "1981"
+  },
   "next_poll_seconds": 10
 }
