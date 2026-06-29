@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:57:14-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T21:58:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Supergroovalisticprosifunkstication (The Bumps Bump)",
+    "artist": "Parliament",
+    "album": "Mothership Connection",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Parliament.jpg",
+    "started_at": "2026-06-29T02:58:27Z",
+    "duration_seconds": 302
+  },
   "next_poll_seconds": 10
 }
