@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T20:11:31-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T20:13:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "You're Gonna Make Me Lonesome When You Go",
-    "artist": "Bob Dylan",
-    "album": "Blood On The Tracks",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Dylan_-_You're_Gonna_Make_Me_Lonesome_When_You_Go.jpg",
-    "started_at": "2026-06-29T01:11:18Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
