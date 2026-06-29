@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:44:38-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T21:48:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Mama Gets High",
-    "artist": "Blood, Sweat & Tears",
-    "album": "B, S & T; 4",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blood,_Sweat_&_Tears.jpg",
-    "started_at": "2026-06-29T02:44:21Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
