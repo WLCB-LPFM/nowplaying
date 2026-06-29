@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:13:57-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T21:14:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Songs From The Wood",
+    "artist": "Jethro Tull",
+    "album": "The Anniversary Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jethro_Tull_-_Songs_From_The_Wood.jpg",
+    "started_at": "2026-06-29T02:14:37Z",
+    "duration_seconds": 293
+  },
   "next_poll_seconds": 10
 }
