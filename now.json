@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T20:04:05-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T20:06:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Today I Sing the Blues",
-    "artist": "Aretha Franklin",
-    "album": "Blues Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_Today_I_Sing_The_Blues.jpg",
-    "started_at": "2026-06-29T01:03:56Z",
-    "duration_seconds": 166
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
