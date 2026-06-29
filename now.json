@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:38:06-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T21:40:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Light My Fire",
-    "artist": "Clarence Carter",
-    "album": "Light My Fire",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Clarence_Carter_-_Light_My_Fire.jpg",
-    "started_at": "2026-06-29T02:37:51Z",
-    "duration_seconds": 168
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
