@@ -1,17 +1,25 @@
 {
-  "generated": "2026-06-29T06:57:11-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-06-29T07:00:09-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
     "title": "Pour Some Sugar On Me",
     "artist": "Def Leppard",
     "album": "Hairy Bikers Roadtrip",
     "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Pour_Some_Sugar_On_Me.jpg",
-    "started_at": "2026-06-29T11:56:07.5602931Z",
-    "duration_seconds": 253,
-    "year": ""
+    "started_at": "2026-06-29T11:56:54Z",
+    "duration_seconds": 263
   },
   "next_poll_seconds": 10
 }
