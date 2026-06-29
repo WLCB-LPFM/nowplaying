@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T17:22:57-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T17:23:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "It's Raining Men",
+    "artist": "The Weather Girls",
+    "album": "Get The Feeling",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Weather_Girls_-_It's_Raining_Men.jpg",
+    "started_at": "2026-06-29T22:22:57Z",
+    "duration_seconds": 324
+  },
   "next_poll_seconds": 10
 }
