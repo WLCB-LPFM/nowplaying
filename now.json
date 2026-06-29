@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T20:22:41-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T20:25:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Lowdown",
-    "artist": "Chicago",
-    "album": "Chicago Story:The Complete Greatest Hits 1967-2002",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_Lowdown.jpg",
-    "started_at": "2026-06-29T01:22:22Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
