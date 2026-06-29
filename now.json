@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:24:54-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T21:25:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "See No Evil (2003 Remaster)",
+    "artist": "Television",
+    "album": "See No Evil (2003 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Television_-_See_No_Evil_(2003_Remaster).jpg",
+    "started_at": "2026-06-29T02:25:41Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
