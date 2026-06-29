@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T19:52:02-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T19:53:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Racing Mount Pleasant",
+    "artist": "Racing Mount Pleasant",
+    "album": "Racing Mount Pleasant",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Racing_Mount_Pleasant_-_Racing_Mount_Pleasant.jpg",
+    "started_at": "2026-06-29T00:52:53Z",
+    "duration_seconds": 315
+  },
   "next_poll_seconds": 10
 }
