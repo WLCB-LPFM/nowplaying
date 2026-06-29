@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T21:41:17-05:00",
-  "source": "autopost",
+  "generated": "2026-06-28T21:44:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Easy To Be Hard",
-    "artist": "Three Dog Night",
-    "album": "20th Century Masters: The Millennium Collection: Best Of Three Dog Night",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Three_Dog_Night_-_Easy_To_Be_Hard.jpg",
-    "started_at": "2026-06-29T02:41:06Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
