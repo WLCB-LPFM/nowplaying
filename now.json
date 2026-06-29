@@ -1,9 +1,16 @@
 {
-  "generated": "2026-06-28T22:32:48-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T22:35:02-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Haitian Fight Song (Instrumental)",
+    "artist": "Charles Mingus",
+    "album": "The Definitive",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charles_Mingus_-_Haitian_Fight_Song_(Instrumental).jpg",
+    "started_at": "2026-06-29T03:34:52Z",
+    "duration_seconds": 719
+  },
   "next_poll_seconds": 10
 }
