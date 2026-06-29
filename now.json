@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-29T03:29:43-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T03:31:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "File Under Purple",
+    "artist": "Peter Fuglsang Quartet",
+    "album": "The Best Jazz Audiophile Recommended, Volume 4",
+    "artwork_url": "",
+    "started_at": "2026-06-29T08:31:00.1526542Z",
+    "duration_seconds": 297,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
