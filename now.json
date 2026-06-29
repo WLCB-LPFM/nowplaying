@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T17:52:25-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T17:52:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "All the Same",
+    "artist": "The Voidz",
+    "album": "All the Same",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Voidz_-_All_The_Same.jpg",
+    "started_at": "2026-06-29T22:52:39Z",
+    "duration_seconds": 337
+  },
   "next_poll_seconds": 10
 }
