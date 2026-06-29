@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T18:59:12-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T19:04:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Walk Idiot Walk",
+    "artist": "The Hives",
+    "album": "Nu Rock",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Hives_-_Walk_Idiot_Walk.jpg",
+    "started_at": "2026-06-29T00:04:19Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
