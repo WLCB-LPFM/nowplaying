@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-29T13:13:17-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-29T13:16:38-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Look",
-    "artist": "Roxette",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-29T18:13:12.5491878Z",
-    "duration_seconds": 217,
-    "year": "1989"
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "The Ultimate Fan Extras Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Billie_Jean.jpg",
+    "started_at": "2026-06-29T18:12:30Z",
+    "duration_seconds": 380
   },
   "next_poll_seconds": 10
 }
