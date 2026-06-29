@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-29T15:25:55-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-29T15:29:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hey Ya!",
-    "artist": "OutKast",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-29T20:25:54.1255224Z",
-    "duration_seconds": 221,
-    "year": "2019"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
