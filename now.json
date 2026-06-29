@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T20:44:00-05:00",
-  "source": "fallback",
+  "generated": "2026-06-28T20:44:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "All My Bridges Burning",
+    "artist": "Los Lobos",
+    "album": "Tin Can Trust",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Los_Lobos_-_All_My_Bridges_Burning.jpg",
+    "started_at": "2026-06-29T01:44:03Z",
+    "duration_seconds": 292
+  },
   "next_poll_seconds": 10
 }
