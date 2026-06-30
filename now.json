@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T20:19:57-05:00",
-  "source": "autopost",
+  "generated": "2026-06-29T20:23:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Hi-De-Ho (Single Version)",
-    "artist": "Blood, Sweat & Tears",
-    "album": "Rare, Rarer & Rarest",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blood,_Sweat_&_Tears.jpg",
-    "started_at": "2026-06-30T01:19:41Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
