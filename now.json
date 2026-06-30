@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T20:51:10-05:00",
-  "source": "autopost",
+  "generated": "2026-06-29T20:53:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Spinning Wheel",
-    "artist": "Blood, Sweat & Tears",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blood,_Sweat_&_Tears_-_Spinning_Wheel.jpg",
-    "started_at": "2026-06-30T01:50:54Z",
-    "duration_seconds": 159
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
