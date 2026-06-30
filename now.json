@@ -1,17 +1,16 @@
 {
-  "generated": "2026-06-30T14:17:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-30T14:21:13-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Uptown Funk",
-    "artist": "Mark Ronson ft. Bruno Mars",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-30T19:17:23.8355678Z",
-    "duration_seconds": 233,
-    "year": ""
+    "artist": "Mark Ronson",
+    "album": "Sing Your Heart Out 2017",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mark_Ronson_-_Uptown_Funk.jpg",
+    "started_at": "2026-06-30T19:17:40Z",
+    "duration_seconds": 270
   },
   "next_poll_seconds": 10
 }
