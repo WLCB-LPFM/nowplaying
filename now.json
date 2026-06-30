@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T21:38:16-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T21:39:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Yo, Dude, Ya Got The Time (Does Anybody Really Know What Time It Is?)",
+    "artist": "Dana Legg",
+    "album": "Scoopin' The Loop",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dana_Legg.jpg",
+    "started_at": "2026-06-30T02:39:30Z",
+    "duration_seconds": 323
+  },
   "next_poll_seconds": 10
 }
