@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-30T06:17:46-05:00",
-  "source": "playitlive",
+  "generated": "2026-06-30T06:20:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Carry Out",
-    "artist": "Timberland",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-06-30T11:17:36.8006409Z",
-    "duration_seconds": 196,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
