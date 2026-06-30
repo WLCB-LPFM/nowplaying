@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-30T12:52:58-05:00",
-  "source": "fallback",
+  "generated": "2026-06-30T12:53:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "It's Still Rock And Roll To Me",
+    "artist": "Billy Joel",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-06-30T17:53:05.9814075Z",
+    "duration_seconds": 171,
+    "year": "2013"
+  },
   "next_poll_seconds": 10
 }
