@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-30T10:29:37-05:00",
-  "source": "fallback",
+  "generated": "2026-06-30T10:31:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "My Only Angel - Desert Road Version",
+    "artist": "Aerosmith",
+    "album": "My Only Angel (Desert Road Version)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Aerosmith.jpg",
+    "started_at": "2026-06-30T15:31:17Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
