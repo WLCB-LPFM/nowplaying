@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-30T16:24:38-05:00",
-  "source": "fallback",
+  "generated": "2026-06-30T16:25:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Don't You Want Me",
+    "artist": "The Human League",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Human_League_-_Don't_You_Want_Me.jpg",
+    "started_at": "2026-06-30T21:24:45Z",
+    "duration_seconds": 544
+  },
   "next_poll_seconds": 10
 }
