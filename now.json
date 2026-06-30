@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T20:59:21-05:00",
-  "source": "fallback",
+  "generated": "2026-06-29T21:03:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "And When I Die",
+    "artist": "Blood Sweat & Tears",
+    "album": "Blood, Sweat & Tears",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blood_Sweat_&_Tears_-_And_When_I_Die.jpg",
+    "started_at": "2026-06-30T02:03:16Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
