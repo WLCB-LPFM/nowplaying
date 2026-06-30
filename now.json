@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T21:24:25-05:00",
-  "source": "autopost",
+  "generated": "2026-06-29T21:27:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Lucretia Mac Evil",
-    "artist": "Blood, Sweat & Tears",
-    "album": "Blood, Sweat And Tears 3",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blood,_Sweat_&_Tears_-_Lucretia_Mac_Evil.jpg",
-    "started_at": "2026-06-30T02:24:07Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
