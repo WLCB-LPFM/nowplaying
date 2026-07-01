@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T10:54:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T10:54:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Red White & Blue",
+    "artist": "Lynyrd Skynyrd",
+    "album": "Vicious Cycle",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lynyrd_Skynyrd_-_Red_White_&_Blue.jpg",
+    "started_at": "2026-07-01T15:54:10Z",
+    "duration_seconds": 332
+  },
   "next_poll_seconds": 10
 }
