@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T11:11:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T11:13:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Summer in the City",
-    "artist": "The Lovin' Spoonful",
-    "album": "Gottschalks Gro\u00dfe 68er Show",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Lovin'_Spoonful_-_Summer_In_The_City.jpg",
-    "started_at": "2026-07-01T16:10:52Z",
-    "duration_seconds": 159
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
