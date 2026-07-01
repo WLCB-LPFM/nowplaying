@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T11:16:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T11:19:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Get Closer",
+    "artist": "Seals & Crofts",
+    "album": "Get Closer",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Seals_&_Crofts_-_Get_Closer.jpg",
+    "started_at": "2026-07-01T16:19:47Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
