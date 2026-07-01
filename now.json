@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T10:49:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T10:54:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Travelin' Man (Live)",
-    "artist": "Lynyrd Skynyrd",
-    "album": "One More For The Fans (Live)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lynyrd_Skynyrd_-_Travelin'_Man_(Live).jpg",
-    "started_at": "2026-07-01T15:49:24Z",
-    "duration_seconds": 290
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
