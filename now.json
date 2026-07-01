@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T11:05:50-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T11:06:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hot In The City",
+    "artist": "Billy Idol",
+    "album": "Vital Idol",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Idol_-_Hot_In_The_City.jpg",
+    "started_at": "2026-07-01T16:06:45Z",
+    "duration_seconds": 309
+  },
   "next_poll_seconds": 10
 }
