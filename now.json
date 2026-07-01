@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-30T22:07:52-05:00",
-  "source": "autopost",
+  "generated": "2026-06-30T22:12:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Tangled And Dark",
-    "artist": "Bonnie Raitt",
-    "album": "Luck Of The Draw",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonnie_Raitt_-_Tangled_And_Dark.jpg",
-    "started_at": "2026-07-01T03:07:36Z",
-    "duration_seconds": 293
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
