@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T09:44:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T09:47:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "What A Fool Believes",
-    "artist": "The Dukes Of September",
-    "album": "The Dukes Of September: Live At Lincoln Center",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Dukes_Of_September.jpg",
-    "started_at": "2026-07-01T14:43:42Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
