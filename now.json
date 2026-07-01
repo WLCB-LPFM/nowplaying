@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-01T02:13:46-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T02:13:58-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Out of the Blue",
+    "artist": "Maja Christinna",
+    "album": "The Best Jazz Audiophile Recommended, Volume 3",
+    "artwork_url": "",
+    "started_at": "2026-07-01T07:13:56.9654643Z",
+    "duration_seconds": 283,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
