@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T11:13:16-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T11:13:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Summer Breeze (2012 Remaster)",
+    "artist": "Seals and Crofts",
+    "album": "Summer Breeze (2012 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Seals_And_Crofts.jpg",
+    "started_at": "2026-07-01T16:13:28Z",
+    "duration_seconds": 201
+  },
   "next_poll_seconds": 10
 }
