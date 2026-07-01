@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T07:24:16-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T07:25:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jump",
+    "artist": "Kris Kross",
+    "album": "Die Hit-Giganten - Best of 90's",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kris_Kross_-_Jump.jpg",
+    "started_at": "2026-07-01T12:25:20Z",
+    "duration_seconds": 309
+  },
   "next_poll_seconds": 10
 }
