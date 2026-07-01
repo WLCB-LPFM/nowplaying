@@ -1,16 +1,9 @@
 {
-  "generated": "2026-06-30T19:04:36-05:00",
-  "source": "autopost",
+  "generated": "2026-06-30T19:04:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Panama",
-    "artist": "Van Halen",
-    "album": "Panama",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Panama.jpg",
-    "started_at": "2026-07-01T00:01:32Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
