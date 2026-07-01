@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T12:27:43-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T12:29:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Go Down Gamblin' (Single Version)",
-    "artist": "Blood, Sweat & Tears",
-    "album": "Playlist: The Very Best of Blood, Sweat & Tears",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blood,_Sweat_&_Tears.jpg",
-    "started_at": "2026-07-01T17:27:26Z",
-    "duration_seconds": 166
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
