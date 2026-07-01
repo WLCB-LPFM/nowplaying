@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T09:06:00-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T09:14:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Against the Wind",
+    "artist": "Bob Seger",
+    "album": "Rarities 10 (Live)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_-_Against_The_Wind.jpg",
+    "started_at": "2026-07-01T14:14:00Z",
+    "duration_seconds": 281
+  },
   "next_poll_seconds": 10
 }
