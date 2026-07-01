@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T11:35:36-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T11:39:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "I Got You",
-    "artist": "Tedeschi Trucks Band",
-    "album": "I Got You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tedeschi_Trucks_Band_-_I_Got_You.jpg",
-    "started_at": "2026-07-01T16:35:24Z",
-    "duration_seconds": 260
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
