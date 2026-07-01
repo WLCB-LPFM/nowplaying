@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-01T06:15:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T06:15:43-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Put Your Hands Where My Eyes Could See",
+    "artist": "Busta Rhymes",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-01T11:15:35.6722603Z",
+    "duration_seconds": 188,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
