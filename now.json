@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-01T02:59:52-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T03:00:04-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Of Smiles Remembered",
-    "artist": "Nadja Stoller Group",
-    "album": "Short Stories",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Nadja_Stoller_Group.jpg",
-    "started_at": "2026-07-01T07:56:41Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
