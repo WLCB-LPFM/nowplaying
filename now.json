@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T10:00:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T10:06:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Goodbye Virginia (Live at Delmar Hall)",
-    "artist": "THE BAND FEEL",
-    "album": "Live at Delmar Hall",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/449dc1f48cb8665ced860bde16ddc1ac.png",
-    "started_at": "2026-07-01T15:00:24Z",
-    "duration_seconds": 376
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
