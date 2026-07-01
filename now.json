@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T12:19:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T12:22:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Hi-De-Ho That Old Sweet Roll (Single Version)",
-    "artist": "Blood, Sweat & Tears",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blood,_Sweat_&_Tears.jpg",
-    "started_at": "2026-07-01T17:18:45Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
