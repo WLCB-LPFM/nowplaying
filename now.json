@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T12:14:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T12:14:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Dream a Little Dream of Me",
+    "artist": "Chicago",
+    "album": "Night & Day: Big Band",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_Dream_A_Little_Dream_Of_Me.jpg",
+    "started_at": "2026-07-01T17:14:38Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
