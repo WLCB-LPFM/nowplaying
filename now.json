@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-02T09:10:40-05:00",
-  "source": "autopost",
+  "generated": "2026-07-02T09:10:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Give It Away",
-    "artist": "Red Hot Chili Peppers",
-    "album": "Give It Away",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Red_Hot_Chili_Peppers_-_Give_It_Away.jpg",
-    "started_at": "2026-07-02T14:06:20Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
