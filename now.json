@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T19:45:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T19:47:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "For What It's Worth (Album Version)",
-    "artist": "Buffalo Springfield",
-    "album": "Forrest Gump - The Soundtrack",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buffalo_Springfield.jpg",
-    "started_at": "2026-07-02T00:45:02Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
