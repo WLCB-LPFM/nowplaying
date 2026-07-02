@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-02T10:19:16-05:00",
-  "source": "fallback",
+  "generated": "2026-07-02T10:19:29-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Feel Right",
+    "artist": "Mark Ronson, ft. Mystikal",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-02T15:19:22.3734409Z",
+    "duration_seconds": 214,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
