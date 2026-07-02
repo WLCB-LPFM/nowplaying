@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T19:33:31-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T19:36:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "This Land Is Your Land",
-    "artist": "Sam Hunt",
-    "album": "Bright: The Album",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_Hunt_-_This_Land_Is_Your_Land.jpg",
-    "started_at": "2026-07-02T00:33:19Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
