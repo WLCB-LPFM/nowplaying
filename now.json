@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T19:57:59-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T20:00:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Talkin' Bout a Revolution (2015 Remaster)",
-    "artist": "Tracy Chapman",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tracy_Chapman_-_Talkin'_Bout_A_Revolution_(2015_Remaster).jpg",
-    "started_at": "2026-07-02T00:57:49Z",
-    "duration_seconds": 159
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
