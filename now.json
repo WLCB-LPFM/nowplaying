@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T19:54:03-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T19:54:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "A Change Is Gonna Come",
+    "artist": "Sam Cooke",
+    "album": "Portrait of a Legend",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_Cooke_-_A_Change_Is_Gonna_Come.jpg",
+    "started_at": "2026-07-02T00:53:55Z",
+    "duration_seconds": 191
+  },
   "next_poll_seconds": 10
 }
