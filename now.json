@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-02T17:38:24-05:00",
-  "source": "fallback",
+  "generated": "2026-07-02T17:58:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "California Sun",
+    "artist": "The Rivieras",
+    "album": "Pop & Doo-Wop Jukebox, Vol. 3",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rivieras_-_California_Sun.jpg",
+    "started_at": "2026-07-02T22:57:51Z",
+    "duration_seconds": 142
+  },
   "next_poll_seconds": 10
 }
