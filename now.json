@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T19:51:16-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T19:54:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Times They Are A-Changin'",
-    "artist": "Bob Dylan",
-    "album": "Essential Bob Dylan 3.0",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Dylan_-_The_Times_They_Are_A-changin'.jpg",
-    "started_at": "2026-07-02T00:51:06Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
