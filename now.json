@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-02T13:17:43-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-02T13:20:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Jump Around",
-    "artist": "House Of Pain",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-02T18:17:34.5933758Z",
-    "duration_seconds": 190,
-    "year": "2024"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
