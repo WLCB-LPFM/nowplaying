@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T19:11:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T19:11:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Independence Day",
+    "artist": "Martina McBride",
+    "album": "Hits And More",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Martina_Mcbride_-_Independence_Day.jpg",
+    "started_at": "2026-07-02T00:11:12Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
