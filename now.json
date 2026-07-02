@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T20:16:43-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T20:17:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Battle Hymn of the Republic - The U.S. Army Band",
+    "artist": "Classical",
+    "album": "The Best Inspirational Classical Music",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Classical.jpg",
+    "started_at": "2026-07-02T01:16:56Z",
+    "duration_seconds": 314
+  },
   "next_poll_seconds": 10
 }
