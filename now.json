@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T20:07:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-01T20:08:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "American Pie",
+    "artist": "Don McLean",
+    "album": "American Pie",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Don_Mclean_-_American_Pie.jpg",
+    "started_at": "2026-07-02T01:08:29Z",
+    "duration_seconds": 509
+  },
   "next_poll_seconds": 10
 }
