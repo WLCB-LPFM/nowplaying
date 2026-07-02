@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T20:33:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T20:37:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Born In the U.S.A.",
-    "artist": "Bruce Springsteen",
-    "album": "Born In the U.S.A.",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bruce_Springsteen_-_Born_In_The_U.s.a..jpg",
-    "started_at": "2026-07-02T01:32:46Z",
-    "duration_seconds": 277
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
