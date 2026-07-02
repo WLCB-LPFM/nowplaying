@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T20:25:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T20:28:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ragged Old Flag",
-    "artist": "Johnny Cash",
-    "album": "Life",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Cash_-_Ragged_Old_Flag.jpg",
-    "started_at": "2026-07-02T01:25:36Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
