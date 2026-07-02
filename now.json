@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-01T23:58:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T23:58:26-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue Horizon",
-    "artist": "Sidney Bechet's Blue Note Jazzmen",
-    "album": "Maple Leaf Rag: Modern Jazz Roots",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidney_Bechet's_Blue_Note_Jazzmen_-_Blue_Horizon.jpg",
-    "started_at": "2026-07-02T04:54:13Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
