@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01T20:43:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-01T20:46:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "America (Single Mix)",
-    "artist": "Simon & Garfunkel",
-    "album": "Paul Simon - The Ultimate Collection",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Simon_&_Garfunkel.jpg",
-    "started_at": "2026-07-02T01:42:44Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
