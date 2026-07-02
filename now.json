@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-02T17:36:37-05:00",
-  "source": "autopost",
+  "generated": "2026-07-02T17:38:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "I Get Around",
-    "artist": "The Beach Boys",
-    "album": "Good Vibrations",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beach_Boys_-_I_Get_Around.jpg",
-    "started_at": "2026-07-02T22:36:23Z",
-    "duration_seconds": 133
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
