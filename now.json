@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-02T12:31:44-05:00",
-  "source": "fallback",
+  "generated": "2026-07-02T12:31:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Go to Work",
+    "artist": "Kool Moe Dee",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-02T17:31:53.1271786Z",
+    "duration_seconds": 275,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
