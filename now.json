@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:53:17-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T15:53:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "U Got the Look",
+    "artist": "Prince",
+    "album": "U Got the Look",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_U_Got_The_Look.jpg",
+    "started_at": "2026-07-03T20:53:30Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
