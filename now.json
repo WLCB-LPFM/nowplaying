@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T10:07:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T10:10:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Show Me What I'm Looking For",
-    "artist": "Carolina Liar",
-    "album": "Show Me What I'm Looking For",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Carolina_Liar_-_Show_Me_What_I'm_Looking_For.jpg",
-    "started_at": "2026-07-03T15:06:45Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
