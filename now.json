@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T09:08:34-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T09:13:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "In A Big Country",
-    "artist": "Big Country",
-    "album": "True Drivetime (3 CD Set )",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Big_Country_-_In_A_Big_Country.jpg",
-    "started_at": "2026-07-03T14:08:26Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
