@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:01:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T15:03:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "America, The Beautiful",
-    "artist": "Frank Sinatra",
-    "album": "The Concert Sinatra",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Sinatra_-_America,_The_Beautiful.jpg",
-    "started_at": "2026-07-03T20:01:28Z",
-    "duration_seconds": 143
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
