@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-03T05:40:18-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-03T05:42:42-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bag's Groove",
-    "artist": "Thelonious Monk",
-    "album": "Jazz Styles: 8th Edition",
-    "artwork_url": "",
-    "started_at": "2026-07-03T10:40:10.8033612Z",
-    "duration_seconds": 163,
-    "year": "2003"
+    "title": "Mother Earth",
+    "artist": "Caroline Henderson",
+    "album": "Made In Europe",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Caroline_Henderson_-_Mother_Earth.jpg",
+    "started_at": "2026-07-03T10:40:02Z",
+    "duration_seconds": 200
   },
   "next_poll_seconds": 10
 }
