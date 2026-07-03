@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T09:13:25-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T09:15:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Honey Bee",
-    "artist": "Stevie Ray Vaughan and Double Trouble",
-    "album": "Couldn't Stand The Weather",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_And_Double_Trouble_-_Honey_Bee.jpg",
-    "started_at": "2026-07-03T14:13:12Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
