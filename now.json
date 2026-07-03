@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T13:11:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T13:15:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Follow Me",
-    "artist": "Rory Gallagher",
-    "album": "Top Priority",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rory_Gallagher_-_Follow_Me.jpg",
-    "started_at": "2026-07-03T18:11:06Z",
-    "duration_seconds": 277
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
