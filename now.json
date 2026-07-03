@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T11:13:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T11:14:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Banks Of The Deep End (Live)",
+    "artist": "Warren Haynes",
+    "album": "Banks Of The Deep End (Live)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Warren_Haynes.jpg",
+    "started_at": "2026-07-03T16:14:26Z",
+    "duration_seconds": 401
+  },
   "next_poll_seconds": 10
 }
