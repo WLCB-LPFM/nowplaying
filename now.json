@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T16:15:12-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T16:22:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Stubborn Pride (feat. Marcus King)",
-    "artist": "Zac Brown Band",
-    "album": "Stubborn Pride (feat. Marcus King) / Paradise Lost On Me",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zac_Brown_Band_-_Stubborn_Pride_(Feat._Marcus_King).jpg",
-    "started_at": "2026-07-03T21:15:00Z",
-    "duration_seconds": 428
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
