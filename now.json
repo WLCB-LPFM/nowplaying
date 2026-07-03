@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T08:05:56-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T08:06:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Father",
+    "artist": "LL Cool J",
+    "album": "Phenomenon",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Ll_Cool_J_-_Father.jpg",
+    "started_at": "2026-07-03T13:06:38Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
