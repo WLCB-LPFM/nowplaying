@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T16:45:35-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T16:49:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Statesboro Blues",
-    "artist": "Taj Mahal",
-    "album": "All My Friends: Celebrating The Songs & Voice Of Gregg Allman",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Taj_Mahal_-_Statesboro_Blues.jpg",
-    "started_at": "2026-07-03T21:45:21Z",
-    "duration_seconds": 281
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
