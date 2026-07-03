@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T16:37:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T16:40:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "It's My Own Fault (Live At Western Recorders Studio1 feat. 1974)",
-    "artist": "B.B. King|Bobby 'Blue' Bland",
-    "album": "Together For The First Time...Live",
-    "artwork_url": "null",
-    "started_at": "2026-07-03T21:36:41Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
