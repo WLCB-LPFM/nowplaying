@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T16:07:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T16:10:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I Know What I Know",
-    "artist": "Paul Simon",
-    "album": "Graceland (25th Anniversary Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Simon_-_I_Know_What_I_Know.jpg",
-    "started_at": "2026-07-03T21:07:38Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
