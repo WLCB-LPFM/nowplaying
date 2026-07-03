@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-03T02:45:35-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T02:45:58-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I\u2019ve Never Been in Love Before",
+    "artist": "The Bassface Swing Trio",
+    "album": "Straight Live",
+    "artwork_url": "",
+    "started_at": "2026-07-03T07:45:48.2278311Z",
+    "duration_seconds": 369,
+    "year": "2005"
+  },
   "next_poll_seconds": 10
 }
