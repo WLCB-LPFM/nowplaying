@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-03T01:51:26-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-03T01:54:03-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Boplicity",
-    "artist": "Miles Davis And His Orchestra",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-07-03T06:51:17.2296447Z",
-    "duration_seconds": 171,
-    "year": "1997"
+    "artist": "Miles Davis",
+    "album": "Jazz Masters: The Best of Miles Davis & Charlie Parker",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Boplicity.jpg",
+    "started_at": "2026-07-03T06:51:54Z",
+    "duration_seconds": 181
   },
   "next_poll_seconds": 10
 }
