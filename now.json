@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T16:03:52-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T16:07:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I Can't Stop Loving You",
-    "artist": "Van Morrison",
-    "album": "Hymns to the Silence",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Morrison_-_I_Can't_Stop_Loving_You.jpg",
-    "started_at": "2026-07-03T21:03:41Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
