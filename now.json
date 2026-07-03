@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T13:32:23-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T13:35:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Naughty Naughty",
-    "artist": "John Parr",
-    "album": "Naughty Naughty",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Parr_-_Naughty_Naughty.jpg",
-    "started_at": "2026-07-03T18:32:08Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
