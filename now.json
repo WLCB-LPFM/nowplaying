@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:06:11-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T15:09:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Room On The Porch",
-    "artist": "Taj Mahal",
-    "album": "Room On The Porch",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Taj_Mahal.jpg",
-    "started_at": "2026-07-03T20:05:48Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
