@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:10:20-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T15:12:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "So You Want to Be a Cowboy Singer",
-    "artist": "Waylon Jennings",
-    "album": "Waylon and Company",
-    "artwork_url": "https://cdn.autopo.st/images/artists/w/Waylon_Jennings.jpg",
-    "started_at": "2026-07-03T20:09:55Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
