@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T13:02:47-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T13:05:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Broken Bones",
+    "artist": "The Whisky Flowers",
+    "album": "Broken Bones",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Whisky_Flowers_-_Broken_Bones.jpg",
+    "started_at": "2026-07-03T18:05:13Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
