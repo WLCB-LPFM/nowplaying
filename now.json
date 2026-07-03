@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:33:12-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T15:35:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Good Hearted Woman",
-    "artist": "Willie Nelson",
-    "album": "16 Biggest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Willie_Nelson_-_Good_Hearted_Woman.jpg",
-    "started_at": "2026-07-03T20:32:54Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
