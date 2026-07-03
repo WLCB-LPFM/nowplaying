@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T09:15:49-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T09:16:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Red Skies",
+    "artist": "The Fixx",
+    "album": "Just Can't Get Enough: New Wave Hits of the '80s - Volume 8",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fixx_-_Red_Skies.jpg",
+    "started_at": "2026-07-03T14:16:01Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
