@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T18:35:17-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T18:37:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Motown Workout (Continuous Mix)",
+    "artist": "AR|Ar\u0131|Boudewijn De Groot|Crowded House|De Dijk|Fun Lovin' Criminals|Harry Muskee|Ian McNabb|John Cale|John Hiatt|Julian Lennon|K's Choice|Leah Andreone|Lenny Kravitz|Living Colour|Lyle Lovett|Magna Carta|Nick Cave & The Bad Seeds|NILS LOFGREN|OMC|Paul Weller|Radiohead|Rory Block|S|Screaming Trees|Suede|Suzanne Vega|Tasmin Archer|The Church|The Connells|The Presidents Of The United States Of America|Toad The Wet Sprocket|Tom Robinson|Tony Joe White|Urban Dance Squad",
+    "album": "Don't Quit Music: Motown Workout",
+    "artwork_url": "null",
+    "started_at": "2026-07-03T23:36:48Z",
+    "duration_seconds": 3113
+  },
   "next_poll_seconds": 10
 }
