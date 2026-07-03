@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T17:11:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T17:13:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "You Better Run (Single Version)",
-    "artist": "The Young Rascals",
-    "album": "You Better Run (Single Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Young_Rascals_-_You_Better_Run_(Single_Version).jpg",
-    "started_at": "2026-07-03T22:10:56Z",
-    "duration_seconds": 147
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
