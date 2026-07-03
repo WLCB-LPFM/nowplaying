@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T13:48:33-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T13:52:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Right Next Door (Because Of Me)",
-    "artist": "Robert Cray",
-    "album": "Strong Persuader",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Cray_-_Right_Next_Door_(Because_Of_Me).jpg",
-    "started_at": "2026-07-03T18:48:24Z",
-    "duration_seconds": 259
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
