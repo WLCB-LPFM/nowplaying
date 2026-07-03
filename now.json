@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:39:00-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T15:41:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Chasing After You",
-    "artist": "Ryan Hurd",
-    "album": "Chasing After You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ryan_Hurd_-_Chasing_After_You.jpg",
-    "started_at": "2026-07-03T20:38:45Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
