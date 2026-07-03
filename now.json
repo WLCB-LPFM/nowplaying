@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:19:25-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T15:21:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Mean Old Man",
-    "artist": "Jerry Lee Lewis",
-    "album": "Mean Old Man",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/f8ea0353b12e61bc56b76183102ef98e.png",
-    "started_at": "2026-07-03T20:19:15Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
