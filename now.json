@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:26:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T15:28:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
-    "artist": "Shy Carter",
-    "album": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shy_Carter_-_Beer_With_My_Friends_(Feat._Cole_Swindell_And_David_Lee_Murphy).jpg",
-    "started_at": "2026-07-03T20:25:58Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
