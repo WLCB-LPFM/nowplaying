@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T16:50:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T16:52:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "634-5789",
-    "artist": "Tina Turner",
-    "album": "Collected",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tina_Turner_-_634-5789.jpg",
-    "started_at": "2026-07-03T21:49:54Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
