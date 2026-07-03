@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T10:50:34-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T10:53:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Wishing Well",
-    "artist": "Joanne Shaw Taylor",
-    "album": "Wishing Well",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joanne_Shaw_Taylor_-_Wishing_Well.jpg",
-    "started_at": "2026-07-03T15:50:22Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
