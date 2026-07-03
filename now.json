@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T09:55:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T09:58:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fire It Up",
-    "artist": "Steve Cropper",
-    "album": "Fire It Up",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Cropper_-_Fire_It_Up.jpg",
-    "started_at": "2026-07-03T14:55:29Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
