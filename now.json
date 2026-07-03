@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-02T21:30:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-02T21:34:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Starting Over",
-    "artist": "Chris Stapleton",
-    "album": "Starting Over",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Stapleton_-_Starting_Over.jpg",
-    "started_at": "2026-07-03T02:30:34Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
