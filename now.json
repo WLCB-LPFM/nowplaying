@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T10:03:06-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T10:03:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Not Over",
+    "artist": "Carolina Liar",
+    "album": "I Am King",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Carolina_Liar_-_I'm_Not_Over.jpg",
+    "started_at": "2026-07-03T15:03:17Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
