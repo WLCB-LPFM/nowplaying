@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T07:21:54-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T07:23:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Regulate",
+    "artist": "Warren G",
+    "album": "Regulate (J. Period Remix)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Warren_G_-_Regulate.jpg",
+    "started_at": "2026-07-03T12:23:16Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
