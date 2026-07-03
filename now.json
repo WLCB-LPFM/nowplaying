@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T09:58:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T10:00:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I Am King",
+    "artist": "Carolina Liar",
+    "album": "I Am King",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/11f4fba15198f2642ee875febd8dafcd.png",
+    "started_at": "2026-07-03T15:00:41Z",
+    "duration_seconds": 155
+  },
   "next_poll_seconds": 10
 }
