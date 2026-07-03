@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T15:16:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T15:16:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "I Wish You Would",
+    "artist": "Mackenzie Carpenter",
+    "album": "I Wish You Would",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mackenzie_Carpenter_-_I_Wish_You_Would.jpg",
+    "started_at": "2026-07-03T20:16:26Z",
+    "duration_seconds": 171
+  },
   "next_poll_seconds": 10
 }
