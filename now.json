@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T16:11:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T16:14:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Let Your Loss Be Your Lesson",
-    "artist": "Robert Plant",
-    "album": "Raising Sand",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Plant_-_Let_Your_Loss_Be_Your_Lesson.jpg",
-    "started_at": "2026-07-03T21:10:53Z",
-    "duration_seconds": 241
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
