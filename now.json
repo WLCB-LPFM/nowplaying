@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T13:44:50-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T13:45:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Ain't That a Lot of Love",
+    "artist": "The Fabulous Thunderbirds",
+    "album": "WALK THAT WALK, TALK THAT TALK",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fabulous_Thunderbirds_-_Ain't_That_A_Lot_Of_Love.jpg",
+    "started_at": "2026-07-03T18:44:56Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
