@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T09:26:29-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T09:30:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Saturday in the Park",
-    "artist": "Chicago",
-    "album": "Sound Stage",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_Saturday_In_The_Park.jpg",
-    "started_at": "2026-07-03T14:26:12Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
