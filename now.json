@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T21:08:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T21:13:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Goin' Down (Live)",
-    "artist": "Stevie Ray Vaughan And Double Trouble with Jeff Beck",
-    "album": "Solos, Sessions & Encores",
-    "artwork_url": "null",
-    "started_at": "2026-07-04T02:07:57Z",
-    "duration_seconds": 328
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
