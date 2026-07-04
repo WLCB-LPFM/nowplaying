@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-03T23:48:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T23:48:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Be-Bop-A-Lula",
+    "artist": "Jonny Lang and Jeff Beck",
+    "album": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/4d79c936b7463e0d463dba608e90e7e3.png",
+    "started_at": "2026-07-04T04:48:26Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
