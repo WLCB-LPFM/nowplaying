@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T10:05:57-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T10:32:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Heartache Tonight",
+    "artist": "Eagles",
+    "album": "Long Run",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_Heartache_Tonight.jpg",
+    "started_at": "2026-07-04T15:32:16Z",
+    "duration_seconds": 265
+  },
   "next_poll_seconds": 10
 }
