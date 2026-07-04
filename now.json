@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T21:54:11-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T22:00:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Buried Alive (Live)",
-    "artist": "Rick Wakeman & The English Rock Ensemble",
-    "album": "Live From Buenos Aires",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Rick_Wakeman_&_The_English_Rock_Ensemble.jpg",
-    "started_at": "2026-07-04T02:53:55Z",
-    "duration_seconds": 413
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
