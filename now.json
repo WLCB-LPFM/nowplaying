@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-04T05:15:57-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-04T05:18:45-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Perhaps Perhaps Perhaps",
-    "artist": "Doris Day",
-    "album": "Something for Everybody",
-    "artwork_url": "",
-    "started_at": "2026-07-04T10:15:52.5933359Z",
-    "duration_seconds": 183,
-    "year": "1997"
+    "title": "Perhaps",
+    "artist": "Yasmin Kierkegaard",
+    "album": "So Danso",
+    "artwork_url": "https://cdn.autopo.st/images/artists/y/Yasmin_Kierkegaard.jpg",
+    "started_at": "2026-07-04T10:15:52Z",
+    "duration_seconds": 189
   },
   "next_poll_seconds": 10
 }
