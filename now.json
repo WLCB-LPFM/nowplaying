@@ -1,25 +1,18 @@
 {
-  "generated": "2026-07-03T20:29:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T20:30:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Through the Decades",
+    "name": "Graybeard's Clubhouse",
     "hosts": [
-      "Pauly J."
+      "Tim Graham"
     ],
     "automated": false,
-    "starts": "19:00",
-    "ends": "20:30",
+    "starts": "20:30",
+    "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Are You Gonna Be My Girl",
-    "artist": "Jet",
-    "album": "Get Born",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jet_-_Are_You_Gonna_Be_My_Girl.jpg",
-    "started_at": "2026-07-04T01:26:32Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
