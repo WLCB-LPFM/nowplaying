@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T20:51:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T20:51:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "She's Into Something",
+    "artist": "Albert Collins",
+    "album": "Showdown!",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Albert_Collins.jpg",
+    "started_at": "2026-07-04T01:51:15Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
