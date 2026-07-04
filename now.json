@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T19:37:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T19:37:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Handle With Care",
+    "artist": "The Traveling Wilburys",
+    "album": "Handle With Care (Digital single)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Traveling_Wilburys_-_Handle_With_Care.jpg",
+    "started_at": "2026-07-04T00:37:32Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
