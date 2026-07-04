@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T19:11:44-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T19:15:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Mainline Florida",
-    "artist": "Eric Clapton",
-    "album": "461 Ocean Boulevard",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Mainline_Florida.jpg",
-    "started_at": "2026-07-04T00:11:31Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
