@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T11:08:25-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T11:08:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Cruisin'",
+    "artist": "Smokey Robinson",
+    "album": "Motown The Musical Originals - 40 Classic Songs That Inspired The Broadway Show!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Smokey_Robinson_-_Cruisin'.jpg",
+    "started_at": "2026-07-04T16:08:28Z",
+    "duration_seconds": 265
+  },
   "next_poll_seconds": 10
 }
