@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-03T23:41:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T23:41:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Weight (with Eric Clapton)",
+    "artist": "The Band",
+    "album": "The Weight (with Eric Clapton)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Band_-_The_Weight_(With_Eric_Clapton).jpg",
+    "started_at": "2026-07-04T04:41:29Z",
+    "duration_seconds": 408
+  },
   "next_poll_seconds": 10
 }
