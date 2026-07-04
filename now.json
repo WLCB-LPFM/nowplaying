@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T11:17:29-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T11:20:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Family Affair",
+    "artist": "Mary J. Blige",
+    "album": "R&B Classics Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mary_J._Blige_-_Family_Affair.jpg",
+    "started_at": "2026-07-04T16:20:11Z",
+    "duration_seconds": 239
+  },
   "next_poll_seconds": 10
 }
