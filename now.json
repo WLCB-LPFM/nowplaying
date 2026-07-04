@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-04T07:18:46-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-04T07:21:44-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Push It",
-    "artist": "Salt-N-Pepa",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-04T12:18:38.7698167Z",
-    "duration_seconds": 197,
-    "year": ""
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "album": "The Ultimate Fan Extras Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Thriller.jpg",
+    "started_at": "2026-07-04T12:18:11Z",
+    "duration_seconds": 678
   },
   "next_poll_seconds": 10
 }
