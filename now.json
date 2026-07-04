@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T21:18:31-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T21:19:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Further On Up The Road",
+    "artist": "Joe Bonamassa",
+    "album": "Joe Bonamassa Live From the Royal Albert Hall",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_Further_On_Up_The_Road.jpg",
+    "started_at": "2026-07-04T02:18:48Z",
+    "duration_seconds": 345
+  },
   "next_poll_seconds": 10
 }
