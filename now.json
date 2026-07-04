@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T20:13:16-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T20:17:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "All American Girl",
+    "artist": "Train",
+    "album": "My Private Nation",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Train_-_All_American_Girl.jpg",
+    "started_at": "2026-07-04T01:17:13Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
