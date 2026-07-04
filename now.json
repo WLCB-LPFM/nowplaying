@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-04T01:11:06-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T01:11:19-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Smoke Get's in Your Eyes",
+    "artist": "Johan Leijonhufvud Trio",
+    "album": "Talking All That Jazz",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Johan_Leijonhufvud_Trio.jpg",
+    "started_at": "2026-07-04T06:11:04Z",
+    "duration_seconds": 367
+  },
   "next_poll_seconds": 10
 }
