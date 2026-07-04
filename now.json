@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-04T01:34:56-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T01:35:08-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Breakfast Feud [Composite]",
+    "artist": "Benny Goodman Sextet Featuring Charlie Christian",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
+    "artwork_url": "",
+    "started_at": "2026-07-04T06:34:59.4626781Z",
+    "duration_seconds": 137,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
