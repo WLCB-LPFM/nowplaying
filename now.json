@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T20:42:56-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T20:47:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Part Time Love",
-    "artist": "Joanna Connor,Joe Bonamassa",
-    "album": "4801 South Indiana Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Joanna_Connor,joe_Bonamassa.jpg",
-    "started_at": "2026-07-04T01:42:35Z",
-    "duration_seconds": 305
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
