@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T22:38:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T22:42:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I Wanna Be",
-    "artist": "Eric Clapton",
-    "album": "Riding With The King",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_I_Wanna_Be.jpg",
-    "started_at": "2026-07-04T03:37:58Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
