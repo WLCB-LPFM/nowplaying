@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-04T13:56:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T13:56:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Grab It",
-    "artist": "L'Trimm",
-    "album": "Grab It!",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/L'trimm_-_Grab_It.jpg",
-    "started_at": "2026-07-04T18:51:59Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
