@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-03T23:35:24-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T23:36:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Roadhouse Blues (with Eddie Vedder)",
+    "artist": "The Doors",
+    "album": "Roadhouse Blues (with Eddie Vedder)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doors_-_Roadhouse_Blues_(With_Eddie_Vedder).jpg",
+    "started_at": "2026-07-04T04:35:51Z",
+    "duration_seconds": 345
+  },
   "next_poll_seconds": 10
 }
