@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T10:02:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T10:05:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Victim of Love (2013 Remaster)",
-    "artist": "Eagles",
-    "album": "Hotel California (2013 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_Victim_Of_Love_(2013_Remaster).jpg",
-    "started_at": "2026-07-04T15:01:55Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
