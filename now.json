@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T21:34:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T21:37:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Ain't Nobody Home",
-    "artist": "B.B. King",
-    "album": "Ain't Nobody Home - Alternate B.B. King Solo *** Reconsider Baby Alternate B.B. King Solo *** Ain't That Just Like A Woman Alternate B.B. King Solo",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/B.b._King_-_Ain't_Nobody_Home.jpg",
-    "started_at": "2026-07-04T02:33:58Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
