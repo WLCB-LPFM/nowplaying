@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-03T23:09:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T23:09:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Green Onions (Live at Bill Graham's Fillmore Auditorium, San Francisco, CA - September 1968)",
+    "artist": "Al Kooper",
+    "album": "The Live Adventures of Mike Bloomfield and Al Kooper",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Al_Kooper.jpg",
+    "started_at": "2026-07-04T04:09:11Z",
+    "duration_seconds": 321
+  },
   "next_poll_seconds": 10
 }
