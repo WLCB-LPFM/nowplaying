@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T22:04:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-03T22:08:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I'm In The Mood",
-    "artist": "John Lee Hooker",
-    "album": "Hit Collection from 1951, Vol. 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Lee_Hooker_-_I'm_In_The_Mood.jpg",
-    "started_at": "2026-07-04T03:03:55Z",
-    "duration_seconds": 271
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
