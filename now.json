@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-03T23:56:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-03T23:56:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Bo Diddley (with Robbie Robertson And Eric Clapton)",
+    "artist": "Bo Diddley",
+    "album": "Rock and Roll Hall of Fame Volume 8: 2004-2005",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bo_Diddley.jpg",
+    "started_at": "2026-07-04T04:56:27Z",
+    "duration_seconds": 202
+  },
   "next_poll_seconds": 10
 }
