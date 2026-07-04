@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-04T05:18:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T05:18:57-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Perhaps",
-    "artist": "Yasmin Kierkegaard",
-    "album": "So Danso",
-    "artwork_url": "https://cdn.autopo.st/images/artists/y/Yasmin_Kierkegaard.jpg",
-    "started_at": "2026-07-04T10:15:52Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
