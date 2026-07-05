@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T21:06:28-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T21:06:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Dont Take L's",
+    "artist": "CHELLEAUX",
+    "album": "I Dont Take L's",
+    "artwork_url": "null",
+    "started_at": "2026-07-05T02:06:34Z",
+    "duration_seconds": 174
+  },
   "next_poll_seconds": 10
 }
