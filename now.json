@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T16:35:58-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T16:38:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Rock Wit'cha",
+    "artist": "Bobby Brown",
+    "album": "Midnight Soul. No Control",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Brown_-_Rock_Wit'cha.jpg",
+    "started_at": "2026-07-05T21:38:15Z",
+    "duration_seconds": 291
+  },
   "next_poll_seconds": 10
 }
