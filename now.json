@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-05T15:42:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T15:42:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blueberry Hill (1940)",
+    "artist": "Johnny Messner and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-05T20:42:29.2198042Z",
+    "duration_seconds": 156,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
