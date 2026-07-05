@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T18:13:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T18:16:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Night in My Veins (2009 Remaster)",
-    "artist": "Pretenders",
-    "album": "The Best of / Break Up the Concrete",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pretenders_-_Night_In_My_Veins_(2009_Remaster).jpg",
-    "started_at": "2026-07-05T23:13:28Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
