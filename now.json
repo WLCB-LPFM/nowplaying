@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-05T06:59:31-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T07:01:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Rhumba Jumps! (1940)",
+    "artist": "Phil Harris and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-05T12:01:45.6291642Z",
+    "duration_seconds": 180,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
