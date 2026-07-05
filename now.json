@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-05T15:31:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T15:31:28-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Made Me Love You",
+    "artist": "Ina Ray Hutton and her Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-05T20:31:19.077371Z",
+    "duration_seconds": 189,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
