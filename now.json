@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-05T15:17:01-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T15:17:47-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Danish Blues (1940)",
+    "artist": "Aagaard and his Swingers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-05T20:17:36.4525765Z",
+    "duration_seconds": 156,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
