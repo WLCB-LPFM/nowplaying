@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T21:54:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T21:57:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Never Dreamed You'd Leave In Summer",
-    "artist": "Stevie Wonder",
-    "album": "Vibe: tracce Soul e R&B scelte da Massimo Oldani",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Never_Dreamed_You'd_Leave_In_Summer.jpg",
-    "started_at": "2026-07-05T02:54:31Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
