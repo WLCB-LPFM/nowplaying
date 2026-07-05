@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T21:39:25-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T21:39:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Comforter",
+    "artist": "Shai",
+    "album": "If I Ever Fall In Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shai_-_Comforter.jpg",
+    "started_at": "2026-07-05T02:39:21Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
