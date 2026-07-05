@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T20:03:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T20:07:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Bomb First (My Second Reply)",
-    "artist": "Makaveli",
-    "album": "The Don Killuminati: The 7 Day Theory",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Makaveli_-_Bomb_First_(My_Second_Reply).jpg",
-    "started_at": "2026-07-05T01:02:50Z",
-    "duration_seconds": 296
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
