@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T09:13:35-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T09:26:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Sound Off",
+    "artist": "Vaughan Monroe",
+    "album": "Top 100 Classics - The Very Best of the 1950's, Vol. 5",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Vaughan_Monroe_-_Sound_Off.jpg",
+    "started_at": "2026-07-05T14:26:05Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
