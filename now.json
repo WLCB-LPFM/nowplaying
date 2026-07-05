@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-04T23:00:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T23:02:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Love to Watch the Moonlight",
-    "artist": "Mel Torm\u00e9",
-    "album": "The Singles Collection (1959-1962)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mel_Torm\u00e9_-_I_Love_To_Watch_The_Moonlight.jpg",
-    "started_at": "2026-07-05T03:59:47Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
