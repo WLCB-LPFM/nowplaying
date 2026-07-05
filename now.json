@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T20:22:47-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T20:22:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Going Back to Cali",
+    "artist": "The Notorious B.I.G.",
+    "album": "Life After Death (2014 Remastered Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Notorious_B.i.g._-_Going_Back_To_Cali.jpg",
+    "started_at": "2026-07-05T01:22:47Z",
+    "duration_seconds": 307
+  },
   "next_poll_seconds": 10
 }
