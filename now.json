@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T21:28:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T21:31:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Having A Moment",
-    "artist": "Marshaye",
-    "album": "Having A Moment",
-    "artwork_url": "null",
-    "started_at": "2026-07-05T02:27:51Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
