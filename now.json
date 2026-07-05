@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T20:34:50-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T21:03:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Mimosa Mami",
+    "artist": "Vip Gutter",
+    "album": "This Should Help (Therapy Album)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vip_Gutter.jpg",
+    "started_at": "2026-07-05T02:02:53Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
