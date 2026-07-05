@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-05T07:46:12-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T07:46:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "We're in It-Let's Win It",
+    "artist": "Harold Grant and His Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-05T12:46:52.6835085Z",
+    "duration_seconds": 155,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
