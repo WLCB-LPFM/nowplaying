@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-05T07:22:40-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-05T07:25:26-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Beer Garden Melodies",
-    "artist": "Elmer's Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-05T12:22:36.8456643Z",
-    "duration_seconds": 179,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
