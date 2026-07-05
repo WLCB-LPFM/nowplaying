@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T20:17:35-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T20:17:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rollin' Wit You (2005 Remaster)",
+    "artist": "Ol' Dirty Bastard",
+    "album": "Rollin' Wit You (2005 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/o/Ol'_Dirty_Bastard.jpg",
+    "started_at": "2026-07-05T01:17:34Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
