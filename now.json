@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-05T06:24:59-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T06:25:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Riverboat Shuffle",
-    "artist": "Muggsy Spanier & His Ragtime Band",
-    "album": "Slow Motion",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Muggsy_Spanier_&_His_Ragtime_Band.jpg",
-    "started_at": "2026-07-05T11:22:37Z",
-    "duration_seconds": 161
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
