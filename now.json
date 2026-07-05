@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T20:14:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T20:17:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Late Night Hour",
-    "artist": "Ice Cube",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Ice_Cube_-_Late_Night_Hour.jpg",
-    "started_at": "2026-07-05T01:13:53Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
