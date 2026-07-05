@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-05T06:52:04-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-05T06:54:17-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Flight of the Bumble Bee (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-05T11:52:03.6896513Z",
-    "duration_seconds": 140,
-    "year": "1940"
+    "title": "Le vol du bourdon",
+    "artist": "Harry James and His Orchestra",
+    "album": "Le disque d'or de la trompette",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_James_And_His_Orchestra.jpg",
+    "started_at": "2026-07-05T11:53:11Z",
+    "duration_seconds": 145
   },
   "next_poll_seconds": 10
 }
