@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T16:47:16-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T16:48:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "First Time",
+    "artist": "TEEKS",
+    "album": "Something To Feel",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Teeks_-_First_Time.jpg",
+    "started_at": "2026-07-05T21:47:47Z",
+    "duration_seconds": 310
+  },
   "next_poll_seconds": 10
 }
