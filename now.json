@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T21:43:18-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T21:43:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Secret Garden (Sweet Seduction Suite)",
+    "artist": "Quincy Jones",
+    "album": "90s R&B Slow Jams",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/q/Quincy_Jones_-_The_Secret_Garden_(Sweet_Seduction_Suite).jpg",
+    "started_at": "2026-07-05T02:43:28Z",
+    "duration_seconds": 399
+  },
   "next_poll_seconds": 10
 }
