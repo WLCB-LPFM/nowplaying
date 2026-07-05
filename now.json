@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T18:52:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T18:56:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Maybe Tomorrow",
-    "artist": "Stereophonics",
-    "album": "Decade In The Sun - Best Of Stereophonics",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stereophonics_-_Maybe_Tomorrow.jpg",
-    "started_at": "2026-07-05T23:52:03Z",
-    "duration_seconds": 273
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
