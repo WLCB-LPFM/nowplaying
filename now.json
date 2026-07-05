@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T21:49:58-05:00",
-  "source": "fallback",
+  "generated": "2026-07-04T21:50:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You're All I've Ever Known",
+    "artist": "The Deele",
+    "album": "You're All I've Ever Known",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Deele_-_You're_All_I've_Ever_Known.jpg",
+    "started_at": "2026-07-05T02:49:58Z",
+    "duration_seconds": 304
+  },
   "next_poll_seconds": 10
 }
