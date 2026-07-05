@@ -1,17 +1,17 @@
 {
-  "generated": "2026-07-05T10:22:41-05:00",
+  "generated": "2026-07-05T11:00:04-05:00",
   "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "The Original Big Band Showcase",
+    "name": "Radio Roots",
     "hosts": [
-      "Denny Farrell"
+      "Rick Hagerty"
     ],
     "automated": false,
-    "starts": "09:00",
-    "ends": "11:00",
-    "genre": "Big Band"
+    "starts": "11:00",
+    "ends": "14:00",
+    "genre": "OTR"
   },
   "track": null,
   "next_poll_seconds": 10
