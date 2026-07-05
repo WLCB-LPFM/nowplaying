@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T17:00:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T17:06:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Casanova",
+    "artist": "Levert",
+    "album": "The Best Of Gerald Levert",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Levert_-_Casanova.jpg",
+    "started_at": "2026-07-05T22:06:00Z",
+    "duration_seconds": 262
+  },
   "next_poll_seconds": 10
 }
