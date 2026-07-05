@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T10:21:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T10:22:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "I'm Making Believe (2024 Remastered)",
-    "artist": "Les Brown",
-    "album": "The Essential Remastered: Les Brown and His Orchestra 1944-46 (2024 Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Les_Brown.jpg",
-    "started_at": "2026-07-05T15:20:56Z",
-    "duration_seconds": 119
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
