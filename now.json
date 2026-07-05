@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-05T08:27:32-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T08:29:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Don't Sit under the Apple Tree (With Anyone Else But Me)",
+    "artist": "Lang Thompson and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-05T13:29:40.6700766Z",
+    "duration_seconds": 183,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
