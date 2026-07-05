@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T18:26:28-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T18:26:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Night Flight (Remaster)",
+    "artist": "Led Zeppelin",
+    "album": "Night Flight (Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Night_Flight_(Remaster).jpg",
+    "started_at": "2026-07-05T23:26:41Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
