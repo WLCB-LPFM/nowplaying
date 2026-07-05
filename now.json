@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T18:21:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T18:26:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Night Shift",
-    "artist": "Foghat",
-    "album": "Night Shift",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foghat_-_Night_Shift.jpg",
-    "started_at": "2026-07-05T23:21:03Z",
-    "duration_seconds": 331
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
