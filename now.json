@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T20:19:50-05:00",
-  "source": "autopost",
+  "generated": "2026-07-04T20:22:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Hate It Or Love It (feat. 50 Cent)",
-    "artist": "The Game",
-    "album": "Runtastic - Power Workout (Vol. 1)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Game_-_Hate_It_Or_Love_It_(Feat._50_Cent).jpg",
-    "started_at": "2026-07-05T01:19:31Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
