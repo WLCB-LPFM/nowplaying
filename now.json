@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:37:58-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T19:38:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Devil Rides A Harley Now",
+    "artist": "Brian Meulen",
+    "album": "The Devil Rides A Harley Now",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Brian_Meulen.jpg",
+    "started_at": "2026-07-06T00:38:01Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
