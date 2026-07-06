@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:08:11-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T19:08:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Hole In My Pocket",
+    "artist": "St. Julien",
+    "album": "Hole In My Pocket",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/St._Julien.jpg",
+    "started_at": "2026-07-06T00:08:32Z",
+    "duration_seconds": 180
+  },
   "next_poll_seconds": 10
 }
