@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-06T02:05:50-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T02:06:24-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "S Waltz",
+    "artist": "Matt Calvert",
+    "album": "Typewritten",
+    "artwork_url": "",
+    "started_at": "2026-07-06T07:06:20.7400259Z",
+    "duration_seconds": 538,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
