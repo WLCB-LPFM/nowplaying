@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:40:22-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T21:43:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Look But Don't Touch",
-    "artist": "Kenny Neal",
-    "album": "Walking On Fire",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Neal_-_Look_But_Don't_Touch.jpg",
-    "started_at": "2026-07-06T02:40:07Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
