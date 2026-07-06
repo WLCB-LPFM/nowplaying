@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T20:09:58-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T20:15:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "For Your Life",
-    "artist": "Led Zeppelin",
-    "album": "Presence",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_For_Your_Life.jpg",
-    "started_at": "2026-07-06T01:09:41Z",
-    "duration_seconds": 380
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
