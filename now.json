@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-06T00:50:23-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T00:50:35-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Free Jazz",
+    "artist": "Ornette Coleman",
+    "album": "First Take",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Ornette_Coleman_-_Free_Jazz.jpg",
+    "started_at": "2026-07-06T05:50:19Z",
+    "duration_seconds": 611
+  },
   "next_poll_seconds": 10
 }
