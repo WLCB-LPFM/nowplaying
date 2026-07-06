@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:24:14-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T21:24:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Mercury Blues",
+    "artist": "Steve Miller Band",
+    "album": "Fly Like An Eagle - 30th Anniversary",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Miller_Band_-_Mercury_Blues.jpg",
+    "started_at": "2026-07-06T02:24:31Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
