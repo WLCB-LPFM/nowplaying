@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:48:11-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T21:50:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Scar",
-    "artist": "Simple Minds",
-    "album": "Real To Real Cacophony",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Simple_Minds_-_Scar.jpg",
-    "started_at": "2026-07-06T02:47:56Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
