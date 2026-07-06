@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:50:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T21:51:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Looking for the Next Best Thing",
+    "artist": "Warren Zevon",
+    "album": "Looking for the Next Best Thing",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Warren_Zevon_-_Looking_For_The_Next_Best_Thing.jpg",
+    "started_at": "2026-07-06T02:50:45Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
