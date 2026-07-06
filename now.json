@@ -1,18 +1,17 @@
 {
-  "generated": "2026-07-06T14:58:34-05:00",
-  "source": "fallback",
-  "mode": "rebroadcast",
+  "generated": "2026-07-06T15:00:09-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Motorsports Report",
-    "hosts": [
-      "Matthew Lodareii"
-    ],
-    "automated": false,
-    "starts": "14:00",
-    "ends": "15:00",
-    "genre": null
+  "show": null,
+  "track": {
+    "title": "This Is How We Do It",
+    "artist": "Montell Jordan",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-06T19:57:35.3600818Z",
+    "duration_seconds": 204,
+    "year": ""
   },
-  "track": null,
   "next_poll_seconds": 10
 }
