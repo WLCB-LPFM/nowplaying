@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:11:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T19:11:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Days Echo",
+    "artist": "Windigo Drifter",
+    "album": "Light the Sky",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d0e0c0be64aaae68c5d8851c738f1fc9.png",
+    "started_at": "2026-07-06T00:11:21Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
