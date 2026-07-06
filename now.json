@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:28:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T19:33:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Tears Of A Demon",
+    "artist": "Berlos Brotherhood",
+    "album": "Tears Of A Demon",
+    "artwork_url": "null",
+    "started_at": "2026-07-06T00:33:28Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
