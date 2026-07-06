@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:04:28-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T21:08:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Living in the U.S.A.",
-    "artist": "The Steve Miller Band",
-    "album": "Happy Birthday 1968",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Steve_Miller_Band_-_Living_In_The_U.s.a..jpg",
-    "started_at": "2026-07-06T02:04:08Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
