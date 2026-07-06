@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:54:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T19:55:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Dream On",
+    "artist": "Wyn Thomas",
+    "album": "Orion's Belt",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Wyn_Thomas.jpg",
+    "started_at": "2026-07-06T00:55:09Z",
+    "duration_seconds": 298
+  },
   "next_poll_seconds": 10
 }
