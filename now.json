@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:50:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T19:54:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Breaking the Chain",
-    "artist": "The Rising Fall",
-    "album": "Breaking the Chain",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Rising_Fall.jpg",
-    "started_at": "2026-07-06T00:50:36Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
