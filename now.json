@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T17:16:06-05:00",
-  "source": "autopost",
+  "generated": "2026-07-06T17:20:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "yes, and? - The Blessed Madonna\u2019s Godsquad Mix",
-    "artist": "Ariana Grande",
-    "album": "yes, and? - remixes",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ariana_Grande.jpg",
-    "started_at": "2026-07-06T22:15:45Z",
-    "duration_seconds": 302
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
