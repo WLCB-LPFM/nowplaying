@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:42:16-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T19:45:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Say Something (2025)",
-    "artist": "Distance From Zero",
-    "album": "Say Something (2025)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Distance_From_Zero.jpg",
-    "started_at": "2026-07-06T00:41:56Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
