@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:08:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T21:09:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Space Cowboy",
+    "artist": "Steve Miller Band",
+    "album": "Classic 21 - 1969 The Woodstock Generation",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Miller_Band_-_Space_Cowboy.jpg",
+    "started_at": "2026-07-06T02:09:33Z",
+    "duration_seconds": 295
+  },
   "next_poll_seconds": 10
 }
