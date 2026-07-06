@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T20:44:28-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T20:47:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Green-Eyed Lady",
+    "artist": "Sugarloaf",
+    "album": "Green-Eyed Lady",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sugarloaf_-_Green-eyed_Lady.jpg",
+    "started_at": "2026-07-06T01:47:11Z",
+    "duration_seconds": 220
+  },
   "next_poll_seconds": 10
 }
