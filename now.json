@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T17:31:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-06T17:33:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Unwritten (Feel The Rain)",
-    "artist": "Shirli",
-    "album": "Unwritten",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shirli.jpg",
-    "started_at": "2026-07-06T22:31:22Z",
-    "duration_seconds": 130
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
