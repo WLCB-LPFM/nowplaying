@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T20:57:49-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T20:58:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Pull Your Love",
+    "artist": "Hamilton, Joe Frank & Reynolds",
+    "album": "AM Gold 1971",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hamilton,_Joe_Frank_&_Reynolds_-_Don't_Pull_Your_Love.jpg",
+    "started_at": "2026-07-06T01:57:49Z",
+    "duration_seconds": 161
+  },
   "next_poll_seconds": 10
 }
