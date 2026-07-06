@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:46:00-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T19:50:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Screaming in Colors",
-    "artist": "SoundStone",
-    "album": "Screaming in Colors",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Soundstone.jpg",
-    "started_at": "2026-07-06T00:45:37Z",
-    "duration_seconds": 310
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
