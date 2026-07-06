@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-05T22:00:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T22:02:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hot",
-    "artist": "Robert Cray",
-    "album": "That's What I Heard",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Cray_-_Hot.jpg",
-    "started_at": "2026-07-06T02:58:46Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
