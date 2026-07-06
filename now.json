@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-06T15:35:02-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T15:35:15-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Footloose",
+    "artist": "Kenny Loggins",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-06T20:35:12.8802438Z",
+    "duration_seconds": 211,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
