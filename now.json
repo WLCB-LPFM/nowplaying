@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T20:50:42-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T20:50:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Driver's Seat",
+    "artist": "Sniff 'N' The Tears",
+    "album": "Fickle Heart (Plus Two Bonus Cuts)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sniff_'n'_The_Tears_-_Driver's_Seat.jpg",
+    "started_at": "2026-07-06T01:50:39Z",
+    "duration_seconds": 241
+  },
   "next_poll_seconds": 10
 }
