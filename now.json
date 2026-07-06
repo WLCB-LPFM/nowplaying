@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T20:15:53-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T20:16:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Only You Can Rock Me",
+    "artist": "UFO",
+    "album": "Essential UFO",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Ufo_-_Only_You_Can_Rock_Me.jpg",
+    "started_at": "2026-07-06T01:15:45Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
