@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:15:50-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T21:18:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Your Cash Ain't Nothin' But Trash",
-    "artist": "Steve Miller Band",
-    "album": "Your Cash Ain't Nothin' But Trash",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Miller_Band_-_Your_Cash_Ain't_Nothin'_But_Trash.jpg",
-    "started_at": "2026-07-06T02:15:37Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
