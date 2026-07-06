@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:20:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T19:23:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "World Gone Crazy",
-    "artist": "Gone Savage",
-    "album": "Retrograde",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Gone_Savage.jpg",
-    "started_at": "2026-07-06T00:19:49Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
