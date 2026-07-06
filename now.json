@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T20:54:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T20:55:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Sunshine (Go Away Today)",
+    "artist": "Jonathan Edwards",
+    "album": "Sunshine (Go Away Today)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jonathan_Edwards_-_Sunshine_(Go_Away_Today).jpg",
+    "started_at": "2026-07-06T01:55:39Z",
+    "duration_seconds": 138
+  },
   "next_poll_seconds": 10
 }
