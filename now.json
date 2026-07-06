@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-06T05:59:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T06:01:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Any Way You Want It",
+    "artist": "Journey",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-06T11:01:30.5613581Z",
+    "duration_seconds": 189,
+    "year": "1980"
+  },
   "next_poll_seconds": 10
 }
