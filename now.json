@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:01:29-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T19:03:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Off To The Navy (interlude)",
+    "artist": "Trapface Capone",
+    "album": "Fake Friends",
+    "artwork_url": "null",
+    "started_at": "2026-07-06T00:02:54Z",
+    "duration_seconds": 262
+  },
   "next_poll_seconds": 10
 }
