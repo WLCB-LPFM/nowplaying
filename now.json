@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:34:00-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T21:36:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Look Sharp! (Album Version)",
-    "artist": "Joe Jackson",
-    "album": "Look Sharp!",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Joe_Jackson.jpg",
-    "started_at": "2026-07-06T02:33:37Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
