@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T20:33:30-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T20:37:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Drift Away",
-    "artist": "Dobie Gray",
-    "album": "'70s Gold",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dobie_Gray_-_Drift_Away.jpg",
-    "started_at": "2026-07-06T01:33:19Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
