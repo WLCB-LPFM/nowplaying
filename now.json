@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:22:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T21:24:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Mary Lou",
-    "artist": "Steve Miller Band",
-    "album": "The Joker",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Miller_Band_-_Mary_Lou.jpg",
-    "started_at": "2026-07-06T02:21:55Z",
-    "duration_seconds": 146
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
