@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:04:06-05:00",
-  "source": "autopost",
+  "generated": "2026-07-05T19:08:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It Will Be Burned",
-    "artist": "Shirley Callaghan",
-    "album": "It Will Be Burned",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shirley_Callaghan.jpg",
-    "started_at": "2026-07-06T00:03:46Z",
-    "duration_seconds": 277
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
