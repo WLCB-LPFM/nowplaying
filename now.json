@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T07:19:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-06T07:23:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Only in My Dreams",
-    "artist": "Debbie Gibson",
-    "album": "Only in My Dreams",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Debbie_Gibson_-_Only_In_My_Dreams.jpg",
-    "started_at": "2026-07-06T12:19:21Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
