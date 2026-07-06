@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-06T13:55:53-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T13:56:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Money Ain't a Thang (ft. Jermaine Dupri)",
+    "artist": "Jay-Z",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-06T18:56:16.9847684Z",
+    "duration_seconds": 250,
+    "year": "1998"
+  },
   "next_poll_seconds": 10
 }
