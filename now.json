@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:36:48-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T21:37:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Look at Little Sister",
+    "artist": "Stevie Ray Vaughan & Double Trouble",
+    "album": "Collections",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_Look_At_Little_Sister.jpg",
+    "started_at": "2026-07-06T02:37:05Z",
+    "duration_seconds": 188
+  },
   "next_poll_seconds": 10
 }
