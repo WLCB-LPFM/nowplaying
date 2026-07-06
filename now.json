@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T21:43:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-05T21:44:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Looking For A Way To Go",
+    "artist": "Billy Eli & Lost in America",
+    "album": "Something's Going On",
+    "artwork_url": "null",
+    "started_at": "2026-07-06T02:44:01Z",
+    "duration_seconds": 233
+  },
   "next_poll_seconds": 10
 }
