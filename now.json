@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T20:08:23-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T20:18:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Exclamation",
+    "artist": "Ben Patterson Jazz Orchestra",
+    "album": "Exclamation",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Ben_Patterson_Jazz_Orchestra.jpg",
+    "started_at": "2026-07-07T01:18:08Z",
+    "duration_seconds": 417
+  },
   "next_poll_seconds": 10
 }
