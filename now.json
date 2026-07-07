@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-07T11:58:29-05:00",
-  "source": "autopost",
+  "generated": "2026-07-07T11:58:41-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Burning Heart",
-    "artist": "Survivor",
-    "album": "Rocky IV",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Survivor_-_Burning_Heart.jpg",
-    "started_at": "2026-07-07T16:55:00Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
