@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T21:34:34-05:00",
-  "source": "autopost",
+  "generated": "2026-07-06T21:36:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Come Fly with Me (feat. Clint Holmes) feat. Clint Holmes",
-    "artist": "The DIVA Jazz Orchestra",
-    "album": "A Celebration of Maurice Hines - Tappin' Thru Life",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Diva_Jazz_Orchestra.jpg",
-    "started_at": "2026-07-07T02:34:14Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
