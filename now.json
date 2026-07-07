@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-07T14:18:12-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-07T14:21:27-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Jump Off",
-    "artist": "Lil' Kim",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-07T19:17:59.5509825Z",
-    "duration_seconds": 221,
-    "year": ""
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "The Ultimate Fan Extras Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Billie_Jean.jpg",
+    "started_at": "2026-07-07T19:16:24Z",
+    "duration_seconds": 380
   },
   "next_poll_seconds": 10
 }
