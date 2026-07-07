@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-06T19:22:17-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T19:22:30-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-07T00:22:25.9839504Z",
+    "duration_seconds": 229,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
