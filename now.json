@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T22:00:08-05:00",
+  "generated": "2026-07-06T22:02:30-05:00",
   "source": "fallback",
-  "mode": "live",
-  "automation_on": false,
+  "mode": "rebroadcast",
+  "automation_on": true,
   "show": {
     "name": "Rock of Ages",
     "hosts": [
