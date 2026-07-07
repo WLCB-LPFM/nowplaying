@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-07T13:02:10-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-07T13:05:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Principal's Office",
-    "artist": "Young MC",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-07T18:02:07.6734048Z",
-    "duration_seconds": 245,
-    "year": "2021"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
