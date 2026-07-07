@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T21:52:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T21:55:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Three Day Sucker",
+    "artist": "Buddy Rich Big Band",
+    "album": "Ease On Down the Road",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d5b19a210a183d15008824f5ae773b43.png",
+    "started_at": "2026-07-07T02:54:51Z",
+    "duration_seconds": 311
+  },
   "next_poll_seconds": 10
 }
