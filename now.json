@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-06T19:26:16-05:00",
-  "source": "fallback",
+  "generated": "2026-07-06T19:28:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hungry Like the Wolf",
+    "artist": "Duran Duran",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-07T00:28:22.8216463Z",
+    "duration_seconds": 200,
+    "year": "1982"
+  },
   "next_poll_seconds": 10
 }
