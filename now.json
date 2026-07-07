@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T20:50:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-06T20:58:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Airmail Special (Live)",
-    "artist": "The Diva Jazz Orchestra",
-    "album": "The Diva Jazz Orchestra '30' (Live at Dizzy's Club)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Diva_Jazz_Orchestra.jpg",
-    "started_at": "2026-07-07T01:49:47Z",
-    "duration_seconds": 514
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
