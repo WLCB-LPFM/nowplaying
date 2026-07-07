@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T21:46:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-06T21:52:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "The Sidewinder",
-    "artist": "GRP All-Star Big Band",
-    "album": "GRP All-Star Big Band",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grp_All-star_Big_Band_-_The_Sidewinder.jpg",
-    "started_at": "2026-07-07T02:45:58Z",
-    "duration_seconds": 400
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
