@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-07T03:30:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-07T03:33:02-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Riverboat Shuffle",
-    "artist": "Frankie Trumbauer and His Orchestra",
-    "album": "First of the Singer-Songwriters (disc 1)",
-    "artwork_url": "",
-    "started_at": "2026-07-07T08:30:04.9178606Z",
-    "duration_seconds": 186,
-    "year": "2004"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
