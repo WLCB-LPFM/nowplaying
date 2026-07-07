@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-07T06:53:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-07T06:56:39-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-    "artist": "ABBA",
-    "album": "Thank You For The Music",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Abba_-_Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight).jpg",
-    "started_at": "2026-07-07T11:52:00Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
