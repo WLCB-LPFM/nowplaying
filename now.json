@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T09:00:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T09:01:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sledgehammer (2012 Remaster)",
-    "artist": "Peter Gabriel",
-    "album": "Sledgehammer (2012 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Gabriel_-_Sledgehammer_(2012_Remaster).jpg",
-    "started_at": "2026-07-08T13:56:43Z",
-    "duration_seconds": 313
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
