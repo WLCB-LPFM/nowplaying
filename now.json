@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T13:35:00-05:00",
-  "source": "fallback",
+  "generated": "2026-07-08T13:36:12-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Beat Goes On",
+    "artist": "Matt Niess, The Capitol Bones",
+    "album": "The Beat Goes On",
+    "artwork_url": "null",
+    "started_at": "2026-07-08T18:35:49Z",
+    "duration_seconds": 375
+  },
   "next_poll_seconds": 10
 }
