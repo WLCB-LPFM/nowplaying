@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-07T19:00:04-05:00",
-  "source": "fallback",
+  "generated": "2026-07-07T19:00:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Livin\u2019 on a Prayer",
+    "artist": "Bon Jovi",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-08T00:00:24.1442902Z",
+    "duration_seconds": 231,
+    "year": "1986"
+  },
   "next_poll_seconds": 10
 }
