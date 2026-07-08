@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T12:34:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T12:41:46-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Delta Queen",
-    "artist": "Vosbein Magee Big Band",
-    "album": "Come and Get It!",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vosbein_Magee_Big_Band.jpg",
-    "started_at": "2026-07-08T17:34:39Z",
-    "duration_seconds": 433
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
