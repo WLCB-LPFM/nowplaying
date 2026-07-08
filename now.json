@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-08T06:49:35-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-08T06:49:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Summertime",
-    "artist": "DJ Jazzy Jeff & The Fresh Prince",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-08T11:45:36.4114048Z",
-    "duration_seconds": 256,
-    "year": "2018"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
