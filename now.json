@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T20:32:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T20:36:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ghost",
-    "artist": "Delta Heavy",
-    "album": "Ghost / Tremors",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Delta_Heavy_-_Ghost.jpg",
-    "started_at": "2026-07-09T01:32:38Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
