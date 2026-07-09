@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T16:29:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T16:33:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Back In Time (from 'Back To The Future' Soundtrack)",
-    "artist": "Huey Lewis & The News",
-    "album": "101 Classic Hits",
-    "artwork_url": "https://cdn.autopo.st/images/artists/h/Huey_Lewis_&_The_News.jpg",
-    "started_at": "2026-07-09T21:29:15Z",
-    "duration_seconds": 257
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
