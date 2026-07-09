@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T19:24:26-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T19:26:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Dancing With A Stranger",
-    "artist": "Sam Smith",
-    "album": "Dancing With A Stranger",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_Smith_-_Dancing_With_A_Stranger.jpg",
-    "started_at": "2026-07-09T00:24:06Z",
-    "duration_seconds": 171
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
