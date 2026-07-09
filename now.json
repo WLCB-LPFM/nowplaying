@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T21:45:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T21:52:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "In the Air Tonight",
-    "artist": "The Protomen",
-    "album": "The Cover Up (Original Motion Picture Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Protomen_-_In_The_Air_Tonight.jpg",
-    "started_at": "2026-07-09T02:45:42Z",
-    "duration_seconds": 394
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
