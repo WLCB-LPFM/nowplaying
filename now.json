@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T20:10:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T20:14:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "If Today Was Yesterday",
-    "artist": "Shye",
-    "album": "The Doves Came Home",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shye_-_If_Today_Was_Yesterday.jpg",
-    "started_at": "2026-07-09T01:10:30Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
