@@ -1,9 +1,19 @@
 {
-  "generated": "2026-07-08T18:55:28-05:00",
+  "generated": "2026-07-08T19:00:05-05:00",
   "source": "autopost",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The Mix",
+    "hosts": [
+      "Tony Young",
+      "Carolyn Carmody"
+    ],
+    "automated": false,
+    "starts": "19:00",
+    "ends": "22:00",
+    "genre": "Variety"
+  },
   "track": {
     "title": "Here We Go Let'S Rock & Roll (The Clivill? feat. Cole Rockin' In '91 Mix)",
     "artist": "C + C Music Factory",
