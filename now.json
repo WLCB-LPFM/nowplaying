@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T20:41:22-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T20:44:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Go Go Juice",
-    "artist": "Sabrina Carpenter",
-    "album": "Man\u2019s Best Friend",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sabrina_Carpenter_-_Go_Go_Juice.jpg",
-    "started_at": "2026-07-09T01:41:06Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
