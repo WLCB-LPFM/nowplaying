@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-09T12:52:55-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T12:53:07-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When Doves Cry",
+    "artist": "Prince",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-09T17:53:01.7272967Z",
+    "duration_seconds": 216,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
