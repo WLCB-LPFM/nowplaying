@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T16:33:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T16:33:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Here We Go Let'S Rock & Roll (The Clivill? feat. Cole Rockin' In '91 Mix)",
+    "artist": "C + C Music Factory",
+    "album": "Ultimate",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/C___C_Music_Factory.jpg",
+    "started_at": "2026-07-09T21:33:22Z",
+    "duration_seconds": 569
+  },
   "next_poll_seconds": 10
 }
