@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-09T13:40:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T13:40:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Opposites Attract",
+    "artist": "Paula Abdul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-09T18:40:16.2830672Z",
+    "duration_seconds": 252,
+    "year": "1989"
+  },
   "next_poll_seconds": 10
 }
