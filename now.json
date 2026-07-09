@@ -1,17 +1,25 @@
 {
-  "generated": "2026-07-09T14:56:36-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-07-09T15:00:08-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
+  },
   "track": {
-    "title": "Livin\u2019 on a Prayer",
-    "artist": "Bon Jovi",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-09T19:56:29.31146Z",
-    "duration_seconds": 231,
-    "year": "1986"
+    "title": "Sue's 5Min WarmUp 128Bpm",
+    "artist": "DJ Baddmixx",
+    "album": "Global Warming Vol 37",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dj_Baddmixx.jpg",
+    "started_at": "2026-07-09T19:57:17Z",
+    "duration_seconds": 339
   },
   "next_poll_seconds": 10
 }
