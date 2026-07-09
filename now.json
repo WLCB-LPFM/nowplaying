@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T20:50:47-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T20:52:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Try to feel my pain",
-    "artist": "HAIM",
-    "album": "I quit",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Haim_-_Try_To_Feel_My_Pain.jpg",
-    "started_at": "2026-07-09T01:50:38Z",
-    "duration_seconds": 149
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
