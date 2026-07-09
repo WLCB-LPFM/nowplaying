@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T17:16:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T17:18:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Everybody's Been Burned",
-    "artist": "The Byrds",
-    "album": "Full Flyte 1965-1970",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Byrds_-_Everybody's_Been_Burned.jpg",
-    "started_at": "2026-07-09T22:15:52Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
