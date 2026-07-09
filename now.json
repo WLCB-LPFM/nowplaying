@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T20:03:28-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T20:05:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Lost Horizon",
-    "artist": "Paul McCartney",
-    "album": "The Boys of Dungeon Lane",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Mccartney_-_Lost_Horizon.jpg",
-    "started_at": "2026-07-09T01:02:28Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
