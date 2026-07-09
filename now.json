@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T21:34:33-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T21:37:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Trapped",
-    "artist": "Colonel Abrams",
-    "album": "Colonel Abrams (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Colonel_Abrams_-_Trapped.jpg",
-    "started_at": "2026-07-09T02:34:13Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
