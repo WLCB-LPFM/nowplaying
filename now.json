@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T19:59:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T20:00:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Computer Pilot",
-    "artist": "Jerry Clower",
-    "album": "More Good 'Uns",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jerry_Clower.jpg",
-    "started_at": "2026-07-09T00:58:47Z",
-    "duration_seconds": 96
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
