@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T17:52:23-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T17:55:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "I Just Wanna Ball",
-    "artist": "Lil Booky",
-    "album": "All Money Good",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lil_Booky.jpg",
-    "started_at": "2026-07-09T22:52:06Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
