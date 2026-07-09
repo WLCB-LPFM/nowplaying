@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T17:55:43-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T17:56:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Little Deuce Coupe",
+    "artist": "The Beach Boys",
+    "album": "Car Club '63",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beach_Boys_-_Little_Deuce_Coupe.jpg",
+    "started_at": "2026-07-09T22:56:39Z",
+    "duration_seconds": 107
+  },
   "next_poll_seconds": 10
 }
