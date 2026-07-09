@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T16:14:20-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T16:18:36-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "I'm The Ish, In The Mix-Mashup Mix 2",
+    "artist": "DJ Godfather",
+    "album": "Im The Ish, In The Mix- Live Mash Up Mix",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Godfather_-_I'm_The_Ish,_In_The_Mix-mashup_Mix_2.jpg",
+    "started_at": "2026-07-09T21:18:24Z",
+    "duration_seconds": 394
+  },
   "next_poll_seconds": 10
 }
