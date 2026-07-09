@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T19:02:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-08T19:07:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Pop Muzik",
-    "artist": "M",
-    "album": "Pop Muzik - The Remix Album",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/M_-_Pop_Muzik.jpg",
-    "started_at": "2026-07-09T00:02:25Z",
-    "duration_seconds": 296
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
