@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T17:27:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T17:48:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "96 Tears",
+    "artist": "? and the Mysterians",
+    "album": "25 Original Greatest Hits - Cameo Parkway",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/ae6ddb0f8c0c3930b615626cecd8f017.png",
+    "started_at": "2026-07-10T22:48:36Z",
+    "duration_seconds": 176
+  },
   "next_poll_seconds": 10
 }
