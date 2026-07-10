@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:36:35-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T15:39:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Bayou Boy",
-    "artist": "Arbo",
-    "album": "Bayou Boy",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Arbo.jpg",
-    "started_at": "2026-07-10T20:36:19Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
