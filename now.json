@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T12:52:33-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T12:55:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Ten Thousand Watts",
-    "artist": "Altered Five Blues Band",
-    "album": "Ten Thousand Watts",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Altered_Five_Blues_Band_-_Ten_Thousand_Watts.jpg",
-    "started_at": "2026-07-10T17:52:22Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
