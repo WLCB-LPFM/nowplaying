@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-09T22:41:46-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-09T22:43:59-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Windows",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-07-10T03:41:34.5365954Z",
-    "duration_seconds": 151,
-    "year": "1996"
+    "title": "Oh, Lady, Be Good!",
+    "artist": "Charlie Parker",
+    "album": "Now's the Time, Vol. 6",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Oh,_Lady,_Be_Good!.jpg",
+    "started_at": "2026-07-10T03:40:45Z",
+    "duration_seconds": 665
   },
   "next_poll_seconds": 10
 }
