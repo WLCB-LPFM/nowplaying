@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:53:06-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T15:56:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Little Pistol",
-    "artist": "The Filthy Heathens",
-    "album": "Etheridge",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Filthy_Heathens.jpg",
-    "started_at": "2026-07-10T20:52:47Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
