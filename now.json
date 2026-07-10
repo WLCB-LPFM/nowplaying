@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T16:53:18-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T16:53:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Champagne & Reefer",
+    "artist": "Muddy Waters",
+    "album": "Playlist: The Very Best Of Muddy Waters",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Muddy_Waters_-_Champagne_&_Reefer.jpg",
+    "started_at": "2026-07-10T21:53:19Z",
+    "duration_seconds": 277
+  },
   "next_poll_seconds": 10
 }
