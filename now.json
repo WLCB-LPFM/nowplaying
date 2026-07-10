@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T16:10:12-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T16:10:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Oklahoma Breakdown",
+    "artist": "Stoney LaRue",
+    "album": "Live at Billy Bob's Texas",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stoney_Larue_-_Oklahoma_Breakdown.jpg",
+    "started_at": "2026-07-10T21:10:47Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
