@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T14:21:28-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T14:24:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Any Questions",
+    "artist": "Matt Schofield",
+    "album": "Many Moons /, Vol. 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Matt_Schofield_-_Any_Questions.jpg",
+    "started_at": "2026-07-10T19:24:20Z",
+    "duration_seconds": 359
+  },
   "next_poll_seconds": 10
 }
