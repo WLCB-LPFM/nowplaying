@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T19:27:34-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T19:31:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Gravity",
-    "artist": "John Mayer",
-    "album": "Continuum",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Mayer_-_Gravity.jpg",
-    "started_at": "2026-07-10T00:27:17Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
