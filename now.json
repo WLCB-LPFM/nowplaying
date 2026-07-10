@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-09T22:32:32-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T22:32:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rockin' Chair",
+    "artist": "Gene Krupa and His Orchestra",
+    "album": "Jazz Greats, Volume 61: Roy Eldridge: Little Jazz",
+    "artwork_url": "",
+    "started_at": "2026-07-10T03:32:37.4123242Z",
+    "duration_seconds": 177,
+    "year": "1998"
+  },
   "next_poll_seconds": 10
 }
