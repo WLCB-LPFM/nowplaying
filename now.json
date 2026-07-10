@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T16:48:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T16:53:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I'd Love to Be a Hippy",
-    "artist": "North Mississippi Allstars",
-    "album": "Hernando",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/North_Mississippi_Allstars_-_I'd_Love_To_Be_A_Hippy.jpg",
-    "started_at": "2026-07-10T21:48:33Z",
-    "duration_seconds": 294
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
