@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:47:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T18:49:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Still Ray",
-    "artist": "Raphael Saadiq",
-    "album": "Instant Vintage",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Raphael_Saadiq_-_Still_Ray.jpg",
-    "started_at": "2026-07-10T23:46:56Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
