@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:43:25-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T15:46:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "High on Our Own Supply",
-    "artist": "The Band of Heathens",
-    "album": "High on Our Own Supply",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Band_Of_Heathens_-_High_On_Our_Own_Supply.jpg",
-    "started_at": "2026-07-10T20:43:15Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
