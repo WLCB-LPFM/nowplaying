@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T13:53:16-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T13:59:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I Need You Tonight",
-    "artist": "ZZ Top",
-    "album": "One Foot In The Blues",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_I_Need_You_Tonight.jpg",
-    "started_at": "2026-07-10T18:53:05Z",
-    "duration_seconds": 377
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
