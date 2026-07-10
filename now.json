@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T07:08:24-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T07:09:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Can I Get A...",
+    "artist": "Jay-Z",
+    "album": "Vol. 2 Hard Knock Life",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jay-z_-_Can_I_Get_A....jpg",
+    "started_at": "2026-07-10T12:09:16Z",
+    "duration_seconds": 310
+  },
   "next_poll_seconds": 10
 }
