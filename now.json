@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T13:05:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T13:11:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Someone",
+    "artist": "Connor Selby",
+    "album": "Someone",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Connor_Selby_-_Someone.jpg",
+    "started_at": "2026-07-10T18:11:14Z",
+    "duration_seconds": 301
+  },
   "next_poll_seconds": 10
 }
