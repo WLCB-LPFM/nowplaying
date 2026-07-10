@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T12:59:04-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T12:59:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Like This, Like That",
+    "artist": "Chris Standring",
+    "album": "Ten",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Standring_-_Like_This,_Like_That.jpg",
+    "started_at": "2026-07-10T17:59:06Z",
+    "duration_seconds": 281
+  },
   "next_poll_seconds": 10
 }
