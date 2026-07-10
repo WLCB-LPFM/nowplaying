@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T21:46:37-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T21:50:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "That I Would Be Good",
-    "artist": "Alanis Morissette",
-    "album": "That I Would Be Good",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alanis_Morissette_-_That_I_Would_Be_Good.jpg",
-    "started_at": "2026-07-10T02:46:18Z",
-    "duration_seconds": 257
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
