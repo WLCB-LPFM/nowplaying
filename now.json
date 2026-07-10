@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T20:32:33-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T20:35:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Ghosts n Stuff - Radio Edit Mix",
-    "artist": "deadmau5",
-    "album": "Clubland",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Deadmau5.jpg",
-    "started_at": "2026-07-10T01:32:09Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
