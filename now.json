@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:46:41-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T15:48:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "You Can't Get Off With Your Shoes On",
-    "artist": "Barefoot Jerry",
-    "album": "You Can't Get Off with Your Shoes On",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Barefoot_Jerry_-_You_Can't_Get_Off_With_Your_Shoes_On.jpg",
-    "started_at": "2026-07-10T20:46:30Z",
-    "duration_seconds": 162
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
