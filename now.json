@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T11:26:57-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T11:30:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Vagabond",
-    "artist": "Vicki Peterson",
-    "album": "Long After The Fire",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vicki_Peterson.jpg",
-    "started_at": "2026-07-10T16:26:42Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
