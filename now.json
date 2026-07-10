@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T21:50:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T21:51:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Sunset Grill",
+    "artist": "Don Henley",
+    "album": "Actual Miles: Henley's Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Don_Henley_-_Sunset_Grill.jpg",
+    "started_at": "2026-07-10T02:51:04Z",
+    "duration_seconds": 390
+  },
   "next_poll_seconds": 10
 }
