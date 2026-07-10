@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:29:57-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T15:33:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "A-Tisket, a-Tasket",
+    "artist": "Ella Fitzgerald",
+    "album": "Wonderful.....Ella Fitzgerald - A Tisket A Tasket",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ella_Fitzgerald_-_A-tisket,_A-tasket.jpg",
+    "started_at": "2026-07-10T20:33:30Z",
+    "duration_seconds": 158
+  },
   "next_poll_seconds": 10
 }
