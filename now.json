@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T21:35:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T21:38:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jenny",
+    "artist": "Eric Church",
+    "album": "Soul",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Church_-_Jenny.jpg",
+    "started_at": "2026-07-10T02:38:03Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
