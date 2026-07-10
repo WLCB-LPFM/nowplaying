@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T14:39:49-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T14:40:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Blues Comin' On",
+    "artist": "Eric Gales,Joe Louis Walker",
+    "album": "Blues Comin' On",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eric_Gales,joe_Louis_Walker.jpg",
+    "started_at": "2026-07-10T19:39:56Z",
+    "duration_seconds": 354
+  },
   "next_poll_seconds": 10
 }
