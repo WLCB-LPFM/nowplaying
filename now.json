@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:11:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T18:11:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You Can Make It If You Try",
+    "artist": "Sly & The Family Stone",
+    "album": "Playlist: The Very Best Of Sly & The Family Stone",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sly_&_The_Family_Stone_-_You_Can_Make_It_If_You_Try.jpg",
+    "started_at": "2026-07-10T23:11:35Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
