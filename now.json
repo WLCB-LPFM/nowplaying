@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T19:22:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T19:26:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Franklin's Tower (2006 Remaster)",
-    "artist": "Grateful Dead",
-    "album": "Franklin's Tower (2006 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Grateful_Dead.jpg",
-    "started_at": "2026-07-10T00:21:52Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
