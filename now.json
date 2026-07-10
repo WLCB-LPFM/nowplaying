@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:34:33-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T18:35:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Tired of Being Alone",
+    "artist": "The Subdudes",
+    "album": "Lucky",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Subdudes_-_Tired_Of_Being_Alone.jpg",
+    "started_at": "2026-07-10T23:35:13Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
