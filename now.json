@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T19:39:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T19:43:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Fall To Pieces",
-    "artist": "Velvet Revolver",
-    "album": "Contraband",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Velvet_Revolver_-_Fall_To_Pieces.jpg",
-    "started_at": "2026-07-10T00:38:47Z",
-    "duration_seconds": 271
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
