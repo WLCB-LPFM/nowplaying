@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T10:35:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T10:40:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sympathy for the Devil",
-    "artist": "Billy Branch",
-    "album": "Chicago Plays the Stones",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Branch_-_Sympathy_For_The_Devil.jpg",
-    "started_at": "2026-07-10T15:34:53Z",
-    "duration_seconds": 356
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
