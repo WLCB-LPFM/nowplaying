@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T12:08:13-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T12:11:45-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Future Soul",
+    "artist": "Tedeschi Trucks Band",
+    "album": "Future Soul",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tedeschi_Trucks_Band_-_Future_Soul.jpg",
+    "started_at": "2026-07-10T17:11:37Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
