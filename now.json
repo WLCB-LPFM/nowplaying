@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T21:05:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T21:05:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Paradise Circus",
+    "artist": "Massive Attack",
+    "album": "Heligoland",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Massive_Attack_-_Paradise_Circus.jpg",
+    "started_at": "2026-07-10T02:05:45Z",
+    "duration_seconds": 298
+  },
   "next_poll_seconds": 10
 }
