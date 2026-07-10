@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:53:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T18:56:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Your Love Is King",
-    "artist": "Sade",
-    "album": "Die Hit Giganten Best of Funk & Soul",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sade_-_Your_Love_Is_King.jpg",
-    "started_at": "2026-07-10T23:53:26Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
