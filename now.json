@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:20:26-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T18:23:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Just My Imagination (Running Away With Me) (Single Version Mono)",
-    "artist": "The Temptations",
-    "album": "My Girl",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Temptations.jpg",
-    "started_at": "2026-07-10T23:20:02Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
