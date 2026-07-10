@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:38:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T18:39:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Give Up On Us",
+    "artist": "PJ Morton",
+    "album": "Saturday Night",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pj_Morton_-_Don't_Give_Up_On_Us.jpg",
+    "started_at": "2026-07-10T23:39:46Z",
+    "duration_seconds": 147
+  },
   "next_poll_seconds": 10
 }
