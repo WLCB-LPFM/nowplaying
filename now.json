@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T07:49:27-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T07:54:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Separate Ways (Worlds Apart) []",
-    "artist": "Journey",
-    "album": "Frontiers",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Journey.jpg",
-    "started_at": "2026-07-10T12:49:12Z",
-    "duration_seconds": 326
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
