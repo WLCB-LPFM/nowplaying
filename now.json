@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T21:22:20-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T21:26:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Every Little Thing She Does Is Magic",
-    "artist": "The Police",
-    "album": "The Police",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Police_-_Every_Little_Thing_She_Does_Is_Magic.jpg",
-    "started_at": "2026-07-10T02:22:01Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
