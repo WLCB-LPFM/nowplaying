@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T22:00:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T22:04:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Hysteria",
-    "artist": "Def Leppard",
-    "album": "Best Of",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Hysteria.jpg",
-    "started_at": "2026-07-10T02:58:39Z",
-    "duration_seconds": 355
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
