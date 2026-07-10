@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:23:20-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T15:26:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Blister On The Moon",
-    "artist": "Taste",
-    "album": "Taste",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Taste_-_Blister_On_The_Moon.jpg",
-    "started_at": "2026-07-10T20:23:05Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
