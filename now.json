@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:03:29-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T15:06:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Evil (Single Version)",
-    "artist": "Cactus",
-    "album": "Evil (Single Version)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cactus.jpg",
-    "started_at": "2026-07-10T20:03:08Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
