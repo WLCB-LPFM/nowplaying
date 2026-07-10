@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:04:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T18:05:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Lovely Inspiration",
-    "artist": "Maze",
-    "album": "Inspiration",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Maze_-_Lovely_Inspiration.jpg",
-    "started_at": "2026-07-10T23:04:00Z",
-    "duration_seconds": 116
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
