@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:49:49-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T18:50:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Daddy's Home",
+    "artist": "Jermaine Jackson",
+    "album": "The Ultimate Collection: Jackson 5",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jermaine_Jackson_-_Daddy's_Home.jpg",
+    "started_at": "2026-07-10T23:50:24Z",
+    "duration_seconds": 183
+  },
   "next_poll_seconds": 10
 }
