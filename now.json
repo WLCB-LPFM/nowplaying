@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T20:40:00-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T20:46:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Around The World",
-    "artist": "Daft Punk",
-    "album": "Around The World",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daft_Punk_-_Around_The_World.jpg",
-    "started_at": "2026-07-10T01:39:44Z",
-    "duration_seconds": 429
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
