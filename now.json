@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:19:35-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T15:22:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Waitin' for the Wind",
-    "artist": "Spooky Tooth",
-    "album": "Spooky Two",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spooky_Tooth_-_Waitin'_For_The_Wind.jpg",
-    "started_at": "2026-07-10T20:19:24Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
