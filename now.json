@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T19:43:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T19:47:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "One Piece at a Time",
-    "artist": "Johnny Cash",
-    "album": "One Piece At A Time",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Cash_-_One_Piece_At_A_Time.jpg",
-    "started_at": "2026-07-10T00:43:35Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
