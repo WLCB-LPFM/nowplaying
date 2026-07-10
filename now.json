@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T12:35:24-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T12:40:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Someone Else Was Steppin In",
-    "artist": "Big Mike & The R&B Kings",
-    "album": "This Song's for You",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Big_Mike_&_The_R&b_Kings.jpg",
-    "started_at": "2026-07-10T17:35:02Z",
-    "duration_seconds": 324
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
