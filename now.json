@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T08:21:14-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T08:21:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Paradise City",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Guns_N'_Roses_-_Paradise_City.jpg",
+    "started_at": "2026-07-10T13:21:17Z",
+    "duration_seconds": 406
+  },
   "next_poll_seconds": 10
 }
