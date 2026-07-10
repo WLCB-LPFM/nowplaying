@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:26:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T15:26:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Dreams of Milk & Honey",
+    "artist": "Leslie West",
+    "album": "Mountain",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Leslie_West.jpg",
+    "started_at": "2026-07-10T20:26:33Z",
+    "duration_seconds": 217
+  },
   "next_poll_seconds": 10
 }
