@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T08:10:48-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T08:12:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Black Cat",
+    "artist": "Janet Jackson",
+    "album": "Design Of A Decade 1986/1996",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Black_Cat.jpg",
+    "started_at": "2026-07-10T13:11:58Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
