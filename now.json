@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-09T23:02:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-09T23:07:57-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "West Coast Blues (abridged)",
-    "artist": "Wes Montgomery",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-07-10T04:02:46.9687049Z",
-    "duration_seconds": 316,
-    "year": "1987"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
