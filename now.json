@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-10T02:24:14-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T02:24:26-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jungle In My Livingroom",
+    "artist": "Sofi Hellborg",
+    "album": "To give is to get",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sofi_Hellborg_-_Jungle_In_My_Livingroom.jpg",
+    "started_at": "2026-07-10T07:24:06Z",
+    "duration_seconds": 345
+  },
   "next_poll_seconds": 10
 }
