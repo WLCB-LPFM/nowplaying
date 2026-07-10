@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T09:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T09:01:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "When the Going Gets Tough, the Tough Get Going",
-    "artist": "Billy Ocean",
-    "album": "Dig'Hits All 80'S",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Ocean_-_When_The_Going_Gets_Tough,_The_Tough_Get_Going.jpg",
-    "started_at": "2026-07-10T13:57:30Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
