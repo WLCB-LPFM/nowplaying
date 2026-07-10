@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T16:41:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T16:45:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Shakedown Street",
-    "artist": "Grateful Dead",
-    "album": "Shakedown Street",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grateful_Dead_-_Shakedown_Street.jpg",
-    "started_at": "2026-07-10T21:40:44Z",
-    "duration_seconds": 300
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
