@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T07:00:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T07:04:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "How Will I Know (Remastered)",
-    "artist": "Whitney Houston",
-    "album": "The Ultimate Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitney_Houston_-_How_Will_I_Know_(Remastered).jpg",
-    "started_at": "2026-07-10T11:59:44Z",
-    "duration_seconds": 273
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
