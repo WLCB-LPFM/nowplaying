@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T17:08:14-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T17:25:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "BITS AND PIECES (US VERSION)",
+    "artist": "The Dave Clark Five",
+    "album": "The Best Of The Dave Cark Five",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Dave_Clark_Five.jpg",
+    "started_at": "2026-07-10T22:25:37Z",
+    "duration_seconds": 119
+  },
   "next_poll_seconds": 10
 }
