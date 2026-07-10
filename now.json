@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T19:47:25-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T19:47:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Will Possess Your Heart",
+    "artist": "Death Cab for Cutie",
+    "album": "I Will Possess Your Heart",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Death_Cab_For_Cutie_-_I_Will_Possess_Your_Heart.jpg",
+    "started_at": "2026-07-10T00:47:29Z",
+    "duration_seconds": 506
+  },
   "next_poll_seconds": 10
 }
