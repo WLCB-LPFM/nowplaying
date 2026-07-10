@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T20:06:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T20:25:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Not Exactly - Rinzen Remix",
+    "artist": "deadmau5",
+    "album": "Not Exactly (Rinzen Remix)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/e91241238627e7ef87485853893c4f5b.png",
+    "started_at": "2026-07-10T01:25:25Z",
+    "duration_seconds": 274
+  },
   "next_poll_seconds": 10
 }
