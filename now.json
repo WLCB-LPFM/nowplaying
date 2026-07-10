@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T07:25:49-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T07:31:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Blue Monday (2011 Total Version)",
+    "artist": "New Order",
+    "album": "Blue Monday (2011 Total Version)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Order_-_Blue_Monday_(2011_Total_Version).jpg",
+    "started_at": "2026-07-10T12:30:59Z",
+    "duration_seconds": 452
+  },
   "next_poll_seconds": 10
 }
