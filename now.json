@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:56:54-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T18:57:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Baby I Need Your Loving",
+    "artist": "Four Tops",
+    "album": "Gold",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Four_Tops_-_Baby_I_Need_Your_Loving.jpg",
+    "started_at": "2026-07-10T23:57:07Z",
+    "duration_seconds": 165
+  },
   "next_poll_seconds": 10
 }
