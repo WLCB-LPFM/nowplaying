@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T13:16:10-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T13:16:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "All Down The Line",
+    "artist": "The Rolling Stones",
+    "album": "Exile On Main St",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_All_Down_The_Line.jpg",
+    "started_at": "2026-07-10T18:16:13Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
