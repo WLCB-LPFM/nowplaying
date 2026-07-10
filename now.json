@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T08:18:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T08:21:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Kokomo",
-    "artist": "The Beach Boys",
-    "album": "The Very Best Of The Beach Boys: Sounds Of Summer",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beach_Boys_-_Kokomo.jpg",
-    "started_at": "2026-07-10T13:17:49Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
