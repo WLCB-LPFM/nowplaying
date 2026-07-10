@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T20:35:33-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T20:39:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Escape",
-    "artist": "Kx5",
-    "album": "Escape",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kx5_-_Escape.jpg",
-    "started_at": "2026-07-10T01:35:24Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
