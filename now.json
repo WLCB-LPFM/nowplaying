@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:56:41-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T15:59:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Josephine",
-    "artist": "Eric Lindell",
-    "album": "The Best Of Eric Lindell",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Lindell_-_Josephine.jpg",
-    "started_at": "2026-07-10T20:56:29Z",
-    "duration_seconds": 166
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
