@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T14:56:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T14:56:20-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "2.65",
+    "artist": "Greg Koch",
+    "album": "Strat's Got Your Tongue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Greg_Koch_-_2.65.jpg",
+    "started_at": "2026-07-10T19:55:59Z",
+    "duration_seconds": 335
+  },
   "next_poll_seconds": 10
 }
