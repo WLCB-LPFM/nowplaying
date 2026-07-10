@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T09:19:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T09:19:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Anytime (GH 2 Version)",
+    "artist": "Journey",
+    "album": "Greatest Hits 2",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Anytime_(Gh_2_Version).jpg",
+    "started_at": "2026-07-10T14:18:58Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
