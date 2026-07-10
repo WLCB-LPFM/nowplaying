@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T15:00:06-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T15:01:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Bad News",
+    "artist": "Whitey Morgan and the 78's",
+    "album": "Whitey Morgan and the 78's",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitey_Morgan_And_The_78's_-_Bad_News.jpg",
+    "started_at": "2026-07-10T20:01:24Z",
+    "duration_seconds": 318
+  },
   "next_poll_seconds": 10
 }
