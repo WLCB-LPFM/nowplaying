@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-10T05:27:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T05:28:12-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "St. Louis Blues",
-    "artist": "Bessie Smith",
-    "album": "The Complete Recordings, Vol. 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bessie_Smith_-_St._Louis_Blues.jpg",
-    "started_at": "2026-07-10T10:25:12Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
