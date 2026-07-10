@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T12:40:14-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T12:40:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Steamroller Blues",
+    "artist": "Big Twist & The Mellow Fellows",
+    "album": "Live From Chicago!  Bigger Than Life!",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Big_Twist_&_The_Mellow_Fellows.jpg",
+    "started_at": "2026-07-10T17:40:27Z",
+    "duration_seconds": 493
+  },
   "next_poll_seconds": 10
 }
