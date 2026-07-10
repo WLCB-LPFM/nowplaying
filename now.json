@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T20:46:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-09T20:46:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "End of Line",
+    "artist": "Daft Punk",
+    "album": "TRON: Legacy - The Complete Edition(Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daft_Punk_-_End_Of_Line.jpg",
+    "started_at": "2026-07-10T01:46:40Z",
+    "duration_seconds": 156
+  },
   "next_poll_seconds": 10
 }
