@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T12:17:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T12:22:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Let's Go Get Stoned (Live at LOCKN'  feat.  2015)",
-    "artist": "Tedeschi Trucks Band",
-    "album": "Tedeschi Trucks Band and Leon Russell Present: Mad Dogs & Englishmen Revisited Live at LOCKN'",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tedeschi_Trucks_Band.jpg",
-    "started_at": "2026-07-10T17:17:28Z",
-    "duration_seconds": 342
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
