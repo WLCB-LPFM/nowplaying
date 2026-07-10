@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T14:49:47-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T14:50:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Change The Rules",
+    "artist": "Jimmy Thackery And The Drivers",
+    "album": "Inside Tracks",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Thackery_And_The_Drivers_-_Change_The_Rules.jpg",
+    "started_at": "2026-07-10T19:49:55Z",
+    "duration_seconds": 379
+  },
   "next_poll_seconds": 10
 }
