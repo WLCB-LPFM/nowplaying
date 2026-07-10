@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T12:00:03-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T12:05:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "You Got to Lose",
+    "artist": "The Black Keys",
+    "album": "You Got to Lose",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Keys_-_You_Got_To_Lose.jpg",
+    "started_at": "2026-07-10T17:05:06Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
