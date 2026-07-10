@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T18:09:16-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T18:11:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Soul Man (45 Version)",
-    "artist": "Sam & Dave",
-    "album": "Soul Man (45 Version)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sam_&_Dave.jpg",
-    "started_at": "2026-07-10T23:08:59Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
