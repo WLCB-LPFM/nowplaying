@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T19:33:44-05:00",
-  "source": "autopost",
+  "generated": "2026-07-09T19:36:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Red Red Wine (2009 Digital Remaster)",
-    "artist": "UB40",
-    "album": "The Ultimate Office Party Album",
-    "artwork_url": "https://cdn.autopo.st/images/artists/u/Ub40.jpg",
-    "started_at": "2026-07-10T00:33:21Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
