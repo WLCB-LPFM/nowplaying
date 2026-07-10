@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T10:22:33-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T10:26:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "These Days",
-    "artist": "Devon Allman feat. Maggie Rose",
-    "album": "These Days",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Devon_Allman_Feat._Maggie_Rose.jpg",
-    "started_at": "2026-07-10T15:22:18Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
