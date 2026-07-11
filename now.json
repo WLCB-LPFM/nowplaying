@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-11T05:21:18-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-11T05:23:43-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Ko-Ko",
-    "artist": "Duke Ellington And His Famous Orchestra",
-    "album": "Ko-Ko / Conga Brava",
-    "artwork_url": "",
-    "started_at": "2026-07-11T10:21:12.8634511Z",
-    "duration_seconds": 155,
-    "year": "1941"
+    "title": "Haitian Fight Song (Remastered)",
+    "artist": "Charles Mingus",
+    "album": "Summertime (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charles_Mingus.jpg",
+    "started_at": "2026-07-11T10:12:36Z",
+    "duration_seconds": 720
   },
   "next_poll_seconds": 10
 }
