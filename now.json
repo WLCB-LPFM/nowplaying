@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T08:00:04-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T08:00:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Karn Evil 9 1st Impression, Pt. 2",
+    "artist": "Emerson, Lake & Palmer",
+    "album": "Brain Salad Surgery",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Emerson,_Lake_&_Palmer.jpg",
+    "started_at": "2026-07-11T13:00:27Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
