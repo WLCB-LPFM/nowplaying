@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-11T14:27:42-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T14:29:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Venus",
+    "artist": "Bananarama",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-11T19:29:42.155528Z",
+    "duration_seconds": 221,
+    "year": "1986"
+  },
   "next_poll_seconds": 10
 }
