@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:16:10-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T21:16:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bad Company",
+    "artist": "Five Finger Death Punch",
+    "album": "War Is The Answer",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Five_Finger_Death_Punch_-_Bad_Company.jpg",
+    "started_at": "2026-07-11T02:16:08Z",
+    "duration_seconds": 262
+  },
   "next_poll_seconds": 10
 }
