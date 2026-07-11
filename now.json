@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-10T23:02:50-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T23:06:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blues Bikini",
-    "artist": "Dexter Gordon",
-    "album": "Dexter Gordon - the Best of Me",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dexter_Gordon_-_Blues_Bikini.jpg",
-    "started_at": "2026-07-11T04:02:37Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
