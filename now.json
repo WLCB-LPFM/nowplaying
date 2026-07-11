@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T22:27:15-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T22:31:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Jet Airliner",
-    "artist": "Steve Miller Band",
-    "album": "Jet Airliner",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Miller_Band_-_Jet_Airliner.jpg",
-    "started_at": "2026-07-11T03:27:03Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
