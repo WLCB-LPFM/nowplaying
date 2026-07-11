@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:02:55-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T20:07:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Shakin' Shakin' Shakes",
-    "artist": "Bonnie Raitt",
-    "album": "Dig In Deep",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonnie_Raitt_-_Shakin'_Shakin'_Shakes.jpg",
-    "started_at": "2026-07-11T01:02:37Z",
-    "duration_seconds": 290
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
