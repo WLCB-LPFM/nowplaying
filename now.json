@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-11T06:04:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T06:04:51-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Do Me!",
+    "artist": "Bel Biv DeVoe",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-11T11:04:45.673771Z",
+    "duration_seconds": 263,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
