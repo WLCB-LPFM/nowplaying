@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-11T13:41:06-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T13:41:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Wild Thing",
+    "artist": "Tone Loc",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-11T18:41:13.5395965Z",
+    "duration_seconds": 263,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
