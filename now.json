@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:11:38-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T20:12:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Middle of a Memory",
+    "artist": "Cole Swindell",
+    "album": "You Should Be Here",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cole_Swindell_-_Middle_Of_A_Memory.jpg",
+    "started_at": "2026-07-11T01:11:44Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
