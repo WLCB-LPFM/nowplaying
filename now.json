@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T11:45:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T11:46:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "I'll Be There For You",
+    "artist": "Ashford & Simpson",
+    "album": "The Best Of Ashford And Simpson",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ashford_&_Simpson_-_I'll_Be_There_For_You.jpg",
+    "started_at": "2026-07-11T16:46:26Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
