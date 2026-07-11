@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:54:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T21:54:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Drowning at the Bottom",
+    "artist": "Albert Castiglia",
+    "album": "Big Dog",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Albert_Castiglia_-_Drowning_At_The_Bottom.jpg",
+    "started_at": "2026-07-11T02:54:32Z",
+    "duration_seconds": 272
+  },
   "next_poll_seconds": 10
 }
