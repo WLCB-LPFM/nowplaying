@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T22:12:49-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T22:18:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Ballad of Dwight Fry",
-    "artist": "Alice Cooper",
-    "album": "Ballad of Dwight Fry",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_Cooper_-_Ballad_Of_Dwight_Fry.jpg",
-    "started_at": "2026-07-11T03:12:32Z",
-    "duration_seconds": 393
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
