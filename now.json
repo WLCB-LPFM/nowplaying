@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T22:02:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T22:07:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Breakfast in Bed",
-    "artist": "Deep Purple",
-    "album": "Slaves and Masters (Bonus Track Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_Breakfast_In_Bed.jpg",
-    "started_at": "2026-07-11T03:02:33Z",
-    "duration_seconds": 316
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
