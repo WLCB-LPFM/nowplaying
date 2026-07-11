@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:02:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T21:05:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "White Trash Millionaire",
-    "artist": "Black Stone Cherry",
-    "album": "White Trash Millionaire",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Stone_Cherry_-_White_Trash_Millionaire.jpg",
-    "started_at": "2026-07-11T02:02:15Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
