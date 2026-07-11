@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:13:00-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T19:13:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "This Ain't the Summer of Love",
+    "artist": "Blue \u00d6yster Cult",
+    "album": "Collections",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blue_\u00d6yster_Cult_-_This_Ain't_The_Summer_Of_Love.jpg",
+    "started_at": "2026-07-11T00:13:11Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
