@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:05:54-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T19:06:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Getaway",
+    "artist": "Earth, Wind & Fire",
+    "album": "The Best Of Earth, Wind & Fire Vol. 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Earth,_Wind_&_Fire_-_Getaway.jpg",
+    "started_at": "2026-07-11T00:06:02Z",
+    "duration_seconds": 226
+  },
   "next_poll_seconds": 10
 }
