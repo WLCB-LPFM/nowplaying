@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T22:47:37-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T22:51:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Revival",
-    "artist": "Allman Brothers Band",
-    "album": "Idlewild South (Deluxe Edition Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Allman_Brothers_Band_-_Revival.jpg",
-    "started_at": "2026-07-11T03:47:26Z",
-    "duration_seconds": 246
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
