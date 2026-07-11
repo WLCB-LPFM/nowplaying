@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:30:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T20:30:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Go Robot",
-    "artist": "Red Hot Chili Peppers",
-    "album": "The Getaway",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Red_Hot_Chili_Peppers_-_Go_Robot.jpg",
-    "started_at": "2026-07-11T01:26:41Z",
-    "duration_seconds": 264
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
