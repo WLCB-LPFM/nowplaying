@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T08:32:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T08:36:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "If I'd Been The One (Album Version)",
-    "artist": "38 Special",
-    "album": "Tour De Force",
-    "artwork_url": "https://cdn.autopo.st/images/artists/3/38_Special.jpg",
-    "started_at": "2026-07-11T13:32:20Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
