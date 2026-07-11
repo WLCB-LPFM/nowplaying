@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:09:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T21:12:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "In Me I Trust",
-    "artist": "Cory Marks",
-    "album": "Nashville Nights",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cory_Marks_-_In_Me_I_Trust.jpg",
-    "started_at": "2026-07-11T02:09:24Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
