@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:56:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T20:58:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I Smell Trouble",
-    "artist": "Buddy Guy",
-    "album": "Slippin' In",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_I_Smell_Trouble.jpg",
-    "started_at": "2026-07-11T01:55:58Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
