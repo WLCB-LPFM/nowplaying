@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T11:03:43-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T11:06:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Do You Know the Way to San Jose",
-    "artist": "Dionne Warwick",
-    "album": "Do You Know the Way to San Jose",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dionne_Warwick_-_Do_You_Know_The_Way_To_San_Jose.jpg",
-    "started_at": "2026-07-11T16:03:29Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
