@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T11:26:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T11:27:21-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Boogie Oogie Oogie",
+    "artist": "A Taste Of Honey",
+    "album": "Movida Disco Dancing",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/A_Taste_Of_Honey_-_Boogie_Oogie_Oogie.jpg",
+    "started_at": "2026-07-11T16:27:09Z",
+    "duration_seconds": 338
+  },
   "next_poll_seconds": 10
 }
