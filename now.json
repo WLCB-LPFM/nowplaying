@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:41:37-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T20:45:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Dirty Drawers",
-    "artist": "Elvin Bishop",
-    "album": "That's My Partner!",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Elvin_Bishop.jpg",
-    "started_at": "2026-07-11T01:41:13Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
