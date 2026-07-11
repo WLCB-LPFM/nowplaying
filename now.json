@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T17:28:13-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T17:29:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "So Much More Than This",
+    "artist": "Grace VanderWaal",
+    "album": "Just The Beginning",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grace_Vanderwaal_-_So_Much_More_Than_This.jpg",
+    "started_at": "2026-07-11T22:28:51Z",
+    "duration_seconds": 174
+  },
   "next_poll_seconds": 10
 }
