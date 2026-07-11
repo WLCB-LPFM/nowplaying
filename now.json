@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:55:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T19:58:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Get Me Away from Here, I\u2019m Dying",
-    "artist": "Belle and Sebastian",
-    "album": "If You\u2019re Feeling Sinister",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Belle_And_Sebastian.jpg",
-    "started_at": "2026-07-11T00:55:15Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
