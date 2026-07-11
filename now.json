@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T18:51:56-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T18:52:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Stay",
+    "artist": "Jodeci",
+    "album": "Back To The Future: The Very Best Of Jodeci",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jodeci_-_Stay.jpg",
+    "started_at": "2026-07-11T23:51:56Z",
+    "duration_seconds": 311
+  },
   "next_poll_seconds": 10
 }
