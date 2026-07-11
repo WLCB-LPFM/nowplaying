@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-11T14:27:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T14:27:42-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Alive and Kicking",
-    "artist": "Simple Minds",
-    "album": "Celebrate Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Simple_Minds_-_Alive_And_Kicking.jpg",
-    "started_at": "2026-07-11T19:23:01Z",
-    "duration_seconds": 287
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
