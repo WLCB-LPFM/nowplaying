@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:27:22-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T21:30:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Come Alive",
-    "artist": "The Dead Daisies",
-    "album": "Holy Ground",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dead_Daisies_-_Come_Alive.jpg",
-    "started_at": "2026-07-11T02:27:13Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
