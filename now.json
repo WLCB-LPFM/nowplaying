@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T17:19:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T17:19:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Love, Need And Want You",
+    "artist": "Patti LaBelle",
+    "album": "The Essential Patti LaBelle",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Patti_Labelle_-_Love,_Need_And_Want_You.jpg",
+    "started_at": "2026-07-11T22:19:19Z",
+    "duration_seconds": 300
+  },
   "next_poll_seconds": 10
 }
