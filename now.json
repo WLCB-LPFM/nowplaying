@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:12:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T21:12:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Like No Other (Bassline)",
+    "artist": "The Dead Daisies",
+    "album": "Holy Ground",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dead_Daisies_-_Like_No_Other_(Bassline).jpg",
+    "started_at": "2026-07-11T02:12:39Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
