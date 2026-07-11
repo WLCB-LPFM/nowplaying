@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T11:54:21-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T11:56:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Hold On, I'm Coming",
-    "artist": "Sam & Dave",
-    "album": "Hold On, I'm Coming",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_&_Dave_-_Hold_On,_I'm_Coming.jpg",
-    "started_at": "2026-07-11T16:54:02Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
