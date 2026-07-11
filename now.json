@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T11:10:04-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T11:10:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "The Light",
+    "artist": "Common",
+    "album": "Like Water For Chocolate",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Common_-_The_Light.jpg",
+    "started_at": "2026-07-11T16:10:25Z",
+    "duration_seconds": 243
+  },
   "next_poll_seconds": 10
 }
