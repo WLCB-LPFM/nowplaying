@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:44:36-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T21:49:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "The Sentinel (Live)",
-    "artist": "Judas Priest",
-    "album": "Priest...Live!",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Judas_Priest_-_The_Sentinel_(Live).jpg",
-    "started_at": "2026-07-11T02:44:21Z",
-    "duration_seconds": 310
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
