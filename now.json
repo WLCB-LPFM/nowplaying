@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:33:49-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T20:36:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I Remember Punk Rock",
-    "artist": "Vic Reeves",
-    "album": "I Will Cure You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Vic_Reeves_-_I_Remember_Punk_Rock.jpg",
-    "started_at": "2026-07-11T01:33:38Z",
-    "duration_seconds": 188
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
