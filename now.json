@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-10T23:07:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T23:12:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Besame Mucho",
-    "artist": "Eline Gemerts",
-    "album": "Marching in",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eline_Gemerts.jpg",
-    "started_at": "2026-07-11T04:06:57Z",
-    "duration_seconds": 335
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
