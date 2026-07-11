@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T11:22:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T11:26:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Rebirth of Slick (Cool Like Dat)",
-    "artist": "Digable Planets",
-    "album": "Reachin' (A New Refutation Of Time And Space)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Digable_Planets_-_Rebirth_Of_Slick_(Cool_Like_Dat).jpg",
-    "started_at": "2026-07-11T16:22:22Z",
-    "duration_seconds": 262
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
