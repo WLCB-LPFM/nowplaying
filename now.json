@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-11T15:30:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-11T15:32:40-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Faith",
+    "title": "Faith (Remastered 2006)",
     "artist": "George Michael",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-11T20:30:09.1824042Z",
-    "duration_seconds": 156,
-    "year": "2022"
+    "album": "Twenty Five",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Michael_-_Faith_(Remastered_2006).jpg",
+    "started_at": "2026-07-11T20:30:14Z",
+    "duration_seconds": 193
   },
   "next_poll_seconds": 10
 }
