@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-11T01:26:12-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T01:26:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Doggin' Around",
-    "artist": "Count Basie",
-    "album": "Perfect Big Bands",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_Doggin'_Around.jpg",
-    "started_at": "2026-07-11T06:24:13Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
