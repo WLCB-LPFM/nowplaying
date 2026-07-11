@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-11T05:08:32-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T05:12:59-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Haitian Fight Song (Remastered)",
+    "artist": "Charles Mingus",
+    "album": "Summertime (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charles_Mingus.jpg",
+    "started_at": "2026-07-11T10:12:36Z",
+    "duration_seconds": 720
+  },
   "next_poll_seconds": 10
 }
