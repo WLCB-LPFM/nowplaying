@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:47:17-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T19:50:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Butts Wigglin",
-    "artist": "The Tragically Hip",
-    "album": "Trouble At The Henhouse",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Tragically_Hip_-_Butts_Wigglin.jpg",
-    "started_at": "2026-07-11T00:47:01Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
