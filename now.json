@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:45:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T20:45:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Wind Cries Mary",
+    "artist": "The Jimi Hendrix Experience",
+    "album": "Experience Hendrix: The Best Of Jimi Hendrix",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jimi_Hendrix_Experience_-_The_Wind_Cries_Mary.jpg",
+    "started_at": "2026-07-11T01:45:33Z",
+    "duration_seconds": 202
+  },
   "next_poll_seconds": 10
 }
