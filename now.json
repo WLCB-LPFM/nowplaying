@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:49:58-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T21:54:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Sweet Leaf",
-    "artist": "Black Sabbath",
-    "album": "We Sold Our Soul For Rock 'N' Roll",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Sabbath_-_Sweet_Leaf.jpg",
-    "started_at": "2026-07-11T02:49:46Z",
-    "duration_seconds": 302
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
