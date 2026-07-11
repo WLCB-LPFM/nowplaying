@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T17:44:30-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T17:48:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Emotions",
-    "artist": "H-Town",
-    "album": "Luke's Hall Of Fame Vol.3",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/H-town_-_Emotions.jpg",
-    "started_at": "2026-07-11T22:44:15Z",
-    "duration_seconds": 298
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
