@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:42:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T19:43:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dogs Are The Best People",
+    "artist": "The Fauves",
+    "album": "Dogs Are The Best People",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fauves_-_Dogs_Are_The_Best_People.jpg",
+    "started_at": "2026-07-11T00:43:07Z",
+    "duration_seconds": 164
+  },
   "next_poll_seconds": 10
 }
