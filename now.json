@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:34:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T21:44:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Medicine (Live)",
-    "artist": "Tab Benoit",
-    "album": "Live at the 2025 New Orleans Jazz & Heritage Festival",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tab_Benoit.jpg",
-    "started_at": "2026-07-11T02:33:43Z",
-    "duration_seconds": 636
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
