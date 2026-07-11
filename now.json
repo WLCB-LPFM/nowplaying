@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:07:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T20:07:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Spirit Man",
+    "artist": "Royal Southern Brotherhood",
+    "album": "The Royal Gospel",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Royal_Southern_Brotherhood_-_Spirit_Man.jpg",
+    "started_at": "2026-07-11T01:07:24Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
