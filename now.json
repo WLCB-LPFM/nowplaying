@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-11T06:30:37-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-11T06:33:35-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Invisible Touch",
+    "title": "Invisible Touch (Single Version)",
     "artist": "Genesis",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-11T11:30:22.4867658Z",
-    "duration_seconds": 201,
-    "year": "1986"
+    "album": "Invisible Touch / The Last Domino",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Genesis.jpg",
+    "started_at": "2026-07-11T11:30:26Z",
+    "duration_seconds": 208
   },
   "next_poll_seconds": 10
 }
