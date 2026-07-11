@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-11T05:36:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T05:37:24-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Black Bottom Stomp (1988 Remastered)",
+    "artist": "Jelly Roll Morton and His Red Hot Peppers",
+    "album": "Jelly Roll Morton",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jelly_Roll_Morton_And_His_Red_Hot_Peppers.jpg",
+    "started_at": "2026-07-11T10:37:06Z",
+    "duration_seconds": 188
+  },
   "next_poll_seconds": 10
 }
