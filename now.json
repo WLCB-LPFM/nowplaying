@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:52:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T20:55:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "We Used to Know",
-    "artist": "Jethro Tull",
-    "album": "We Used to Know",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jethro_Tull_-_We_Used_To_Know.jpg",
-    "started_at": "2026-07-11T01:51:51Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
