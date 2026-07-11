@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:27:43-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T19:30:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Royal Orleans",
-    "artist": "Led Zeppelin",
-    "album": "Presence",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Royal_Orleans.jpg",
-    "started_at": "2026-07-11T00:27:30Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
