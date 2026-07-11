@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T20:49:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T20:51:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Corinna (From 'The Natch'l Blues')",
-    "artist": "Taj Mahal",
-    "album": "Martin Scorsese Presents The Blues: Taj Mahal",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Taj_Mahal.jpg",
-    "started_at": "2026-07-11T01:48:48Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
