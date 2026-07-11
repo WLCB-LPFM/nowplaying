@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-11T05:53:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T05:53:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Joyride",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "",
+    "started_at": "2026-07-11T10:53:39.9075788Z",
+    "duration_seconds": 261,
+    "year": "1996"
+  },
   "next_poll_seconds": 10
 }
