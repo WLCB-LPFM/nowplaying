@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T11:56:23-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T11:57:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Weather Bird",
+    "artist": "Louis Armstrong",
+    "album": "Portrait Of The Artist As A Young Man 1923-1934",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Weather_Bird.jpg",
+    "started_at": "2026-07-11T16:57:43Z",
+    "duration_seconds": 165
+  },
   "next_poll_seconds": 10
 }
