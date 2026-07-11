@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-10T23:58:13-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T00:22:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I've Never Been in Love Before",
+    "artist": "The Bassface Swing Trio",
+    "album": "Straight Live",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Bassface_Swing_Trio_-_I've_Never_Been_In_Love_Before.jpg",
+    "started_at": "2026-07-11T05:22:13Z",
+    "duration_seconds": 384
+  },
   "next_poll_seconds": 10
 }
