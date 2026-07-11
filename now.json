@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T22:43:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T22:43:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Crossfire (Album Version)",
+    "artist": "Stevie Ray Vaughan",
+    "album": "Essential - Dock Rock",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Stevie_Ray_Vaughan.jpg",
+    "started_at": "2026-07-11T03:43:19Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
