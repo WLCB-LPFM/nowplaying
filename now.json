@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-11T00:41:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T00:48:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Over the Rainbow",
+    "artist": "Jutta Glaser",
+    "album": "Little Girl Blue",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jutta_Glaser.jpg",
+    "started_at": "2026-07-11T05:48:27Z",
+    "duration_seconds": 640
+  },
   "next_poll_seconds": 10
 }
