@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:33:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T19:37:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Alright",
-    "artist": "Jamiroquai",
-    "album": "Now That's What I Call 1997",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jamiroquai_-_Alright.jpg",
-    "started_at": "2026-07-11T00:33:08Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
