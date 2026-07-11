@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-11T07:57:50-05:00",
+  "generated": "2026-07-11T07:58:24-05:00",
   "source": "fallback",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "06:00",
+    "ends": "08:00",
+    "genre": null
+  },
   "track": null,
   "next_poll_seconds": 10
 }
