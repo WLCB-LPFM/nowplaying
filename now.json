@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:15:49-05:00",
-  "source": "autopost",
+  "generated": "2026-07-10T19:19:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Hand Of Fate",
-    "artist": "The Rolling Stones",
-    "album": "Black And Blue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Hand_Of_Fate.jpg",
-    "started_at": "2026-07-11T00:15:35Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
