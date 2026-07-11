@@ -1,19 +1,17 @@
 {
-  "generated": "2026-07-11T10:06:50-05:00",
+  "generated": "2026-07-11T11:00:09-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Sports Weekly",
+    "name": "Timeless Traxx",
     "hosts": [
-      "Lucas Vollmer",
-      "Matt Rosenberg",
-      "Pat Cameron"
+      "Tyrone DuBose"
     ],
     "automated": false,
-    "starts": "08:00",
-    "ends": "11:00",
-    "genre": "Sports"
+    "starts": "11:00",
+    "ends": "12:00",
+    "genre": "R&B"
   },
   "track": null,
   "next_poll_seconds": 10
