@@ -1,15 +1,19 @@
 {
-  "generated": "2026-07-11T07:58:24-05:00",
+  "generated": "2026-07-11T08:00:04-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "06:00",
-    "ends": "08:00",
-    "genre": null
+    "name": "Sports Weekly",
+    "hosts": [
+      "Lucas Vollmer",
+      "Matt Rosenberg",
+      "Pat Cameron"
+    ],
+    "automated": false,
+    "starts": "08:00",
+    "ends": "11:00",
+    "genre": "Sports"
   },
   "track": null,
   "next_poll_seconds": 10
