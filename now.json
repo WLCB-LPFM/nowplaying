@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T22:51:20-05:00",
-  "source": "fallback",
+  "generated": "2026-07-10T22:51:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Walk On Hot Coals",
+    "artist": "Rory Gallagher",
+    "album": "Old Grey Whistle Test: Easy Riders",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rory_Gallagher_-_Walk_On_Hot_Coals.jpg",
+    "started_at": "2026-07-11T03:51:33Z",
+    "duration_seconds": 421
+  },
   "next_poll_seconds": 10
 }
