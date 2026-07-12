@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-12T05:52:20-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T05:52:55-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Libyan Desert Mirages",
-    "artist": "Schantz Segment",
-    "album": "Return From Exile",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Schantz_Segment.jpg",
-    "started_at": "2026-07-12T10:44:27Z",
-    "duration_seconds": 517
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
