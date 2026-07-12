@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T20:20:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T20:21:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "U Know What It Is",
+    "artist": "Young Jeezy",
+    "album": "The Inspiration (Exclusive Edition)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/aeb974fff63e15e3323689f4e5c26916.png",
+    "started_at": "2026-07-12T01:20:49Z",
+    "duration_seconds": 224
+  },
   "next_poll_seconds": 10
 }
