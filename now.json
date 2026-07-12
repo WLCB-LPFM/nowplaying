@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T21:32:47-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T21:37:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Girl",
-    "artist": "The Time",
-    "album": "Girl",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Time_-_Girl.jpg",
-    "started_at": "2026-07-12T02:32:37Z",
-    "duration_seconds": 334
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
