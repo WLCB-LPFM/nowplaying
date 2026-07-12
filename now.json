@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T16:50:11-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T16:54:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Before I Let Go (feat. Frankie Beverly) [2004 - Remastered]",
+    "artist": "Maze",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Maze_-_Before_I_Let_Go_(Feat._Frankie_Beverly)_[2004_-_Remastered].jpg",
+    "started_at": "2026-07-12T21:54:47Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
