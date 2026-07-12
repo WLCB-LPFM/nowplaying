@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T22:34:52-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T22:40:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Do Nothin' Till You Hear from Me",
-    "artist": "Joe Pass",
-    "album": "Portraits of Duke Ellington",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Joe_Pass.jpg",
-    "started_at": "2026-07-12T03:34:38Z",
-    "duration_seconds": 358
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
