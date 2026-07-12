@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-11T23:52:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T23:52:41-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Nya Nya Nya",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Nya_Nya_Nya.jpg",
-    "started_at": "2026-07-12T04:47:57Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
