@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T20:00:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T20:03:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Paid in Full",
+    "artist": "Eric B. & Rakim",
+    "album": "NOW That's What I Call Old Skool",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_B._&_Rakim_-_Paid_In_Full.jpg",
+    "started_at": "2026-07-12T01:02:50Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
