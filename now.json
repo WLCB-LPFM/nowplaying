@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-12T01:19:50-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T01:20:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Singin' the Blues",
-    "artist": "Frankie Tumbauer And His Orchestra",
-    "album": "Maple Leaf Rag: Modern Jazz Roots",
-    "artwork_url": "null",
-    "started_at": "2026-07-12T06:17:18Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
