@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T06:07:41-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T06:10:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cherry Red Blues",
-    "artist": "Cootie Williams and His Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T11:07:30.6493351Z",
-    "duration_seconds": 185,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
