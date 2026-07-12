@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-12T03:52:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T03:55:51-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Danny Boy",
-    "artist": "Bob Rockwell Quartet",
-    "album": "Bob's Ben - A Salute to Ben Webster",
-    "artwork_url": "",
-    "started_at": "2026-07-12T08:52:21.8758907Z",
-    "duration_seconds": 221,
-    "year": "2004"
+    "artist": "Bob Rockwell, Ben Sidran, Billy Peterson, Leo Sidran",
+    "album": "Bob's Ben:  A Salute to Ben Webster",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bob_Rockwell,_Ben_Sidran,_Billy_Peterson,_Leo_Sidran.jpg",
+    "started_at": "2026-07-12T08:53:00Z",
+    "duration_seconds": 239
   },
   "next_poll_seconds": 10
 }
