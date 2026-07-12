@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T20:16:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T20:16:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "And I Love You",
+    "artist": "Rich Boy",
+    "album": "Rich Boy",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d02ce37b0cb322e646483044b7c5ade0.png",
+    "started_at": "2026-07-12T01:16:29Z",
+    "duration_seconds": 272
+  },
   "next_poll_seconds": 10
 }
