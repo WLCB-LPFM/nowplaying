@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T10:01:44-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T10:04:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "All In Favour of Swing Say 'Aye'",
-    "artist": "Tommy Dorsey",
-    "album": "All In Favour of Swing Say 'Aye'",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/803e6f302343811088c5f69d9f18584b.png",
-    "started_at": "2026-07-12T15:01:26Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
