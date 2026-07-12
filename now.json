@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T12:01:30-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T12:10:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "OTR"
   },
-  "track": {
-    "title": "John the Shoplifter",
-    "artist": "Don Ameche & Frances Longford",
-    "album": "The Bickersons - Comedy Classics",
-    "artwork_url": "null",
-    "started_at": "2026-07-12T17:01:09Z",
-    "duration_seconds": 600
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
