@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-12T14:46:18-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T14:46:30-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Under Blue Canadian Skies",
+    "artist": "Glenn Miller & His Orchestra",
+    "album": "Choo Choo",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Glenn_Miller_&_His_Orchestra.jpg",
+    "started_at": "2026-07-12T19:46:11Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
