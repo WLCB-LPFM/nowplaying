@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T16:06:00-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T16:12:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Cherish",
+    "artist": "Kool & The Gang",
+    "album": "40 Pop Power Ballads",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kool_&_The_Gang_-_Cherish.jpg",
+    "started_at": "2026-07-12T21:12:30Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
