@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T16:23:35-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T16:28:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "I Wanna Dance with Somebody",
-    "artist": "Whitney Houston",
-    "album": "Moc Przeboj\u00f3w Disco",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitney_Houston_-_I_Wanna_Dance_With_Somebody.jpg",
-    "started_at": "2026-07-12T21:23:21Z",
-    "duration_seconds": 324
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
