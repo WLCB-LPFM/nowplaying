@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T17:17:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T17:21:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Whatever You Want",
-    "artist": "Tony! Toni! Ton\u00e9!",
-    "album": "20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony!_Toni!_Ton\u00e9!_-_Whatever_You_Want.jpg",
-    "started_at": "2026-07-12T22:16:54Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
