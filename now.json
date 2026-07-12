@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T10:19:16-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T10:25:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Any Bonds Today?",
+    "artist": "Kay Kyser",
+    "album": "Songs That Won The War: Rosie The Riveter",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kay_Kyser.jpg",
+    "started_at": "2026-07-12T15:24:51Z",
+    "duration_seconds": 173
+  },
   "next_poll_seconds": 10
 }
