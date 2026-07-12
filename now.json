@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-12T04:57:56-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T04:59:48-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Legends Of Glory",
+    "artist": "L Groupe",
+    "album": "Adventure & Achievement (Industrial)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/L_Groupe.jpg",
+    "started_at": "2026-07-12T09:59:34Z",
+    "duration_seconds": 319
+  },
   "next_poll_seconds": 10
 }
