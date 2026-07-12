@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:41:40-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T18:45:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "When the Blues Come Knockin' (feat. Little Milton)",
+    "artist": "Gov't Mule",
+    "album": "Mulennium",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gov't_Mule_-_When_The_Blues_Come_Knockin'_(Feat._Little_Milton).jpg",
+    "started_at": "2026-07-12T23:45:36Z",
+    "duration_seconds": 355
+  },
   "next_poll_seconds": 10
 }
