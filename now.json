@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:51:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T18:55:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "After Midnight (Live)",
-    "artist": "J.J. Cale",
-    "album": "In Session (Live)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/J.j._Cale_-_After_Midnight_(Live).jpg",
-    "started_at": "2026-07-12T23:51:28Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
