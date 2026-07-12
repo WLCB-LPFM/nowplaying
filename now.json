@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T06:13:41-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T06:16:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You're a Lucky Guy (1940)",
-    "artist": "Roy Eldridge and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T11:13:33.3890254Z",
-    "duration_seconds": 180,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
