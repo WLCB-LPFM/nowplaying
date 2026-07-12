@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T15:24:25-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T15:24:48-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When It's Peace on Earth Again",
+    "artist": "The R.A.O.C. Blue Rocket's Dance Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T20:24:39.3235679Z",
+    "duration_seconds": 180,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
