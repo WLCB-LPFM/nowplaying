@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T16:46:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T16:50:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Yo (Excuse Me Miss)",
-    "artist": "Chris Brown",
-    "album": "Yo (Excuse Me Miss)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Brown_-_Yo_(Excuse_Me_Miss).jpg",
-    "started_at": "2026-07-12T21:46:33Z",
-    "duration_seconds": 229
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
