@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T09:07:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T09:10:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Moonglow",
+    "artist": "Artie Shaw & His Orchestra",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Artie_Shaw_&_His_Orchestra.jpg",
+    "started_at": "2026-07-12T14:10:29Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
