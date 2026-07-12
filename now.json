@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T20:28:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T20:28:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "What You Know",
+    "artist": "T.I.",
+    "album": "King",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/T.i._-_What_You_Know.jpg",
+    "started_at": "2026-07-12T01:28:12Z",
+    "duration_seconds": 274
+  },
   "next_poll_seconds": 10
 }
