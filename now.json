@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T09:21:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T09:22:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Mister Meadowlark (Remastered 1996)",
+    "artist": "Glenn Miller & His Orchestra",
+    "album": "Miller Plays Mercer",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Glenn_Miller_&_His_Orchestra.jpg",
+    "started_at": "2026-07-12T14:21:59Z",
+    "duration_seconds": 144
+  },
   "next_poll_seconds": 10
 }
