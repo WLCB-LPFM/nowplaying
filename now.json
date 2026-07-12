@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:05:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T18:07:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "No No No",
-    "artist": "Wet Willie",
-    "album": "The Best Of Wet Willie",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wet_Willie_-_No_No_No.jpg",
-    "started_at": "2026-07-12T23:04:51Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
