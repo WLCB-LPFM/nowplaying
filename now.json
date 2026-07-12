@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T14:34:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T14:35:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Indiana (1940)",
+    "artist": "Vic Lewis and Jack Parnell's Jazz Men",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T19:35:09.8994517Z",
+    "duration_seconds": 151,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
