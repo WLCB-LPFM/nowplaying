@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T19:58:49-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T19:59:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "What's On Tonight",
-    "artist": "Montell Jordan",
-    "album": "More ...",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Montell_Jordan_-_What's_On_Tonight.jpg",
-    "started_at": "2026-07-12T00:55:14Z",
-    "duration_seconds": 277
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
