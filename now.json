@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T06:33:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T06:33:31-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Boogie Woogie Stride",
+    "artist": "James P. Johnson",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T11:33:23.56944Z",
+    "duration_seconds": 191,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
