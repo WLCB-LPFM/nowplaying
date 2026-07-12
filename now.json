@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T08:13:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T08:13:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Blond Sailor",
+    "artist": "Don Baker; The Polka Dots",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T13:13:42.283246Z",
+    "duration_seconds": 169,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
