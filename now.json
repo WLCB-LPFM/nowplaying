@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:25:15-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T18:31:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "No No No",
-    "artist": "Deep Purple",
-    "album": "No No No",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_No_No_No.jpg",
-    "started_at": "2026-07-12T23:25:00Z",
-    "duration_seconds": 414
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
