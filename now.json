@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T08:37:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T08:40:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "London Pride",
-    "artist": "Noel Coward",
-    "album": "In Town Tonight: 25 Nostalgic Theatre & Cabaret Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Noel_Coward_-_London_Pride.jpg",
-    "started_at": "2026-07-12T13:37:31.2330857Z",
-    "duration_seconds": 197,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
