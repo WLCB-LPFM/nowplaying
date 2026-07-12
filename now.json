@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T20:39:55-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T20:53:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "When a Woman's Fed Up",
+    "artist": "R. Kelly",
+    "album": "R.",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R._Kelly_-_When_A_Woman's_Fed_Up.jpg",
+    "started_at": "2026-07-12T01:53:23Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
