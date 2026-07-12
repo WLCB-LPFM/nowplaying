@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T15:44:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T15:44:53-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Moonlight Mood",
+    "artist": "Johnny Jones and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T20:44:42.4954639Z",
+    "duration_seconds": 193,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
