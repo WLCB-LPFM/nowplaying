@@ -1,17 +1,18 @@
 {
-  "generated": "2026-07-12T08:57:57-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-07-12T09:00:11-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "He Wears a Pair of Silver",
-    "artist": "Mal Hallett and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T13:57:54.2330229Z",
-    "duration_seconds": 197,
-    "year": "1942"
+  "show": {
+    "name": "The Original Big Band Showcase",
+    "hosts": [
+      "Denny Farrell"
+    ],
+    "automated": false,
+    "starts": "09:00",
+    "ends": "11:00",
+    "genre": "Big Band"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
