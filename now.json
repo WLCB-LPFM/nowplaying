@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T07:24:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T07:27:02-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Begin the Beguine (1940)",
-    "artist": "Richard Tauber; Cole Porter",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T12:24:04.6454648Z",
-    "duration_seconds": 186,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
