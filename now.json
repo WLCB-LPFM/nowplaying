@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:14:55-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T18:17:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "You Don't Love Me (Yes I Know)",
-    "artist": "Ike & Tina Turner",
-    "album": "Classic Ike & Tina Turner - The Universal Masters Collection",
-    "artwork_url": "https://cdn.autopo.st/images/artists/i/Ike_&_Tina_Turner.jpg",
-    "started_at": "2026-07-12T23:14:36Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
