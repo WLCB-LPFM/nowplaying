@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T20:59:58-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T21:07:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Pepper",
+    "artist": "Butthole Surfers",
+    "album": "Electriclarryland",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Butthole_Surfers_-_Pepper.jpg",
+    "started_at": "2026-07-12T02:06:49Z",
+    "duration_seconds": 297
+  },
   "next_poll_seconds": 10
 }
