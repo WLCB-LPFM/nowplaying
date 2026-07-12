@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T08:21:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T08:22:03-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Somebody Nobody Loves",
+    "artist": "Vincent Lopez and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T13:21:58.1095977Z",
+    "duration_seconds": 156,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
