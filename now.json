@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T14:49:41-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T14:49:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Four or Five Times (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T19:49:45.7213901Z",
+    "duration_seconds": 164,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
