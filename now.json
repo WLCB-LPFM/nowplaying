@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T08:47:14-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T08:47:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Who Wouldn't Love You",
+    "artist": "Ray McKinley and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T13:47:18.8398285Z",
+    "duration_seconds": 188,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
