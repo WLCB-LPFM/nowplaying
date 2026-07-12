@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-12T04:37:01-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T04:37:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "No Clue",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_No_Clue.jpg",
-    "started_at": "2026-07-12T09:33:20Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
