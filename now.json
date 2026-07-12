@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T19:40:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T19:40:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "When Will I See You Smile Again?",
+    "artist": "Bell Biv DeVoe",
+    "album": "20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bell_Biv_Devoe_-_When_Will_I_See_You_Smile_Again?.jpg",
+    "started_at": "2026-07-12T00:40:30Z",
+    "duration_seconds": 307
+  },
   "next_poll_seconds": 10
 }
