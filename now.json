@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T08:24:40-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T08:27:16-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "My Melancholy Baby (1940)",
-    "artist": "Jack Teagarden and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T13:24:35.0204401Z",
-    "duration_seconds": 169,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
