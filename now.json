@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-12T07:06:10-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T07:09:19-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Day In-Day Out (1940)",
-    "artist": "Billy Cotton and His Band",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T12:06:05.3622535Z",
-    "duration_seconds": 200,
-    "year": "1940"
+    "title": "Day In - Day Out",
+    "artist": "Billy Cotton",
+    "album": "Billy Cotton - Golden Collection, Vol. 1",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_Cotton.jpg",
+    "started_at": "2026-07-12T12:06:13Z",
+    "duration_seconds": 207
   },
   "next_poll_seconds": 10
 }
