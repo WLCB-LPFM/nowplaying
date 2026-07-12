@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T21:24:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T21:28:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Light",
-    "artist": "Disturbed",
-    "album": "Immortalized (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Disturbed_-_The_Light.jpg",
-    "started_at": "2026-07-12T02:24:36Z",
-    "duration_seconds": 257
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
