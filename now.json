@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T21:22:40-05:00",
-  "source": "fallback",
+  "generated": "2026-07-11T21:23:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Moon Base Alert",
+    "artist": "The Breakers",
+    "album": "A Seahorse Of A Different Color",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Breakers.jpg",
+    "started_at": "2026-07-12T02:22:39Z",
+    "duration_seconds": 135
+  },
   "next_poll_seconds": 10
 }
