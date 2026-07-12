@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T17:54:38-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T17:54:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Golden Time of Day (2004 Digital Remaster) (Feat. Frankie Beverly)",
+    "artist": "Maze",
+    "album": "Golden Time Of Day",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Maze.jpg",
+    "started_at": "2026-07-12T22:54:26Z",
+    "duration_seconds": 334
+  },
   "next_poll_seconds": 10
 }
