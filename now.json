@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:31:42-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T18:35:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "All Your Love (I Miss Loving)",
+    "artist": "Otis Rush",
+    "album": "Live At Montreux 1986",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Otis_Rush_-_All_Your_Love_(I_Miss_Loving).jpg",
+    "started_at": "2026-07-12T23:34:46Z",
+    "duration_seconds": 427
+  },
   "next_poll_seconds": 10
 }
