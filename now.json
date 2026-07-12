@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T17:21:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T17:22:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "I Just Can't Stop Loving You",
+    "artist": "Michael Jackson",
+    "album": "Bad (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_I_Just_Can't_Stop_Loving_You.jpg",
+    "started_at": "2026-07-12T22:22:45Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
