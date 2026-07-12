@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T09:19:34-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T09:21:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Mama's Gone Goodbye",
-    "artist": "Bobby Hackett",
-    "album": "Lounge Jazz Caf\u00e9 - Milano",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bobby_Hackett.jpg",
-    "started_at": "2026-07-12T14:19:09Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
