@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T09:42:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T09:45:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "I Don't Want To Set The World On Fire",
-    "artist": "The Ink Spots",
-    "album": "20th Century Masters: The Millennium Collection: Best Of The Ink Spots",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Ink_Spots_-_I_Don't_Want_To_Set_The_World_On_Fire.jpg",
-    "started_at": "2026-07-12T14:42:21Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
