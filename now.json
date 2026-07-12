@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T17:37:21-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T17:41:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Just Friends (Sunny)",
-    "artist": "Musiq",
-    "album": "Aijuswanaseing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Musiq_-_Just_Friends_(Sunny).jpg",
-    "started_at": "2026-07-12T22:37:05Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
