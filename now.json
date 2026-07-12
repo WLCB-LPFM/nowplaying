@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T08:07:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T08:07:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Pedro the Cocktail Shaker (1940)",
+    "artist": "Miff Ferrie's Jakdauz",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T13:07:48.3956173Z",
+    "duration_seconds": 181,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
