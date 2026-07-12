@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T02:40:28-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T02:44:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Bare Essentials",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-07-12T07:40:16.4362431Z",
-    "duration_seconds": 257,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
