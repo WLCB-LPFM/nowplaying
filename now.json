@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-12T07:44:04-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T07:46:29-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Alice Blue Gown (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T12:43:56.4379716Z",
-    "duration_seconds": 165,
-    "year": "1940"
+    "title": "Alice Blue Gown",
+    "artist": "Harry James,Dick Haymes",
+    "album": "Harry James - With Dick Haymes, 1940",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_James,dick_Haymes.jpg",
+    "started_at": "2026-07-12T12:43:57Z",
+    "duration_seconds": 172
   },
   "next_poll_seconds": 10
 }
