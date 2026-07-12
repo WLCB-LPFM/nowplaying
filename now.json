@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T07:14:33-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T07:14:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The White Cliffs of Dover",
+    "artist": "Bunny Berigan and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T12:14:43.4128974Z",
+    "duration_seconds": 178,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
