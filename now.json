@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T14:05:20-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T14:05:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Don't Make Me Laugh (1940)",
+    "artist": "Johnny McGee and his Orchestra; Alan Girard",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T19:05:28.5194066Z",
+    "duration_seconds": 173,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
