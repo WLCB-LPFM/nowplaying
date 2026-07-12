@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T07:52:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T07:56:36-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Night and Day",
-    "artist": "Paul Whiteman and his Concert Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T12:52:30.5239218Z",
-    "duration_seconds": 257,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
