@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T20:17:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T20:20:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "My Down One",
-    "artist": "L.O.C.",
-    "album": "The Streets Are Listening",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/L.o.c._-_My_Down_One.jpg",
-    "started_at": "2026-07-12T01:16:55Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
