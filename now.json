@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T17:41:16-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T17:45:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Dontchange",
-    "artist": "Musiq",
-    "album": "Juslisen",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Musiq_-_Dontchange.jpg",
-    "started_at": "2026-07-12T22:41:00Z",
-    "duration_seconds": 304
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
