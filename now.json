@@ -1,15 +1,17 @@
 {
-  "generated": "2026-07-12T15:59:08-05:00",
+  "generated": "2026-07-12T16:00:05-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "14:00",
-    "ends": "16:00",
-    "genre": null
+    "name": "Old School Throwbacks",
+    "hosts": [
+      "J. Cornelius"
+    ],
+    "automated": false,
+    "starts": "16:00",
+    "ends": "18:00",
+    "genre": "Hip-Hop"
   },
   "track": null,
   "next_poll_seconds": 10
