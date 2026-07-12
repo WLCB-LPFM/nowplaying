@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T15:38:41-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T15:41:18-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dolly Doolittle (1940)",
-    "artist": "Lang Thompson and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T20:38:38.0697014Z",
-    "duration_seconds": 171,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
