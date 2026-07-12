@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-12T14:08:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-12T14:11:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Tangerine",
-    "artist": "Lang Thompson and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-12T19:08:21.7461519Z",
-    "duration_seconds": 181,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
