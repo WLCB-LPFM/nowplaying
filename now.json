@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T08:32:17-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T08:32:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Said the Robin (1940)",
+    "artist": "Al Golden and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T13:32:32.4996445Z",
+    "duration_seconds": 139,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
