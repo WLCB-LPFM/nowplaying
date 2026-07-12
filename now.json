@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:07:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T18:08:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Yes",
+    "artist": "Morphine",
+    "album": "Yes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Morphine_-_Yes.jpg",
+    "started_at": "2026-07-12T23:08:19Z",
+    "duration_seconds": 120
+  },
   "next_poll_seconds": 10
 }
