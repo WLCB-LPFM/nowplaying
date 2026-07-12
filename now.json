@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T19:19:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T19:22:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "I Gotta Be",
-    "artist": "Jagged Edge",
-    "album": "A Jagged Era",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jagged_Edge_-_I_Gotta_Be.jpg",
-    "started_at": "2026-07-12T00:19:15Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
