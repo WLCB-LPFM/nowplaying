@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T14:11:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T14:11:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Deep in the Heart of Texas",
+    "artist": "Clyde Lucas and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-12T19:11:22.9051895Z",
+    "duration_seconds": 164,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
