@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T21:19:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-11T21:22:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Space Oddity (US Mono Single Edit) [2009 Remaster]",
-    "artist": "David Bowie",
-    "album": "Space Oddity (US Mono Single Edit) [2009 Remaster]",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d2ee9d6bba1e596e0407b6cd976606cc.png",
-    "started_at": "2026-07-12T02:19:24Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
