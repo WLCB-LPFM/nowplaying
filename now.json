@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:03:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T18:04:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Bliss",
+    "artist": "Phish",
+    "album": "Bliss",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Phish_-_Bliss.jpg",
+    "started_at": "2026-07-12T23:04:25Z",
+    "duration_seconds": 124
+  },
   "next_poll_seconds": 10
 }
