@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T17:12:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T17:15:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Celebrate Me",
-    "artist": "IngaRose",
-    "album": "Celebrate Me",
-    "artwork_url": "https://cdn.autopo.st/images/artists/i/Ingarose.jpg",
-    "started_at": "2026-07-12T22:12:08Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
