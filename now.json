@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T08:51:32-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T08:53:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wild, Wild West",
+    "artist": "The Escape Club",
+    "album": "Video Hits - One Hit Wonders",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Escape_Club_-_Wild,_Wild_West.jpg",
+    "started_at": "2026-07-13T13:53:20Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
