@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:49:36-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T21:53:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Cry For Love",
-    "artist": "Iggy Pop",
-    "album": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Iggy_Pop_-_Cry_For_Love.jpg",
-    "started_at": "2026-07-13T02:49:17Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
