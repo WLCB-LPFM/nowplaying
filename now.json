@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T17:02:34-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T17:06:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "MAMA",
-    "artist": "EXO-K",
-    "album": "Mama - The 1st Mini Album",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Exo-k_-_Mama.jpg",
-    "started_at": "2026-07-13T22:02:23Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
