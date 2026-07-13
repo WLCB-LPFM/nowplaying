@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T17:32:28-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T17:35:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Lucifer",
-    "artist": "SHINee",
-    "album": "Romeo & Juliette",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shinee_-_Lucifer.jpg",
-    "started_at": "2026-07-13T22:32:18Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
