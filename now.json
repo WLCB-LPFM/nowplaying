@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-12T22:57:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T22:57:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hotter Than That",
+    "artist": "Louis Armstrong And His Hot Five",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-07-13T03:57:06.8055274Z",
+    "duration_seconds": 173,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
