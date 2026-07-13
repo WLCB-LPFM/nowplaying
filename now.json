@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:06:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T21:09:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Tulsa Time",
-    "artist": "The California Honeydrops",
-    "album": "Tulsa Time",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_California_Honeydrops_-_Tulsa_Time.jpg",
-    "started_at": "2026-07-13T02:06:08Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
