@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T17:35:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T17:36:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dionysus",
+    "artist": "BTS",
+    "album": "MAP OF THE SOUL : PERSONA",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bts_-_Dionysus.jpg",
+    "started_at": "2026-07-13T22:36:25Z",
+    "duration_seconds": 247
+  },
   "next_poll_seconds": 10
 }
