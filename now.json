@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:53:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T21:54:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Passenger",
+    "artist": "Siouxsie and The Banshees",
+    "album": "Through The Looking Glass",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Siouxsie_And_The_Banshees_-_The_Passenger.jpg",
+    "started_at": "2026-07-13T02:54:03Z",
+    "duration_seconds": 309
+  },
   "next_poll_seconds": 10
 }
