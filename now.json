@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:10:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T19:11:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "People Hatin'",
+    "artist": "The Red Clay Strays",
+    "album": "People Hatin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Red_Clay_Strays_-_People_Hatin'.jpg",
+    "started_at": "2026-07-13T00:11:11Z",
+    "duration_seconds": 247
+  },
   "next_poll_seconds": 10
 }
