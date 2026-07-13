@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-13T03:35:27-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T03:35:50-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Mother Earth",
-    "artist": "Caroline Henderson",
-    "album": "Made In Europe",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Caroline_Henderson_-_Mother_Earth.jpg",
-    "started_at": "2026-07-13T08:32:36Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
