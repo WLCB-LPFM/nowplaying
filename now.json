@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:23:41-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T19:32:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I Can Take the Sun Out of the Sky",
+    "artist": "Brigitte Calls Me Baby",
+    "album": "Irreversible",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brigitte_Calls_Me_Baby_-_I_Can_Take_The_Sun_Out_Of_The_Sky.jpg",
+    "started_at": "2026-07-13T00:32:39Z",
+    "duration_seconds": 230
+  },
   "next_poll_seconds": 10
 }
