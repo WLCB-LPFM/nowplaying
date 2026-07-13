@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T14:26:34-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T14:28:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Holiday",
+    "artist": "Madonna",
+    "album": "Holiday",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Holiday.jpg",
+    "started_at": "2026-07-13T19:28:49Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
