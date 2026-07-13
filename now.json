@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-13T06:10:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T06:10:26-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'm Bad",
-    "artist": "LL Cool J",
-    "album": "Bigger And Deffer",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Ll_Cool_J_-_I'm_Bad.jpg",
-    "started_at": "2026-07-13T11:05:55Z",
-    "duration_seconds": 280
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
