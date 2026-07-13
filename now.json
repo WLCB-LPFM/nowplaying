@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T10:51:49-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T10:55:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Anything You Want",
-    "artist": "Robert Cray",
-    "album": "Anything You Want",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Cray_-_Anything_You_Want.jpg",
-    "started_at": "2026-07-13T15:51:31Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
