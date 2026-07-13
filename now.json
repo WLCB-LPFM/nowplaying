@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:40:08-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T21:45:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Killing Moon (2004 Remaster)",
-    "artist": "Echo and The Bunnymen",
-    "album": "Killing Moon (2004 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Echo_And_The_Bunnymen.jpg",
-    "started_at": "2026-07-13T02:39:44Z",
-    "duration_seconds": 349
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
