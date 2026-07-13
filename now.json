@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-13T06:10:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T06:10:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "album": "Essential - Girls Night In",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shakira_-_Whenever,_Wherever.jpg",
+    "started_at": "2026-07-13T11:10:28.2135178Z",
+    "duration_seconds": 192,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
