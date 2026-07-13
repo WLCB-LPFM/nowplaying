@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-13T12:13:52-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-13T12:18:21-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Celebration",
-    "artist": "Kool and the Gang",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-13T17:13:45.4826879Z",
-    "duration_seconds": 289,
-    "year": ""
+    "artist": "Kool & The Gang",
+    "album": "Wedding Night",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kool_&_The_Gang_-_Celebration.jpg",
+    "started_at": "2026-07-13T17:15:28Z",
+    "duration_seconds": 220
   },
   "next_poll_seconds": 10
 }
