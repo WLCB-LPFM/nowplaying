@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-13T04:05:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T04:06:16-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blue Seven",
+    "artist": "Sonny Rollins",
+    "album": "Saxophone Colossus",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sonny_Rollins_-_Blue_Seven.jpg",
+    "started_at": "2026-07-13T09:05:59Z",
+    "duration_seconds": 676
+  },
   "next_poll_seconds": 10
 }
