@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:19:36-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T19:23:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "KNOCKING AT THE SKY",
-    "artist": "THE LAST DINNER PARTY",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Last_Dinner_Party_-_Knocking_At_The_Sky.jpg",
-    "started_at": "2026-07-13T00:19:26Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
