@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T08:28:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T08:32:06-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Like A Prayer (Churchapella)",
+    "artist": "Madonna",
+    "album": "Remixed Prayers",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Like_A_Prayer_(Churchapella).jpg",
+    "started_at": "2026-07-13T13:31:52Z",
+    "duration_seconds": 370
+  },
   "next_poll_seconds": 10
 }
