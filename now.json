@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-13T15:58:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T15:58:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'm Still Standing",
-    "artist": "Elton John",
-    "album": "Diamonds",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elton_John_-_I'm_Still_Standing.jpg",
-    "started_at": "2026-07-13T20:55:34Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
