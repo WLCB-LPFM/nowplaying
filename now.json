@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T14:11:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T14:14:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "We Are Family (1995 Remaster)",
-    "artist": "Sister Sledge",
-    "album": "We Are Family (1995 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sister_Sledge_-_We_Are_Family_(1995_Remaster).jpg",
-    "started_at": "2026-07-13T19:11:28Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
