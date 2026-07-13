@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T20:42:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T20:46:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "My Next Ex-Wife",
-    "artist": "Little Charlie & the Nightcats",
-    "album": "Deluxe Edition",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Little_Charlie_&_The_Nightcats.jpg",
-    "started_at": "2026-07-13T01:41:51Z",
-    "duration_seconds": 269
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
