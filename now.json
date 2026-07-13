@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T07:02:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T07:02:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Ghostbusters (Instrumental Version)",
+    "artist": "Ray Parker Jr.",
+    "album": "Ghostbusters (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Parker_Jr._-_Ghostbusters_(Instrumental_Version).jpg",
+    "started_at": "2026-07-13T12:02:30Z",
+    "duration_seconds": 287
+  },
   "next_poll_seconds": 10
 }
