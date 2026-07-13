@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-13T01:36:28-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T01:36:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Too Marvelous For Words",
-    "artist": "Art Tatum",
-    "album": "Art Tatum: Finest Hour",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Art_Tatum_-_Too_Marvelous_For_Words.jpg",
-    "started_at": "2026-07-13T06:34:24Z",
-    "duration_seconds": 146
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
