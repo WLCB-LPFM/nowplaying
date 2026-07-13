@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:07:31-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T19:10:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Heart Has To Work So Hard",
-    "artist": "Blondshell",
-    "album": "Heart Has To Work So Hard",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blondshell_-_Heart_Has_To_Work_So_Hard.jpg",
-    "started_at": "2026-07-13T00:07:17Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
