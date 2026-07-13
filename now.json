@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T16:19:12-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T16:21:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Like Animals",
-    "artist": "BTS",
-    "album": "ARIRANG",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bts_-_Like_Animals.jpg",
-    "started_at": "2026-07-13T21:18:59Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
