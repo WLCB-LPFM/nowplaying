@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T09:48:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T09:52:50-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The Voice",
-    "artist": "The Moody Blues",
-    "album": "Long Distance Voyager",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Moody_Blues_-_The_Voice.jpg",
-    "started_at": "2026-07-13T14:47:45Z",
-    "duration_seconds": 315
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
