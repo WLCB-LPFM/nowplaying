@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:45:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T19:45:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I FEEL HOPE COMING",
+    "artist": "ALABAMA SHAKES",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alabama_Shakes_-_I_Feel_Hope_Coming.jpg",
+    "started_at": "2026-07-13T00:45:14Z",
+    "duration_seconds": 311
+  },
   "next_poll_seconds": 10
 }
