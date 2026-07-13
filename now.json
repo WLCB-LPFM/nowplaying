@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:13:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T21:17:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Well All Right",
-    "artist": "Blind Faith",
-    "album": "Blind Faith",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blind_Faith_-_Well_All_Right.jpg",
-    "started_at": "2026-07-13T02:13:17Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
