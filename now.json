@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:21:31-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T21:22:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Hey Bartender (Live)",
+    "artist": "The Blues Brothers",
+    "album": "Hey Bartender (Live)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Blues_Brothers_-_Hey_Bartender_(Live).jpg",
+    "started_at": "2026-07-13T02:22:11Z",
+    "duration_seconds": 181
+  },
   "next_poll_seconds": 10
 }
