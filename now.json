@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T17:49:35-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T17:50:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Ghost",
+    "artist": "ATEEZ",
+    "album": "GOLDEN HOUR : Part.4",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/344a58f1a7504426f61265f6fb4d05a0.png",
+    "started_at": "2026-07-13T22:49:52Z",
+    "duration_seconds": 167
+  },
   "next_poll_seconds": 10
 }
