@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-13T02:17:44-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T02:17:56-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My foolish heart",
+    "artist": "Delicatessen",
+    "album": "My Baby Just Cares For Me",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Delicatessen_-_My_Foolish_Heart.jpg",
+    "started_at": "2026-07-13T07:17:46Z",
+    "duration_seconds": 301
+  },
   "next_poll_seconds": 10
 }
