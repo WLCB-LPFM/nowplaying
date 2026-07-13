@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:58:30-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T22:00:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Punk Rock Girl",
-    "artist": "The Dead Milkmen",
-    "album": "Beelzebubba",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dead_Milkmen_-_Punk_Rock_Girl.jpg",
-    "started_at": "2026-07-13T02:58:10Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
