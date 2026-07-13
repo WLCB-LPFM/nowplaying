@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:15:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T19:15:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Beaches In Tennessee",
+    "artist": "Cage The Elephant",
+    "album": "Beaches In Tennessee",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cage_The_Elephant_-_Beaches_In_Tennessee.jpg",
+    "started_at": "2026-07-13T00:15:19Z",
+    "duration_seconds": 196
+  },
   "next_poll_seconds": 10
 }
