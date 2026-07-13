@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T11:52:58-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T11:53:21-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Heartache",
+    "artist": "Duane Betts",
+    "album": "Isle of Hope",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duane_Betts_-_Heartache.jpg",
+    "started_at": "2026-07-13T16:53:06Z",
+    "duration_seconds": 320
+  },
   "next_poll_seconds": 10
 }
