@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T20:57:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T20:59:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Love Is a Rose (2017 Remaster)",
-    "artist": "Neil Young",
-    "album": "Love Is a Rose (2017 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Neil_Young.jpg",
-    "started_at": "2026-07-13T01:57:28Z",
-    "duration_seconds": 137
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
