@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:45:41-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T21:49:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Still Want You",
-    "artist": "The Del Fuegos",
-    "album": "I Still Want You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Del_Fuegos_-_I_Still_Want_You.jpg",
-    "started_at": "2026-07-13T02:45:23Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
