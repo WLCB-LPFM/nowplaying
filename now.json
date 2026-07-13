@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-13T06:13:50-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-13T06:17:11-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Footloose",
+    "title": "Footloose (From 'Footloose' Soundtrack)",
     "artist": "Kenny Loggins",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-13T11:13:40.4769219Z",
-    "duration_seconds": 215,
-    "year": "1984"
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kenny_Loggins.jpg",
+    "started_at": "2026-07-13T11:13:56Z",
+    "duration_seconds": 226
   },
   "next_poll_seconds": 10
 }
