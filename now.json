@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:33:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T21:35:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Mirror In the Bathroom",
-    "artist": "The English Beat",
-    "album": "Keep The Beat: The Very Best Of The English Beat",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_English_Beat_-_Mirror_In_The_Bathroom.jpg",
-    "started_at": "2026-07-13T02:32:48Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
