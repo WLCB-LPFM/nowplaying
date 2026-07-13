@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T17:25:01-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T17:27:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Maria",
+    "artist": "Hwa Sa",
+    "album": "Mar\u00eda",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hwa_Sa_-_Maria.jpg",
+    "started_at": "2026-07-13T22:27:32Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
