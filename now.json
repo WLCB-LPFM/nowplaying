@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T09:20:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T09:31:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "De Zwarte Lijst",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-07-13T14:30:50Z",
+    "duration_seconds": 171
+  },
   "next_poll_seconds": 10
 }
