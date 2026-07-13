@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:36:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T21:39:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Tear That City Down",
-    "artist": "Greg Kihn Band",
-    "album": "Kihnspiracy",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Greg_Kihn_Band_-_Tear_That_City_Down.jpg",
-    "started_at": "2026-07-13T02:36:03Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
