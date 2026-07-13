@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T18:59:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T19:00:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Life",
-    "artist": "Perpetual Groove",
-    "album": "All This Everything",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Perpetual_Groove_-_Life.jpg",
-    "started_at": "2026-07-12T23:59:29Z",
-    "duration_seconds": 92
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
