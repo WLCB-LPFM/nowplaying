@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-13T06:38:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T06:38:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Here We Go",
-    "artist": "C & C Music Factory",
-    "album": "The Greatest Hits Volume 2 Part 2",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/C_&_C_Music_Factory.jpg",
-    "started_at": "2026-07-13T11:33:53Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
