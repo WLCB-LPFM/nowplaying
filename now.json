@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-13T04:02:55-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-13T04:05:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Lost Your Head Blues",
-    "artist": "Bessie Smith",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 1",
-    "artwork_url": "",
-    "started_at": "2026-07-13T09:02:44.8607082Z",
-    "duration_seconds": 166,
-    "year": "1987"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
