@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T20:09:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T20:13:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Rock Me Baby",
-    "artist": "Robin Trower",
-    "album": "Twice Removed from Yesterday",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robin_Trower_-_Rock_Me_Baby.jpg",
-    "started_at": "2026-07-13T01:09:33Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
