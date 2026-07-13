@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-13T02:55:29-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T02:55:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "In a Mellotone",
+    "artist": "Duke Ellington and His Famous Orchestra",
+    "album": "Giants of Jazz - Duke Ellington",
+    "artwork_url": "",
+    "started_at": "2026-07-13T07:55:38.0917375Z",
+    "duration_seconds": 189,
+    "year": "1980"
+  },
   "next_poll_seconds": 10
 }
