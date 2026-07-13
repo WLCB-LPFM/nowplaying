@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:36:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T19:39:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "JUKEBOX",
-    "artist": "SUKI WATERHOUSE",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/b69d340d626381bacb886a61181e8dd1.png",
-    "started_at": "2026-07-13T00:36:33Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
