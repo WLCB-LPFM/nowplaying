@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T17:30:46-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T17:31:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dune",
+    "artist": "ATEEZ",
+    "album": "THE WORLD EP.2 : OUTLAW",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ateez_-_Dune.jpg",
+    "started_at": "2026-07-13T22:31:39Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
