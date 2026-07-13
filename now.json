@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T20:29:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T20:31:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sweet Wine of Love",
-    "artist": "Robin Trower",
-    "album": "In City Dreams",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robin_Trower_-_Sweet_Wine_Of_Love.jpg",
-    "started_at": "2026-07-13T01:29:03Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
