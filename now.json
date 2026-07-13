@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T16:16:01-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T16:16:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Girls Never Die (Japanese Version)",
+    "artist": "tripleS",
+    "album": "Girls Never Die (Japanese Ver.)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/9ae69355af7c82208631b14fa57f94f3.png",
+    "started_at": "2026-07-13T21:15:57Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
