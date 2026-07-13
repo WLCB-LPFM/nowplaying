@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:58:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T19:59:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Thick As Thieves",
+    "artist": "Jack White",
+    "album": "Frozen Charlotte",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/fb1bf895dc4c95dc0978280b62ea590b.png",
+    "started_at": "2026-07-13T00:59:21Z",
+    "duration_seconds": 182
+  },
   "next_poll_seconds": 10
 }
