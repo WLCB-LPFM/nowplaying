@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-13T15:15:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T15:15:51-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Doowutchyalike",
+    "artist": "Digital Underground",
+    "album": "The Best Of Digital Underground: Playwutchyalike",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Digital_Underground_-_Doowutchyalike.jpg",
+    "started_at": "2026-07-13T20:15:37.3535925Z",
+    "duration_seconds": 281,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
