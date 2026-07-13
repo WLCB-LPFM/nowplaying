@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:17:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T21:21:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Remember (Walking In The Sand)",
-    "artist": "Aerosmith",
-    "album": "Aerosmith'S Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Remember_(Walking_In_The_Sand).jpg",
-    "started_at": "2026-07-13T02:17:37Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
