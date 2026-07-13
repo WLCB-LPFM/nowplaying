@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-13T04:59:54-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T05:00:06-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "C'est Si Bon",
-    "artist": "Dawn Lambeth",
-    "album": "Let's Get Lost",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dawn_Lambeth_-_C'est_Si_Bon.jpg",
-    "started_at": "2026-07-13T09:56:04Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
