@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T19:55:30-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T19:58:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "GREEN VOWS",
-    "artist": "Noah Guy",
-    "album": "MEMORIA, in blue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Noah_Guy_-_Green_Vows.jpg",
-    "started_at": "2026-07-13T00:55:14Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
