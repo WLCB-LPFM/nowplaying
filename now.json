@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-13T12:09:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-13T12:13:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Mr. Jones",
-    "artist": "Counting Crows",
-    "album": "August And Everything After",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Counting_Crows_-_Mr._Jones.jpg",
-    "started_at": "2026-07-13T17:09:20.5135203Z",
-    "duration_seconds": 264,
-    "year": "1993"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
