@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T21:00:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T21:03:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Grazing In The Grass",
+    "artist": "Stevie Wonder",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Grazing_In_The_Grass.jpg",
+    "started_at": "2026-07-13T02:03:19Z",
+    "duration_seconds": 175
+  },
   "next_poll_seconds": 10
 }
