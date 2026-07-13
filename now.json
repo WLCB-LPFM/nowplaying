@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T16:48:58-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T16:51:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Imaginary\u00a0Friend",
-    "artist": "ITZY",
-    "album": "GOLD",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Itzy_-_Imaginary\u00a0friend.jpg",
-    "started_at": "2026-07-13T21:48:41Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
