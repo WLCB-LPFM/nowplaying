@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T20:34:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-12T20:38:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Black Country Woman (Remaster)",
-    "artist": "Led Zeppelin",
-    "album": "Black Country Woman (Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Black_Country_Woman_(Remaster).jpg",
-    "started_at": "2026-07-13T01:34:03Z",
-    "duration_seconds": 265
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
