@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-13T01:53:40-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T01:54:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Night in Tunisia",
+    "artist": "Bud Powell Trio",
+    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
+    "artwork_url": "",
+    "started_at": "2026-07-13T06:54:11.6782557Z",
+    "duration_seconds": 248,
+    "year": "1987"
+  },
   "next_poll_seconds": 10
 }
