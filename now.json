@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T20:53:03-05:00",
-  "source": "fallback",
+  "generated": "2026-07-12T20:53:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "All In The Groove",
+    "artist": "Blues Traveler",
+    "album": "Travelers & Thieves",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blues_Traveler_-_All_In_The_Groove.jpg",
+    "started_at": "2026-07-13T01:53:20Z",
+    "duration_seconds": 255
+  },
   "next_poll_seconds": 10
 }
