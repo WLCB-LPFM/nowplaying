@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-13T15:01:01-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-13T15:04:33-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "New Sensation",
+    "title": "New Sensation (2017 Remaster)",
     "artist": "INXS",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-13T20:01:00.2120262Z",
-    "duration_seconds": 218,
-    "year": "1987"
+    "album": "New Sensation (2017 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/i/Inxs.jpg",
+    "started_at": "2026-07-13T20:01:09Z",
+    "duration_seconds": 220
   },
   "next_poll_seconds": 10
 }
