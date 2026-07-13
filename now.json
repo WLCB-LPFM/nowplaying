@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-13T01:49:12-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T01:49:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cheek to Cheek",
+    "artist": "Carol Welsman",
+    "album": "Swing Ladies, Swing! A Tribute to Singers of the Swing Era",
+    "artwork_url": "",
+    "started_at": "2026-07-13T06:49:53.3828718Z",
+    "duration_seconds": 237,
+    "year": "1999"
+  },
   "next_poll_seconds": 10
 }
