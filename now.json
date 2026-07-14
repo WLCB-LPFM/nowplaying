@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T15:53:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T16:03:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Let's Go Crazy (Special Dance Mix)",
+    "artist": "Prince & The Revolution",
+    "album": "Let's Go Crazy (Special Dance Mix)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_Revolution_-_Let's_Go_Crazy_(Special_Dance_Mix).jpg",
+    "started_at": "2026-07-14T21:02:55Z",
+    "duration_seconds": 455
+  },
   "next_poll_seconds": 10
 }
