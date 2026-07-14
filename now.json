@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T09:53:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T09:54:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Searchlight",
+    "artist": "Shinedown",
+    "album": "Searchlight",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shinedown_-_Searchlight.jpg",
+    "started_at": "2026-07-14T14:53:50Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
