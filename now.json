@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-14T06:54:16-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T06:54:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Beat It",
-    "artist": "Michael Jackson",
-    "album": "TOP 40 HITDOSSIER - 80s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Beat_It.jpg",
-    "started_at": "2026-07-14T11:50:21Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
