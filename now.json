@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T07:44:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T07:48:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "The Safety Dance (12' Version)",
-    "artist": "Men Without Hats",
-    "album": "NOW That's What I Call 12' 80s",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Men_Without_Hats.jpg",
-    "started_at": "2026-07-14T12:43:56Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
