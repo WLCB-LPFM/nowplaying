@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T21:55:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T21:58:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Will You Still Be Mine?",
+    "artist": "Erroll Garner",
+    "album": "Erroll Garner",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_Will_You_Still_Be_Mine?.jpg",
+    "started_at": "2026-07-14T02:57:58Z",
+    "duration_seconds": 384
+  },
   "next_poll_seconds": 10
 }
