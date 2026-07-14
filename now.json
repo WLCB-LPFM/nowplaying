@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T09:25:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T09:31:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Lady Red Light",
+    "artist": "Great White",
+    "album": "Absolute Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Great_White_-_Lady_Red_Light.jpg",
+    "started_at": "2026-07-14T14:31:17Z",
+    "duration_seconds": 295
+  },
   "next_poll_seconds": 10
 }
