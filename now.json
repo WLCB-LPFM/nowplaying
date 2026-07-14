@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-14T11:00:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T11:00:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Midnight Rendezvous",
-    "artist": "The Babys",
-    "album": "Silver Dreams: The Complete Albums 1975-1980",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Babys_-_Midnight_Rendezvous.jpg",
-    "started_at": "2026-07-14T15:57:22Z",
-    "duration_seconds": 188
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
