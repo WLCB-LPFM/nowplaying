@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-14T13:53:24-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T13:53:36-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Kiss",
-    "artist": "Prince & The Revolution",
-    "album": "Kiss",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_Revolution_-_Kiss.jpg",
-    "started_at": "2026-07-14T18:49:58Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
