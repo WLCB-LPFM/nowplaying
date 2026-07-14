@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-14T13:50:01-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-14T13:53:24-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Kiss",
-    "artist": "Prince and the Revolution",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-14T18:49:54.7145882Z",
-    "duration_seconds": 221,
-    "year": "1986"
+    "artist": "Prince & The Revolution",
+    "album": "Kiss",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_Revolution_-_Kiss.jpg",
+    "started_at": "2026-07-14T18:49:58Z",
+    "duration_seconds": 226
   },
   "next_poll_seconds": 10
 }
