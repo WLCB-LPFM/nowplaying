@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T20:20:43-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T20:22:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Ahmad's Blues",
+    "artist": "Red Garland",
+    "album": "Red Garland's Piano / Revisited! / The P.C. Blues / It's A Blue World",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Red_Garland.jpg",
+    "started_at": "2026-07-14T01:21:40Z",
+    "duration_seconds": 452
+  },
   "next_poll_seconds": 10
 }
