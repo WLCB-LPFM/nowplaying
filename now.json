@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-14T00:18:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T00:19:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "IV. Epilogue",
-    "artist": "Buff Gorilla",
-    "album": "Monky",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buff_Gorilla.jpg",
-    "started_at": "2026-07-14T05:16:59Z",
-    "duration_seconds": 136
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
