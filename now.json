@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T10:44:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T10:45:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Believe In Love",
+    "artist": "Scorpions",
+    "album": "Gold",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Scorpions_-_Believe_In_Love.jpg",
+    "started_at": "2026-07-14T15:44:47Z",
+    "duration_seconds": 324
+  },
   "next_poll_seconds": 10
 }
