@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T23:00:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T23:09:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hang On for Your Life",
+    "artist": "Shooting Star",
+    "album": "Hang On for Your Life",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shooting_Star_-_Hang_On_For_Your_Life.jpg",
+    "started_at": "2026-07-14T04:08:52Z",
+    "duration_seconds": 204
+  },
   "next_poll_seconds": 10
 }
