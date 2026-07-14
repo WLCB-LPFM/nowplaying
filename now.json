@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-14T12:18:38-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-14T12:21:50-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "...Baby One More Time",
-    "artist": "Britney Spears",
-    "album": "Fox Kids Party",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Britney_Spears_-_...baby_One_More_Time.jpg",
-    "started_at": "2026-07-14T17:18:28.0648333Z",
-    "duration_seconds": 208,
-    "year": "2023"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
