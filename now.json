@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T16:33:14-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T16:33:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Control",
+    "artist": "Janet Jackson",
+    "album": "Control",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Control.jpg",
+    "started_at": "2026-07-14T21:33:44Z",
+    "duration_seconds": 354
+  },
   "next_poll_seconds": 10
 }
