@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T22:14:43-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T22:22:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Slow An' Easy",
+    "artist": "Whitesnake",
+    "album": "Whitesnake's Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitesnake_-_Slow_An'_Easy.jpg",
+    "started_at": "2026-07-14T03:22:02Z",
+    "duration_seconds": 370
+  },
   "next_poll_seconds": 10
 }
