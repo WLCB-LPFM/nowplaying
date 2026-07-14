@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T21:18:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T21:23:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "How Deep Is The Ocean (How High Is The Sky)",
-    "artist": "Diana Krall",
-    "album": "Love Scenes",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Diana_Krall_-_How_Deep_Is_The_Ocean_(How_High_Is_The_Sky).jpg",
-    "started_at": "2026-07-14T02:18:28Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
