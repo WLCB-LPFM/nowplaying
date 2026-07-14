@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T08:44:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T08:49:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "It's an 90s Party- Live Mashup Mix 13",
-    "artist": "DJ Godfather",
-    "album": "It's a 90s Party",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Godfather_-_It's_An_90s_Party-_Live_Mashup_Mix_13.jpg",
-    "started_at": "2026-07-14T13:44:38Z",
-    "duration_seconds": 321
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
