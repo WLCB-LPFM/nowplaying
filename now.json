@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T21:24:11-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T21:29:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Nice Pants",
-    "artist": "Benny Green",
-    "album": "The Place To Be",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benny_Green_-_Nice_Pants.jpg",
-    "started_at": "2026-07-14T02:23:53Z",
-    "duration_seconds": 358
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
