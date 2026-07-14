@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T20:34:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T20:37:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Conga Total  feat.  El Cumbanchero",
-    "artist": "Harold L\u00f3pez-Nussa",
-    "album": "Un D\u00eda Cualquiera",
-    "artwork_url": "null",
-    "started_at": "2026-07-14T01:33:48Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
