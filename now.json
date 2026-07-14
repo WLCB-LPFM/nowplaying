@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T21:01:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T21:05:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Submarine",
+    "artist": "Bob James",
+    "album": "Feel Like Making LIVE!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_James_-_Submarine.jpg",
+    "started_at": "2026-07-14T02:04:49Z",
+    "duration_seconds": 341
+  },
   "next_poll_seconds": 10
 }
