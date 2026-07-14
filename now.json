@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T07:03:25-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T07:07:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Bust A Move",
-    "artist": "Young MC",
-    "album": "Anthems Hip Hop 4 - Ministry of Sound",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young_Mc_-_Bust_A_Move.jpg",
-    "started_at": "2026-07-14T12:03:10Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
