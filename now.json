@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T21:48:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T21:52:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Blue Monk",
-    "artist": "Bill Evans",
-    "album": "Days To Come",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Evans_-_Blue_Monk.jpg",
-    "started_at": "2026-07-14T02:47:59Z",
-    "duration_seconds": 269
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
