@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T07:48:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T07:53:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Come Dancing",
+    "artist": "The Kinks",
+    "album": "The Ultimate Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Kinks_-_Come_Dancing.jpg",
+    "started_at": "2026-07-14T12:53:02Z",
+    "duration_seconds": 235
+  },
   "next_poll_seconds": 10
 }
