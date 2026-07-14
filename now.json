@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T20:55:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T20:57:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Ode to My Piano Heroes",
+    "artist": "Lenny Marcus Trio",
+    "album": "When a Door Opens",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lenny_Marcus_Trio.jpg",
+    "started_at": "2026-07-14T01:57:13Z",
+    "duration_seconds": 255
+  },
   "next_poll_seconds": 10
 }
