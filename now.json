@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T15:39:53-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T15:40:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Get Up! (Before the Night Is Over)",
+    "artist": "Technotronic",
+    "album": "Club Hitz of the 90's Vol. 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Technotronic_-_Get_Up!_(Before_The_Night_Is_Over).jpg",
+    "started_at": "2026-07-14T20:40:09Z",
+    "duration_seconds": 335
+  },
   "next_poll_seconds": 10
 }
