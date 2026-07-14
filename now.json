@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-13T19:17:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-13T19:21:24-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Escapade",
-    "artist": "Janet Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-14T00:16:59.2632969Z",
-    "duration_seconds": 275,
-    "year": "1989"
+    "title": "Let's Groove",
+    "artist": "Earth, Wind & Fire",
+    "album": "Disco 100",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Earth,_Wind_&_Fire_-_Let's_Groove.jpg",
+    "started_at": "2026-07-14T00:16:11Z",
+    "duration_seconds": 335
   },
   "next_poll_seconds": 10
 }
