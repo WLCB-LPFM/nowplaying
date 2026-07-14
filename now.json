@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-14T06:32:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T06:32:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Maniac",
-    "artist": "Michael Sembello",
-    "album": "Bossa Nova Hotel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Sembello_-_Maniac.jpg",
-    "started_at": "2026-07-14T11:28:27Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
