@@ -1,18 +1,9 @@
 {
-  "generated": "2026-07-14T16:58:41-05:00",
+  "generated": "2026-07-14T17:00:10-05:00",
   "source": "fallback",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Roadhouse Radio",
-    "hosts": [
-      "Joe Powers"
-    ],
-    "automated": false,
-    "starts": "15:00",
-    "ends": "17:00",
-    "genre": "Country"
-  },
+  "show": null,
   "track": null,
   "next_poll_seconds": 10
 }
