@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T23:39:57-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T23:44:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Man On The Silver Mountain",
-    "artist": "Rainbow",
-    "album": "Catch The Rainbow: The Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rainbow_-_Man_On_The_Silver_Mountain.jpg",
-    "started_at": "2026-07-14T04:39:39Z",
-    "duration_seconds": 277
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
