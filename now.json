@@ -1,25 +1,9 @@
 {
-  "generated": "2026-07-13T23:57:19-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-07-14T00:00:05-05:00",
+  "source": "fallback",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Rock of Ages",
-    "hosts": [
-      "Mark Ricky"
-    ],
-    "automated": false,
-    "starts": "22:00",
-    "ends": "24:00",
-    "genre": "Rock and Roll"
-  },
-  "track": {
-    "title": "Midnight Rendezvous",
-    "artist": "The Babys",
-    "album": "Silver Dreams: The Complete Albums 1975-1980",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Babys_-_Midnight_Rendezvous.jpg",
-    "started_at": "2026-07-14T04:57:02Z",
-    "duration_seconds": 188
-  },
+  "show": null,
+  "track": null,
   "next_poll_seconds": 10
 }
