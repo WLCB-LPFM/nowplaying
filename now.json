@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T15:10:34-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T15:10:57-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Get Outta My Dreams, Get into My Car",
+    "artist": "Billy Ocean",
+    "album": "The Ultimate Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Ocean_-_Get_Outta_My_Dreams,_Get_Into_My_Car.jpg",
+    "started_at": "2026-07-14T20:10:40Z",
+    "duration_seconds": 283
+  },
   "next_poll_seconds": 10
 }
