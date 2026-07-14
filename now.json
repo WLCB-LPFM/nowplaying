@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T20:43:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T20:49:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Watermelon Man (feat. Harold Mabern & Mike Clark)",
+    "artist": "Mike Clark,Harold Mabern,Leon Lee Dorsey",
+    "album": "Thank You Mr. Mabern",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mike_Clark,harold_Mabern,leon_Lee_Dorsey.jpg",
+    "started_at": "2026-07-14T01:49:25Z",
+    "duration_seconds": 362
+  },
   "next_poll_seconds": 10
 }
