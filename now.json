@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T22:51:13-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T22:51:36-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Cuts Like A Knife (Classic Version)",
+    "artist": "Bryan Adams",
+    "album": "Classic Pt. II",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bryan_Adams_-_Cuts_Like_A_Knife_(Classic_Version).jpg",
+    "started_at": "2026-07-14T03:51:18Z",
+    "duration_seconds": 323
+  },
   "next_poll_seconds": 10
 }
