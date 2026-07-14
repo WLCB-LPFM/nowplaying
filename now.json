@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T18:00:11-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T18:03:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Tin Man",
+    "artist": "America",
+    "album": "Rhino Hi-Five: Summer Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/America_-_Tin_Man.jpg",
+    "started_at": "2026-07-14T23:03:43Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
