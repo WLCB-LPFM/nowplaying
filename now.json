@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-14T03:05:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T03:08:29-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Moon Rays - Original Mix",
+    "artist": "Horace Silver Quintet",
+    "album": "Golden Hits By Horace Silver Quintet",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Horace_Silver_Quintet.jpg",
+    "started_at": "2026-07-14T08:08:05Z",
+    "duration_seconds": 657
+  },
   "next_poll_seconds": 10
 }
