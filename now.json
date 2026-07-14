@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T21:52:17-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T21:53:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "I'm in a Dancing Mood",
+    "artist": "Dave Brubeck",
+    "album": "Dave Brubeck's Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_I'm_In_A_Dancing_Mood.jpg",
+    "started_at": "2026-07-14T02:53:12Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
