@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T21:10:18-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T21:12:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Zawinul",
+    "artist": "Michael Wolff",
+    "album": "Memoir",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Wolff_-_Zawinul.jpg",
+    "started_at": "2026-07-14T02:11:58Z",
+    "duration_seconds": 343
+  },
   "next_poll_seconds": 10
 }
