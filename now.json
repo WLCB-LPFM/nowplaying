@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-14T05:14:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-14T05:17:19-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "St. Louis Blues: St. Louis Blues",
+    "title": "St. Louis Blues",
     "artist": "Bessie Smith",
-    "album": "The Complete Recordings, Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-07-14T10:14:23.7458028Z",
-    "duration_seconds": 182,
-    "year": "1996"
+    "album": "The Essential Bessie Smith",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bessie_Smith_-_St._Louis_Blues.jpg",
+    "started_at": "2026-07-14T10:14:57Z",
+    "duration_seconds": 190
   },
   "next_poll_seconds": 10
 }
