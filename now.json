@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T08:03:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T08:06:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Something About You",
-    "artist": "Level 42",
-    "album": "Cherish",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Level_42_-_Something_About_You.jpg",
-    "started_at": "2026-07-14T13:02:47Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
