@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T10:35:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T10:36:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I'll Be Home For Christmas",
+    "artist": "The Lennon Sisters",
+    "album": "Vision Quest",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Lennon_Sisters_-_I'll_Be_Home_For_Christmas.jpg",
+    "started_at": "2026-07-14T15:35:54Z",
+    "duration_seconds": 263
+  },
   "next_poll_seconds": 10
 }
