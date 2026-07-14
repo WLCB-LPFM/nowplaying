@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-14T05:55:58-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-14T06:00:02-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Love Is Here to Stay",
-    "artist": "Hans Ulrik",
-    "album": "Jazz and Mambo",
-    "artwork_url": "",
-    "started_at": "2026-07-14T10:55:47.5723096Z",
-    "duration_seconds": 260,
-    "year": "1998"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
