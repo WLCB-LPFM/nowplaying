@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T09:00:12-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T09:02:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Cryin'",
+    "artist": "Aerosmith",
+    "album": "Big Ones",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Cryin'.jpg",
+    "started_at": "2026-07-14T14:02:25Z",
+    "duration_seconds": 304
+  },
   "next_poll_seconds": 10
 }
