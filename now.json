@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T20:38:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T20:43:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Left Bank Swing",
-    "artist": "JD Jazz Trio",
-    "album": "Nightwind: The Music of Erroll Garner",
-    "artwork_url": "null",
-    "started_at": "2026-07-14T01:38:35Z",
-    "duration_seconds": 303
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
