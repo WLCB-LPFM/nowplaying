@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T07:16:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T07:16:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Heard A Rumour",
+    "artist": "Bananarama",
+    "album": "The 12' Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bananarama_-_I_Heard_A_Rumour.jpg",
+    "started_at": "2026-07-14T12:16:37Z",
+    "duration_seconds": 354
+  },
   "next_poll_seconds": 10
 }
