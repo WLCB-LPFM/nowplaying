@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T21:35:29-05:00",
-  "source": "autopost",
+  "generated": "2026-07-13T21:40:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Wouldn't It Be Loverly",
-    "artist": "Shelly Manne & His Friends",
-    "album": "My Fair Lady",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shelly_Manne_&_His_Friends.jpg",
-    "started_at": "2026-07-14T02:35:12Z",
-    "duration_seconds": 334
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
