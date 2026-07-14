@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T22:28:00-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T22:28:12-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hell Ain't a Bad Place to Be (Live Donington Park, Aug. 17, 1991)",
+    "artist": "AC feat. DC",
+    "album": "Backtracks",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-07-14T03:27:53Z",
+    "duration_seconds": 269
+  },
   "next_poll_seconds": 10
 }
