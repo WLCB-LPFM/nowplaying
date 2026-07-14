@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T20:07:57-05:00",
-  "source": "fallback",
+  "generated": "2026-07-13T20:10:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Tenderly",
+    "artist": "George Shearing",
+    "album": "The Great Jazz Soloists (Finest Performances)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Shearing_-_Tenderly.jpg",
+    "started_at": "2026-07-14T01:09:44Z",
+    "duration_seconds": 305
+  },
   "next_poll_seconds": 10
 }
