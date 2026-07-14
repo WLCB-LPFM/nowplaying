@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-14T03:55:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-14T03:58:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue Serge",
-    "artist": "Duke Ellington And His Famous Orchestra",
-    "album": "Blue Serge / Jumpin' Punkins",
-    "artwork_url": "",
-    "started_at": "2026-07-14T08:55:12.4831549Z",
-    "duration_seconds": 193,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
