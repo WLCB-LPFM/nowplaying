@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T10:46:27-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T10:50:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Justified",
-    "artist": "Ghost Hounds",
-    "album": "Justified",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Ghost_Hounds_-_Justified.jpg",
-    "started_at": "2026-07-15T15:46:16Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
