@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T09:34:29-05:00",
-  "source": "fallback",
+  "generated": "2026-07-15T09:35:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Blue Sky (Live)",
+    "artist": "The Allman Brothers Band",
+    "album": "Live in Germany 1991 (Live)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_Blue_Sky_(Live).jpg",
+    "started_at": "2026-07-15T14:35:22Z",
+    "duration_seconds": 434
+  },
   "next_poll_seconds": 10
 }
