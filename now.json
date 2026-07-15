@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T20:04:40-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T20:09:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "A Place In The Sun",
-    "artist": "Pablo Cruise",
-    "album": "A Place In The Sun",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pablo_Cruise_-_A_Place_In_The_Sun.jpg",
-    "started_at": "2026-07-15T01:04:31Z",
-    "duration_seconds": 284
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
