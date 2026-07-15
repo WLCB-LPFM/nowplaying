@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T07:40:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-15T07:42:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Take Me Home Tonight (Album Version)",
+    "artist": "Eddie Money",
+    "album": "Playlist: The Very Best '80s Radio Hits",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eddie_Money.jpg",
+    "started_at": "2026-07-15T12:41:57Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
