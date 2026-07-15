@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-15T04:09:23-05:00",
-  "source": "fallback",
+  "generated": "2026-07-15T04:10:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Nardis",
+    "artist": "Mariane Bitran",
+    "album": "The Best Jazz Audiophile Recommended, Volume 2",
+    "artwork_url": "",
+    "started_at": "2026-07-15T09:10:09.7923525Z",
+    "duration_seconds": 312,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
