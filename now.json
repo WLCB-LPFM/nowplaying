@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T13:37:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T13:42:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Wouldn't it Be Loverly",
-    "artist": "Shelly Manne",
-    "album": "Love Jazz Classics",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Shelly_Manne.jpg",
-    "started_at": "2026-07-15T18:36:45Z",
-    "duration_seconds": 335
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
