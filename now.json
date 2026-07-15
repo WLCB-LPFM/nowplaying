@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T22:30:57-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T22:36:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Voices",
-    "artist": "Russ Ballard",
-    "album": "Die Hit Giganten-Best Of Rock",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Russ_Ballard_-_Voices.jpg",
-    "started_at": "2026-07-15T03:30:41Z",
-    "duration_seconds": 333
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
