@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T22:15:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-14T22:21:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Midnight Rider",
+    "artist": "Gregg Allman",
+    "album": "Laid Back",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gregg_Allman_-_Midnight_Rider.jpg",
+    "started_at": "2026-07-15T03:21:21Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
