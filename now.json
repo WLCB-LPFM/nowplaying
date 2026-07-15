@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T20:54:52-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T20:58:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Heartbeat City (2016 Remaster)",
-    "artist": "The Cars",
-    "album": "The Elektra Years 1978 - 1987",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cars_-_Heartbeat_City_(2016_Remaster).jpg",
-    "started_at": "2026-07-15T01:54:38Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
