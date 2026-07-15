@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T21:49:31-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T21:52:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "I Got Loaded",
-    "artist": "Los Lobos",
-    "album": "How Will the Wolf Survive?",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Los_Lobos_-_I_Got_Loaded.jpg",
-    "started_at": "2026-07-15T02:49:16Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
