@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-15T03:28:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T03:29:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Desperado",
-    "artist": "Malene Mortensen",
-    "album": "Malene",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Malene_Mortensen_-_Desperado.jpg",
-    "started_at": "2026-07-15T08:25:10Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
