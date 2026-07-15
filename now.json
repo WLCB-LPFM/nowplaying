@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T11:49:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T11:52:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Kick Out The Jams",
-    "artist": "Suzi Quatro",
-    "album": "Freedom",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Suzi_Quatro.jpg",
-    "started_at": "2026-07-15T16:49:24Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
