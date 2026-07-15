@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T07:11:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T07:14:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Bette Davis Eyes",
-    "artist": "Kim Carnes",
-    "album": "Mistaken Identity",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kim_Carnes_-_Bette_Davis_Eyes.jpg",
-    "started_at": "2026-07-15T12:10:56Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
