@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-14T19:15:10-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-14T19:19:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Mama Said Knock You Out",
-    "artist": "LL Cool J",
-    "album": "All World",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Ll_Cool_J_-_Mama_Said_Knock_You_Out.jpg",
-    "started_at": "2026-07-15T00:14:47.1832973Z",
-    "duration_seconds": 286,
-    "year": "2018"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
