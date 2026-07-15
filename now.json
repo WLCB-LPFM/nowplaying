@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-15T15:54:28-05:00",
-  "source": "fallback",
+  "generated": "2026-07-15T15:54:41-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-15T20:54:32.8924996Z",
+    "duration_seconds": 215,
+    "year": "2019"
+  },
   "next_poll_seconds": 10
 }
