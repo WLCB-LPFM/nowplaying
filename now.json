@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-15T05:45:23-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T05:48:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Danny Boy",
-    "artist": "Jim McNeely, Lennart Ginman, Adam Nussbaum",
-    "album": "In This Moment",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jim_Mcneely,_Lennart_Ginman,_Adam_Nussbaum.jpg",
-    "started_at": "2026-07-15T10:42:14Z",
-    "duration_seconds": 363
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
