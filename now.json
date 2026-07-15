@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T22:39:40-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T22:44:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Give",
-    "artist": "Missing Persons",
-    "album": "Rhyme & Reason",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Missing_Persons_-_Give.jpg",
-    "started_at": "2026-07-15T03:39:21Z",
-    "duration_seconds": 292
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
