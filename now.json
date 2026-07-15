@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T08:40:21-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T08:43:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Come Baby Come",
-    "artist": "K7",
-    "album": "Swing Batta Swing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/K7_-_Come_Baby_Come.jpg",
-    "started_at": "2026-07-15T13:40:05Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
