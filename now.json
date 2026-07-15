@@ -1,18 +1,9 @@
 {
-  "generated": "2026-07-14T22:57:49-05:00",
+  "generated": "2026-07-14T23:00:03-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Classic Tuesdays with Ted",
-    "hosts": [
-      "Ted Runnels"
-    ],
-    "automated": false,
-    "starts": "20:00",
-    "ends": "23:00",
-    "genre": "Funk"
-  },
+  "show": null,
   "track": {
     "title": "Miramanee",
     "artist": "Greg Koch",
