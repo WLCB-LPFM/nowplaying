@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T22:36:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-14T22:39:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Noticeable One",
-    "artist": "Missing Persons",
-    "album": "Spring Session M.",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Missing_Persons_-_Noticeable_One.jpg",
-    "started_at": "2026-07-15T03:36:06Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
