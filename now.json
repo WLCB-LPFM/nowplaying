@@ -1,19 +1,9 @@
 {
-  "generated": "2026-07-15T14:02:42-05:00",
+  "generated": "2026-07-15T15:00:02-05:00",
   "source": "fallback",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Now and Then Talk Radio",
-    "hosts": [
-      "Denny Farrell",
-      "Bill Mackie"
-    ],
-    "automated": false,
-    "starts": "14:00",
-    "ends": "15:00",
-    "genre": null
-  },
+  "show": null,
   "track": null,
   "next_poll_seconds": 10
 }
