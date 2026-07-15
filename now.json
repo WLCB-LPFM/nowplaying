@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T12:30:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T12:32:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "So Much More Than This",
-    "artist": "Grace VanderWaal",
-    "album": "Just The Beginning",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grace_Vanderwaal_-_So_Much_More_Than_This.jpg",
-    "started_at": "2026-07-15T17:29:43Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
