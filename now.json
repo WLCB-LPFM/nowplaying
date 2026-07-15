@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T10:41:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T10:45:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "No One Else Like Me",
-    "artist": "The Red Clay Strays",
-    "album": "Made by These Moments",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Red_Clay_Strays_-_No_One_Else_Like_Me.jpg",
-    "started_at": "2026-07-15T15:41:04Z",
-    "duration_seconds": 257
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
