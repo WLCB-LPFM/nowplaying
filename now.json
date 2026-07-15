@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-15T05:14:55-05:00",
-  "source": "fallback",
+  "generated": "2026-07-15T05:15:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mother Earth",
+    "artist": "Caroline Henderson",
+    "album": "Made In Europe",
+    "artwork_url": "",
+    "started_at": "2026-07-15T10:15:01.9997651Z",
+    "duration_seconds": 187,
+    "year": "2004"
+  },
   "next_poll_seconds": 10
 }
