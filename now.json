@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-15T18:26:47-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T18:28:15-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Macarena",
-    "artist": "Los Del Rio",
-    "album": "Fetenhits - The Real Summer Classics",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Los_Del_Rio_-_Macarena.jpg",
-    "started_at": "2026-07-15T23:24:18Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
