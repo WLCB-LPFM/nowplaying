@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-15T00:00:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-15T00:08:00-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Oye como va",
-    "artist": "SAP Big Band",
-    "album": "The Best Jazz Audiophile Recommended, Volume 2",
-    "artwork_url": "",
-    "started_at": "2026-07-15T05:00:41.3017836Z",
-    "duration_seconds": 450,
-    "year": "2012"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
