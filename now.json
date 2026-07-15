@@ -1,17 +1,18 @@
 {
-  "generated": "2026-07-15T13:56:49-05:00",
+  "generated": "2026-07-15T14:00:11-05:00",
   "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "Jazz Lives!",
+    "name": "Now and Then Talk Radio",
     "hosts": [
-      "Bob Dauber"
+      "Denny Farrell",
+      "Bill Mackie"
     ],
     "automated": false,
-    "starts": "12:00",
-    "ends": "14:00",
-    "genre": "Jazz"
+    "starts": "14:00",
+    "ends": "15:00",
+    "genre": null
   },
   "track": {
     "title": "Will You Still Be Mine?",
