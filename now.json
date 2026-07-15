@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T07:45:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-15T07:55:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Express Yourself - Remix",
+    "artist": "N.W.A.",
+    "album": "The Grandmaster Flash Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/N.w.a._-_Express_Yourself_-_Remix.jpg",
+    "started_at": "2026-07-15T12:55:23Z",
+    "duration_seconds": 261
+  },
   "next_poll_seconds": 10
 }
