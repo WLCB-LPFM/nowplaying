@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T09:00:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T09:01:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Owner of a Lonely Heart",
-    "artist": "Yes",
-    "album": "The Power Of Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yes_-_Owner_Of_A_Lonely_Heart.jpg",
-    "started_at": "2026-07-15T13:56:47Z",
-    "duration_seconds": 265
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
