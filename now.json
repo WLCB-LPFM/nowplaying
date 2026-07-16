@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-15T22:00:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T22:00:16-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Reflecting Light",
-    "artist": "Sam Phillips",
-    "album": "Reflecting Light",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_Phillips_-_Reflecting_Light.jpg",
-    "started_at": "2026-07-16T02:57:02Z",
-    "duration_seconds": 197
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
