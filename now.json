@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-16T13:55:50-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T13:56:03-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Nuthin' But a 'G' Thang",
-    "artist": "Snoop Dogg",
-    "album": "Me And My Homies",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snoop_Dogg_-_Nuthin'_But_A_'g'_Thang.jpg",
-    "started_at": "2026-07-16T18:52:20Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
