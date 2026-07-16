@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T20:48:23-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T20:51:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Mad World",
-    "artist": "Tears For Fears",
-    "album": "This Is The Sound Of...80s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tears_For_Fears_-_Mad_World.jpg",
-    "started_at": "2026-07-16T01:48:05Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
