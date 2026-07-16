@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-16T00:16:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T00:16:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Black Bottom Stomp",
+    "artist": "Jelly Roll Morton\u2019s Red Hot Peppers",
+    "album": "The Jelly Roll Morton Centennial: His Complete Victor Recordings",
+    "artwork_url": "",
+    "started_at": "2026-07-16T05:16:17.6410527Z",
+    "duration_seconds": 183,
+    "year": "1990"
+  },
   "next_poll_seconds": 10
 }
