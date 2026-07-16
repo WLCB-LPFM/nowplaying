@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-16T10:10:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T10:10:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Pump Up the Jam",
+    "artist": "Technotronic",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-16T15:10:10.5412741Z",
+    "duration_seconds": 206,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
