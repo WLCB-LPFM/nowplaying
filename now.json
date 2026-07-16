@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T08:45:46-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T08:46:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "(I've Had) The Time of My Life (From 'Dirty Dancing' Soundtrack)",
+    "artist": "Bill Medley",
+    "album": "Pop Giganten Hits zur Wende",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bill_Medley.jpg",
+    "started_at": "2026-07-16T13:46:33Z",
+    "duration_seconds": 287
+  },
   "next_poll_seconds": 10
 }
