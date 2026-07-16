@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T07:12:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T07:13:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Miami",
+    "artist": "Will Smith",
+    "album": "NYT\u00c5R 2020 FESTEN - MUSIKKEN TIL NYT\u00c5RSFESTEN",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Will_Smith_-_Miami.jpg",
+    "started_at": "2026-07-16T12:12:51Z",
+    "duration_seconds": 198
+  },
   "next_poll_seconds": 10
 }
