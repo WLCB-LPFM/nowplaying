@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T08:51:12-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T08:54:55-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Situation (U.S. Dub) [2008 - Remaster]",
+    "artist": "Yazoo",
+    "album": "In Your Room",
+    "artwork_url": "https://cdn.autopo.st/images/artists/y/Yazoo.jpg",
+    "started_at": "2026-07-16T13:54:35Z",
+    "duration_seconds": 346
+  },
   "next_poll_seconds": 10
 }
