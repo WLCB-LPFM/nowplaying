@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T15:06:37-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T15:09:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Gel",
-    "artist": "Collective Soul",
-    "album": "7even Year Itch Collective Soul Greatest Hits 1994-2001 (Int'l Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Collective_Soul_-_Gel.jpg",
-    "started_at": "2026-07-16T20:06:18Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
