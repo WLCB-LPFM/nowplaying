@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T19:18:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-15T19:19:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Total Eclipse of The Heart",
+    "artist": "Bonnie Tyler",
+    "album": "Strawberry Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonnie_Tyler_-_Total_Eclipse_Of_The_Heart.jpg",
+    "started_at": "2026-07-16T00:18:44Z",
+    "duration_seconds": 415
+  },
   "next_poll_seconds": 10
 }
