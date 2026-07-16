@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-16T12:21:27-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-16T12:23:59-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Wannabe",
+    "title": "Wannabe (Radio Edit)",
     "artist": "Spice Girls",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-16T17:21:15.3734507Z",
-    "duration_seconds": 168,
-    "year": "1996"
+    "album": "Now That's What I Call 1996",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spice_Girls_-_Wannabe_(Radio_Edit).jpg",
+    "started_at": "2026-07-16T17:21:27Z",
+    "duration_seconds": 172
   },
   "next_poll_seconds": 10
 }
