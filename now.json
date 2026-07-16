@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-16T00:06:18-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T00:06:31-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The New East St. Louis Toodle-O",
+    "artist": "Duke Ellington and His Famous Orchestra",
+    "album": "I\u2019ve Got to Be a Rug Cutter / The New East St. Louis Toodle-O",
+    "artwork_url": "",
+    "started_at": "2026-07-16T05:06:20.0186278Z",
+    "duration_seconds": 171,
+    "year": "1937"
+  },
   "next_poll_seconds": 10
 }
