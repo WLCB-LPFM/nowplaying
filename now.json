@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T16:49:04-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T16:49:30-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Get Ready",
+    "artist": "2 Unlimited",
+    "album": "Get Ready For This",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/2/2_Unlimited_-_Get_Ready.jpg",
+    "started_at": "2026-07-16T21:49:17Z",
+    "duration_seconds": 223
+  },
   "next_poll_seconds": 10
 }
