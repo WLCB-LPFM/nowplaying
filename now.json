@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T07:34:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T07:39:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Love Is A Battlefield",
-    "artist": "Pat Benatar",
-    "album": "Alle 40 Goed - 80's",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pat_Benatar_-_Love_Is_A_Battlefield.jpg",
-    "started_at": "2026-07-16T12:34:32Z",
-    "duration_seconds": 321
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
