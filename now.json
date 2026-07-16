@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T16:56:46-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T16:56:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Rock the Casbah",
+    "artist": "The Clash",
+    "album": "Combat Rock",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Clash_-_Rock_The_Casbah.jpg",
+    "started_at": "2026-07-16T21:56:39Z",
+    "duration_seconds": 222
+  },
   "next_poll_seconds": 10
 }
