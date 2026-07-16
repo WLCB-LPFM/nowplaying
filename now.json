@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-16T18:10:50-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-16T18:13:47-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Black Or White",
+    "title": "Black or White (Single Version)",
     "artist": "Michael Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-16T23:10:39.588938Z",
-    "duration_seconds": 196,
-    "year": "1991"
+    "album": "The Essential Michael Jackson",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Black_Or_White_(Single_Version).jpg",
+    "started_at": "2026-07-16T23:10:50Z",
+    "duration_seconds": 203
   },
   "next_poll_seconds": 10
 }
