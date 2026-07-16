@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-16T17:00:06-05:00",
+  "generated": "2026-07-16T17:00:19-05:00",
   "source": "fallback",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "mode": "live",
+  "automation_on": false,
   "show": {
     "name": "Brick's Rockheads",
     "hosts": [
