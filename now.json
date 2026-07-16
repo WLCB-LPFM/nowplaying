@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-15T23:23:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T23:23:33-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Man I Love",
-    "artist": "Coleman Hawkins",
-    "album": "Jazz Legends 1940 - 1949",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Coleman_Hawkins_-_The_Man_I_Love.jpg",
-    "started_at": "2026-07-16T04:18:35Z",
-    "duration_seconds": 309
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
