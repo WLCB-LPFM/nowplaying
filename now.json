@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T15:18:55-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T15:19:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Tainted Love  feat.  Where Did Our Love Go",
+    "artist": "Soft Cell",
+    "album": "Non Stop Ecstatic Dancing",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Soft_Cell.jpg",
+    "started_at": "2026-07-16T20:19:18Z",
+    "duration_seconds": 537
+  },
   "next_poll_seconds": 10
 }
