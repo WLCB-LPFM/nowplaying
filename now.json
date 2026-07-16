@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T17:35:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T17:37:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Look Through Any Window (1997 Remaster)",
-    "artist": "The Hollies",
-    "album": "Look Through Any Window (1997 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Hollies.jpg",
-    "started_at": "2026-07-16T22:35:17Z",
-    "duration_seconds": 138
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
