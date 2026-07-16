@@ -1,9 +1,18 @@
 {
-  "generated": "2026-07-16T14:59:53-05:00",
+  "generated": "2026-07-16T15:00:07-05:00",
   "source": "autopost",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
+  },
   "track": {
     "title": "Come On Eileen",
     "artist": "Dexys Midnight Runners",
