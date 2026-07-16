@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-16T00:02:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-16T00:05:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bikini",
-    "artist": "Dexter Gordon Quartet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-07-16T05:02:27.4589041Z",
-    "duration_seconds": 208,
-    "year": "1987"
+    "title": "For Those About to Rock (We Salute You)",
+    "artist": "AC feat. DC",
+    "album": "The Collection",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-07-16T05:00:39Z",
+    "duration_seconds": 343
   },
   "next_poll_seconds": 10
 }
