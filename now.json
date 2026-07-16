@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-16T12:57:12-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T13:02:12-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Super Freak",
+    "artist": "Rick James",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-16T18:02:08.4932905Z",
+    "duration_seconds": 284,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
