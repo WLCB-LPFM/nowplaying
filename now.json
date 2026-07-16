@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-16T01:01:00-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-16T01:04:56-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "1st Avenue",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-07-16T06:01:00.8404821Z",
-    "duration_seconds": 249,
-    "year": "1996"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Legendary Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-07-16T06:00:57Z",
+    "duration_seconds": 323
   },
   "next_poll_seconds": 10
 }
