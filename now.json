@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T17:24:35-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T17:28:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Holding Back The Years",
-    "artist": "Simply Red",
-    "album": "The Greatest Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Simply_Red_-_Holding_Back_The_Years.jpg",
-    "started_at": "2026-07-16T22:24:26Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
