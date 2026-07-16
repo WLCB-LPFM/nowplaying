@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-16T11:51:03-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-16T11:55:02-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Run To You",
+    "title": "Run To You (Classic Version)",
     "artist": "Bryan Adams",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-16T16:51:00.6214762Z",
-    "duration_seconds": 254,
-    "year": "1984"
+    "album": "Classic",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bryan_Adams_-_Run_To_You_(Classic_Version).jpg",
+    "started_at": "2026-07-16T16:51:06Z",
+    "duration_seconds": 258
   },
   "next_poll_seconds": 10
 }
