@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-16T06:06:17-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-16T06:10:26-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ice Ice Baby",
-    "artist": "Vanilla Ice",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-16T11:06:12.3763Z",
-    "duration_seconds": 259,
-    "year": "1990"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
