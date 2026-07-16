@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T21:32:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-15T21:35:16-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Around The Sun",
-    "artist": "Yello",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yello_-_Around_The_Sun.jpg",
-    "started_at": "2026-07-16T02:31:53Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
