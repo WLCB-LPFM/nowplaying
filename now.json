@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T16:03:31-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T16:06:49-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Just Can't Get Enough (2006 Remaster)",
-    "artist": "Depeche Mode",
-    "album": "The Best of Depeche Mode, Volume 1",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Depeche_Mode_-_Just_Can't_Get_Enough_(2006_Remaster).jpg",
-    "started_at": "2026-07-16T21:03:19Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
