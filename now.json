@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T21:04:00-05:00",
-  "source": "fallback",
+  "generated": "2026-07-15T21:22:12-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Stained Glass Eyes",
+    "artist": "The Vampire Lestat",
+    "album": "New York",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/1b6fc9e6b5a9e830fc5cfe3c671bd45f.png",
+    "started_at": "2026-07-16T02:21:55Z",
+    "duration_seconds": 335
+  },
   "next_poll_seconds": 10
 }
