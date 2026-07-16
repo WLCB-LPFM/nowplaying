@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-16T10:41:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-16T10:45:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Whoomp! There It Is",
-    "artist": "Tag Team",
-    "album": "De Maxx - Long Player 34",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tag_Team_-_Whoomp!_There_It_Is.jpg",
-    "started_at": "2026-07-16T15:41:32.2089519Z",
-    "duration_seconds": 220,
-    "year": "2021"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
