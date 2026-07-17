@@ -1,17 +1,17 @@
 {
-  "generated": "2026-07-17T08:59:09-05:00",
+  "generated": "2026-07-17T09:00:06-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "mode": "live",
+  "automation_on": false,
   "show": {
-    "name": "The John and Heidi Show",
+    "name": "The Mark Ricky Radio Show",
     "hosts": [
-      "John and Heidi Small"
+      "Mark Ricky"
     ],
     "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
+    "starts": "09:00",
+    "ends": "12:00",
+    "genre": "Rock and Roll"
   },
   "track": {
     "title": "Jesus Just Left Chicago",
