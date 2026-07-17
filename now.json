@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T12:43:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T12:46:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Momma Didn't Raise No Fool",
-    "artist": "Johnny Rawls",
-    "album": "Soul Brothers",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Johnny_Rawls.jpg",
-    "started_at": "2026-07-17T17:42:41Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
