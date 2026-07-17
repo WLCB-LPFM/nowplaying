@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T18:09:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T18:12:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Show And Tell (Original Single Version)",
-    "artist": "Al Wilson",
-    "album": "Essential 70s Pop Singles Collection",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Al_Wilson.jpg",
-    "started_at": "2026-07-17T23:08:50Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
