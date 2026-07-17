@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T18:49:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T18:50:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Flow with It (You Got Me Feeling Like)",
+    "artist": "St. Paul & The Broken Bones",
+    "album": "Sea of Noise",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/St._Paul_&_The_Broken_Bones.jpg",
+    "started_at": "2026-07-17T23:49:59Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
