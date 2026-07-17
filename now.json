@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T09:29:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T09:35:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Ain't Wastin Time No More",
+    "artist": "The Allman Brothers Band",
+    "album": "Gold",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_Ain't_Wastin_Time_No_More.jpg",
+    "started_at": "2026-07-17T14:35:07Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
