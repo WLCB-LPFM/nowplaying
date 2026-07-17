@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T15:10:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T15:10:21-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Like a Rolling Stone",
+    "artist": "Bob Dylan",
+    "album": "Biograph (Display Box)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Dylan_-_Like_A_Rolling_Stone.jpg",
+    "started_at": "2026-07-17T20:10:09Z",
+    "duration_seconds": 367
+  },
   "next_poll_seconds": 10
 }
