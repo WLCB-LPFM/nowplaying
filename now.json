@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T13:48:52-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T13:49:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "You Don't Know What Love Is",
+    "artist": "Jimmy Johnson",
+    "album": "Bar Room Preacher",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Johnson_-_You_Don't_Know_What_Love_Is.jpg",
+    "started_at": "2026-07-17T18:48:49Z",
+    "duration_seconds": 315
+  },
   "next_poll_seconds": 10
 }
