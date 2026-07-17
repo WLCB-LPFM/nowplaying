@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T11:18:34-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T11:18:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hold the Line",
+    "artist": "Toto",
+    "album": "100 70'er Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toto_-_Hold_The_Line.jpg",
+    "started_at": "2026-07-17T16:18:45Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
