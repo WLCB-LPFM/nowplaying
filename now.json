@@ -1,19 +1,9 @@
 {
-  "generated": "2026-07-16T21:59:17-05:00",
+  "generated": "2026-07-16T22:00:05-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Red-Pill",
-    "hosts": [
-      "Dino Gradisca",
-      "Rocco Martinelli"
-    ],
-    "automated": false,
-    "starts": "19:00",
-    "ends": "22:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
     "title": "For Those About to Rock (We Salute You)",
     "artist": "AC feat. DC",
