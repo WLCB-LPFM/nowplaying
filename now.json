@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-17T00:04:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T00:04:18-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dinah",
-    "artist": "Django Reinhardt",
-    "album": "Django Swings Nuages 1934-1941 (73 Tunes)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Django_Reinhardt_-_Dinah.jpg",
-    "started_at": "2026-07-17T05:01:54Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
