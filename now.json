@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T10:00:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T10:03:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Ain't No Sunshine featuring Tracy Chapman",
-    "artist": "Buddy Guy",
-    "album": "Bring 'Em In/Skin Deep",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_Ain't_No_Sunshine_Featuring_Tracy_Chapman.jpg",
-    "started_at": "2026-07-17T15:00:29Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
