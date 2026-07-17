@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T18:53:04-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T18:53:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Good Kisser",
+    "artist": "Lake Street Dive",
+    "album": "Free Yourself Up",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lake_Street_Dive_-_Good_Kisser.jpg",
+    "started_at": "2026-07-17T23:53:17Z",
+    "duration_seconds": 218
+  },
   "next_poll_seconds": 10
 }
