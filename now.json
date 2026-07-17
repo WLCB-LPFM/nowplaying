@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-17T01:52:40-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T01:53:04-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Can't Get Started",
+    "artist": "Dizzy Gillespie Sextet",
+    "album": "Compact Jazz: Dizzy Gillespie Big Band",
+    "artwork_url": "",
+    "started_at": "2026-07-17T06:52:56.8447604Z",
+    "duration_seconds": 180,
+    "year": "2009"
+  },
   "next_poll_seconds": 10
 }
