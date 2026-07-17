@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T18:15:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T18:16:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Love Bones",
+    "artist": "Johnnie Taylor",
+    "album": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971 [Disc 4]",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnnie_Taylor_-_Love_Bones.jpg",
+    "started_at": "2026-07-17T23:16:26Z",
+    "duration_seconds": 201
+  },
   "next_poll_seconds": 10
 }
