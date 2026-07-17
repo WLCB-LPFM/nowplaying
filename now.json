@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T07:12:50-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T07:13:57-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Middle of the Road (2006 Remaster)",
+    "artist": "The Pretenders",
+    "album": "Middle of the Road (2006 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Pretenders.jpg",
+    "started_at": "2026-07-17T12:13:43Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
