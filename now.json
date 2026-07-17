@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T18:19:41-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T18:19:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You Ain't Livin' Till You're Lovin'",
+    "artist": "Marvin Gaye",
+    "album": "The Very Best Of Marvin Gaye",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marvin_Gaye_-_You_Ain't_Livin'_Till_You're_Lovin'.jpg",
+    "started_at": "2026-07-17T23:19:41Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
