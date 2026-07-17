@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T15:43:38-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T15:44:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Feel like Makin' Love (2015 Remaster)",
+    "artist": "Bad Company",
+    "album": "Straight Shooter",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bad_Company_-_Feel_Like_Makin'_Love_(2015_Remaster).jpg",
+    "started_at": "2026-07-17T20:43:59Z",
+    "duration_seconds": 314
+  },
   "next_poll_seconds": 10
 }
