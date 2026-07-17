@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T19:00:10-05:00",
-  "source": "fallback",
+  "generated": "2026-07-16T19:31:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Digging In The Dirt",
+    "artist": "Peter Gabriel",
+    "album": "Digging In The Dirt",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Gabriel_-_Digging_In_The_Dirt.jpg",
+    "started_at": "2026-07-17T00:31:31Z",
+    "duration_seconds": 318
+  },
   "next_poll_seconds": 10
 }
