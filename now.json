@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T07:46:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T07:54:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Miss You Much",
+    "artist": "Janet Jackson",
+    "album": "Rhythm Nation",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Miss_You_Much.jpg",
+    "started_at": "2026-07-17T12:54:42Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
