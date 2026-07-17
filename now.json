@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T07:22:17-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T07:25:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Gettin' Jiggy With It",
-    "artist": "Will Smith",
-    "album": "NOW That's What I Call A Decade 1990s",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Will_Smith_-_Gettin'_Jiggy_With_It.jpg",
-    "started_at": "2026-07-17T12:21:57Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
