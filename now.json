@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T11:35:55-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T11:37:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The House Is Rockin'",
-    "artist": "Stevie Ray Vaughan and Double Trouble",
-    "album": "Drivin' South: Southern Rockin' Smash Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_And_Double_Trouble_-_The_House_Is_Rockin'.jpg",
-    "started_at": "2026-07-17T16:35:40Z",
-    "duration_seconds": 144
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
