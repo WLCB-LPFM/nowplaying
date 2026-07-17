@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T17:34:45-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T17:40:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Takin' Care Of Business",
+    "artist": "Bachman-Turner Overdrive",
+    "album": "Rocktober 2010",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bachman-turner_Overdrive_-_Takin'_Care_Of_Business.jpg",
+    "started_at": "2026-07-17T22:40:00Z",
+    "duration_seconds": 290
+  },
   "next_poll_seconds": 10
 }
