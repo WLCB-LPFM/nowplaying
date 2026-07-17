@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-17T00:32:20-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T00:33:32-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "So What",
-    "artist": "Miles Davis",
-    "album": "Bleue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_So_What.jpg",
-    "started_at": "2026-07-17T05:24:16Z",
-    "duration_seconds": 567
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
