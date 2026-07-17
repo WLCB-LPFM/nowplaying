@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T14:34:17-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T14:34:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Gonna Move To The Outskirts Of Town",
+    "artist": "Ruth Brown",
+    "album": "R+B=Ruth Brown",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ruth_Brown_-_I'm_Gonna_Move_To_The_Outskirts_Of_Town.jpg",
+    "started_at": "2026-07-17T19:34:23Z",
+    "duration_seconds": 322
+  },
   "next_poll_seconds": 10
 }
