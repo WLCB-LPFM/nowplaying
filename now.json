@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T08:06:40-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T08:10:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Rapper's Delight",
-    "artist": "The Sugarhill Gang",
-    "album": "The Best of Grandmaster Flash & Sugar Hill",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Sugarhill_Gang_-_Rapper's_Delight.jpg",
-    "started_at": "2026-07-17T13:06:24Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
