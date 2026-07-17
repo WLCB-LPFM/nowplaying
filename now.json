@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T10:42:12-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T10:45:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Who Was That",
-    "artist": "Bobby Rush feat. Kenny Wayne Shepherd",
-    "album": "Who Was That",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bobby_Rush_Feat._Kenny_Wayne_Shepherd.jpg",
-    "started_at": "2026-07-17T15:41:53Z",
-    "duration_seconds": 253
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
