@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T15:53:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T15:56:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Tonight, A Party",
-    "artist": "Ryan Chrys & the Rough Cuts",
-    "album": "Tonight, A Party",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Ryan_Chrys_&_The_Rough_Cuts.jpg",
-    "started_at": "2026-07-17T20:52:52Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
