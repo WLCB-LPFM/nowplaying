@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T21:08:44-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T21:10:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "This Addiction",
-    "artist": "Alkaline Trio",
-    "album": "This Addiction",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alkaline_Trio_-_This_Addiction.jpg",
-    "started_at": "2026-07-17T02:08:26Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
