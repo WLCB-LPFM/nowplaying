@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T14:26:36-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T14:28:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I Can\u2019t Hold Out",
-    "artist": "GA-20",
-    "album": "BLUES NOW",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Ga-20_-_I_Can\u2019t_Hold_Out.jpg",
-    "started_at": "2026-07-17T19:26:21Z",
-    "duration_seconds": 145
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
