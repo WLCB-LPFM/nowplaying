@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T12:59:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T13:15:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Last One To Know",
+    "artist": "Tinsley Ellis",
+    "album": "Ice Cream In Hell",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tinsley_Ellis_-_Last_One_To_Know.jpg",
+    "started_at": "2026-07-17T18:14:47Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
