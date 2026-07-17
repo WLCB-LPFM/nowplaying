@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T16:24:13-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T16:24:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Lyin' Eyes (1999 Remaster)",
+    "artist": "Eagles",
+    "album": "Lyin' Eyes (1999 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eagles.jpg",
+    "started_at": "2026-07-17T21:24:18Z",
+    "duration_seconds": 381
+  },
   "next_poll_seconds": 10
 }
