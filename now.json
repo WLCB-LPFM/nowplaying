@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T09:38:35-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T09:38:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Rock and Roll, Hoochie Koo",
+    "artist": "Rick Derringer",
+    "album": "All American Boy",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_Derringer_-_Rock_And_Roll,_Hoochie_Koo.jpg",
+    "started_at": "2026-07-17T14:38:48Z",
+    "duration_seconds": 222
+  },
   "next_poll_seconds": 10
 }
