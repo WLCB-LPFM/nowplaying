@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T12:10:06-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T12:10:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Oh Pretty Woman",
+    "artist": "Gary Moore",
+    "album": "Still Got The Blues",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Moore_-_Oh_Pretty_Woman.jpg",
+    "started_at": "2026-07-17T17:10:23Z",
+    "duration_seconds": 265
+  },
   "next_poll_seconds": 10
 }
