@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T19:56:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T20:00:00-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wrapped In My Memory",
-    "artist": "Shawn Smith",
-    "album": "Shield of Thorns",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shawn_Smith_-_Wrapped_In_My_Memory.jpg",
-    "started_at": "2026-07-17T00:56:40Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
