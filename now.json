@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T08:54:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T08:58:46-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Informer",
-    "artist": "Snow",
-    "album": "90s Baby - Ministry of Sound",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snow_-_Informer.jpg",
-    "started_at": "2026-07-17T13:54:32Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
