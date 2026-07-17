@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T21:50:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T21:54:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "At This Moment",
-    "artist": "Billy Vera & The Beaters",
-    "album": "Hopeless Romantic: The Best Of Billy Vera & The Beaters",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Vera_&_The_Beaters_-_At_This_Moment.jpg",
-    "started_at": "2026-07-17T02:50:17Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
