@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T11:44:53-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T11:45:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Street Of Dreams",
+    "artist": "U2",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_Street_Of_Dreams.jpg",
+    "started_at": "2026-07-17T16:44:46Z",
+    "duration_seconds": 235
+  },
   "next_poll_seconds": 10
 }
