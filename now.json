@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T12:18:52-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T12:24:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Pain's On Me",
-    "artist": "Joe Bonamassa",
-    "album": "Breakthrough",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_Pain's_On_Me.jpg",
-    "started_at": "2026-07-17T17:18:37Z",
-    "duration_seconds": 346
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
