@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T20:07:40-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T20:11:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Nutshell (Album Version)",
-    "artist": "Alice in Chains",
-    "album": "Jar Of Flies",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Alice_In_Chains.jpg",
-    "started_at": "2026-07-17T01:07:18Z",
-    "duration_seconds": 259
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
