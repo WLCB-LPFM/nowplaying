@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-17T02:25:20-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T02:25:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "He\u2019s Funny That Way",
+    "artist": "Billie Holiday and Her Orchestra",
+    "album": "Int\u00e9grale Billy Holiday Lester Young 1937\u20131946",
+    "artwork_url": "",
+    "started_at": "2026-07-17T07:25:33.492383Z",
+    "duration_seconds": 152,
+    "year": "1998"
+  },
   "next_poll_seconds": 10
 }
