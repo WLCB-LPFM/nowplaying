@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T11:40:34-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T11:41:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Steal Away",
+    "artist": "Keith Urban",
+    "album": "Steal Away",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Keith_Urban_-_Steal_Away.jpg",
+    "started_at": "2026-07-17T16:40:52Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
