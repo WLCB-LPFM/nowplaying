@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T15:02:17-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T15:04:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Brand New Key",
-    "artist": "Melanie",
-    "album": "Beautiful People: The Greatest Hits of Melanie",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Melanie_-_Brand_New_Key.jpg",
-    "started_at": "2026-07-17T20:02:08Z",
-    "duration_seconds": 145
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
