@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T08:15:23-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T08:16:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Insane In The Brain",
+    "artist": "Cypress Hill",
+    "album": "Daddy K - The Mix 12",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cypress_Hill_-_Insane_In_The_Brain.jpg",
+    "started_at": "2026-07-17T13:16:36Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
