@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T21:11:31-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T21:18:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "One",
-    "artist": "Metallica",
-    "album": "\u2026And Justice for All",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Metallica_-_One.jpg",
-    "started_at": "2026-07-17T02:11:16Z",
-    "duration_seconds": 446
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
