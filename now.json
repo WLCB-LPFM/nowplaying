@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T09:15:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T09:18:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Handle With Care",
-    "artist": "Tom Petty And The Heartbreakers",
-    "album": "Concert For George",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/f23497cc38b95fc739307cc3d8aa5f45.png",
-    "started_at": "2026-07-17T14:15:34Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
