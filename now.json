@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T21:39:01-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T21:42:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "You and Tequila",
-    "artist": "Kenny Chesney",
-    "album": "Hemingway's Whiskey",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Chesney_-_You_And_Tequila.jpg",
-    "started_at": "2026-07-17T02:38:48Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
