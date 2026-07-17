@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T08:25:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T08:27:50-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Everybody Have Fun Tonight",
-    "artist": "Wang Chung",
-    "album": "Body By Jake: 80s Flashback Dance Fitness (BPM 100-164)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wang_Chung_-_Everybody_Have_Fun_Tonight.jpg",
-    "started_at": "2026-07-17T13:25:03Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
