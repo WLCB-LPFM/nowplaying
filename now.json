@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T12:55:54-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T12:59:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Heart On The Line",
-    "artist": "Trampled Under Foot",
-    "album": "Wrong Side Of The Blues",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Trampled_Under_Foot_-_Heart_On_The_Line.jpg",
-    "started_at": "2026-07-17T17:55:42Z",
-    "duration_seconds": 262
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
