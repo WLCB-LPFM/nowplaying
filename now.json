@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T18:47:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T18:49:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "It's Your Thing",
-    "artist": "Cold Grits",
-    "album": "Zealous Records Presents: Soul Sides Volume Two",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cold_Grits_-_It's_Your_Thing.jpg",
-    "started_at": "2026-07-17T23:46:57Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
