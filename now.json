@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T11:03:10-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T11:15:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Kung Fu Fighting",
+    "artist": "Carl Douglas",
+    "album": "Kung Fu Fighting",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Carl_Douglas_-_Kung_Fu_Fighting.jpg",
+    "started_at": "2026-07-17T16:15:30Z",
+    "duration_seconds": 192
+  },
   "next_poll_seconds": 10
 }
