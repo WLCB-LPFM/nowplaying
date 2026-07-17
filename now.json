@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T13:37:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T13:40:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Homework",
-    "artist": "Otis Rush",
-    "album": "Ain't Enough Comin' In",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Otis_Rush_-_Homework.jpg",
-    "started_at": "2026-07-17T18:36:53Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
