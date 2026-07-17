@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T20:17:15-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T20:21:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "With A Little Help From My Friends",
-    "artist": "Joe Cocker",
-    "album": "Best Covers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Cocker_-_With_A_Little_Help_From_My_Friends.jpg",
-    "started_at": "2026-07-17T01:17:03Z",
-    "duration_seconds": 303
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
