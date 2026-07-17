@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T13:42:45-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T13:43:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "I Just Got To Know",
+    "artist": "Sugar Blue",
+    "album": "Blue Blazes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sugar_Blue_-_I_Just_Got_To_Know.jpg",
+    "started_at": "2026-07-17T18:42:58Z",
+    "duration_seconds": 366
+  },
   "next_poll_seconds": 10
 }
