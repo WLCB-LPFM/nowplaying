@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T18:30:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T18:33:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Mountains Win Again",
+    "artist": "Blues Traveler",
+    "album": "Travelogue: Blues Traveler Classics",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blues_Traveler_-_The_Mountains_Win_Again.jpg",
+    "started_at": "2026-07-17T23:33:05Z",
+    "duration_seconds": 306
+  },
   "next_poll_seconds": 10
 }
