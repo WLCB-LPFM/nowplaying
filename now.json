@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T12:38:46-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T12:38:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "The Gift",
+    "artist": "Billy Price",
+    "album": "Person of Interest",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Price_-_The_Gift.jpg",
+    "started_at": "2026-07-17T17:38:47Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
