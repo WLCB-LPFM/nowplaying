@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T13:40:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T13:42:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I Ain't Got You",
-    "artist": "Sugar Blue",
-    "album": "The Alligator Records 25th Anniversary Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sugar_Blue_-_I_Ain't_Got_You.jpg",
-    "started_at": "2026-07-17T18:40:22Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
