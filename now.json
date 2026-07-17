@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T09:47:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T09:51:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Tears",
-    "artist": "John Waite",
-    "album": "No Brakes",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Waite_-_Tears.jpg",
-    "started_at": "2026-07-17T14:47:28Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
