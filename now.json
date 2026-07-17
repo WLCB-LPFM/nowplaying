@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T18:38:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T18:46:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Skin Tight",
-    "artist": "The Ohio Players",
-    "album": "Skin Tight",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Ohio_Players_-_Skin_Tight.jpg",
-    "started_at": "2026-07-17T23:38:30Z",
-    "duration_seconds": 474
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
