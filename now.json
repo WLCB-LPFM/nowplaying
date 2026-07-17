@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T19:45:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T19:50:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Living Years (2014 Remaster)",
-    "artist": "Mike + The Mechanics",
-    "album": "KuschelRock Best Of 3 & 4",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike___The_Mechanics_-_The_Living_Years_(2014_Remaster).jpg",
-    "started_at": "2026-07-17T00:45:37Z",
-    "duration_seconds": 322
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
