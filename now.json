@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T21:23:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-16T21:28:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Devil Inside (2017 Remaster)",
-    "artist": "INXS",
-    "album": "Devil Inside (2017 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/i/Inxs.jpg",
-    "started_at": "2026-07-17T02:23:24Z",
-    "duration_seconds": 313
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
