@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T09:42:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T09:44:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Guitars and Women",
+    "artist": "Rick Derringer",
+    "album": "Guitars and Women",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_Derringer_-_Guitars_And_Women.jpg",
+    "started_at": "2026-07-17T14:44:00Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
