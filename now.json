@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-18T01:00:01-05:00",
-  "source": "autopost",
+  "generated": "2026-07-18T01:00:38-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue Serge",
-    "artist": "Duke Ellington",
-    "album": "Alone Together",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Blue_Serge.jpg",
-    "started_at": "2026-07-18T05:57:23Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
