@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:45:26-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T19:47:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Got To Get You Into My Life",
-    "artist": "The Beatles",
-    "album": "Revolver",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_Got_To_Get_You_Into_My_Life.jpg",
-    "started_at": "2026-07-18T00:45:06Z",
-    "duration_seconds": 147
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
