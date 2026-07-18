@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:33:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T20:38:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I'll Keep Ramblin'",
-    "artist": "Blackberry Smoke",
-    "album": "I'll Keep Ramblin'",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackberry_Smoke_-_I'll_Keep_Ramblin'.jpg",
-    "started_at": "2026-07-18T01:32:48Z",
-    "duration_seconds": 334
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
