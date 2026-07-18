@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-18T14:27:56-05:00",
-  "source": "autopost",
+  "generated": "2026-07-18T14:28:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Tainted Love",
-    "artist": "Soft Cell",
-    "album": "NOW That's What I Call 20th Century",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Soft_Cell_-_Tainted_Love.jpg",
-    "started_at": "2026-07-18T19:26:26Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
