@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:40:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T19:42:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Sunny",
-    "artist": "Bobby Hebb",
-    "album": "Happy Mother's Day",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Hebb_-_Sunny.jpg",
-    "started_at": "2026-07-18T00:39:54Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
