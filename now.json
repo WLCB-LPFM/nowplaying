@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T17:37:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T17:45:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Bad Habits",
+    "artist": "Maxwell",
+    "album": "BLACKsummers'night",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Maxwell_-_Bad_Habits.jpg",
+    "started_at": "2026-07-18T22:45:31Z",
+    "duration_seconds": 352
+  },
   "next_poll_seconds": 10
 }
