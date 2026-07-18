@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:31:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T19:34:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Try a Little Tenderness (2016 Remaster)",
+    "artist": "Otis Redding",
+    "album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul (50th Anniversary Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Otis_Redding_-_Try_A_Little_Tenderness_(2016_Remaster).jpg",
+    "started_at": "2026-07-18T00:34:03Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
