@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:38:13-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T20:38:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rock Steady",
+    "artist": "Bonnie Raitt",
+    "album": "Road Tested",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonnie_Raitt_-_Rock_Steady.jpg",
+    "started_at": "2026-07-18T01:38:26Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
