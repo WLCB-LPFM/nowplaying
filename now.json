@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:00:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T19:00:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Say You Will",
-    "artist": "Marcus King",
-    "album": "Say You Will",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marcus_King_-_Say_You_Will.jpg",
-    "started_at": "2026-07-17T23:56:45Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
