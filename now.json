@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T11:43:15-05:00",
-  "source": "autopost",
+  "generated": "2026-07-18T11:47:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "United Together",
-    "artist": "Aretha Franklin",
-    "album": "Aretha (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_United_Together.jpg",
-    "started_at": "2026-07-18T16:42:55Z",
-    "duration_seconds": 302
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
