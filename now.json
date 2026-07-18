@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-17T23:58:54-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T00:07:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tennessee Waltz",
+    "artist": "Simone Kopmajer",
+    "album": "Didn't You Say",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Simone_Kopmajer_-_Tennessee_Waltz.jpg",
+    "started_at": "2026-07-18T05:07:31Z",
+    "duration_seconds": 275
+  },
   "next_poll_seconds": 10
 }
