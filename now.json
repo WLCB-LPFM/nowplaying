@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T18:35:25-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T18:44:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Let's Go",
+    "artist": "Juelz Santana",
+    "album": "From Me To U",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Juelz_Santana_-_Let's_Go.jpg",
+    "started_at": "2026-07-18T23:44:22Z",
+    "duration_seconds": 283
+  },
   "next_poll_seconds": 10
 }
