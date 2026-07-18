@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:18:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T20:18:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "BLACKOUT",
+    "artist": "Turnstile",
+    "album": "BLACKOUT",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Turnstile_-_Blackout.jpg",
+    "started_at": "2026-07-18T01:18:16Z",
+    "duration_seconds": 173
+  },
   "next_poll_seconds": 10
 }
