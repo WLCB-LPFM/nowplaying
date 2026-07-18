@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:00:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T20:03:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Medicine At Midnight",
+    "artist": "Foo Fighters",
+    "album": "Medicine At Midnight",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foo_Fighters_-_Medicine_At_Midnight.jpg",
+    "started_at": "2026-07-18T01:03:06Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
