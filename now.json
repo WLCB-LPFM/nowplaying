@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-18T16:44:44-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T16:45:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "2 Legit 2 Quit",
+    "artist": "MC Hammer",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-18T21:44:58.1657931Z",
+    "duration_seconds": 333,
+    "year": "2014"
+  },
   "next_poll_seconds": 10
 }
