@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:14:24-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T20:18:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "The Bandit",
-    "artist": "Kings Of Leon",
-    "album": "The Bandit / 100,000 People",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kings_Of_Leon_-_The_Bandit.jpg",
-    "started_at": "2026-07-18T01:14:09Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
