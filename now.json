@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T08:07:18-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T09:03:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Walking On A Thin Line",
+    "artist": "Huey Lewis & The News",
+    "album": "Collected",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Huey_Lewis_&_The_News_-_Walking_On_A_Thin_Line.jpg",
+    "started_at": "2026-07-18T14:03:36Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
