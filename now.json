@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-18T01:29:59-05:00",
-  "source": "autopost",
+  "generated": "2026-07-18T01:30:35-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "My Favourite Things",
-    "artist": "Trinelise V\u00e6ring",
-    "album": "In so Many Words",
-    "artwork_url": "null",
-    "started_at": "2026-07-18T06:24:16Z",
-    "duration_seconds": 406
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
