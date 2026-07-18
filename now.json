@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:20:54-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T20:21:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Play the Greatest Hits",
+    "artist": "Wolf Alice",
+    "album": "Blue Weekend",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wolf_Alice_-_Play_The_Greatest_Hits.jpg",
+    "started_at": "2026-07-18T01:21:19Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
