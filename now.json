@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:08:25-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T19:12:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "New Song",
-    "artist": "Howard Jones",
-    "album": "Human's Lib",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Howard_Jones_-_New_Song.jpg",
-    "started_at": "2026-07-18T00:08:15Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
