@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T22:40:30-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T22:43:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Something In The Water",
-    "artist": "Little Feat",
-    "album": "Join The Band",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Feat_-_Something_In_The_Water.jpg",
-    "started_at": "2026-07-18T03:40:19Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
