@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T21:44:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T21:48:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Oh Well feat. Chris Stapleton",
-    "artist": "Slash, Chris Stapleton",
-    "album": "Orgy of the Damned",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Slash,_Chris_Stapleton.jpg",
-    "started_at": "2026-07-18T02:44:10Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
