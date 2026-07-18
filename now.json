@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T17:56:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-18T18:02:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Any Time, Any Place",
-    "artist": "Janet Jackson",
-    "album": "Janet",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Any_Time,_Any_Place.jpg",
-    "started_at": "2026-07-18T22:55:43Z",
-    "duration_seconds": 428
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
