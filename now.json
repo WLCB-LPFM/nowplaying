@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T21:23:52-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T21:28:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "We're All In This Together (feat. Joe Bonamassa)",
+    "artist": "Walter Trout",
+    "album": "We're All In This Together",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Walter_Trout_-_We're_All_In_This_Together_(Feat._Joe_Bonamassa).jpg",
+    "started_at": "2026-07-18T02:28:07Z",
+    "duration_seconds": 478
+  },
   "next_poll_seconds": 10
 }
