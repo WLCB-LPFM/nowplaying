@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-18T00:17:19-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T00:27:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hush",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Hush.jpg",
+    "started_at": "2026-07-18T05:26:48Z",
+    "duration_seconds": 340
+  },
   "next_poll_seconds": 10
 }
