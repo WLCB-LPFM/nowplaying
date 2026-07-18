@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T22:43:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T22:43:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Walk This Way",
+    "artist": "RUN DMC",
+    "album": "Raising Hell",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Run_Dmc_-_Walk_This_Way.jpg",
+    "started_at": "2026-07-18T03:43:34Z",
+    "duration_seconds": 311
+  },
   "next_poll_seconds": 10
 }
