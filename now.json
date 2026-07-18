@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:48:35-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T19:50:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Fight Fire",
-    "artist": "The Golliwogs",
-    "album": "Fight Fire: The Complete Recordings 1964-1967",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Golliwogs_-_Fight_Fire.jpg",
-    "started_at": "2026-07-18T00:48:21Z",
-    "duration_seconds": 153
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
