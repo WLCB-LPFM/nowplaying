@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:59:32-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T21:04:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Black Cat Bone  feat.  Dust My Broom (Live)",
+    "artist": "Muddy Waters",
+    "album": "Breakin' It Up, Breakin' It Down",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Muddy_Waters.jpg",
+    "started_at": "2026-07-18T02:04:14Z",
+    "duration_seconds": 353
+  },
   "next_poll_seconds": 10
 }
