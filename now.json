@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-18T01:32:11-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-18T01:37:18-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Django",
-    "artist": "Modern Jazz Quartet",
-    "album": "Milestones Of A Legend",
-    "artwork_url": "",
-    "started_at": "2026-07-18T06:32:08.5205817Z",
-    "duration_seconds": 313,
-    "year": "2016"
+    "artist": "The Modern Jazz Quartet",
+    "album": "Campbell: Popular Music in America, 4/e",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Modern_Jazz_Quartet_-_Django.jpg",
+    "started_at": "2026-07-18T06:33:48Z",
+    "duration_seconds": 328
   },
   "next_poll_seconds": 10
 }
