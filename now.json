@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:55:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T20:59:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Roll Your Moneymaker",
-    "artist": "Elvin Bishop",
-    "album": "Alligator Records 40th Anniversary Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elvin_Bishop_-_Roll_Your_Moneymaker.jpg",
-    "started_at": "2026-07-18T01:55:34Z",
-    "duration_seconds": 246
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
