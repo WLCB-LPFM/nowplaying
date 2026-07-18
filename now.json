@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:23:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T20:23:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Juban District",
+    "artist": "Ginger Root",
+    "album": "City Slicker",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Ginger_Root_-_Juban_District.jpg",
+    "started_at": "2026-07-18T01:23:42Z",
+    "duration_seconds": 201
+  },
   "next_poll_seconds": 10
 }
