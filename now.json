@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:17:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T19:20:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "I Don't Even Try",
-    "artist": "John Hiatt",
-    "album": "Riding With The King",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Hiatt_-_I_Don't_Even_Try.jpg",
-    "started_at": "2026-07-18T00:17:08Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
