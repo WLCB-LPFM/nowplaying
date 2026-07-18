@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:28:44-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T19:31:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "I've Got A Rock 'N' Roll Heart",
-    "artist": "Eric Clapton",
-    "album": "Forever Man",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_I've_Got_A_Rock_'n'_Roll_Heart.jpg",
-    "started_at": "2026-07-18T00:28:24Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
