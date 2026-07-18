@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T19:21:26-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T19:24:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Every Word Means No",
-    "artist": "Let's Active",
-    "album": "Just Can't Get Enough: New Wave Hits of the '80s - Volume 14",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Let's_Active_-_Every_Word_Means_No.jpg",
-    "started_at": "2026-07-18T00:21:15Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
