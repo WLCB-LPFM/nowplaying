@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-18T14:56:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T15:02:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-18T20:02:10.295275Z",
+    "duration_seconds": 231,
+    "year": "1982"
+  },
   "next_poll_seconds": 10
 }
