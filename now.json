@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T22:07:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-17T22:15:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Mean Town Blues (Live)",
-    "artist": "Johnny Winter",
-    "album": "The King of Slide",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/0dcac0b63944cfc2ce31d01c46715945.png",
-    "started_at": "2026-07-18T03:07:22Z",
-    "duration_seconds": 513
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
