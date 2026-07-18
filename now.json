@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-18T03:55:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-18T03:58:09-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Parker's Mood",
-    "artist": "Charlie Parker All Stars",
-    "album": "Les Triomphes du jazz",
-    "artwork_url": "",
-    "started_at": "2026-07-18T08:55:23.2104809Z",
-    "duration_seconds": 171,
-    "year": "2000"
+    "title": "Over the Rainbow",
+    "artist": "Jutta Glaser",
+    "album": "Little Girl Blue",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jutta_Glaser.jpg",
+    "started_at": "2026-07-18T08:53:41Z",
+    "duration_seconds": 640
   },
   "next_poll_seconds": 10
 }
