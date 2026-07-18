@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T20:06:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-17T20:06:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Broken Dreams, Inc.",
+    "artist": "Rise Against",
+    "album": "Broken Dreams, Inc.",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rise_Against_-_Broken_Dreams,_Inc..jpg",
+    "started_at": "2026-07-18T01:06:34Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
