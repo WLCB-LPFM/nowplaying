@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-18T03:49:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T03:49:53-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Over the Rainbow",
+    "artist": "Jutta Glaser & Bernhard Sperrfechter",
+    "album": "The Best Jazz Audiophile Recommended, Volume 2",
+    "artwork_url": "",
+    "started_at": "2026-07-18T08:49:47.3706044Z",
+    "duration_seconds": 314,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
