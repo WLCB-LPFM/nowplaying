@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T18:53:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T18:53:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Neighbors Blues",
+    "artist": "Jack White",
+    "album": "Frozen Charlotte",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jack_White_-_Neighbors_Blues.jpg",
+    "started_at": "2026-07-19T23:53:21Z",
+    "duration_seconds": 305
+  },
   "next_poll_seconds": 10
 }
