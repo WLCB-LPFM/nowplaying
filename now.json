@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T21:12:59-05:00",
-  "source": "autopost",
+  "generated": "2026-07-18T21:15:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Speed It",
-    "artist": "My'Key Dae'Lee",
-    "album": "Rich",
-    "artwork_url": "null",
-    "started_at": "2026-07-19T02:12:42Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
