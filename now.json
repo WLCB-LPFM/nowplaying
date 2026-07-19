@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-19T14:31:38-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-19T14:34:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Sweet Eloise",
-    "artist": "Glenn Miller and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-19T19:31:32.5703343Z",
-    "duration_seconds": 177,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
