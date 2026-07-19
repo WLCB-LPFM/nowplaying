@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T09:18:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T09:21:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "When My Dream Boat Comes Home",
-    "artist": "Glenn Miller",
-    "album": "The Glenn Miller Years (Volume 1)",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/d4c79b1624264c5e8e480de73b82b5ba.png",
-    "started_at": "2026-07-19T14:18:26Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
