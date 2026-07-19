@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T21:15:32-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T21:16:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "*Bonus Track -The Get Down f feat. J.U.I.C.E (produced by Cmajor)",
+    "artist": "Ang13",
+    "album": "The Balance",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ang13.jpg",
+    "started_at": "2026-07-19T02:15:44Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
