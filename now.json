@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-19T15:06:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T15:07:12-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Chattanooga Choo Choo",
+    "artist": "Vincent Lopez - Vincent Lopez and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-19T20:07:09.4956372Z",
+    "duration_seconds": 183,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
