@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-19T07:14:23-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T07:14:37-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I'm a Specialist (1940)",
+    "artist": "John Ryan with Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-19T12:14:34.9408397Z",
+    "duration_seconds": 172,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
