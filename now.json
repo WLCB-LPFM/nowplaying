@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-19T02:26:17-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T02:28:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Black coffee",
-    "artist": "Kendra Lou",
-    "album": "To The End Of The World",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kendra_Lou_-_Black_Coffee.jpg",
-    "started_at": "2026-07-19T07:22:49Z",
-    "duration_seconds": 347
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
