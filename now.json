@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-19T14:42:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T14:43:03-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You're Lonely and I'm Lonely (1940)",
+    "artist": "Will Osborne and his Slide Music",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-19T19:42:58.8736271Z",
+    "duration_seconds": 185,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
