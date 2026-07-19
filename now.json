@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-19T15:29:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-19T15:31:49-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Tea for Two (1940)",
-    "artist": "Asmussen Trio; Youmans",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-19T20:29:04.6753218Z",
-    "duration_seconds": 168,
-    "year": "1940"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Legendary Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-07-19T20:27:33Z",
+    "duration_seconds": 323
   },
   "next_poll_seconds": 10
 }
