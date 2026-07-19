@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-19T07:35:58-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T07:36:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Stompin' at the Savoy Part 1",
+    "artist": "Charlie Christian",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-19T12:36:07.7310582Z",
+    "duration_seconds": 179,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
