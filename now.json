@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-19T07:57:58-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-19T08:00:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Burcher, The Baker, The Candlestick Maker",
-    "artist": "Carol Chapelle",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-19T12:57:56.1195854Z",
-    "duration_seconds": 177,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
