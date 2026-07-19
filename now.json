@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T18:50:42-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T18:50:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Museum of Broken Relationships",
+    "artist": "Veruca Salt",
+    "album": "Ghost Notes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Veruca_Salt_-_The_Museum_Of_Broken_Relationships.jpg",
+    "started_at": "2026-07-19T23:50:45Z",
+    "duration_seconds": 155
+  },
   "next_poll_seconds": 10
 }
