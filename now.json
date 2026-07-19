@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T18:36:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T18:39:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "CPR",
-    "artist": "Wet Leg",
-    "album": "CPR",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wet_Leg_-_Cpr.jpg",
-    "started_at": "2026-07-19T23:36:26Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
