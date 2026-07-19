@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T21:46:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T21:47:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I'd Die Without You",
+    "artist": "P.M. Dawn",
+    "album": "The Bliss Album...?",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/P.m._Dawn_-_I'd_Die_Without_You.jpg",
+    "started_at": "2026-07-19T02:46:57Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
