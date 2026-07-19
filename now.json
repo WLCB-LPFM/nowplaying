@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T20:59:23-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T21:00:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Let\u2019s Do This",
+    "artist": "Frank E G",
+    "album": "Let\u2019s Do This",
+    "artwork_url": "null",
+    "started_at": "2026-07-19T01:59:54Z",
+    "duration_seconds": 313
+  },
   "next_poll_seconds": 10
 }
