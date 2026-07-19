@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T10:53:06-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T10:53:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Jump For Joy",
+    "artist": "Duke Ellington & His Orchestra",
+    "album": "Blue Is The Night",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington_&_His_Orchestra.jpg",
+    "started_at": "2026-07-19T15:53:26Z",
+    "duration_seconds": 152
+  },
   "next_poll_seconds": 10
 }
