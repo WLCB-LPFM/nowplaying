@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T09:44:47-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T09:47:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "T\u00e9 para Dos",
-    "artist": "Orquesta L\u00edrica de Barcelona",
-    "album": "Los A\u00f1os del Swing",
-    "artwork_url": "null",
-    "started_at": "2026-07-19T14:44:25Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
