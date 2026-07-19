@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T22:24:22-05:00",
-  "source": "autopost",
+  "generated": "2026-07-18T22:27:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Penthouse Serenade",
-    "artist": "Herb Jeffries",
-    "album": "The Very Best Of",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/354a0992b0ef29e66cb2dcf66c117446.png",
-    "started_at": "2026-07-19T03:24:02Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
