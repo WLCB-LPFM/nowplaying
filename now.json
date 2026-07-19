@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-19T08:14:30-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T08:14:55-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My Little Cousin",
+    "artist": "Bunny Berigan and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-19T13:14:45.3600873Z",
+    "duration_seconds": 163,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
