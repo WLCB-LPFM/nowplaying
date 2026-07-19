@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-19T14:56:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T14:56:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Fairy on the Clock",
+    "artist": "New Mayfair Dance Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-19T19:56:44.9757198Z",
+    "duration_seconds": 146,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
