@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T21:55:28-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T21:55:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Moments In Love",
+    "artist": "Art of Noise",
+    "album": "Moments In Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Art_Of_Noise_-_Moments_In_Love.jpg",
+    "started_at": "2026-07-19T02:55:25Z",
+    "duration_seconds": 312
+  },
   "next_poll_seconds": 10
 }
