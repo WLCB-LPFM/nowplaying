@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T19:02:45-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T19:23:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Percolator (Remix)",
+    "artist": "Capt Kirk",
+    "album": "House Remixes Vol 1",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Capt_Kirk.jpg",
+    "started_at": "2026-07-19T00:23:10Z",
+    "duration_seconds": 254
+  },
   "next_poll_seconds": 10
 }
