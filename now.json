@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T16:22:36-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T16:25:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Who Can I Run To",
-    "artist": "Xscape",
-    "album": "Off The Hook",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/x/Xscape_-_Who_Can_I_Run_To.jpg",
-    "started_at": "2026-07-19T21:22:24Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
