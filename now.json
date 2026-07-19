@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T10:44:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T10:49:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "On The Sunny Side Of The Street",
+    "artist": "Sammy Kaye and His Orchestra",
+    "album": "Powder Your Face With Sunshine",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sammy_Kaye_And_His_Orchestra.jpg",
+    "started_at": "2026-07-19T15:49:05Z",
+    "duration_seconds": 255
+  },
   "next_poll_seconds": 10
 }
