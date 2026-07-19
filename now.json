@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T10:32:34-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T10:37:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "I've Got the World on a String",
+    "artist": "Spike Jones",
+    "album": "Your Heart and Soul",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/4968267736ae4f9eac73045d738b1749.png",
+    "started_at": "2026-07-19T15:37:36Z",
+    "duration_seconds": 134
+  },
   "next_poll_seconds": 10
 }
