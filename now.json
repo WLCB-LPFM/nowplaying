@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T19:36:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-18T19:40:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Cupid Shuffle",
+    "artist": "Cupid",
+    "album": "Cupid Shuffle",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cupid_-_Cupid_Shuffle.jpg",
+    "started_at": "2026-07-19T00:40:31Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
