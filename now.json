@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T16:19:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T16:22:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Stroke You Up",
-    "artist": "Changing Faces",
-    "album": "Stroke You Up (2012 Collection Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Changing_Faces_-_Stroke_You_Up.jpg",
-    "started_at": "2026-07-19T21:18:43Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
