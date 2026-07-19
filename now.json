@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-19T14:46:12-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-19T14:48:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Paris",
-    "artist": "B\u00f8rge Roger Henrichsens Sekstet",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-19T19:46:04.1126506Z",
-    "duration_seconds": 169,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
