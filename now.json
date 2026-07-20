@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T20:34:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T20:39:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sundrops",
-    "artist": "Masayoshi Takanaka",
-    "album": "An Insatiable High",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Masayoshi_Takanaka_-_Sundrops.jpg",
-    "started_at": "2026-07-20T01:34:37Z",
-    "duration_seconds": 310
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
