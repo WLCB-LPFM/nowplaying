@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T19:37:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T19:41:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ride Lonesome (feat. Sierra Ferrell)",
-    "artist": "Beck",
-    "album": "Ride Lonesome (feat. Sierra Ferrell)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beck_-_Ride_Lonesome_(Feat._Sierra_Ferrell).jpg",
-    "started_at": "2026-07-20T00:37:08Z",
-    "duration_seconds": 264
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
