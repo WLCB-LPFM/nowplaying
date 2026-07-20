@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-20T00:58:43-05:00",
-  "source": "fallback",
+  "generated": "2026-07-20T01:01:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blowing In The Wind",
+    "artist": "Cheryl Porter",
+    "album": "The Best Jazz Audiophile Recommended Vol. 05",
+    "artwork_url": "",
+    "started_at": "2026-07-20T06:01:06.0998992Z",
+    "duration_seconds": 237,
+    "year": "2013"
+  },
   "next_poll_seconds": 10
 }
