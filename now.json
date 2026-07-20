@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T17:40:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-20T17:40:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "MAMACITA",
+    "artist": "ATEEZ",
+    "album": "GOLDEN HOUR : Part.5",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ateez_-_Mamacita.jpg",
+    "started_at": "2026-07-20T22:40:34Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
