@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:17:43-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T21:22:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Even Trolls Love Rock and Roll",
-    "artist": "Tony Joe White",
-    "album": "Even Trolls Love Rock and Roll",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_Even_Trolls_Love_Rock_And_Roll.jpg",
-    "started_at": "2026-07-20T02:17:33Z",
-    "duration_seconds": 288
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
