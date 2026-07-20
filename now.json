@@ -1,18 +1,17 @@
 {
-  "generated": "2026-07-20T17:55:38-05:00",
-  "source": "fallback",
-  "mode": "rebroadcast",
+  "generated": "2026-07-20T18:00:12-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Little Bright Spots",
-    "hosts": [
-      "Ian Halterman"
-    ],
-    "automated": false,
-    "starts": "16:00",
-    "ends": "18:00",
-    "genre": null
+  "show": null,
+  "track": {
+    "title": "Sweet Dreams (Are Made of This)",
+    "artist": "Eurythmics",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-20T23:00:08.9290429Z",
+    "duration_seconds": 277,
+    "year": "1983"
   },
-  "track": null,
   "next_poll_seconds": 10
 }
