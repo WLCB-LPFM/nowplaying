@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:45:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T21:48:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Fire Coming out of the Monkey's Head",
-    "artist": "Gorillaz",
-    "album": "Fire Coming out of the Monkey's Head",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gorillaz_-_Fire_Coming_Out_Of_The_Monkey's_Head.jpg",
-    "started_at": "2026-07-20T02:45:05Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
