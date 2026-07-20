@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T19:17:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T19:20:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Gimme Three Steps",
-    "artist": "Lynyrd Skynyrd",
-    "album": "The Essential Lynyrd Skynyrd",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lynyrd_Skynyrd_-_Gimme_Three_Steps.jpg",
-    "started_at": "2026-07-20T00:16:46Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
