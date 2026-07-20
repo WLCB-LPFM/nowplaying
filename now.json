@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:07:38-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T21:08:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Big Tall Man",
+    "artist": "Liz Phair",
+    "album": "Whitechocolatespaceegg",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Liz_Phair_-_Big_Tall_Man.jpg",
+    "started_at": "2026-07-20T02:08:01Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
