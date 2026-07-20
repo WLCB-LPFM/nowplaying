@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:38:49-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T21:39:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Master Charge",
+    "artist": "Albert Collins",
+    "album": "Ice Pickin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Albert_Collins_-_Master_Charge.jpg",
+    "started_at": "2026-07-20T02:39:27Z",
+    "duration_seconds": 312
+  },
   "next_poll_seconds": 10
 }
