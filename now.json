@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T19:07:00-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T19:10:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Long Haired Country Boy",
-    "artist": "Charlie Daniels",
-    "album": "Super Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Daniels_-_Long_Haired_Country_Boy.jpg",
-    "started_at": "2026-07-20T00:06:47Z",
-    "duration_seconds": 242
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
