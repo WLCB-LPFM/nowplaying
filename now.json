@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:25:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T21:26:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Bring It on Home to Memphis",
+    "artist": "Emmylou Harris",
+    "album": "The Traveling Kind",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Emmylou_Harris.jpg",
+    "started_at": "2026-07-20T02:26:01Z",
+    "duration_seconds": 217
+  },
   "next_poll_seconds": 10
 }
