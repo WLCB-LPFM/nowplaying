@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T20:39:34-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T20:40:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "California My Way",
+    "artist": "The Main Ingredient",
+    "album": "Euphrates River (Bonus Track Version)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Main_Ingredient_-_California_My_Way.jpg",
+    "started_at": "2026-07-20T01:40:03Z",
+    "duration_seconds": 276
+  },
   "next_poll_seconds": 10
 }
