@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:35:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T21:35:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Desert High",
+    "artist": "Billy F Gibbons",
+    "album": "Hardware",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_F_Gibbons_-_Desert_High.jpg",
+    "started_at": "2026-07-20T02:35:33Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
