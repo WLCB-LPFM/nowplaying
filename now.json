@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:32:30-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T21:35:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Pressed Rat And Warthog",
-    "artist": "Cream",
-    "album": "Wheels Of Fire",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cream_-_Pressed_Rat_And_Warthog.jpg",
-    "started_at": "2026-07-20T02:32:18Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
