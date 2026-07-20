@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T19:10:44-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T19:11:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Can't You See",
+    "artist": "The Marshall Tucker Band",
+    "album": "Outlaw Country",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Marshall_Tucker_Band_-_Can't_You_See.jpg",
+    "started_at": "2026-07-20T00:10:54Z",
+    "duration_seconds": 365
+  },
   "next_poll_seconds": 10
 }
