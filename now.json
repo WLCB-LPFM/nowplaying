@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T19:49:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T19:49:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Every Day",
+    "artist": "Steve Hackett",
+    "album": "Spectral Mornings",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Hackett_-_Every_Day.jpg",
+    "started_at": "2026-07-20T00:49:04Z",
+    "duration_seconds": 375
+  },
   "next_poll_seconds": 10
 }
