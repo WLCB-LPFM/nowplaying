@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:11:35-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T21:12:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "In The Beginning",
+    "artist": "The Moody Blues",
+    "album": "On The Threshold Of A Dream",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Moody_Blues_-_In_The_Beginning.jpg",
+    "started_at": "2026-07-20T02:12:21Z",
+    "duration_seconds": 127
+  },
   "next_poll_seconds": 10
 }
