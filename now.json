@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T20:23:58-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T20:24:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Spanish Boots (2004 Remaster)",
+    "artist": "Jeff Beck",
+    "album": "Spanish Boots (2004 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jeff_Beck.jpg",
+    "started_at": "2026-07-20T01:24:26Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
