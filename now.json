@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-20T12:00:11-05:00",
-  "source": "autopost",
+  "generated": "2026-07-20T12:00:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cowboy Song",
-    "artist": "Thin Lizzy",
-    "album": "Cowboy Song",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thin_Lizzy_-_Cowboy_Song.jpg",
-    "started_at": "2026-07-20T16:55:19Z",
-    "duration_seconds": 315
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
