@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:50:49-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T21:51:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Way Out West",
+    "artist": "Marty Stuart",
+    "album": "The Definitive Collection, Vol. 2",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Marty_Stuart.jpg",
+    "started_at": "2026-07-20T02:51:36Z",
+    "duration_seconds": 341
+  },
   "next_poll_seconds": 10
 }
