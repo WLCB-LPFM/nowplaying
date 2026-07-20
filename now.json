@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T10:38:58-05:00",
-  "source": "fallback",
+  "generated": "2026-07-20T10:48:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Rough And Twisted",
+    "artist": "The Rolling Stones",
+    "album": "In The Stars",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Rough_And_Twisted.jpg",
+    "started_at": "2026-07-20T15:48:19Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
