@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T21:57:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T21:59:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Heaven, Hell or Houston",
-    "artist": "ZZ Top",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Heaven,_Hell_Or_Houston.jpg",
-    "started_at": "2026-07-20T02:57:27Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
