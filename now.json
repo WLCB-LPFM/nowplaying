@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T19:29:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T19:33:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Confessions",
+    "artist": "Goldpine",
+    "album": "Confessions",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Goldpine.jpg",
+    "started_at": "2026-07-20T00:33:40Z",
+    "duration_seconds": 203
+  },
   "next_poll_seconds": 10
 }
