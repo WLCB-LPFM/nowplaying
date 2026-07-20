@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T19:55:12-05:00",
-  "source": "fallback",
+  "generated": "2026-07-19T19:57:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Broken City (Album Version)",
+    "artist": "Audioslave",
+    "album": "Revelations",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Audioslave.jpg",
+    "started_at": "2026-07-20T00:57:20Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
