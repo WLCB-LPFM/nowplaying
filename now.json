@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T19:21:35-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T19:24:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "There Goes Another Love Song",
-    "artist": "The Outlaws",
-    "album": "Best Of...Green Grass & High Tides",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Outlaws_-_There_Goes_Another_Love_Song.jpg",
-    "started_at": "2026-07-20T00:21:19Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
