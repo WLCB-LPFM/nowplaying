@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T20:17:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-19T20:20:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Fresh Garbage",
-    "artist": "Spirit",
-    "album": "Time Circle (1968-1972)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spirit_-_Fresh_Garbage.jpg",
-    "started_at": "2026-07-20T01:17:30Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
