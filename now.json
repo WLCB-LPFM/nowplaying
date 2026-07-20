@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-20T00:03:48-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-20T00:06:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Body And Soul",
-    "artist": "Benny Goodman Trio",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
-    "artwork_url": "",
-    "started_at": "2026-07-20T05:03:41.8192614Z",
-    "duration_seconds": 198,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
