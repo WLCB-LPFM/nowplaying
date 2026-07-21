@@ -1,17 +1,18 @@
 {
-  "generated": "2026-07-20T19:53:43-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-07-20T20:00:11-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Blue Monday",
-    "artist": "New Order",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-21T00:53:39.8678146Z",
-    "duration_seconds": 428,
-    "year": "2020"
+  "show": {
+    "name": "Jazz Lives!",
+    "hosts": [
+      "Bob Dauber"
+    ],
+    "automated": false,
+    "starts": "20:00",
+    "ends": "22:00",
+    "genre": "Jazz"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
