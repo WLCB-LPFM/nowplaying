@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T21:16:35-05:00",
-  "source": "fallback",
+  "generated": "2026-07-20T21:17:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Hot Like Fire",
+    "artist": "Bonerama",
+    "album": "Hot Like Fire",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonerama_-_Hot_Like_Fire.jpg",
+    "started_at": "2026-07-21T02:17:38Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
