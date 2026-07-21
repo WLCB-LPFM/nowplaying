@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T21:33:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-20T21:39:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Watermelon Man",
-    "artist": "Herbie Hancock",
-    "album": "Hasse: Jazz In It's World - Download Bundle",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Herbie_Hancock_-_Watermelon_Man.jpg",
-    "started_at": "2026-07-21T02:33:41Z",
-    "duration_seconds": 389
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
