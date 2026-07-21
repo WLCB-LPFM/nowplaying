@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T21:22:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-20T21:25:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Days In The Sun",
+    "artist": "Arturo Sandoval",
+    "album": "Sang\u00fa",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Arturo_Sandoval_-_Days_In_The_Sun.jpg",
+    "started_at": "2026-07-21T02:25:00Z",
+    "duration_seconds": 188
+  },
   "next_poll_seconds": 10
 }
