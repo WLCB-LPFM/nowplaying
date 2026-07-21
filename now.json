@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-21T02:21:17-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-21T02:24:02-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "In a Mellotone",
-    "artist": "Duke Ellington and His Famous Orchestra",
-    "album": "Giants of Jazz - Duke Ellington",
-    "artwork_url": "",
-    "started_at": "2026-07-21T07:21:04.9699697Z",
-    "duration_seconds": 189,
-    "year": "1980"
+    "title": "Blue Horizon",
+    "artist": "Sidney Bechet",
+    "album": "The Best Of Sidney Bechet",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidney_Bechet_-_Blue_Horizon.jpg",
+    "started_at": "2026-07-21T07:20:37Z",
+    "duration_seconds": 264
   },
   "next_poll_seconds": 10
 }
