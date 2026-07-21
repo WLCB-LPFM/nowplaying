@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-21T01:35:23-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T01:35:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rockin' Chair",
-    "artist": "Gene Krupa",
-    "album": "Masters Of Swing - Gene Krupa",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Gene_Krupa.jpg",
-    "started_at": "2026-07-21T06:32:53Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
