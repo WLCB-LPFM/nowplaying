@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T21:46:04-05:00",
-  "source": "fallback",
+  "generated": "2026-07-20T21:48:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Summertime",
+    "artist": "Louis Armstrong",
+    "album": "Louis Armstrong - The Red Poppy Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Summertime.jpg",
+    "started_at": "2026-07-21T02:48:27Z",
+    "duration_seconds": 299
+  },
   "next_poll_seconds": 10
 }
