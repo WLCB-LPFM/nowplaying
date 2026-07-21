@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-21T17:56:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T17:56:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "My Humps",
-    "artist": "The Black Eyed Peas",
-    "album": "Big Night Out",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Eyed_Peas_-_My_Humps.jpg",
-    "started_at": "2026-07-21T22:52:54Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
