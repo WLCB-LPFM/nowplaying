@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T22:04:02-05:00",
-  "source": "autopost",
+  "generated": "2026-07-20T22:04:50-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "If I Had You",
-    "artist": "Erroll Garner",
-    "album": "Soliloquy",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_If_I_Had_You.jpg",
-    "started_at": "2026-07-21T03:00:36Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
