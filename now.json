@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T20:21:57-05:00",
-  "source": "autopost",
+  "generated": "2026-07-20T20:25:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Peanut Vendor",
-    "artist": "Stan Kenton",
-    "album": "Peanut Vendor",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Stan_Kenton.jpg",
-    "started_at": "2026-07-21T01:21:42Z",
-    "duration_seconds": 233
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
