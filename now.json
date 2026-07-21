@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T20:42:03-05:00",
-  "source": "fallback",
+  "generated": "2026-07-20T20:44:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Cold Snap",
+    "artist": "The Ali Ryerson Quartet",
+    "album": "The Ali Ryerson Quartet",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Ali_Ryerson_Quartet.jpg",
+    "started_at": "2026-07-21T01:43:36Z",
+    "duration_seconds": 457
+  },
   "next_poll_seconds": 10
 }
