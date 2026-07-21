@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T21:09:56-05:00",
-  "source": "autopost",
+  "generated": "2026-07-20T21:16:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "On the Sunny Side of the Street",
-    "artist": "The Blueshift Big Band",
-    "album": "The Blueshift Big Band",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/1b2c8e9fe5bd950577b386e6935c966b.png",
-    "started_at": "2026-07-21T02:09:37Z",
-    "duration_seconds": 428
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
