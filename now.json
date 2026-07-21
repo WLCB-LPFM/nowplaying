@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T20:51:04-05:00",
-  "source": "fallback",
+  "generated": "2026-07-20T20:52:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "You Are My Sunshine",
+    "artist": "Joe Alterman",
+    "album": "Comin' Home to You",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/79937631629d1a4e4715140b7b4defac.png",
+    "started_at": "2026-07-21T01:52:29Z",
+    "duration_seconds": 371
+  },
   "next_poll_seconds": 10
 }
