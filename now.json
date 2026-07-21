@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-21T12:45:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-21T12:48:42-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Jumpin Jumpin",
-    "artist": "Destiny's Child",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-21T17:45:10.6421734Z",
-    "duration_seconds": 226,
-    "year": "2000"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
