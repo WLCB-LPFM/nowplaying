@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T20:01:41-05:00",
-  "source": "fallback",
+  "generated": "2026-07-21T20:04:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Dance to the Music",
+    "artist": "Sly & The Family Stone",
+    "album": "Dance To The Music",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sly_&_The_Family_Stone_-_Dance_To_The_Music.jpg",
+    "started_at": "2026-07-22T01:03:53Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
