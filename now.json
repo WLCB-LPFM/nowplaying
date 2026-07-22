@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T22:26:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T22:30:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Best of Both Worlds",
-    "artist": "Van Halen",
-    "album": "5150",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Best_Of_Both_Worlds.jpg",
-    "started_at": "2026-07-22T03:25:43Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
