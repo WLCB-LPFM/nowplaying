@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-22T17:01:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-22T17:06:39-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Don't Stop The Rock",
-    "artist": "Freestyle",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-22T22:01:25.1716132Z",
-    "duration_seconds": 317,
-    "year": "1985"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
