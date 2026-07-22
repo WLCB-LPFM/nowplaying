@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T20:54:23-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T20:55:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Golden Slumbers",
-    "artist": "The Beatles",
-    "album": "Abbey Road",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_Golden_Slumbers.jpg",
-    "started_at": "2026-07-22T01:54:13Z",
-    "duration_seconds": 92
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
