@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T11:48:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-22T11:51:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "She Does It Right",
+    "artist": "The Black Keys",
+    "album": "She Does It Right",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Keys_-_She_Does_It_Right.jpg",
+    "started_at": "2026-07-22T16:51:22Z",
+    "duration_seconds": 223
+  },
   "next_poll_seconds": 10
 }
