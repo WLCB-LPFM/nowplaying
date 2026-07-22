@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T22:40:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T22:43:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Soul Meets Body",
-    "artist": "Death Cab for Cutie",
-    "album": "Soul Meets Body",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Death_Cab_For_Cutie_-_Soul_Meets_Body.jpg",
-    "started_at": "2026-07-22T03:39:48Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
