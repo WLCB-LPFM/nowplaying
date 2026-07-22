@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-22T01:28:11-05:00",
-  "source": "fallback",
+  "generated": "2026-07-22T01:30:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Smoke Gets in Your Eyes",
+    "artist": "Johan Leijonhufvud Trio",
+    "album": "The Best Jazz Audiophile Recommended, Volume 4",
+    "artwork_url": "",
+    "started_at": "2026-07-22T06:30:10.2577372Z",
+    "duration_seconds": 349,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
