@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T11:38:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T11:40:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Brown Paper Bag",
-    "artist": "Billy F Gibbons",
-    "album": "Brown Paper Bag",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_F_Gibbons.jpg",
-    "started_at": "2026-07-22T16:37:56Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
