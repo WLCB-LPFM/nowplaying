@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T21:49:49-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T21:54:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Europa (Earth's Cry, Heaven's Smile)",
-    "artist": "Santana",
-    "album": "Les Indispensables",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_Europa_(Earth's_Cry,_Heaven's_Smile).jpg",
-    "started_at": "2026-07-22T02:49:30Z",
-    "duration_seconds": 304
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
