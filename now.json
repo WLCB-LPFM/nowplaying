@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-22T03:07:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-22T03:08:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Bag's Groove",
+    "artist": "Thelonious Monk",
+    "album": "Jazz Styles: 8th Edition",
+    "artwork_url": "",
+    "started_at": "2026-07-22T08:08:19.4155731Z",
+    "duration_seconds": 164,
+    "year": "2003"
+  },
   "next_poll_seconds": 10
 }
