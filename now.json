@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T20:07:25-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T20:10:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Tighten Up Pt. 1",
-    "artist": "Archie Bell and The Drells",
-    "album": "Tighten Up",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Archie_Bell_And_The_Drells.jpg",
-    "started_at": "2026-07-22T01:07:08Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
