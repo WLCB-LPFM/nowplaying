@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-22T05:35:27-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T05:35:51-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rockin\u00b4Chair",
-    "artist": "Roy Eldridge",
-    "album": "The Great Soloists",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Roy_Eldridge.jpg",
-    "started_at": "2026-07-22T10:32:56Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
