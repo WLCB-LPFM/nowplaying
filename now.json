@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-22T02:12:03-05:00",
-  "source": "fallback",
+  "generated": "2026-07-22T02:12:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Shaw 'Nuff",
+    "artist": "Dizzy Gillespie's All-Star Quintette",
+    "album": "The Smithsonian Collection of Classic Jazz",
+    "artwork_url": "",
+    "started_at": "2026-07-22T07:12:15.5961999Z",
+    "duration_seconds": 173,
+    "year": "1973"
+  },
   "next_poll_seconds": 10
 }
