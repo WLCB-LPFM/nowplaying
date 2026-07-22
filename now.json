@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-22T17:30:49-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-22T17:34:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Wake Me Up Before You Go Go",
-    "artist": "Wham!",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-22T22:30:43.0472676Z",
-    "duration_seconds": 225,
-    "year": "2017"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
