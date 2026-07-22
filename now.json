@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T21:45:52-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T21:49:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Searchin'",
-    "artist": "Santana",
-    "album": "Zebop!",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_Searchin'.jpg",
-    "started_at": "2026-07-22T02:45:36Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
