@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T13:06:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-22T13:13:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "On the Sunny Side of the Street",
+    "artist": "The Blueshift Big Band",
+    "album": "The Blueshift Big Band",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Blueshift_Big_Band_-_On_The_Sunny_Side_Of_The_Street.jpg",
+    "started_at": "2026-07-22T18:13:33Z",
+    "duration_seconds": 428
+  },
   "next_poll_seconds": 10
 }
