@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T20:44:43-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T20:47:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Back In The U.S.S.R.",
-    "artist": "The Beatles",
-    "album": "The Beatles 1967 - 1970",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_Back_In_The_U.s.s.r..jpg",
-    "started_at": "2026-07-22T01:44:26Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
