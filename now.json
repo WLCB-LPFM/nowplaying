@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-21T23:41:37-05:00",
-  "source": "fallback",
+  "generated": "2026-07-21T23:43:00-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Moon Rays",
+    "artist": "Horace Silver",
+    "album": "Jazz Milestones: Horace Silver, Vol. 3",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Horace_Silver_-_Moon_Rays.jpg",
+    "started_at": "2026-07-22T04:42:43Z",
+    "duration_seconds": 659
+  },
   "next_poll_seconds": 10
 }
