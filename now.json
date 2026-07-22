@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T20:32:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T20:34:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Eight Days A Week (Remastered 2009)",
-    "artist": "The Beatles",
-    "album": "The Beatles 1962 - 1966 (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Beatles.jpg",
-    "started_at": "2026-07-22T01:32:04Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
