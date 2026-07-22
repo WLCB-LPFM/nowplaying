@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T22:18:36-05:00",
-  "source": "autopost",
+  "generated": "2026-07-21T22:24:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Damn Good",
-    "artist": "David Lee Roth",
-    "album": "Damn Good",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Lee_Roth_-_Damn_Good.jpg",
-    "started_at": "2026-07-22T03:18:21Z",
-    "duration_seconds": 350
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
