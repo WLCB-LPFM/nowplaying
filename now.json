@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-21T23:59:49-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T00:00:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Caravan",
-    "artist": "Kasper Villaume Trio",
-    "album": "117 Ditmas Avenue",
-    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kasper_Villaume_Trio.jpg",
-    "started_at": "2026-07-22T04:53:33Z",
-    "duration_seconds": 423
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
