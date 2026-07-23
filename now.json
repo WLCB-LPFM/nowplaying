@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T21:14:34-05:00",
-  "source": "fallback",
+  "generated": "2026-07-22T21:31:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Eighteen Wheels And A Dozen Roses",
+    "artist": "Kathy Mattea",
+    "album": "Untasted Honey",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kathy_Mattea_-_Eighteen_Wheels_And_A_Dozen_Roses.jpg",
+    "started_at": "2026-07-23T02:31:15Z",
+    "duration_seconds": 202
+  },
   "next_poll_seconds": 10
 }
