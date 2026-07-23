@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T20:54:58-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T20:58:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "lonely afterlife",
-    "artist": "Amethyst Jonquille",
-    "album": "Single Girl Diary",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Amethyst_Jonquille.jpg",
-    "started_at": "2026-07-23T01:54:37Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
