@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T20:50:23-05:00",
-  "source": "fallback",
+  "generated": "2026-07-22T20:52:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Deckard Returns",
+    "artist": "Chrome Canyon",
+    "album": "The Rise of the Synths (The Official Companion Album)",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/fb947ff773ec36d124d63d14331cec19.png",
+    "started_at": "2026-07-23T01:52:40Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
