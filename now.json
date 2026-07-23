@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T07:25:50-05:00",
-  "source": "autopost",
+  "generated": "2026-07-23T07:28:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Y\u00f6 toivakassa",
-    "artist": "RICHARD FEELGOOD",
-    "album": "Halinalle-Viidenkympinvillitys osa.2.",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Richard_Feelgood.jpg",
-    "started_at": "2026-07-23T12:25:27Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
