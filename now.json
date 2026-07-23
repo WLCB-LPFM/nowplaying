@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T17:48:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-23T17:50:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Renaissance Fair (Single Version)",
+    "artist": "The Byrds",
+    "album": "The Very Best Of The Byrds",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Byrds.jpg",
+    "started_at": "2026-07-23T22:50:03Z",
+    "duration_seconds": 111
+  },
   "next_poll_seconds": 10
 }
