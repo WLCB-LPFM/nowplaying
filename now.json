@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T15:42:29-05:00",
-  "source": "fallback",
+  "generated": "2026-07-23T15:46:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Invisible Touch (Single Version)",
+    "artist": "Genesis",
+    "album": "Invisible Touch / The Last Domino",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Genesis.jpg",
+    "started_at": "2026-07-23T20:46:00Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
