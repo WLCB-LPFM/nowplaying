@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T21:35:57-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T21:39:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It's My Life",
-    "artist": "No Doubt",
-    "album": "The Singles Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/No_Doubt_-_It's_My_Life.jpg",
-    "started_at": "2026-07-23T02:35:49Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
