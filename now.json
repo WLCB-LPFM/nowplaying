@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-22T23:50:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-22T23:53:14-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "King Porter Stomp",
-    "artist": "Jelly Roll Morton",
-    "album": "Miller's Crossing",
-    "artwork_url": "",
-    "started_at": "2026-07-23T04:50:42.3575797Z",
-    "duration_seconds": 166,
-    "year": "1990"
+    "title": "Joyride",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Joyride.jpg",
+    "started_at": "2026-07-23T04:49:24Z",
+    "duration_seconds": 274
   },
   "next_poll_seconds": 10
 }
