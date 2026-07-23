@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-23T11:19:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-23T11:22:41-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "1999",
-    "artist": "Prince",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-23T16:19:10.5581811Z",
-    "duration_seconds": 217,
-    "year": "2024"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
