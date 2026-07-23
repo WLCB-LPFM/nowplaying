@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-23T14:58:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-23T14:58:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Urgent",
-    "artist": "Foreigner",
-    "album": "The Soundtrack of Summer",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foreigner_-_Urgent.jpg",
-    "started_at": "2026-07-23T19:54:36Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
