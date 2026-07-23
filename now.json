@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-23T02:35:17-05:00",
-  "source": "autopost",
+  "generated": "2026-07-23T02:35:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Boplicity",
-    "artist": "Miles Davis",
-    "album": "Its Father's Day!",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Boplicity.jpg",
-    "started_at": "2026-07-23T07:32:41Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
