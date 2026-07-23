@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T20:58:43-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T21:00:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Rise Of The Synths",
-    "artist": "OGRE Sound",
-    "album": "The Rise of the Synths (Original Motion Picture Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Ogre_Sound_-_The_Rise_Of_The_Synths.jpg",
-    "started_at": "2026-07-23T01:58:31Z",
-    "duration_seconds": 105
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
