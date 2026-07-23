@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T08:44:55-05:00",
-  "source": "fallback",
+  "generated": "2026-07-23T08:46:19-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Shakedown",
+    "artist": "Bob Seger",
+    "album": "NOW That's What I Call The '80s",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_-_Shakedown.jpg",
+    "started_at": "2026-07-23T13:46:09Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
