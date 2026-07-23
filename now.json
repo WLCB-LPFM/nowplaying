@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-23T01:46:17-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-23T01:51:40-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Summertime",
-    "artist": "Uffe Steen, Adam Nussbaum, Lennart Ginman",
+    "artist": "Uffe Steen",
     "album": "Play",
-    "artwork_url": "",
-    "started_at": "2026-07-23T06:46:06.8504278Z",
-    "duration_seconds": 339,
-    "year": "2002"
+    "artwork_url": "https://cdn.autopo.st/images/artists/u/Uffe_Steen.jpg",
+    "started_at": "2026-07-23T06:46:30Z",
+    "duration_seconds": 348
   },
   "next_poll_seconds": 10
 }
