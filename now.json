@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T19:57:10-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T19:59:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Flynn",
-    "artist": "Occams Laser",
-    "album": "Flynn (Part I & II)",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/e96e5b2acf586cd5d8370836f82762f3.png",
-    "started_at": "2026-07-23T00:56:55Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
