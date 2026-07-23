@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T19:43:18-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T19:47:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Left Of The Dealer",
-    "artist": "Ocean Alley",
-    "album": "Left Of The Dealer",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Ocean_Alley_-_Left_Of_The_Dealer.jpg",
-    "started_at": "2026-07-23T00:43:02Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
