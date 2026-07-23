@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T15:22:25-05:00",
-  "source": "autopost",
+  "generated": "2026-07-23T15:27:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Sweet Dreams",
-    "artist": "Miami Mashups",
-    "album": "Miami Mashups Vol. 4",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miami_Mashups.jpg",
-    "started_at": "2026-07-23T20:22:09Z",
-    "duration_seconds": 337
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
