@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-23T09:00:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-23T09:01:10-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ah! Leah!",
-    "artist": "Donnie Iris",
-    "album": "20th Century Masters: The Millennium Collection: Best of Donnie Iris",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Donnie_Iris_-_Ah!_Leah!.jpg",
-    "started_at": "2026-07-23T13:57:38Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
