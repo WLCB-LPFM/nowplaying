@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-22T23:53:39-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-22T23:57:35-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "1st Avenue",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-07-23T04:53:29.1285334Z",
-    "duration_seconds": 249,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
