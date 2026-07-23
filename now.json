@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T20:45:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-22T20:50:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Hidden Houses",
-    "artist": "Dave Gahan",
-    "album": "Paper Monsters",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/8cce674083314b678a5c4dbca2192a3d.png",
-    "started_at": "2026-07-23T01:45:31Z",
-    "duration_seconds": 301
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
