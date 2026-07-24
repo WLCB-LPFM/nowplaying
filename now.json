@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T13:56:27-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T14:02:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I.O.U.",
-    "artist": "Kenny Neal",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/748d940fb60840edbff236dfc4802bb8.png",
-    "started_at": "2026-07-24T18:56:15Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
