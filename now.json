@@ -1,19 +1,9 @@
 {
-  "generated": "2026-07-23T21:58:54-05:00",
+  "generated": "2026-07-23T22:00:06-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Red-Pill",
-    "hosts": [
-      "Dino Gradisca",
-      "Rocco Martinelli"
-    ],
-    "automated": false,
-    "starts": "19:00",
-    "ends": "22:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
     "title": "Take Five",
     "artist": "Dave Brubeck",
