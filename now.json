@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T14:08:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T14:08:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Heartbreak City",
+    "artist": "Larry McCray",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Larry_Mccray_-_Heartbreak_City.jpg",
+    "started_at": "2026-07-24T19:08:34Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
