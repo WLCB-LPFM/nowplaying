@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T15:09:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T15:10:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "The Keys to the Car",
+    "artist": "Michael Nesmith & The First National Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Nesmith_&_The_First_National_Band.jpg",
+    "started_at": "2026-07-24T20:10:20Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
