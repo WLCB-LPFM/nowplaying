@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T15:56:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T16:02:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Hillbilly Bone (feat. Trace Adkins)",
-    "artist": "Blake Shelton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blake_Shelton_-_Hillbilly_Bone_(Feat._Trace_Adkins).jpg",
-    "started_at": "2026-07-24T20:56:31Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
