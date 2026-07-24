@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-24T18:00:25-05:00",
+  "generated": "2026-07-24T18:00:38-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "mode": "live",
+  "automation_on": false,
   "show": {
     "name": "Soul of Music",
     "hosts": [
@@ -14,11 +14,11 @@
     "genre": null
   },
   "track": {
-    "title": "Rock and Soul Music",
-    "artist": "Country Joe & The Fish",
+    "title": "Tin Man",
+    "artist": "America",
     "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Country_Joe_&_The_Fish.jpg",
-    "started_at": "2026-07-24T22:57:15Z",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/America_-_Tin_Man.jpg",
+    "started_at": "2026-07-24T23:00:27Z",
     "duration_seconds": null
   },
   "next_poll_seconds": 10
