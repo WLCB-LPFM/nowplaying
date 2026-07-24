@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-24T03:58:22-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T03:58:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Boplicity",
-    "artist": "Miles Davis",
-    "album": "Jazz Masters: The Best of Miles Davis & Charlie Parker",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Boplicity.jpg",
-    "started_at": "2026-07-24T08:56:10Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
