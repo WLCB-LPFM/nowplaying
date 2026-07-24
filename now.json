@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T14:27:14-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T14:31:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Super City",
+    "artist": "Ingrid Jensen & Jason Miles",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-07-24T19:31:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
