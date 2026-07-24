@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T12:44:49-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T12:47:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Don't You Lie to Me",
+    "artist": "Carlos Johnson & Hideaki Tanaka",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-07-24T17:46:57Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
