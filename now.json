@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-23T22:44:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-23T22:47:39-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "West End Blues",
-    "artist": "Louis Armstrong And His Hot Five",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-07-24T03:44:41.3700034Z",
-    "duration_seconds": 188,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
