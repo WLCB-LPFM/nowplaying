@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T17:00:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T17:03:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Mony Mony",
+    "artist": "Billy Idol",
+    "album": "Don't Stop - EP",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Idol_-_Mony_Mony.jpg",
+    "started_at": "2026-07-24T22:03:08Z",
+    "duration_seconds": 277
+  },
   "next_poll_seconds": 10
 }
