@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T12:52:31-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T12:58:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Shiverin' Blues",
-    "artist": "Mississippi Heat",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mississippi_Heat_-_Shiverin'_Blues.jpg",
-    "started_at": "2026-07-24T17:52:27Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
