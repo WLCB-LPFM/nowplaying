@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T17:25:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T17:28:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "House of the Rising Sun",
-    "artist": "Frijid Pink",
-    "album": "Frijid Pink (Digitially Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frijid_Pink_-_House_Of_The_Rising_Sun.jpg",
-    "started_at": "2026-07-24T22:25:13Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
