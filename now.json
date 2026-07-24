@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T12:07:17-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T12:07:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Down Home Blues",
+    "artist": "Z.Z. Hill",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Z.z._Hill_-_Down_Home_Blues.jpg",
+    "started_at": "2026-07-24T17:07:46Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
