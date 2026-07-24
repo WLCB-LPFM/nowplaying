@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T15:31:56-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T15:35:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "You Didn\u2019t Hear It From Me",
+    "artist": "James Barker Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Barker_Band_-_You_Didn\u2019t_Hear_It_From_Me.jpg",
+    "started_at": "2026-07-24T20:35:50Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
