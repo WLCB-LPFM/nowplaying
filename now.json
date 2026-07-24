@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-24T03:25:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T03:25:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Midnight Secrets",
-    "artist": "Jonathan Fritzen",
-    "album": "Jonathan Fritzen Deluxe Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jonathan_Fritzen_-_Midnight_Secrets.jpg",
-    "started_at": "2026-07-24T08:19:32Z",
-    "duration_seconds": 357
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
