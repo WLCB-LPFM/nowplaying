@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T18:16:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T18:20:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Midnight Train to Georgia",
-    "artist": "Gladys Knight & The Pips",
-    "album": "Imagination (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gladys_Knight_&_The_Pips_-_Midnight_Train_To_Georgia.jpg",
-    "started_at": "2026-07-24T23:16:42Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
