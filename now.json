@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T14:02:29-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T14:08:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Yesterday's Donuts",
-    "artist": "Gabe Stillman",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gabe_Stillman_-_Yesterday's_Donuts.jpg",
-    "started_at": "2026-07-24T19:02:20Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
