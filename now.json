@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-24T05:34:58-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-24T05:37:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Should Care",
-    "artist": "Jerry Paper",
-    "album": "Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-07-24T10:34:48.0582355Z",
-    "duration_seconds": 179,
-    "year": "2012"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
