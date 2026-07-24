@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T17:51:43-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T17:54:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "All Right Now",
+    "artist": "Free",
+    "album": "20th Century Masters - The Millennium Collection: The Best of Free",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Free_-_All_Right_Now.jpg",
+    "started_at": "2026-07-24T22:54:08Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
