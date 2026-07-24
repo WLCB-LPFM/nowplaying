@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T14:54:12-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T14:59:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Papa Was a Rolling Stone",
-    "artist": "Slash & Demi Lovato",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Slash_&_Demi_Lovato.jpg",
-    "started_at": "2026-07-24T19:53:54Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
