@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T18:38:41-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T18:44:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "What's Going On (Live at the World Music Theatre, 1992)",
-    "artist": "Los Lobos",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Los_Lobos.jpg",
-    "started_at": "2026-07-24T23:38:29Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
