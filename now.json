@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T16:35:43-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T16:38:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Gimme Shelter",
+    "artist": "Ghost Hounds",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Ghost_Hounds_-_Gimme_Shelter.jpg",
+    "started_at": "2026-07-24T21:38:11Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
