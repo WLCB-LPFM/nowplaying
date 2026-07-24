@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T17:18:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T17:22:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "China Grove",
+    "artist": "The Doobie Brothers",
+    "album": "Best of the Doobies (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_China_Grove.jpg",
+    "started_at": "2026-07-24T22:22:00Z",
+    "duration_seconds": 268
+  },
   "next_poll_seconds": 10
 }
