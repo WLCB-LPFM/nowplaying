@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-25T14:26:29-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T14:26:42-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Warm It Up (Instrumental)",
+    "artist": "Kris Kross",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/2a207688cba841fbb55ce1811d28afe3.png",
+    "started_at": "2026-07-25T19:26:30Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
