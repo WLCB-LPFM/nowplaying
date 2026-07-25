@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T21:43:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T21:49:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Only Friend",
-    "artist": "The Temperance Movement",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temperance_Movement_-_Only_Friend.jpg",
-    "started_at": "2026-07-25T02:43:44Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
