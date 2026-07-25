@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T11:35:01-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T11:39:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Let's Get Down (feat. DJ Quik)",
+    "artist": "Tony! Toni! Ton\u00e9!",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tony!_Toni!_Ton\u00e9!.jpg",
+    "started_at": "2026-07-25T16:38:53Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
