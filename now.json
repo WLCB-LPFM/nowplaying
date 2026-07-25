@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T22:31:29-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T22:37:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Use Me (Live at Blues on Broadbeach 2016)",
-    "artist": "The Lachy Doley Group",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Lachy_Doley_Group_-_Use_Me_(Live_At_Blues_On_Broadbeach_2016).jpg",
-    "started_at": "2026-07-25T03:31:24Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
