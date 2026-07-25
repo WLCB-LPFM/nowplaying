@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-25T14:23:22-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-25T14:26:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Warm It Up",
-    "artist": "Kris Kross",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-25T19:23:13.9718531Z",
-    "duration_seconds": 205,
-    "year": "2009"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
