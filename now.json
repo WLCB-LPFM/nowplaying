@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-25T00:10:40-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T00:14:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Four Or Five Times",
+    "artist": "Jimmie Noone",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jimmie_Noone.jpg",
+    "started_at": "2026-07-25T05:14:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
