@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-25T00:00:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T00:01:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Frankie and Johnny Fantasy",
+    "artist": "Erroll Garner Trio",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Erroll_Garner_Trio.jpg",
+    "started_at": "2026-07-25T05:01:30Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
