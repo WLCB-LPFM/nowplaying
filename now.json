@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T20:18:06-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T20:23:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Send Your Mind",
-    "artist": "Widespread Panic",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_Send_Your_Mind.jpg",
-    "started_at": "2026-07-25T01:17:58Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
