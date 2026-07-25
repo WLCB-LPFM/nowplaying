@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T08:00:00-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T08:00:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Groove Is In the Heart",
-    "artist": "Deee-Lite",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deee-lite_-_Groove_Is_In_The_Heart.jpg",
-    "started_at": "2026-07-25T12:55:22Z",
-    "duration_seconds": 317
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
