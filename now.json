@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T19:04:15-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T19:07:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Give It To Me Baby",
-    "artist": "Rick James",
-    "album": "Street Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_James_-_Give_It_To_Me_Baby.jpg",
-    "started_at": "2026-07-25T00:04:10Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
