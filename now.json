@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-25T01:10:27-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-25T01:13:13-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Klactoveedsedstene",
-    "artist": "Charlie Parker Quintet",
-    "album": "The Absolutely Essential 3 CD Collection",
-    "artwork_url": "",
-    "started_at": "2026-07-25T06:10:21.527685Z",
-    "duration_seconds": 176,
-    "year": "2018"
+    "title": "Klactoveesedstene",
+    "artist": "Miles Davis",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miles_Davis.jpg",
+    "started_at": "2026-07-25T06:11:43Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
