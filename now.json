@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T11:23:47-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T11:29:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Other Side Of The Game (Live)",
-    "artist": "Erykah Badu",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Erykah_Badu.jpg",
-    "started_at": "2026-07-25T16:23:35Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
