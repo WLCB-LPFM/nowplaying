@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T11:54:16-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T11:59:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "No, No, No, Pt. 2 (feat. Wyclef Jean)",
+    "artist": "Destiny's Child & Wyclef Jean",
+    "album": "Destiny's Child",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Destiny's_Child_&_Wyclef_Jean.jpg",
+    "started_at": "2026-07-25T16:58:40Z",
+    "duration_seconds": 178
+  },
   "next_poll_seconds": 10
 }
