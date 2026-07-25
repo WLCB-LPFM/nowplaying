@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-25T07:58:32-05:00",
+  "generated": "2026-07-25T07:58:58-05:00",
   "source": "autopost",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "06:00",
+    "ends": "08:00",
+    "genre": null
+  },
   "track": {
     "title": "Groove Is In the Heart",
     "artist": "Deee-Lite",
