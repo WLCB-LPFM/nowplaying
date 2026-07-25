@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-25T00:52:43-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T00:58:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hello Oscar",
-    "artist": "Ernest Ol\u00e1h Trio",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/6a2d726563746026671a2a8798ebf5c6.png",
-    "started_at": "2026-07-25T05:52:33Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
