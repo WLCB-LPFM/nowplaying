@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T19:48:45-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T19:49:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Street Fighting Man",
+    "artist": "The Rolling Stones",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Street_Fighting_Man.jpg",
+    "started_at": "2026-07-25T00:49:25Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
