@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T10:03:06-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T10:06:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "If This Is It",
-    "artist": "Huey Lewis & The News",
-    "album": "Greatest Hits (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Huey_Lewis_&_The_News_-_If_This_Is_It.jpg",
-    "started_at": "2026-07-25T15:02:52Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
