@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-24T23:48:08-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T23:48:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tomato Jam",
+    "artist": "Jason Weber",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Tomato_Jam.jpg",
+    "started_at": "2026-07-25T04:48:31Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
