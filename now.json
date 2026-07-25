@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-25T13:51:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T13:51:41-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Let's Groove",
+    "artist": "Earth Wind and Fire",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-25T18:51:30.9286917Z",
+    "duration_seconds": 231,
+    "year": "1981"
+  },
   "next_poll_seconds": 10
 }
