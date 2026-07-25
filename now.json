@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-25T15:55:38-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T15:55:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Word Up!",
+    "artist": "Cameo",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-25T20:55:44.9418185Z",
+    "duration_seconds": 253,
+    "year": "1986"
+  },
   "next_poll_seconds": 10
 }
