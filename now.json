@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T21:21:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T21:21:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Drunk",
+    "artist": "Marcel Smith",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/c8105a1a7aeac79afdec7002db9f3975.png",
+    "started_at": "2026-07-25T02:21:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
