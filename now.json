@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T19:16:39-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T19:17:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "No Reply at All",
+    "artist": "Genesis",
+    "album": "Abacab (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Genesis_-_No_Reply_At_All.jpg",
+    "started_at": "2026-07-25T00:17:28Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
