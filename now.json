@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T19:14:29-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T19:16:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "A Life of Illusion",
-    "artist": "Joe Walsh",
-    "album": "There Goes the Neighborhood",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Walsh_-_A_Life_Of_Illusion.jpg",
-    "started_at": "2026-07-25T00:14:17Z",
-    "duration_seconds": 146
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
