@@ -1,15 +1,19 @@
 {
-  "generated": "2026-07-25T07:58:58-05:00",
+  "generated": "2026-07-25T08:00:00-05:00",
   "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "06:00",
-    "ends": "08:00",
-    "genre": null
+    "name": "Sports Weekly",
+    "hosts": [
+      "Lucas Vollmer",
+      "Matt Rosenberg",
+      "Pat Cameron"
+    ],
+    "automated": false,
+    "starts": "08:00",
+    "ends": "11:00",
+    "genre": "Sports"
   },
   "track": {
     "title": "Groove Is In the Heart",
