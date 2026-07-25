@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T19:08:35-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T19:10:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Just Can't Get Enough",
-    "artist": "Depeche Mode",
-    "album": "Speak and Spell (Deluxe)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Depeche_Mode_-_Just_Can't_Get_Enough.jpg",
-    "started_at": "2026-07-25T00:07:40Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
