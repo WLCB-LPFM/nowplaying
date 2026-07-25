@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T22:25:00-05:00",
-  "source": "autopost",
+  "generated": "2026-07-24T22:30:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Got A Way With Women",
-    "artist": "Michael Burks",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Burks_-_Got_A_Way_With_Women.jpg",
-    "started_at": "2026-07-25T03:24:55Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
