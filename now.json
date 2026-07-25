@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T22:37:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T22:41:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Back Door Man (Live)",
+    "artist": "Popa Chubby",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/f008cbaf619bfee42757258a8c205b34.png",
+    "started_at": "2026-07-25T03:41:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
