@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T19:35:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-24T19:36:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Magic Bus (Edit Mono Version)",
+    "artist": "The Who",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Who_-_Magic_Bus_(Edit_Mono_Version).jpg",
+    "started_at": "2026-07-25T00:36:46Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
