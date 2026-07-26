@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T19:03:54-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T19:10:55-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Through the Fire",
+    "artist": "Chaka Khan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chaka_Khan_-_Through_The_Fire.jpg",
+    "started_at": "2026-07-26T00:10:44Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
