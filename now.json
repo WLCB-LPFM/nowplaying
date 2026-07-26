@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T21:52:41-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T21:58:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "One Night Gigolo",
-    "artist": "H-Town",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/H-town_-_One_Night_Gigolo.jpg",
-    "started_at": "2026-07-26T02:52:29Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
