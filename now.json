@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T10:08:13-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T10:11:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Begin the Beguine",
+    "artist": "The Andrews Sisters",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Andrews_Sisters_-_Begin_The_Beguine.jpg",
+    "started_at": "2026-07-26T15:11:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
