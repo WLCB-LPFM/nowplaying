@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:22:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T18:26:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Don't Want To Miss A Thing (From 'Armageddon' Soundtrack)",
-    "artist": "Aerosmith",
-    "album": "I Don't Want To Miss A Thing EP",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Aerosmith.jpg",
-    "started_at": "2026-07-26T23:22:02Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
