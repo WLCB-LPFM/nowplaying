@@ -1,17 +1,18 @@
 {
-  "generated": "2026-07-26T15:58:01-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-07-26T16:00:06-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "You're a Lucky Guy (1940)",
-    "artist": "Roy Eldridge and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-26T20:57:50.9499168Z",
-    "duration_seconds": 180,
-    "year": "1940"
+  "show": {
+    "name": "Old School Throwbacks",
+    "hosts": [
+      "J. Cornelius"
+    ],
+    "automated": false,
+    "starts": "16:00",
+    "ends": "18:00",
+    "genre": "Hip-Hop"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
