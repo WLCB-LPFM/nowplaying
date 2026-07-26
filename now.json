@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:26:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T18:26:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Un-thinkable (I'm Ready)",
+    "artist": "Alicia Keys",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alicia_Keys_-_Un-thinkable_(I'm_Ready).jpg",
+    "started_at": "2026-07-26T23:25:46Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
