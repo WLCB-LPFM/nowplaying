@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-26T08:10:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-26T08:13:24-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Little Star",
-    "artist": "Harry James and his Orchestra",
+    "title": "Estrellita",
+    "artist": "Harry James and His Orchestra",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-26T13:10:46.5003022Z",
-    "duration_seconds": 161,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harry_James_And_His_Orchestra_-_Estrellita.jpg",
+    "started_at": "2026-07-26T13:12:59Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
