@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-26T08:55:27-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-26T08:57:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "In Case of an Air Raid",
-    "artist": "Harold Grant and His Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-26T13:55:25.6907587Z",
-    "duration_seconds": 143,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
