@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-26T15:01:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-26T15:04:42-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Jumpin' Jive (1939)",
+    "title": "Jumpin' Jive",
     "artist": "Cab Calloway",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-26T20:01:13.7850976Z",
-    "duration_seconds": 219,
-    "year": ""
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cab_Calloway.jpg",
+    "started_at": "2026-07-26T20:03:44Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
