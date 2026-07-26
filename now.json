@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T22:05:57-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T22:11:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Old Devil Moon",
-    "artist": "McCoy Tyner",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/20466cb3e9a3ea0c8308c4fb51d5cffc.png",
-    "started_at": "2026-07-26T03:05:48Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
