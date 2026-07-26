@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T20:58:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T21:01:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Bad Intentions (feat. Knoc-Turn'al)",
-    "artist": "Dr. Dre",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dr._Dre_-_Bad_Intentions_(Feat._Knoc-turn'al).jpg",
-    "started_at": "2026-07-26T01:58:42Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
