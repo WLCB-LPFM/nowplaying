@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:16:40-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T18:19:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "That's The Way Love Goes",
-    "artist": "Janet Jackson",
-    "album": "Janet.",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_That's_The_Way_Love_Goes.jpg",
-    "started_at": "2026-07-26T23:16:29Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
