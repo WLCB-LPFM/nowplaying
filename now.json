@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T18:05:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It's So Hard To Say Goodbye To Yesterday",
-    "artist": "Boyz II Men",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boyz_Ii_Men_-_It's_So_Hard_To_Say_Goodbye_To_Yesterday.jpg",
-    "started_at": "2026-07-26T22:59:21Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
