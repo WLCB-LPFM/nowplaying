@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:53:45-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T18:55:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "End Of The Line (2016 Remaster)",
-    "artist": "The Traveling Wilburys",
-    "album": "The Traveling Wilburys Collection (Deluxe Edition) [2016 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Traveling_Wilburys.jpg",
-    "started_at": "2026-07-26T23:53:02Z",
-    "duration_seconds": 185
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
