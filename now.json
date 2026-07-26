@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:05:17-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T18:12:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitney_Houston_-_I_Will_Always_Love_You.jpg",
+    "started_at": "2026-07-26T23:11:54Z",
+    "duration_seconds": 271
+  },
   "next_poll_seconds": 10
 }
