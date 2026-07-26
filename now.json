@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T20:21:46-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T20:23:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Heartless",
+    "artist": "Kanye West",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kanye_West_-_Heartless.jpg",
+    "started_at": "2026-07-26T01:22:50Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
