@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-26T14:37:05-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T14:37:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tender Is the Word for You (1940)",
+    "artist": "The Ramblers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-26T19:37:09.5942165Z",
+    "duration_seconds": 179,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
