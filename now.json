@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T21:33:26-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T21:34:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Setembro",
-    "artist": "Quincy Jones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/q/Quincy_Jones_-_Setembro.jpg",
-    "started_at": "2026-07-26T02:33:17Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
