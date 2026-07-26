@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:32:27-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T18:36:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Who'll Be the Next In Line",
+    "artist": "The Kinks",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Kinks_-_Who'll_Be_The_Next_In_Line.jpg",
+    "started_at": "2026-07-26T23:36:00Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
