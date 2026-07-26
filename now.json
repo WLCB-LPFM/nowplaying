@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:45:00-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T18:46:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Living On a Thin Line",
+    "artist": "The Kinks",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Kinks_-_Living_On_A_Thin_Line.jpg",
+    "started_at": "2026-07-26T23:45:51Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
