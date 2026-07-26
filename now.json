@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-26T14:43:10-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T14:43:23-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Maybe (1940)",
+    "artist": "Harry James and His Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-26T19:43:15.3938993Z",
+    "duration_seconds": 173,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
