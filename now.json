@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-26T03:19:46-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T03:21:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Over the Rainbow",
-    "artist": "Jutta Glaser & Bernhard Sperrfechter",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-07-26T08:15:38Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
