@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-25T23:00:37-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T23:06:14-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Good Life",
-    "artist": "Hank Mobley",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hank_Mobley_-_The_Good_Life.jpg",
-    "started_at": "2026-07-26T04:00:25Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
