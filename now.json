@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T10:40:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T10:46:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Medey: Ballin' the Jack  feat.  How Come You Do Me Like You Do  feat.  Ja-Da",
-    "artist": "Red Nichols & His Five Pennies",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Red_Nichols_&_His_Five_Pennies.jpg",
-    "started_at": "2026-07-26T15:40:28Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
