@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T18:42:30-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T18:45:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Thin Line Between Love and Hate",
-    "artist": "Pretenders",
-    "album": "Pirate Radio",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pretenders_-_Thin_Line_Between_Love_And_Hate.jpg",
-    "started_at": "2026-07-26T23:42:05Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
