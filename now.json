@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-26T06:33:59-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T06:34:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Dutch Treat",
+    "artist": "J. C. Higginbotham's Big Eight",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-26T11:34:04.4729354Z",
+    "duration_seconds": 161,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
