@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-26T08:57:45-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T08:57:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Landlord Oh! Landlord",
+    "artist": "Barry Sisters; Harold Grant & his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-26T13:57:49.1393941Z",
+    "duration_seconds": 169,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
