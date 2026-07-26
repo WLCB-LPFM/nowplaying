@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-26T05:56:41-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T05:56:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My One and Only",
+    "artist": "The Shauna Antoniuc Trio",
+    "album": "The Best Jazz Audiophile Recommended",
+    "artwork_url": "",
+    "started_at": "2026-07-26T10:56:46.1302914Z",
+    "duration_seconds": 252,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
