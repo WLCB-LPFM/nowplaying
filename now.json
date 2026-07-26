@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-26T07:39:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-26T07:41:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Two in Love",
-    "artist": "Bunny Berigan and his Orchestra",
+    "title": "Two In Love (c. 09-41)",
+    "artist": "Bunny Berigan",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-26T12:39:37.7787184Z",
-    "duration_seconds": 146,
-    "year": "1941"
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bunny_Berigan.jpg",
+    "started_at": "2026-07-26T12:40:46Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
