@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T20:19:42-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T20:21:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Day 'n' Nite",
-    "artist": "Kid Cudi",
-    "album": "Man On the Moon: The End of Day (Expanded Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kid_Cudi_-_Day_'n'_Nite.jpg",
-    "started_at": "2026-07-26T01:19:24Z",
-    "duration_seconds": 146
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
