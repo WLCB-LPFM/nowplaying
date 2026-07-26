@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T22:21:28-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T22:21:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Low Frequency Ritual",
+    "artist": "SYS.tm",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sys.tm.jpg",
+    "started_at": "2026-07-26T03:21:41Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
