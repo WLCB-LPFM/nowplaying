@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T21:46:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T21:51:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Just Once, Once More, Three Times",
-    "artist": "Rome",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rome_-_Just_Once,_Once_More,_Three_Times.jpg",
-    "started_at": "2026-07-26T02:45:58Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
