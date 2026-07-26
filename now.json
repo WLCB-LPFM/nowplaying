@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T20:26:08-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T20:29:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Godzilla (feat. Juice WRLD)",
-    "artist": "Eminem",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eminem_-_Godzilla_(Feat._Juice_Wrld).jpg",
-    "started_at": "2026-07-26T01:25:57Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
