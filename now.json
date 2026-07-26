@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-26T03:27:55-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T03:28:46-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Two Rhapsodies, No. 1 in B Minor, Op. 79 : I. Agitato",
+    "artist": "Alexander Beridze",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-07-26T08:28:38Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
