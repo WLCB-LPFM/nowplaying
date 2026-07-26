@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T09:00:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T09:03:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Landlord Oh! Landlord",
-    "artist": "The Barry Sisters",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Barry_Sisters.jpg",
-    "started_at": "2026-07-26T13:58:04Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
