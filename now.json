@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T20:29:15-05:00",
-  "source": "fallback",
+  "generated": "2026-07-25T20:36:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hold On",
+    "artist": "En Vogue",
+    "album": "Hold On",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/En_Vogue_-_Hold_On.jpg",
+    "started_at": "2026-07-26T01:36:22Z",
+    "duration_seconds": 304
+  },
   "next_poll_seconds": 10
 }
