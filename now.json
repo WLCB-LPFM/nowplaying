@@ -1,18 +1,9 @@
 {
-  "generated": "2026-07-25T22:57:30-05:00",
+  "generated": "2026-07-25T23:00:11-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Late Night Chicago Radio",
-    "hosts": [
-      "Denny Farrell"
-    ],
-    "automated": false,
-    "starts": "22:00",
-    "ends": "23:00",
-    "genre": "Jazz"
-  },
+  "show": null,
   "track": {
     "title": "You'd Be So Nice To Come Home To",
     "artist": "Ben Webster",
