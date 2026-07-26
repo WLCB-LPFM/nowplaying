@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T16:04:54-05:00",
-  "source": "fallback",
+  "generated": "2026-07-26T16:14:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Crazy",
+    "artist": "Eric Knight",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Knight_-_Crazy.jpg",
+    "started_at": "2026-07-26T21:14:16Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
