@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-26T08:01:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-26T08:04:24-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "St. Louis Blues-Part 2",
-    "artist": "F. Weir; Billy Munn",
+    "title": "St. Louis Blues",
+    "artist": "First English Public Jam Session",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-26T13:01:21.805016Z",
-    "duration_seconds": 195,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/First_English_Public_Jam_Session_-_St._Louis_Blues.jpg",
+    "started_at": "2026-07-26T13:03:25Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
