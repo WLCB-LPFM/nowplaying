@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T19:24:21-05:00",
-  "source": "autopost",
+  "generated": "2026-07-25T19:25:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Brighter Days (Marco Lys Remix)",
-    "artist": "Cajmere & Dajae",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cajmere_&_Dajae.jpg",
-    "started_at": "2026-07-26T00:24:07Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
