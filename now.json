@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T19:27:19-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T19:32:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "25 O'Clock",
-    "artist": "The Dukes of Stratosphear",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dukes_Of_Stratosphear_-_25_O'clock.jpg",
-    "started_at": "2026-07-27T00:27:01Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
