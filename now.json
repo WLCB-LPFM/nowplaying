@@ -1,25 +1,17 @@
 {
-  "generated": "2026-07-27T14:59:46-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-07-27T15:00:10-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Motorsports Report",
-    "hosts": [
-      "Matthew Lodareii"
-    ],
-    "automated": false,
-    "starts": "14:00",
-    "ends": "15:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
     "title": "Do Me!",
-    "artist": "Bell Biv DeVoe",
-    "album": "20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bell_Biv_Devoe_-_Do_Me!.jpg",
-    "started_at": "2026-07-27T19:59:38Z",
-    "duration_seconds": 274
+    "artist": "Bel Biv DeVoe",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-27T19:56:51.7102214Z",
+    "duration_seconds": 263,
+    "year": "2018"
   },
   "next_poll_seconds": 10
 }
