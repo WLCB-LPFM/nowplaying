@@ -1,17 +1,18 @@
 {
-  "generated": "2026-07-27T06:59:35-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-07-27T07:00:10-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "You Keep Me Hanging On",
-    "artist": "Kim Wilde",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-27T11:59:26.5221985Z",
-    "duration_seconds": 238,
-    "year": "1986"
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
   },
+  "track": null,
   "next_poll_seconds": 10
 }
