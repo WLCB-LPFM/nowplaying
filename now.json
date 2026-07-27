@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T19:21:00-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T19:26:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sunday Train",
-    "artist": "Cracker",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cracker_-_Sunday_Train.jpg",
-    "started_at": "2026-07-27T00:20:49Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
