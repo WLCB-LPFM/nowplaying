@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T19:03:44-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T19:07:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "In The Stars",
-    "artist": "The Rolling Stones",
-    "album": "Foreign Tongues",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_In_The_Stars.jpg",
-    "started_at": "2026-07-27T00:03:17Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
