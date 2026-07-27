@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T17:27:14-05:00",
-  "source": "autopost",
+  "generated": "2026-07-27T17:32:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Firestorm",
-    "artist": "SIAMES",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/8ab5b41eabaf2c644b7123ceac2da681.png",
-    "started_at": "2026-07-27T22:27:04Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
