@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-27T06:24:10-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-27T06:27:08-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Hungry Like the Wolf",
     "artist": "Duran Duran",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-27T11:23:58.5991016Z",
-    "duration_seconds": 200,
-    "year": "1982"
+    "album": "Rio (Collectors Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duran_Duran_-_Hungry_Like_The_Wolf.jpg",
+    "started_at": "2026-07-27T11:27:05Z",
+    "duration_seconds": 194
   },
   "next_poll_seconds": 10
 }
