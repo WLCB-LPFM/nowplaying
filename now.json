@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-26T21:00:18-05:00",
+  "generated": "2026-07-26T21:01:34-05:00",
   "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "All Night Jazz",
-    "hosts": [],
-    "automated": true,
-    "starts": "21:00",
-    "ends": "24:00",
-    "genre": "Jazz"
-  },
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
     "title": "Ballad of John and Yoko (Live In Washington, DC 01 feat. 25 feat. 12)",
     "artist": "Widespread Panic",
