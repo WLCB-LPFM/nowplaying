@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T19:33:24-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T19:39:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Width of a Circle (2015 Remaster)",
-    "artist": "David Bowie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Bowie_-_The_Width_Of_A_Circle_(2015_Remaster).jpg",
-    "started_at": "2026-07-27T00:33:13Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
