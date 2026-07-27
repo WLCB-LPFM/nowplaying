@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T17:43:41-05:00",
-  "source": "autopost",
+  "generated": "2026-07-27T17:49:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "As You Get High",
-    "artist": "SIAMES",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/8ab5b41eabaf2c644b7123ceac2da681.png",
-    "started_at": "2026-07-27T22:43:33Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
