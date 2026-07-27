@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T20:12:07-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T20:15:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Eight Miles High",
-    "artist": "The Byrds",
-    "album": "Fifth Dimension (Bonus Track Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Byrds_-_Eight_Miles_High.jpg",
-    "started_at": "2026-07-27T01:12:02Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
