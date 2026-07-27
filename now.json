@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T16:41:25-05:00",
-  "source": "autopost",
+  "generated": "2026-07-27T16:46:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Dine N'Dash",
-    "artist": "The Strokes",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/86e66c508b9644b0cf80e97439ae2ccd.png",
-    "started_at": "2026-07-27T21:41:11Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
