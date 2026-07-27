@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T20:51:08-05:00",
-  "source": "autopost",
+  "generated": "2026-07-26T20:56:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Splendid Isolation (Live at KGSR, Austin, TX - 2008)",
-    "artist": "Pete Yorn",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/24b2c437e7766dd167ecc896ec651db5.png",
-    "started_at": "2026-07-27T01:50:50Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
