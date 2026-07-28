@@ -1,18 +1,9 @@
 {
-  "generated": "2026-07-28T16:58:05-05:00",
+  "generated": "2026-07-28T17:00:07-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Roadhouse Radio",
-    "hosts": [
-      "Joe Powers"
-    ],
-    "automated": false,
-    "starts": "15:00",
-    "ends": "17:00",
-    "genre": "Country"
-  },
+  "show": null,
   "track": {
     "title": "Maniac",
     "artist": "Michael Sembello",
