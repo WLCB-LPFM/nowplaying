@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-27T19:38:24-05:00",
-  "source": "fallback",
+  "generated": "2026-07-27T19:38:48-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "DJ Got Us Fallin' In Love",
+    "artist": "Usher ft. Pitbull",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-28T00:38:37.8649112Z",
+    "duration_seconds": 218,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
