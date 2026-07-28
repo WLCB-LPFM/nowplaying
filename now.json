@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-27T19:24:25-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-27T19:27:57-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "California Gurls",
-    "artist": "Katy Perry feat. Snoop Dogg",
+    "title": "California Gurls (feat. Snoop Dogg)",
+    "artist": "Katy Perry",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-28T00:24:19.8799654Z",
-    "duration_seconds": 224,
-    "year": "2023"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Katy_Perry_-_California_Gurls_(Feat._Snoop_Dogg).jpg",
+    "started_at": "2026-07-28T00:25:20Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
