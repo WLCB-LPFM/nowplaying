@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T21:53:23-05:00",
-  "source": "autopost",
+  "generated": "2026-07-27T21:58:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I Have Dreamed (Live)",
-    "artist": "Jeff Hamilton Trio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jeff_Hamilton_Trio.jpg",
-    "started_at": "2026-07-28T02:53:05Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
