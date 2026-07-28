@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T21:58:56-05:00",
-  "source": "fallback",
+  "generated": "2026-07-27T21:59:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Way You Look Tonight",
+    "artist": "Erroll Garner",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_The_Way_You_Look_Tonight.jpg",
+    "started_at": "2026-07-28T02:59:11Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
