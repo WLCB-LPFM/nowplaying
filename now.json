@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-28T02:16:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-28T02:16:34-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Maple Leaf Rag",
+    "artist": "Scott Joplin",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Scott_Joplin_-_Maple_Leaf_Rag.jpg",
+    "started_at": "2026-07-28T07:16:19Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
