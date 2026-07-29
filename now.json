@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T10:26:46-05:00",
-  "source": "fallback",
+  "generated": "2026-07-29T10:27:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Bad Boy",
+    "artist": "Joanne Shaw Taylor",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/76a4da58f887457cc89c24402412247b.png",
+    "started_at": "2026-07-29T15:27:28Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
