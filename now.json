@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T21:03:15-05:00",
-  "source": "autopost",
+  "generated": "2026-07-28T21:08:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Oh I Wept",
-    "artist": "Free",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Free_-_Oh_I_Wept.jpg",
-    "started_at": "2026-07-29T02:03:10Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
