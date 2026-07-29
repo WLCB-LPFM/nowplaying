@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T13:43:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-29T13:49:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "If I Were a Bell",
-    "artist": "Ken Peplowski",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/k/Ken_Peplowski.jpg",
-    "started_at": "2026-07-29T18:43:16Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
