@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T21:21:47-05:00",
-  "source": "autopost",
+  "generated": "2026-07-28T21:24:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Space Age Love Song",
-    "artist": "A Flock of Seagulls",
-    "album": "A Flock of Seagulls",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/A_Flock_Of_Seagulls_-_Space_Age_Love_Song.jpg",
-    "started_at": "2026-07-29T02:21:41Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
