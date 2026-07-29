@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-29T04:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-07-29T04:02:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Send In the Clowns",
-    "artist": "Svante Thuresson & Katrine Madsen",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-07-29T08:56:28Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
