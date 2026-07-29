@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T07:44:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-29T07:47:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Wake Me Up Before You Go-Go",
-    "artist": "Wham!",
-    "album": "Make It Big",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wham!_-_Wake_Me_Up_Before_You_Go-go.jpg",
-    "started_at": "2026-07-29T12:44:23Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
