@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T12:43:09-05:00",
-  "source": "autopost",
+  "generated": "2026-07-29T12:48:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Man With the Golden Arm (1955)",
-    "artist": "Terence Blanchard, Carl Allen, Kenny Kirkland, Joe Henderson, Steve Turre, Reginald Veal & J.A.C. Redford",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-07-29T17:42:58Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
