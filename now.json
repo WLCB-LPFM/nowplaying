@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T12:48:53-05:00",
-  "source": "fallback",
+  "generated": "2026-07-29T13:15:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Midnight Cowboy Medley: Midnight Cowboy  feat.  He Quit Me  feat.  Everybody's Talkin'  feat.  Tears and Joys",
+    "artist": "Buddy Rich Big Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buddy_Rich_Big_Band.jpg",
+    "started_at": "2026-07-29T18:14:44Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
