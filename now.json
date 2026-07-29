@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T13:27:36-05:00",
-  "source": "autopost",
+  "generated": "2026-07-29T13:33:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Blue Skies",
-    "artist": "Frank Sinatra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Sinatra_-_Blue_Skies.jpg",
-    "started_at": "2026-07-29T18:27:32Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
