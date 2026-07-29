@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T20:13:54-05:00",
-  "source": "autopost",
+  "generated": "2026-07-28T20:19:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "I'm Your Captain (Closer to Home)",
-    "artist": "Grand Funk Railroad",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grand_Funk_Railroad_-_I'm_Your_Captain_(Closer_To_Home).jpg",
-    "started_at": "2026-07-29T01:13:43Z",
-    "duration_seconds": 332
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
