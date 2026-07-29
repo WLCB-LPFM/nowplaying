@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T12:16:32-05:00",
-  "source": "fallback",
+  "generated": "2026-07-29T12:24:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Mustang Sally",
+    "artist": "Skip Towne and The Greyhounds",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Skip_Towne_And_The_Greyhounds.jpg",
+    "started_at": "2026-07-29T17:23:53Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
