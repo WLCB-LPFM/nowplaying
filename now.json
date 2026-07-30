@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T20:03:20-05:00",
-  "source": "autopost",
+  "generated": "2026-07-29T20:08:50-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Flowers in December",
-    "artist": "Mazzy Star",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mazzy_Star_-_Flowers_In_December.jpg",
-    "started_at": "2026-07-30T01:03:14Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
