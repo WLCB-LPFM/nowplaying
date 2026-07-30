@@ -1,9 +1,17 @@
 {
-  "generated": "2026-07-30T18:24:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-30T18:24:51-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Run To You",
+    "artist": "Bryan Adams",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-07-30T23:24:40.0508951Z",
+    "duration_seconds": 254,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
