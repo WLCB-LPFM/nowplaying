@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T15:25:17-05:00",
-  "source": "autopost",
+  "generated": "2026-07-30T15:27:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Bye Bye Bye",
-    "artist": "*NSYNC",
-    "album": "Greatest Hits",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/deb9b622b145486817958fa69884541c.png",
-    "started_at": "2026-07-30T20:24:18Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
