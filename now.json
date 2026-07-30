@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T21:43:17-05:00",
-  "source": "autopost",
+  "generated": "2026-07-29T21:45:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Stuck On You",
-    "artist": "Lionel Richie",
-    "album": "The Definitive Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lionel_Richie_-_Stuck_On_You.jpg",
-    "started_at": "2026-07-30T02:43:14Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
