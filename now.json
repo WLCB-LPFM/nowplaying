@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-30T06:11:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-30T06:15:37-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Everybody Everybody",
+    "title": "Everybody Everybody (Rockappella)",
     "artist": "Black Box",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-30T11:11:20.7015756Z",
-    "duration_seconds": 262,
-    "year": "2025"
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Black_Box.jpg",
+    "started_at": "2026-07-30T11:12:22Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
