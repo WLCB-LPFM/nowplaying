@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T20:52:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-29T20:57:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Viva Forever",
+    "artist": "Spice Girls",
+    "album": "Spiceworld",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spice_Girls_-_Viva_Forever.jpg",
+    "started_at": "2026-07-30T01:57:31Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
