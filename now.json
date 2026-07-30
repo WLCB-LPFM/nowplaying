@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T17:30:33-05:00",
-  "source": "fallback",
+  "generated": "2026-07-30T17:34:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "You Didn't Have To Be So Nice",
+    "artist": "The Lovin' Spoonful",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Lovin'_Spoonful_-_You_Didn't_Have_To_Be_So_Nice.jpg",
+    "started_at": "2026-07-30T22:34:23Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
