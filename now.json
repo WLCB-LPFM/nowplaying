@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T17:12:23-05:00",
-  "source": "autopost",
+  "generated": "2026-07-30T17:15:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Daisy Jane",
-    "artist": "America",
-    "album": "Daisy Jane (2006 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/America_-_Daisy_Jane.jpg",
-    "started_at": "2026-07-30T22:12:09Z",
-    "duration_seconds": 186
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
