@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T17:05:41-05:00",
-  "source": "autopost",
+  "generated": "2026-07-30T17:11:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Love Of My Life",
-    "artist": "Gino Vannelli",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gino_Vannelli_-_Love_Of_My_Life.jpg",
-    "started_at": "2026-07-30T22:05:37Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
