@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T20:08:50-05:00",
-  "source": "fallback",
+  "generated": "2026-07-29T20:27:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I'd Do Anything For Love (But I Won't Do That)",
+    "artist": "Meat Loaf",
+    "album": "Bat Out of Hell II: Back Into Hell (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Meat_Loaf_-_I'd_Do_Anything_For_Love_(But_I_Won't_Do_That).jpg",
+    "started_at": "2026-07-30T01:27:39Z",
+    "duration_seconds": 235
+  },
   "next_poll_seconds": 10
 }
