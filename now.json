@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T17:21:28-05:00",
-  "source": "fallback",
+  "generated": "2026-07-30T17:23:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Incense and Peppermints",
+    "artist": "Strawberry Alarm Clock",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Strawberry_Alarm_Clock_-_Incense_And_Peppermints.jpg",
+    "started_at": "2026-07-30T22:23:33Z",
+    "duration_seconds": 170
+  },
   "next_poll_seconds": 10
 }
