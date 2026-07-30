@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T17:51:57-05:00",
-  "source": "fallback",
+  "generated": "2026-07-30T17:52:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Everybody's Got To Learn Sometime",
+    "artist": "The Korgis",
+    "album": "...By Appointment",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Korgis_-_Everybody's_Got_To_Learn_Sometime.jpg",
+    "started_at": "2026-07-30T22:52:31Z",
+    "duration_seconds": 183
+  },
   "next_poll_seconds": 10
 }
