@@ -1,17 +1,9 @@
 {
-  "generated": "2026-07-30T06:34:08-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-30T06:37:07-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Shoop",
-    "artist": "Salt-N-Pepa",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Salt-n-pepa_-_Shoop.jpg",
-    "started_at": "2026-07-30T11:33:20.4839405Z",
-    "duration_seconds": 238,
-    "year": "1993"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
