@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T21:45:51-05:00",
-  "source": "fallback",
+  "generated": "2026-07-29T21:47:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Stuck On You",
+    "artist": "Damian Samsong",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-07-30T02:46:47Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
