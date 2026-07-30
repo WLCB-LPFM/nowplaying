@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T17:00:11-05:00",
-  "source": "fallback",
+  "generated": "2026-07-30T17:02:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Dreams",
+    "artist": "Fleetwood Mac",
+    "album": "Fleetwood Mac 1975 to 1987",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fleetwood_Mac_-_Dreams.jpg",
+    "started_at": "2026-07-30T22:02:17Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
