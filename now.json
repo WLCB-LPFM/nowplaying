@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T18:03:48-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T18:06:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Show & Tell",
-    "artist": "Al Wilson",
-    "album": "Soul Train # 1 Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Wilson_-_Show_&_Tell.jpg",
-    "started_at": "2026-07-31T23:03:02Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
