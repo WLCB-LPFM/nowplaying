@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T16:26:24-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T16:31:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Lochloosa",
-    "artist": "JJ Grey & Mofro",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jj_Grey_&_Mofro.jpg",
-    "started_at": "2026-07-31T21:26:06Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
