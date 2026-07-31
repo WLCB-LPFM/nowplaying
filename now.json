@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T14:01:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T14:03:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Memory Pain",
+    "artist": "Johnny Winter",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Winter_-_Memory_Pain.jpg",
+    "started_at": "2026-07-31T19:02:55Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
