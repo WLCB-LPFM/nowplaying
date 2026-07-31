@@ -1,17 +1,16 @@
 {
-  "generated": "2026-07-31T06:35:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-07-31T06:38:18-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Walk This Way",
-    "artist": "Run D.M.C. (Feat. Aerosmith)",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-07-31T11:35:00.4120072Z",
-    "duration_seconds": 211,
-    "year": "2025"
+    "title": "Walk This Way (feat. Aerosmith)",
+    "artist": "Run-DMC",
+    "album": "Raising Hell (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Run-dmc_-_Walk_This_Way_(Feat._Aerosmith).jpg",
+    "started_at": "2026-07-31T11:35:10Z",
+    "duration_seconds": 291
   },
   "next_poll_seconds": 10
 }
