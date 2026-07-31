@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T07:25:20-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T07:28:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "99 Luftballons",
+    "artist": "Nena",
+    "album": "99 Luftballons",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nena_-_99_Luftballons.jpg",
+    "started_at": "2026-07-31T12:28:18Z",
+    "duration_seconds": 204
+  },
   "next_poll_seconds": 10
 }
