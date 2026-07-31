@@ -1,16 +1,9 @@
 {
-  "generated": "2026-07-31T05:28:43-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T05:29:50-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Close to You",
-    "artist": "Rigmor Gustafsson & Jacky Terrasson Trio",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-07-31T10:28:33Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
