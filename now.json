@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T13:14:48-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T13:15:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Tattoo'd Lady (Live)",
+    "artist": "Rory Gallagher",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/f3e0e7724ff8537fe3c16d1e16694650.png",
+    "started_at": "2026-07-31T18:15:08Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
