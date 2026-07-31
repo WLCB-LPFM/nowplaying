@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T16:14:09-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T16:16:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Nothing Takes The Place Of You (Live)",
+    "artist": "Tab Benoit",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tab_Benoit.jpg",
+    "started_at": "2026-07-31T21:16:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
