@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T17:19:32-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T17:21:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The Breakup Song (They Don't Write 'Em)",
-    "artist": "Greg Kihn Band",
-    "album": "RocKihnRoll",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Greg_Kihn_Band_-_The_Breakup_Song_(They_Don't_Write_'em).jpg",
-    "started_at": "2026-07-31T22:19:29Z",
-    "duration_seconds": 140
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
