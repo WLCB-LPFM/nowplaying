@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T15:48:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T15:50:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Forever After All",
-    "artist": "Luke Combs",
-    "album": "What You See Ain't Always What You Get (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Luke_Combs_-_Forever_After_All.jpg",
-    "started_at": "2026-07-31T20:47:15Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
