@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T14:13:42-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T14:14:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Smoke and Mirrors",
+    "artist": "Johnny Burgin",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Johnny_Burgin.jpg",
+    "started_at": "2026-07-31T19:14:06Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
