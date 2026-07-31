@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T18:16:20-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T18:20:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hey You Rocksteady Crew",
+    "artist": "Rock Steady Crew",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rock_Steady_Crew_-_Hey_You_Rocksteady_Crew.jpg",
+    "started_at": "2026-07-31T23:20:18Z",
+    "duration_seconds": 192
+  },
   "next_poll_seconds": 10
 }
