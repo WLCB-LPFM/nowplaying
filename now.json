@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T17:25:33-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T17:28:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Hash Pipe",
-    "artist": "Weezer",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Weezer_-_Hash_Pipe.jpg",
-    "started_at": "2026-07-31T22:25:30Z",
-    "duration_seconds": 185
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
