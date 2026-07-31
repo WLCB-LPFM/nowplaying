@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T18:42:03-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T18:45:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Farmer John",
+    "artist": "Roomful of Blues",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roomful_Of_Blues_-_Farmer_John.jpg",
+    "started_at": "2026-07-31T23:44:55Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
