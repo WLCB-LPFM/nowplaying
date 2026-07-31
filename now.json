@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T13:44:03-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T13:49:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Blind Owl (feat. The Guilty Ones)",
-    "artist": "Dave Alvin & Jimmie Dale Gilmore",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dave_Alvin_&_Jimmie_Dale_Gilmore.jpg",
-    "started_at": "2026-07-31T18:43:52Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
