@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T15:20:29-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T15:26:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Hard Habit to Break",
-    "artist": "Chicago",
-    "album": "The Very Best of Chicago: Only the Beginning",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_Hard_Habit_To_Break.jpg",
-    "started_at": "2026-07-31T20:20:21Z",
-    "duration_seconds": 394
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
