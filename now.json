@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T16:44:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T16:49:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Bourbon and the Blues",
-    "artist": "Whitey Morgan and the 78's",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitey_Morgan_And_The_78's_-_Bourbon_And_The_Blues.jpg",
-    "started_at": "2026-07-31T21:44:04Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
