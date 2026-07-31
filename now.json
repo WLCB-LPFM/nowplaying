@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T18:32:48-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T18:34:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Right, Tight and Out of Sight",
+    "artist": "Branding Iron",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Branding_Iron_-_Right,_Tight_And_Out_Of_Sight.jpg",
+    "started_at": "2026-07-31T23:33:58Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
