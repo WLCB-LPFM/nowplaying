@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T18:00:05-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T18:01:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "It's My Life",
-    "artist": "Bon Jovi",
-    "album": "Greatest Hits: The Ultimate Collection (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_It's_My_Life.jpg",
-    "started_at": "2026-07-31T22:57:55Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
