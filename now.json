@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T14:49:39-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T14:55:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Soulard Serenade",
-    "artist": "Blood Brothers, Mike Zito & Albert Castiglia",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-07-31T19:49:25Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
