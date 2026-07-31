@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T12:55:56-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T12:56:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Last Throw of the Dice (Live)",
+    "artist": "The Cinelli Brothers",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/02a7b948edd85775e29f443633e25acf.png",
+    "started_at": "2026-07-31T17:56:08Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
