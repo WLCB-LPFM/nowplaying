@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T12:08:26-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T12:47:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Son I Never Knew",
+    "artist": "Chris Beard",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Beard_-_Son_I_Never_Knew.jpg",
+    "started_at": "2026-07-31T17:47:01Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
