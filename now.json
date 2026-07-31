@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T13:27:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T13:33:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Empty Chairs",
+    "artist": "Spencer Mackenzie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spencer_Mackenzie_-_Empty_Chairs.jpg",
+    "started_at": "2026-07-31T18:32:56Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
