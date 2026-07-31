@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T18:06:01-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T18:13:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Payback",
+    "artist": "James Brown",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_The_Payback.jpg",
+    "started_at": "2026-07-31T23:12:50Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
