@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T15:04:04-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T15:09:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I May Be Wrong, But I Won't Be Wrong Always (Live)",
-    "artist": "Ten Years After",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Ten_Years_After.jpg",
-    "started_at": "2026-07-31T20:03:55Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
