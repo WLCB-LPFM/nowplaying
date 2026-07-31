@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T21:14:22-05:00",
-  "source": "autopost",
+  "generated": "2026-07-30T21:19:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "One",
-    "artist": "Metallica",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Metallica_-_One.jpg",
-    "started_at": "2026-07-31T02:14:08Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
