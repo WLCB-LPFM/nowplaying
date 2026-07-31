@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T16:59:12-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T16:59:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Traveller",
-    "artist": "Six Gun",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Six_Gun.jpg",
-    "started_at": "2026-07-31T21:53:44Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
