@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T20:23:51-05:00",
-  "source": "autopost",
+  "generated": "2026-07-30T20:26:02-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Old Man",
-    "artist": "Neil Young",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Neil_Young_-_Old_Man.jpg",
-    "started_at": "2026-07-31T01:23:39Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
