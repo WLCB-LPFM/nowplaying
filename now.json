@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T15:26:45-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T15:28:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "I Just Want To Celebrate",
+    "artist": "Rare Earth",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rare_Earth_-_I_Just_Want_To_Celebrate.jpg",
+    "started_at": "2026-07-31T20:28:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
