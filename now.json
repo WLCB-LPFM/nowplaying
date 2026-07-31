@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T12:02:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T12:08:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Wasting Time",
-    "artist": "Diapason Ensemble",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Diapason_Ensemble_-_Wasting_Time.jpg",
-    "started_at": "2026-07-31T17:02:41Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
