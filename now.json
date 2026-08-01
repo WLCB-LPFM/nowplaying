@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T19:08:38-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T19:14:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Dust Bunnies",
-    "artist": "Kurt Vile",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kurt_Vile_-_Dust_Bunnies.jpg",
-    "started_at": "2026-08-01T00:08:33Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
