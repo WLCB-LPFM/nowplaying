@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T17:00:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-01T17:00:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Hot In Herre",
-    "artist": "Nelly",
-    "album": "Nellyville",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nelly_-_Hot_In_Herre.jpg",
-    "started_at": "2026-08-01T21:57:12Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
