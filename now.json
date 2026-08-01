@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T20:03:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T20:05:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Long, Long Way from Home",
+    "artist": "Foreigner",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foreigner_-_Long,_Long_Way_From_Home.jpg",
+    "started_at": "2026-08-01T01:05:42Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
