@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T19:14:21-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T19:15:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Brazil",
+    "artist": "Declan McKenna",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Declan_Mckenna_-_Brazil.jpg",
+    "started_at": "2026-08-01T00:15:01Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
