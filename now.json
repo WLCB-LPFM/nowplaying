@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-01T06:03:39-05:00",
-  "source": "fallback",
+  "generated": "2026-08-01T06:04:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Wanna Be Startin' Somethin'",
+    "artist": "Michael Jackson",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-01T11:03:49.864763Z",
+    "duration_seconds": 344,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
