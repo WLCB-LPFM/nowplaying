@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T20:39:26-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T20:40:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Every Time I Roll The Dice",
-    "artist": "Jovin Webb",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jovin_Webb_-_Every_Time_I_Roll_The_Dice.jpg",
-    "started_at": "2026-08-01T01:39:17Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
