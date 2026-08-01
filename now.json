@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T19:04:22-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T19:05:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Handler",
+    "artist": "Muse",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Muse_-_The_Handler.jpg",
+    "started_at": "2026-08-01T00:05:01Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
