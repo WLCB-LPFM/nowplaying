@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T22:41:13-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T22:45:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "If You Don't Start Drinkin' (I'm Gonna Leave)",
-    "artist": "George Thorogood & The Destroyers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Thorogood_&_The_Destroyers_-_If_You_Don't_Start_Drinkin'_(I'm_Gonna_Leave).jpg",
-    "started_at": "2026-08-01T03:40:56Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
