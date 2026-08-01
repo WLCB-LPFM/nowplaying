@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-01T00:26:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-01T00:27:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rock Me",
+    "artist": "Great White",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Great_White_-_Rock_Me.jpg",
+    "started_at": "2026-08-01T05:27:50Z",
+    "duration_seconds": 438
+  },
   "next_poll_seconds": 10
 }
