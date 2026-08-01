@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-01T13:02:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-01T13:07:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "American Woman",
-    "artist": "The Guess Who",
-    "album": "The Best of the Guess Who",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Guess_Who_-_American_Woman.jpg",
-    "started_at": "2026-08-01T18:02:36Z",
-    "duration_seconds": 282
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
