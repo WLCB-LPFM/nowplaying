@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T19:44:01-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T19:44:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wild Night (feat. Meshell Ndegeocello)",
+    "artist": "John Mellencamp",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Mellencamp_-_Wild_Night_(Feat._Meshell_Ndegeocello).jpg",
+    "started_at": "2026-08-01T00:44:35Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
