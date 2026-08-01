@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-01T16:31:22-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-01T16:31:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue Monday",
-    "artist": "New Order",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-01T21:24:37.3800834Z",
-    "duration_seconds": 428,
-    "year": "2020"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
