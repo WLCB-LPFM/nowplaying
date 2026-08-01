@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T11:00:07-05:00",
-  "source": "fallback",
+  "generated": "2026-08-01T11:06:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Do What You Want, Be What You Are",
+    "artist": "Daryl Hall & John Oates",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Daryl_Hall_&_John_Oates.jpg",
+    "started_at": "2026-08-01T16:06:45Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
