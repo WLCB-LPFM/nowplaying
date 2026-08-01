@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T19:57:53-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T20:03:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Man Of Many Words",
-    "artist": "Buddy Guy",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_Man_Of_Many_Words.jpg",
-    "started_at": "2026-08-01T00:57:44Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
