@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T11:25:51-05:00",
-  "source": "autopost",
+  "generated": "2026-08-01T11:28:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Dance Across the Floor",
-    "artist": "Jimmy 'Bo' Horne",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_'bo'_Horne_-_Dance_Across_The_Floor.jpg",
-    "started_at": "2026-08-01T16:25:43Z",
-    "duration_seconds": 151
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
