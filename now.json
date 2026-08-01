@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T21:53:07-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T21:56:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Texas Flood",
+    "artist": "Stevie Ray Vaughan & Double Trouble",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_Texas_Flood.jpg",
+    "started_at": "2026-08-01T02:56:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
