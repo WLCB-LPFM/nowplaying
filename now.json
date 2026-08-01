@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-01T16:51:33-05:00",
-  "source": "fallback",
+  "generated": "2026-08-01T16:51:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Would I Lie to You",
+    "artist": "Eurythmics",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-01T21:51:42.3775648Z",
+    "duration_seconds": 258,
+    "year": "1985"
+  },
   "next_poll_seconds": 10
 }
