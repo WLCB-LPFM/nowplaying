@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T11:13:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-01T11:18:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "I'd Die Without You",
-    "artist": "P.M. Dawn",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/P.m._Dawn_-_I'd_Die_Without_You.jpg",
-    "started_at": "2026-08-01T16:12:45Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
