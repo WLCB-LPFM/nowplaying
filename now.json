@@ -1,9 +1,16 @@
 {
-  "generated": "2026-07-31T23:39:38-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T23:42:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Dinah",
+    "artist": "Red Nichols",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Red_Nichols_-_Dinah.jpg",
+    "started_at": "2026-08-01T04:41:56Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
