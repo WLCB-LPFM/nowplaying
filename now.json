@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T20:58:52-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T21:04:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Kick Around",
-    "artist": "Samantha Fish",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Samantha_Fish_-_Kick_Around.jpg",
-    "started_at": "2026-08-01T01:58:34Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
