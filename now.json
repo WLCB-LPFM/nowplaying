@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T20:30:01-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T20:32:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rumble",
+    "artist": "Link Wray",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Link_Wray_-_Rumble.jpg",
+    "started_at": "2026-08-01T01:32:48Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
