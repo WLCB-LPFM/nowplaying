@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T21:24:36-05:00",
-  "source": "fallback",
+  "generated": "2026-07-31T21:32:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Come Together",
+    "artist": "Aerosmith",
+    "album": "Aerosmith's Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Come_Together.jpg",
+    "started_at": "2026-08-01T02:32:15Z",
+    "duration_seconds": 224
+  },
   "next_poll_seconds": 10
 }
