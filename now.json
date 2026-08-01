@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T22:35:16-05:00",
-  "source": "autopost",
+  "generated": "2026-07-31T22:41:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Broke Down on the Brazos",
-    "artist": "Gov't Mule",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gov't_Mule_-_Broke_Down_On_The_Brazos.jpg",
-    "started_at": "2026-08-01T03:35:06Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
