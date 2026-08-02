@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-02T15:58:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T15:58:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Halli-Halli-Hallo (with Harold Grant and His Orchestra)",
-    "artist": "The Good Fellows",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Good_Fellows.jpg",
-    "started_at": "2026-08-02T20:52:38Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
