@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T18:27:28-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T18:28:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Rain Came Down",
+    "artist": "Steve Earle & The Dukes",
+    "album": "Exit 0",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Steve_Earle_&_The_Dukes.jpg",
+    "started_at": "2026-08-02T23:28:23Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
