@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-02T08:51:40-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-02T08:56:07-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "London Fantasia-Part 2",
-    "artist": "Sidney Torch and his Orchestra",
+    "title": "London Fantasia",
+    "artist": "Sidney Torch",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-02T13:51:39.1777966Z",
-    "duration_seconds": 283,
-    "year": "1941"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidney_Torch_-_London_Fantasia.jpg",
+    "started_at": "2026-08-02T13:53:38Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
