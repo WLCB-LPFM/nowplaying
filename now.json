@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-02T14:04:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T14:04:43-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When The Swallows Come Back to Capistrano (1940)",
+    "artist": "Ceele Burke and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-02T19:04:36.2268107Z",
+    "duration_seconds": 163,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
