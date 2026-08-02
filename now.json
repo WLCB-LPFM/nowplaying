@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-02T08:58:57-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T08:59:32-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "London Fantasia",
-    "artist": "Sidney Torch",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidney_Torch_-_London_Fantasia.jpg",
-    "started_at": "2026-08-02T13:53:38Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
