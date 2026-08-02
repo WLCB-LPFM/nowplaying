@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T20:10:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-01T20:11:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Stay Fly (feat. Young Buck, Eightball & MJG)",
+    "artist": "Three 6 Mafia",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Three_6_Mafia.jpg",
+    "started_at": "2026-08-02T01:11:02Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
