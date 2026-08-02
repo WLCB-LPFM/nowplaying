@@ -1,16 +1,17 @@
 {
-  "generated": "2026-08-01T23:11:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-01T23:11:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Parker's Mood",
-    "artist": "Charlie Parker",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Parker's_Mood.jpg",
-    "started_at": "2026-08-02T04:10:16Z",
-    "duration_seconds": null
+    "title": "My Funny Valentine",
+    "artist": "Sarah Vaughan",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
+    "artwork_url": "",
+    "started_at": "2026-08-02T04:11:47.0521907Z",
+    "duration_seconds": 344,
+    "year": "1997"
   },
   "next_poll_seconds": 10
 }
