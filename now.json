@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T18:31:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T18:37:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Freaking Out",
+    "artist": "Michigander",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michigander_-_Freaking_Out.jpg",
+    "started_at": "2026-08-02T23:37:43Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
