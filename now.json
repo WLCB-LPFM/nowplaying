@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-02T07:33:43-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T07:33:55-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Denny Dennis; David",
+    "artist": "The Singing Hills",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-02T12:33:48.9845938Z",
+    "duration_seconds": 191,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
