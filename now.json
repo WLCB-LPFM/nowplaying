@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T19:46:14-05:00",
-  "source": "autopost",
+  "generated": "2026-08-01T19:46:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Can't Get Enough",
-    "artist": "Tamia",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tamia_-_Can't_Get_Enough.jpg",
-    "started_at": "2026-08-02T00:45:41Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
