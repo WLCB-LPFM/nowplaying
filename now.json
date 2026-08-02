@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T09:25:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T09:30:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Imagination",
+    "artist": "Frank Sinatra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Sinatra_-_Imagination.jpg",
+    "started_at": "2026-08-02T14:30:01Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
