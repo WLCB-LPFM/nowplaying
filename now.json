@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T10:06:15-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T10:11:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Five O'Clock Whistle",
-    "artist": "Glenn Miller",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_Five_O'clock_Whistle.jpg",
-    "started_at": "2026-08-02T15:06:10Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
