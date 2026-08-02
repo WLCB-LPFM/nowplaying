@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T20:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-01T20:04:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Ga Ga Ga All Right (Michael Baisden Theme Song)",
-    "artist": "DJ Hotday",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Hotday_-_Ga_Ga_Ga_All_Right_(Michael_Baisden_Theme_Song).jpg",
-    "started_at": "2026-08-02T00:58:18Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
