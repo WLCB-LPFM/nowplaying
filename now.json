@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-02T14:10:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-02T14:13:09-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Last Night On The Back Porch (1940)",
-    "artist": "Lang Thompson and his Orchestra",
+    "title": "Somebody's Gotta Go",
+    "artist": "Cootie Williams",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-02T19:10:38.0343428Z",
-    "duration_seconds": 164,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cootie_Williams.jpg",
+    "started_at": "2026-08-02T19:08:00Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
