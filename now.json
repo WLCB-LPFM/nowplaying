@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-02T06:53:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T06:53:34-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "John Ryan with Orchestra",
+    "artist": "My Love's a Country Gal",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-02T11:53:31.7845544Z",
+    "duration_seconds": 156,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
