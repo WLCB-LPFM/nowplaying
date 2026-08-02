@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-02T15:44:50-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T15:45:03-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "A Pretty Girl is Like a Melody (1940)",
+    "artist": "The Varsity Seven",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-02T20:44:55.9202252Z",
+    "duration_seconds": 162,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
