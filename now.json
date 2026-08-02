@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-02T14:13:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-02T14:15:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "It's the Same Old Shillelagh (1940)",
-    "artist": "John Ryan",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-02T19:13:22.4389114Z",
-    "duration_seconds": 153,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
