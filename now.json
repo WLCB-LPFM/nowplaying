@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T09:00:06-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T09:04:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Summertime",
+    "artist": "Bob Crosby",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Crosby_-_Summertime.jpg",
+    "started_at": "2026-08-02T14:03:56Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
