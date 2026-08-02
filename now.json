@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T09:56:39-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T10:02:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Begin the Beguine (Recording from Carmel Carnival 1939)",
-    "artist": "Benny Goodman",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Benny_Goodman.jpg",
-    "started_at": "2026-08-02T14:56:30Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
