@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T10:21:36-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T10:27:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "A Boy In Khaki, A Girl In Lace",
-    "artist": "Dinah Shore",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dinah_Shore_-_A_Boy_In_Khaki,_A_Girl_In_Lace.jpg",
-    "started_at": "2026-08-02T15:21:24Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
