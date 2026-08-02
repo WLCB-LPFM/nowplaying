@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-02T07:16:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T07:17:14-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hodge Podge",
+    "artist": "Harry James and His Orchestra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_James_And_His_Orchestra.jpg",
+    "started_at": "2026-08-02T12:16:58Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
