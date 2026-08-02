@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T22:37:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-01T22:38:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Whisper Not",
+    "artist": "Maynard Ferguson",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/02aebe2215c9428d8bbb1594d9a82557.png",
+    "started_at": "2026-08-02T03:38:21Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
