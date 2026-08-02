@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T18:18:36-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T18:19:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Rain On The Scarecrow",
-    "artist": "John Mellencamp",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Mellencamp_-_Rain_On_The_Scarecrow.jpg",
-    "started_at": "2026-08-02T23:18:30Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
