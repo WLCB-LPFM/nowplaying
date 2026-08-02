@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-02T14:07:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-02T14:10:31-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Somebody's Gotta Go",
-    "artist": "Cootie Williams and His Orchestra",
+    "artist": "Cootie Williams",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-02T19:07:19.5294904Z",
-    "duration_seconds": 198,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cootie_Williams.jpg",
+    "started_at": "2026-08-02T19:08:00Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
