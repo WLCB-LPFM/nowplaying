@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T09:35:46-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T09:36:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "In A Little Waterfront Cafe",
+    "artist": "Jack Teagarden",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jack_Teagarden_-_In_A_Little_Waterfront_Cafe.jpg",
+    "started_at": "2026-08-02T14:36:33Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
