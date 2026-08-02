@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T10:12:22-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T10:18:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Oh! Look At Me Now",
-    "artist": "Frank Sinatra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Sinatra_-_Oh!_Look_At_Me_Now.jpg",
-    "started_at": "2026-08-02T15:12:11Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
