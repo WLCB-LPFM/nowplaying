@@ -1,18 +1,9 @@
 {
-  "generated": "2026-08-01T22:57:46-05:00",
+  "generated": "2026-08-01T23:00:10-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Late Night Chicago Radio",
-    "hosts": [
-      "Denny Farrell"
-    ],
-    "automated": false,
-    "starts": "22:00",
-    "ends": "23:00",
-    "genre": "Jazz"
-  },
+  "show": null,
   "track": {
     "title": "Thank Heaven For Little Girls",
     "artist": "Chet Baker",
