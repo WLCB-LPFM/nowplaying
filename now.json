@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T10:27:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T10:35:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "I Can't Give You Anything But Love, Baby",
+    "artist": "Benny Goodman All Stars",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/4d07fec779ac43e895b7dc4053fa624d.png",
+    "started_at": "2026-08-02T15:34:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
