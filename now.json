@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T21:11:30-05:00",
-  "source": "fallback",
+  "generated": "2026-08-01T21:12:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Get Down (feat. J.U.I.C.E.) [Bonus Track]",
+    "artist": "Ang13",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ang13.jpg",
+    "started_at": "2026-08-02T02:11:53Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
