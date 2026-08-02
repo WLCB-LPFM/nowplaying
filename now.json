@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T19:46:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-01T19:51:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Happy Birthday",
+    "artist": "Stevie Wonder",
+    "album": "Hotter Than July",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Happy_Birthday.jpg",
+    "started_at": "2026-08-02T00:51:45Z",
+    "duration_seconds": 355
+  },
   "next_poll_seconds": 10
 }
