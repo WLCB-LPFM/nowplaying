@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T20:40:25-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T20:43:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Night Train",
-    "artist": "James Brown",
-    "album": "The 50 Greatest Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_Night_Train.jpg",
-    "started_at": "2026-08-03T01:39:52Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
