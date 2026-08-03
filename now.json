@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T16:42:17-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T16:43:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dine N'Dash",
+    "artist": "The Strokes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Strokes_-_Dine_N'dash.jpg",
+    "started_at": "2026-08-03T21:43:02Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
