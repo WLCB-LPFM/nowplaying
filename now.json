@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-03T06:51:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T06:54:34-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ayong Esawong",
+    "artist": "Ronny Blasky",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Ronny_Blasky.jpg",
+    "started_at": "2026-08-03T11:54:15Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
