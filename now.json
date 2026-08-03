@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-02T21:59:51-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T22:00:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hello Oscar",
-    "artist": "Ernest Ol\u00e1h Trio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ernest_Ol\u00e1h_Trio_-_Hello_Oscar.jpg",
-    "started_at": "2026-08-03T02:57:12Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
