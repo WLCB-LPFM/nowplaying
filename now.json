@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-03T12:16:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T12:16:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Get Low",
+    "artist": "Lil Jon & The East Side Boyz",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-03T17:16:44.9717554Z",
+    "duration_seconds": 259,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
