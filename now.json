@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T07:39:52-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T07:43:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Caribbean Queen (No More Love On the Run)",
+    "artist": "Billy Ocean",
+    "album": "Suddenly (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Ocean_-_Caribbean_Queen_(No_More_Love_On_The_Run).jpg",
+    "started_at": "2026-08-03T12:43:46Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
