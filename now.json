@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-03T12:14:09-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-03T12:16:32-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Superstition",
-    "artist": "Stevie Wonder",
-    "album": "Talking Book",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Superstition.jpg",
-    "started_at": "2026-08-03T17:12:28.7065326Z",
-    "duration_seconds": 256,
-    "year": "2009"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
