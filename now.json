@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T07:11:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T07:17:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wrapped Around Your Finger",
+    "artist": "The Police",
+    "album": "Every Breath You Take: The Classics",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Police_-_Wrapped_Around_Your_Finger.jpg",
+    "started_at": "2026-08-03T12:17:31Z",
+    "duration_seconds": 314
+  },
   "next_poll_seconds": 10
 }
