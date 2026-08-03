@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T16:10:20-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T16:15:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Hard To Explain",
-    "artist": "The Strokes",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Strokes_-_Hard_To_Explain.jpg",
-    "started_at": "2026-08-03T21:10:06Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
