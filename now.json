@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T19:03:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T19:09:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Better",
-    "artist": "Brother Dynamite",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Brother_Dynamite.jpg",
-    "started_at": "2026-08-03T00:03:24Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
