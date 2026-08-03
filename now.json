@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T16:04:00-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T16:09:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "The Adults Are Talking",
-    "artist": "The Strokes",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Strokes_-_The_Adults_Are_Talking.jpg",
-    "started_at": "2026-08-03T21:03:49Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
