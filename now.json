@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-02T21:47:09-05:00",
-  "source": "fallback",
+  "generated": "2026-08-02T21:47:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Libyan Desert Mirages",
+    "artist": "Schantz Segment",
+    "album": "The Best Jazz Audiophile Recommended, Volume 2",
+    "artwork_url": "",
+    "started_at": "2026-08-03T02:47:17.1957481Z",
+    "duration_seconds": 497,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
