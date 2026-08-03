@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T20:14:43-05:00",
-  "source": "autopost",
+  "generated": "2026-08-02T20:17:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Happy Feelin'",
-    "artist": "Earth, Wind & Fire",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Earth,_Wind_&_Fire_-_Happy_Feelin'.jpg",
-    "started_at": "2026-08-03T01:14:35Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
