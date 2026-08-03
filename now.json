@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-03T05:09:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-03T05:12:53-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Body And Soul",
-    "artist": "Benny Goodman Trio",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
-    "artwork_url": "",
-    "started_at": "2026-08-03T10:09:44.3480457Z",
-    "duration_seconds": 198,
-    "year": "1997"
+    "title": "Body and Soul",
+    "artist": "Teddy Wilson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Teddy_Wilson_-_Body_And_Soul.jpg",
+    "started_at": "2026-08-03T10:11:31Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
