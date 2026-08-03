@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T14:50:41-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T14:53:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Good Times",
-    "artist": "Chic",
-    "album": "Dance, Dance, Dance: The Best of Chic",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chic_-_Good_Times.jpg",
-    "started_at": "2026-08-03T19:50:14Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
