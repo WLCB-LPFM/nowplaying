@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T07:04:55-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T07:09:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Turn Me Loose",
-    "artist": "Loverboy",
-    "album": "Larry the Cable Guy: Health Inspector (Music from the Motion Picture)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Loverboy_-_Turn_Me_Loose.jpg",
-    "started_at": "2026-08-03T12:04:29Z",
-    "duration_seconds": 336
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
