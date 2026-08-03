@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T16:53:46-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T16:56:55-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Going to Babble On",
+    "artist": "The Strokes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Strokes_-_Going_To_Babble_On.jpg",
+    "started_at": "2026-08-03T21:56:47Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
