@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T08:31:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T08:33:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Land of Confusion",
+    "artist": "Genesis",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Genesis_-_Land_Of_Confusion.jpg",
+    "started_at": "2026-08-03T13:33:04Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
