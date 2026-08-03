@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-03T06:59:02-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-03T06:59:15-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Money For Nothing",
-    "artist": "Dire Straits",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-03T11:55:24.6262649Z",
-    "duration_seconds": 235,
-    "year": "1985"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
