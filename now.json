@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T16:47:50-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T16:50:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Falling out of Love",
+    "artist": "The Strokes",
+    "album": "Reality Awaits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Strokes_-_Falling_Out_Of_Love.jpg",
+    "started_at": "2026-08-03T21:49:36Z",
+    "duration_seconds": 254
+  },
   "next_poll_seconds": 10
 }
