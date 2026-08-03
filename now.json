@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T14:53:28-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T14:55:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Push It",
+    "artist": "Salt-N-Pepa",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Salt-n-pepa_-_Push_It.jpg",
+    "started_at": "2026-08-03T19:55:16Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
