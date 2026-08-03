@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T16:22:46-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T16:33:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Think Before You Drink",
+    "artist": "The Voidz",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/c09bab634deffda398be3d01b9257245.png",
+    "started_at": "2026-08-03T21:33:11Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
