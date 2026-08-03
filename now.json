@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T07:09:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T07:10:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Situation (12' Remix)",
+    "artist": "Yazoo",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/y/Yazoo.jpg",
+    "started_at": "2026-08-03T12:10:27Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
