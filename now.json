@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T17:02:38-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T17:02:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Going Shopping",
+    "artist": "The Strokes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Strokes_-_Going_Shopping.jpg",
+    "started_at": "2026-08-03T22:02:36Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
