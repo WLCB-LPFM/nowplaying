@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-03T05:59:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T06:02:25-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jump (For My Love)",
+    "artist": "The Pointer Sisters",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-03T11:02:15.6567924Z",
+    "duration_seconds": 233,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
