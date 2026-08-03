@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T07:37:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T07:39:52-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Runaway",
-    "artist": "Janet Jackson",
-    "album": "Design of a Decade 1986/1996",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Runaway.jpg",
-    "started_at": "2026-08-03T12:37:07Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
