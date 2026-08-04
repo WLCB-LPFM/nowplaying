@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T22:40:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T22:41:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Stand or Fall",
-    "artist": "The Fixx",
-    "album": "Then and Now",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fixx_-_Stand_Or_Fall.jpg",
-    "started_at": "2026-08-04T03:40:15Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
