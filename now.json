@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-03T19:49:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T19:49:18-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Two Princes",
-    "artist": "Spin Doctors",
-    "album": "Pocket Full of Kryptonite",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spin_Doctors_-_Two_Princes.jpg",
-    "started_at": "2026-08-04T00:45:41Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
