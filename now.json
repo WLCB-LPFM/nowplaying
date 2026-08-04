@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-04T06:54:55-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T06:56:47-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Relax",
+    "artist": "Frankie Goes to Hollywood",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-04T11:56:37.5247401Z",
+    "duration_seconds": 232,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
