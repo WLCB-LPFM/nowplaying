@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-04T13:41:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T13:41:26-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Wannabe",
+    "artist": "Spice Girls",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-04T18:41:19.2092612Z",
+    "duration_seconds": 168,
+    "year": "1996"
+  },
   "next_poll_seconds": 10
 }
