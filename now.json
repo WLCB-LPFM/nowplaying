@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T08:06:04-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T08:09:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Magic",
-    "artist": "The Cars",
-    "album": "Heartbeat City",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cars_-_Magic.jpg",
-    "started_at": "2026-08-04T13:06:03Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
