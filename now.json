@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T20:03:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T20:08:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Truth",
+    "artist": "Les McCann",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Les_Mccann_-_The_Truth.jpg",
+    "started_at": "2026-08-04T01:08:45Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
