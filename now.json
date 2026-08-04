@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-04T05:34:49-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T05:35:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Body And Soul",
-    "artist": "Stan Getz",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stan_Getz_-_Body_And_Soul.jpg",
-    "started_at": "2026-08-04T10:34:21Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
