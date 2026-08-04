@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-04T11:28:43-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T11:31:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Don\u00b4t You Want Me",
+    "artist": "The Human League",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-04T16:31:00.3433019Z",
+    "duration_seconds": 232,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
