@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T10:58:39-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T10:59:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Midnight Rendezvous",
-    "artist": "The Babys",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Babys_-_Midnight_Rendezvous.jpg",
-    "started_at": "2026-08-04T15:58:33Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
