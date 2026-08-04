@@ -1,9 +1,19 @@
 {
-  "generated": "2026-08-04T17:58:06-05:00",
+  "generated": "2026-08-04T18:00:06-05:00",
   "source": "fallback",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Your Insurance Corner",
+    "hosts": [
+      "Bill Miksch",
+      "Sean Hauser"
+    ],
+    "automated": false,
+    "starts": "18:00",
+    "ends": "19:00",
+    "genre": null
+  },
   "track": null,
   "next_poll_seconds": 10
 }
