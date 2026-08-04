@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-04T06:09:33-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-04T06:10:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Sweet Dreams (Are Made of This)",
-    "artist": "Eurythmics",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-04T11:05:58.1221612Z",
-    "duration_seconds": 277,
-    "year": "1983"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
