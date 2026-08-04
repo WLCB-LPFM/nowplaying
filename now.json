@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T07:04:27-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T07:05:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wild Wild West",
+    "artist": "The Escape Club",
+    "album": "Wild, Wild West",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Escape_Club_-_Wild_Wild_West.jpg",
+    "started_at": "2026-08-04T12:05:22Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
