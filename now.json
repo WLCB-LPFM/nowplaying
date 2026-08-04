@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T22:04:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T22:08:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Cryin'",
+    "artist": "Aerosmith",
+    "album": "Get A Grip",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Cryin'.jpg",
+    "started_at": "2026-08-04T03:08:15Z",
+    "duration_seconds": 270
+  },
   "next_poll_seconds": 10
 }
