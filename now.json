@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T08:34:42-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T08:38:46-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Easy Lover",
-    "artist": "Philip Bailey & Phil Collins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Philip_Bailey_&_Phil_Collins_-_Easy_Lover.jpg",
-    "started_at": "2026-08-04T13:34:35Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
