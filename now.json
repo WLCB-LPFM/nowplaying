@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-04T00:49:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T00:50:01-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Can't Help It If I Am Still in Love with You",
+    "artist": "Lisa Bassenge",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lisa_Bassenge.jpg",
+    "started_at": "2026-08-04T05:49:49Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
