@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T21:25:43-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T21:26:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Best Is Yet to Come (feat. Count Basie and His Orchestra)",
+    "artist": "Frank Sinatra",
+    "album": "",
+    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/ee23ab2b92c9307aac3d37b4bef54194.png",
+    "started_at": "2026-08-04T02:26:27Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
