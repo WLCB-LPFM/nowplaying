@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-04T02:28:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T02:29:27-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "For Those About to Rock (We Salute You)",
+    "artist": "AC feat. DC",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-08-04T07:29:06Z",
+    "duration_seconds": 320
+  },
   "next_poll_seconds": 10
 }
