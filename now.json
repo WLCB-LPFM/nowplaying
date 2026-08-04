@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T15:30:56-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T15:34:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Talking In Your Sleep",
-    "artist": "The Romantics",
-    "album": "In Heat (2023 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Romantics_-_Talking_In_Your_Sleep.jpg",
-    "started_at": "2026-08-04T20:30:50Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
