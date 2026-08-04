@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T21:04:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T21:09:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "My Man's Gone Now",
-    "artist": "Bill Evans",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Evans_-_My_Man's_Gone_Now.jpg",
-    "started_at": "2026-08-04T02:03:59Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
