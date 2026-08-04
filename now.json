@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T16:04:06-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T16:05:45-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Principal's Office",
+    "artist": "Young MC",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young_Mc_-_Principal's_Office.jpg",
+    "started_at": "2026-08-04T21:05:05Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
