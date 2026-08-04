@@ -1,17 +1,25 @@
 {
-  "generated": "2026-08-04T14:58:37-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-08-04T15:00:03-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
+  },
   "track": {
     "title": "Pour Some Sugar On Me",
     "artist": "Def Leppard",
     "album": "Hysteria (Deluxe Edition)",
     "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Pour_Some_Sugar_On_Me.jpg",
-    "started_at": "2026-08-04T19:56:19.1687868Z",
-    "duration_seconds": 253,
-    "year": ""
+    "started_at": "2026-08-04T19:58:25Z",
+    "duration_seconds": 268
   },
   "next_poll_seconds": 10
 }
