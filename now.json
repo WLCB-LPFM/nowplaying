@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T23:45:39-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T23:51:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Believe in Love (2015 - Remaster)",
-    "artist": "Scorpions",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Scorpions.jpg",
-    "started_at": "2026-08-04T04:45:27Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
