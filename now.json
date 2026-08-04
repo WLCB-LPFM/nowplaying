@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T21:34:46-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T21:35:57-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Girl From Ipanema",
+    "artist": "Stan Getz & Astrud Gilberto",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stan_Getz_&_Astrud_Gilberto_-_The_Girl_From_Ipanema.jpg",
+    "started_at": "2026-08-04T02:35:52Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
