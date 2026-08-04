@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T16:38:02-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T16:41:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Livin' On A Prayer",
-    "artist": "Bon Jovi",
-    "album": "Slippery When Wet",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_Livin'_On_A_Prayer.jpg",
-    "started_at": "2026-08-04T21:38:01Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
