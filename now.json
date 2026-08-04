@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T16:12:15-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T16:13:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Private Eyes",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Private Eyes (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daryl_Hall_&_John_Oates_-_Private_Eyes.jpg",
+    "started_at": "2026-08-04T21:12:26Z",
+    "duration_seconds": 165
+  },
   "next_poll_seconds": 10
 }
