@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-04T11:20:39-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-04T11:24:57-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Rio",
+    "title": "Rio (US Edit)",
     "artist": "Duran Duran",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-04T16:20:36.3406575Z",
-    "duration_seconds": 270,
-    "year": "2015"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duran_Duran_-_Rio_(Us_Edit).jpg",
+    "started_at": "2026-08-04T16:20:43Z",
+    "duration_seconds": 285
   },
   "next_poll_seconds": 10
 }
