@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T21:34:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T21:34:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "The Girl from Ipanema",
-    "artist": "Antonio Carlos Jobim",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Antonio_Carlos_Jobim_-_The_Girl_From_Ipanema.jpg",
-    "started_at": "2026-08-04T02:33:26Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
