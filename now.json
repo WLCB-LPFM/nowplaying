@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T21:09:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-03T21:13:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Jelly Roll",
+    "artist": "Donald Byrd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Donald_Byrd_-_Jelly_Roll.jpg",
+    "started_at": "2026-08-04T02:13:23Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
