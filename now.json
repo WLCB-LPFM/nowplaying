@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T15:39:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T15:39:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Boom Boom Pow",
-    "artist": "Black Eyed Peas",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Eyed_Peas_-_Boom_Boom_Pow.jpg",
-    "started_at": "2026-08-04T20:37:55Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
