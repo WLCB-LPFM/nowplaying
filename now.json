@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T07:50:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T07:57:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Welcome To The Jungle",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Guns_N'_Roses_-_Welcome_To_The_Jungle.jpg",
+    "started_at": "2026-08-04T12:57:07Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
