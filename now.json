@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T08:01:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T08:02:56-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "And She Was",
+    "artist": "Talking Heads",
+    "album": "Little Creatures (Deluxe Version)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Talking_Heads_-_And_She_Was.jpg",
+    "started_at": "2026-08-04T13:02:55Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
