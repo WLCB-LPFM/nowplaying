@@ -1,18 +1,9 @@
 {
-  "generated": "2026-08-03T23:59:04-05:00",
+  "generated": "2026-08-04T00:00:05-05:00",
   "source": "fallback",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Rock of Ages",
-    "hosts": [
-      "Mark Ricky"
-    ],
-    "automated": false,
-    "starts": "22:00",
-    "ends": "24:00",
-    "genre": "Rock and Roll"
-  },
+  "show": null,
   "track": null,
   "next_poll_seconds": 10
 }
