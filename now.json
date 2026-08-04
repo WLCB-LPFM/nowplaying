@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-04T14:05:50-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-04T14:10:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Der Kommissar",
-    "artist": "Falco",
-    "album": "Club Epic - A Collection Of Classic Dance Mixes - Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-08-04T19:05:47.2539608Z",
-    "duration_seconds": 326,
-    "year": "2014"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
