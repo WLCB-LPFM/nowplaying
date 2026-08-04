@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-03T21:42:26-05:00",
-  "source": "autopost",
+  "generated": "2026-08-03T21:43:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Maiden Voyage",
-    "artist": "Herbie Hancock",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Herbie_Hancock_-_Maiden_Voyage.jpg",
-    "started_at": "2026-08-04T02:42:10Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
