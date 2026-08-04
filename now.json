@@ -1,17 +1,25 @@
 {
-  "generated": "2026-08-04T06:58:17-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-08-04T07:00:09-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
     "title": "Relax",
     "artist": "Frankie Goes to Hollywood",
     "album": "Welcome to the Pleasuredome",
     "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frankie_Goes_To_Hollywood_-_Relax.jpg",
-    "started_at": "2026-08-04T11:56:37.5247401Z",
-    "duration_seconds": 232,
-    "year": "1983"
+    "started_at": "2026-08-04T11:58:09Z",
+    "duration_seconds": 210
   },
   "next_poll_seconds": 10
 }
