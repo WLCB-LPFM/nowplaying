@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T08:41:34-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T08:44:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Fantasy",
-    "artist": "Mariah Carey",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mariah_Carey_-_Fantasy.jpg",
-    "started_at": "2026-08-04T13:41:24Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
