@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T08:15:49-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T08:18:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "One Night in Bangkok",
-    "artist": "Murray Head",
-    "album": "One Night In Bangkok (From \u201cChess\u201d) - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Murray_Head_-_One_Night_In_Bangkok.jpg",
-    "started_at": "2026-08-04T13:15:42Z",
-    "duration_seconds": 171
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
