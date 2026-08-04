@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T16:01:31-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T16:04:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Things Can Only Get Better",
-    "artist": "Howard Jones",
-    "album": "Dream Into Action",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Howard_Jones_-_Things_Can_Only_Get_Better.jpg",
-    "started_at": "2026-08-04T21:00:51Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
