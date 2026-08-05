@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-05T15:00:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T15:07:43-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Back In Black",
+    "artist": "AC\u29f8DC",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-05T20:07:34.7395998Z",
+    "duration_seconds": 244,
+    "year": "2024"
+  },
   "next_poll_seconds": 10
 }
