@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T12:16:30-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T12:22:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Come On Home",
-    "artist": "Lambert, Hendricks & Ross",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lambert,_Hendricks_&_Ross.jpg",
-    "started_at": "2026-08-05T17:16:19Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
