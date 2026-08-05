@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T22:46:24-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T22:52:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Born Under A Bad Sign (Live)",
-    "artist": "Pat Travers",
-    "album": "",
-    "artwork_url": "https://lastfm.freetls.fastly.net/i/u/300x300/bf53c7f909164ed092c9753caa53ef83.png",
-    "started_at": "2026-08-05T03:46:11Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
