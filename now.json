@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T22:36:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T22:40:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Midnite Cruiser",
-    "artist": "Steely Dan",
-    "album": "Can't Buy A Thrill",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_Midnite_Cruiser.jpg",
-    "started_at": "2026-08-05T03:36:07Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
