@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T07:19:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T07:20:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Who Am I (What\u2019s My Name)?",
+    "artist": "Snoop Dogg",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snoop_Dogg_-_Who_Am_I_(What\u2019s_My_Name)?.jpg",
+    "started_at": "2026-08-05T12:20:26Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
