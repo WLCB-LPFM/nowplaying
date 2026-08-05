@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T07:26:56-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T07:28:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Bizarre Love Triangle",
-    "artist": "New Order",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Order_-_Bizarre_Love_Triangle.jpg",
-    "started_at": "2026-08-05T12:26:48Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
