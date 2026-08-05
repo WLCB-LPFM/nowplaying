@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-05T02:37:44-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T02:38:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Danny Boy",
-    "artist": "Adam Nussbaum, Jim McNeely & Lennart Ginman",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-08-05T07:32:34Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
