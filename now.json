@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-05T04:12:19-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T04:12:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Free Jazz (excerpt)",
+    "artist": "Ornette Coleman",
+    "album": "The Smithsonian Collection of Classic Jazz",
+    "artwork_url": "",
+    "started_at": "2026-08-05T09:12:33.2104742Z",
+    "duration_seconds": 597,
+    "year": "1973"
+  },
   "next_poll_seconds": 10
 }
