@@ -1,9 +1,18 @@
 {
-  "generated": "2026-08-04T19:59:32-05:00",
+  "generated": "2026-08-04T20:00:09-05:00",
   "source": "fallback",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Classic Tuesdays with Ted",
+    "hosts": [
+      "Ted Runnels"
+    ],
+    "automated": false,
+    "starts": "20:00",
+    "ends": "23:00",
+    "genre": "Funk"
+  },
   "track": null,
   "next_poll_seconds": 10
 }
