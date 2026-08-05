@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T22:05:51-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T22:09:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Original Sin",
-    "artist": "INXS",
-    "album": "The Swing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inxs_-_Original_Sin.jpg",
-    "started_at": "2026-08-05T03:05:35Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
