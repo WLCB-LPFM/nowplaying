@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-05T00:22:22-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T00:25:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Tennessee Waltz",
-    "artist": "Simone Kopmajer",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Simone_Kopmajer_-_Tennessee_Waltz.jpg",
-    "started_at": "2026-08-05T05:19:36Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
