@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T20:57:47-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T21:03:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Only a Memory",
-    "artist": "The Smithereens",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Smithereens_-_Only_A_Memory.jpg",
-    "started_at": "2026-08-05T01:57:35Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
