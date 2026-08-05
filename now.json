@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T22:31:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T22:35:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Home At Last",
-    "artist": "Steely Dan",
-    "album": "Aja",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_Home_At_Last.jpg",
-    "started_at": "2026-08-05T03:30:28Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
