@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-05T04:01:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T04:03:39-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "D Spot",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "",
+    "started_at": "2026-08-05T09:03:33.3717643Z",
+    "duration_seconds": 253,
+    "year": "1996"
+  },
   "next_poll_seconds": 10
 }
