@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T20:23:02-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T20:28:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Local Girls",
-    "artist": "Graham Parker",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Graham_Parker_-_Local_Girls.jpg",
-    "started_at": "2026-08-05T01:22:48Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
