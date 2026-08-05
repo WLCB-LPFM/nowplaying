@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-04T19:13:06-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T19:13:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Open Your Heart",
+    "artist": "Madonna",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-05T00:13:12.648132Z",
+    "duration_seconds": 221,
+    "year": "1986"
+  },
   "next_poll_seconds": 10
 }
