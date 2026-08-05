@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T21:23:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T21:28:52-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Cortez the Killer (Live)",
-    "artist": "Neil Young & Crazy Horse",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Neil_Young_&_Crazy_Horse_-_Cortez_The_Killer_(Live).jpg",
-    "started_at": "2026-08-05T02:23:04Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
