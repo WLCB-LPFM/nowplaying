@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-05T16:08:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T16:09:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mr. Vain",
+    "artist": "Culture Beat",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-05T21:08:57.3285719Z",
+    "duration_seconds": 258,
+    "year": "2014"
+  },
   "next_poll_seconds": 10
 }
