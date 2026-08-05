@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-05T05:36:00-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T05:36:12-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cobra",
-    "artist": "Acoustic Affaire",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Acoustic_Affaire_-_Cobra.jpg",
-    "started_at": "2026-08-05T10:30:24Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
