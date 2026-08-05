@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T11:40:34-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T11:42:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Brown Paper Bag (feat. Keith Urban)",
-    "artist": "Billy F Gibbons",
-    "album": "Brown Paper Bag (feat. Keith Urban) - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_F_Gibbons_-_Brown_Paper_Bag_(Feat._Keith_Urban).jpg",
-    "started_at": "2026-08-05T16:40:24Z",
-    "duration_seconds": 144
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
