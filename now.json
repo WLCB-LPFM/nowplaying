@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T22:09:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-04T22:12:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "World In My Eyes",
+    "artist": "Depeche Mode",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Depeche_Mode_-_World_In_My_Eyes.jpg",
+    "started_at": "2026-08-05T03:12:04Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
