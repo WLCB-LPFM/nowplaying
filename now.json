@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T20:51:27-05:00",
-  "source": "autopost",
+  "generated": "2026-08-04T20:55:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Lips Like Sugar",
-    "artist": "Echo & The Bunnymen",
-    "album": "Echo & the Bunnymen (Bonus Tracks Edition) [2004 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Echo_&_The_Bunnymen_-_Lips_Like_Sugar.jpg",
-    "started_at": "2026-08-05T01:51:20Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
