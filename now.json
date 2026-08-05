@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-04T19:50:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-04T19:54:30-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Power Of Love",
-    "artist": "Huey Lewis And The News",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-05T00:50:49.6306271Z",
-    "duration_seconds": 226,
-    "year": "1985"
+    "title": "The Power of Love (From 'Back to the Future')",
+    "artist": "Huey Lewis & The News",
+    "album": "Back to the Future (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Huey_Lewis_&_The_News.jpg",
+    "started_at": "2026-08-05T00:51:47Z",
+    "duration_seconds": 227
   },
   "next_poll_seconds": 10
 }
