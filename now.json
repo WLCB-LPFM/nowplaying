@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-05T02:03:55-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-05T02:05:47-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Embraceable You (Take #1)",
-    "artist": "Charlie Parker Quintet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-08-05T07:03:48.8246094Z",
-    "duration_seconds": 126,
-    "year": "1987"
+    "title": "Embraceable You",
+    "artist": "Miles Davis",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Embraceable_You.jpg",
+    "started_at": "2026-08-05T07:04:10Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
