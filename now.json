@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-05T01:28:40-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-05T01:31:06-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ko-Ko",
-    "artist": "Duke Ellington And His Famous Orchestra",
-    "album": "Ko-Ko / Conga Brava",
-    "artwork_url": "",
-    "started_at": "2026-08-05T06:28:36.6353072Z",
-    "duration_seconds": 155,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
