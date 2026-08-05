@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T08:30:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T08:34:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I'm Too Sexy",
+    "artist": "Right Said Fred",
+    "album": "Up",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Right_Said_Fred_-_I'm_Too_Sexy.jpg",
+    "started_at": "2026-08-05T13:34:47Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
