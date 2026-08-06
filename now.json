@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T19:31:03-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T19:33:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Constant Craving",
-    "artist": "k.d. lang",
-    "album": "Ing\u00e9nue (25th Anniversary Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/K.d._Lang_-_Constant_Craving.jpg",
-    "started_at": "2026-08-06T00:30:11Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
