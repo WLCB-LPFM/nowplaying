@@ -1,16 +1,17 @@
 {
-  "generated": "2026-08-06T00:07:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T00:07:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Boplicity",
-    "artist": "Miles Davis",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Boplicity.jpg",
-    "started_at": "2026-08-06T05:06:36Z",
-    "duration_seconds": 182
+    "title": "Parker's Mood",
+    "artist": "Charlie Parker All Stars",
+    "album": "Les Triomphes du jazz",
+    "artwork_url": "",
+    "started_at": "2026-08-06T05:07:34.009783Z",
+    "duration_seconds": 171,
+    "year": "2000"
   },
   "next_poll_seconds": 10
 }
