@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T08:37:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T08:40:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Sledgehammer",
+    "artist": "Peter Gabriel",
+    "album": "So (Special Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Gabriel_-_Sledgehammer.jpg",
+    "started_at": "2026-08-06T13:39:56Z",
+    "duration_seconds": 276
+  },
   "next_poll_seconds": 10
 }
