@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-06T00:31:00-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T00:33:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Caribbean Sunset",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "",
+    "started_at": "2026-08-06T05:33:08.6434688Z",
+    "duration_seconds": 273,
+    "year": "1996"
+  },
   "next_poll_seconds": 10
 }
