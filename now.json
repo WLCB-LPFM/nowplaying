@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T21:58:35-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T21:59:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Jesus Just Left Chicago",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
+    "started_at": "2026-08-06T02:59:33Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
