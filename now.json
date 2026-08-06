@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T21:20:44-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T21:25:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Digging In the Dirt",
-    "artist": "Peter Gabriel",
-    "album": "Us (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Gabriel_-_Digging_In_The_Dirt.jpg",
-    "started_at": "2026-08-06T02:20:32Z",
-    "duration_seconds": 314
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
