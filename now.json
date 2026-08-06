@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-06T12:58:52-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T13:00:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Walk This Way",
+    "artist": "Run D.M.C. (Feat. Aerosmith)",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-06T18:00:41.5587826Z",
+    "duration_seconds": 211,
+    "year": "2025"
+  },
   "next_poll_seconds": 10
 }
