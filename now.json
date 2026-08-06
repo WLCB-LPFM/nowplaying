@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T20:16:59-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T20:22:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Rockafeller Skank",
-    "artist": "Fatboy Slim",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fatboy_Slim_-_The_Rockafeller_Skank.jpg",
-    "started_at": "2026-08-06T01:16:49Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
