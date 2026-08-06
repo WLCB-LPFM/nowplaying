@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T17:10:55-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T17:11:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Lovesong",
+    "artist": "The Cure",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cure_-_Lovesong.jpg",
+    "started_at": "2026-08-06T22:11:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
