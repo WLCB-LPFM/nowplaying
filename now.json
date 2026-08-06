@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T17:21:10-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T17:25:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Got Me Under Pressure",
+    "artist": "ZZ Top",
+    "album": "Eliminator",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Got_Me_Under_Pressure.jpg",
+    "started_at": "2026-08-06T22:25:04Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
