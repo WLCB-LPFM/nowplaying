@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-06T12:50:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T12:50:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Get Outta My Dreams, Get Into My Car",
+    "artist": "Billy Ocean",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-06T17:50:20.2061699Z",
+    "duration_seconds": 266,
+    "year": "1988"
+  },
   "next_poll_seconds": 10
 }
