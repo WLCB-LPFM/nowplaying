@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T08:44:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T08:47:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Games Without Frontiers",
+    "artist": "Peter Gabriel",
+    "album": "Peter Gabriel 3: Melt (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Gabriel_-_Games_Without_Frontiers.jpg",
+    "started_at": "2026-08-06T13:46:30Z",
+    "duration_seconds": 246
+  },
   "next_poll_seconds": 10
 }
