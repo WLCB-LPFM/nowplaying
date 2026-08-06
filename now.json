@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-06T18:00:06-05:00",
+  "generated": "2026-08-06T18:00:30-05:00",
   "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "18:00",
-    "ends": "19:00",
-    "genre": null
-  },
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
     "title": "So Into You",
     "artist": "Ray Parker Jr. & Raydio",
