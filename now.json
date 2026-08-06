@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T19:39:47-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T19:45:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Land of Plenty",
-    "artist": "OMC",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Omc_-_Land_Of_Plenty.jpg",
-    "started_at": "2026-08-06T00:39:32Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
