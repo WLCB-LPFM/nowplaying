@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-06T05:13:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-06T05:16:23-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "I Found A New Baby",
-    "artist": "Benny Goodman Sextet Featuring Charlie Christian And Count Basie",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
-    "artwork_url": "",
-    "started_at": "2026-08-06T10:13:49.7958884Z",
-    "duration_seconds": 167,
-    "year": "1997"
+    "title": "I've Found a New Baby",
+    "artist": "Benny Goodman",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benny_Goodman_-_I've_Found_A_New_Baby.jpg",
+    "started_at": "2026-08-06T10:15:55Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
