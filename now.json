@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T15:34:10-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T15:36:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Le Freak",
+    "artist": "Chic",
+    "album": "C'est Chic (2018 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chic_-_Le_Freak.jpg",
+    "started_at": "2026-08-06T20:35:56Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
