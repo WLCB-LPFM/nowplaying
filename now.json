@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T19:17:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T19:18:36-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Run Rabbit",
+    "artist": "Mollie Elizabeth",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mollie_Elizabeth_-_Run_Rabbit.jpg",
+    "started_at": "2026-08-06T00:18:20Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
