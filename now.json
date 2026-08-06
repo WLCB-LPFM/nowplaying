@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T17:46:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T17:46:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Good Lovin'",
+    "artist": "The Young Rascals",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Young_Rascals_-_Good_Lovin'.jpg",
+    "started_at": "2026-08-06T22:46:44Z",
+    "duration_seconds": 151
+  },
   "next_poll_seconds": 10
 }
