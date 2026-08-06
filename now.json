@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-06T10:39:48-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-06T10:40:02-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Talking in Your Sleep",
-    "artist": "The Romantics",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-06T15:36:18.6034103Z",
-    "duration_seconds": 226,
-    "year": "1983"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
