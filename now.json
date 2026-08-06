@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T17:49:52-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T17:52:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "How Long",
-    "artist": "Ace",
-    "album": "Five-A-Side",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ace_-_How_Long.jpg",
-    "started_at": "2026-08-06T22:49:48Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
