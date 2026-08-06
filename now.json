@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T20:12:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-05T20:13:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Cowboy Take Me Away",
+    "artist": "The Chicks",
+    "album": "Fly",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Chicks_-_Cowboy_Take_Me_Away.jpg",
+    "started_at": "2026-08-06T01:13:45Z",
+    "duration_seconds": 291
+  },
   "next_poll_seconds": 10
 }
