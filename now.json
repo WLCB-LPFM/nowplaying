@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-06T11:21:35-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T11:21:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Shake It Up",
+    "artist": "The Cars",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-06T16:21:42.4685998Z",
+    "duration_seconds": 198,
+    "year": "1981"
+  },
   "next_poll_seconds": 10
 }
