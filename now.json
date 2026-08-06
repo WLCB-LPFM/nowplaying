@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-06T06:00:43-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T06:01:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "What It Means to Me",
-    "artist": "Lars Jansson, Mads Vinding, Morten Lund & Sinne Eeg",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-08-06T10:59:52Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
