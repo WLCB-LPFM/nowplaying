@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T07:40:49-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T07:41:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bad Medicine",
+    "artist": "Bon Jovi",
+    "album": "New Jersey",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_Bad_Medicine.jpg",
+    "started_at": "2026-08-06T12:40:56Z",
+    "duration_seconds": 292
+  },
   "next_poll_seconds": 10
 }
