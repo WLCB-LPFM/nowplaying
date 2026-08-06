@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T20:58:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T21:03:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Fargo, North Dakota",
-    "artist": "Carter Burwell",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Carter_Burwell_-_Fargo,_North_Dakota.jpg",
-    "started_at": "2026-08-06T01:58:10Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
