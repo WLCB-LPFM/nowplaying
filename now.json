@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-06T09:45:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T09:46:05-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Burning Down the House",
+    "artist": "Talking Heads",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-06T14:45:58.5187743Z",
+    "duration_seconds": 231,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
