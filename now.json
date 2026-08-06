@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T19:25:02-05:00",
-  "source": "autopost",
+  "generated": "2026-08-05T19:28:46-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Only Happy When It Rains",
-    "artist": "Garbage",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Garbage_-_Only_Happy_When_It_Rains.jpg",
-    "started_at": "2026-08-06T00:24:55Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
