@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T17:08:21-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T17:10:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Handle With Care (2016 Remaster)",
-    "artist": "The Traveling Wilburys",
-    "album": "The Traveling Wilburys Collection (Deluxe Edition) [2016 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Traveling_Wilburys.jpg",
-    "started_at": "2026-08-06T22:08:12Z",
-    "duration_seconds": 171
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
