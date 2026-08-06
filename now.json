@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T16:45:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T16:45:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Don't Let Nothing Hold You Back",
-    "artist": "MLPM",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mlpm_-_Don't_Let_Nothing_Hold_You_Back.jpg",
-    "started_at": "2026-08-06T21:44:35Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
