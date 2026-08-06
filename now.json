@@ -1,25 +1,23 @@
 {
-  "generated": "2026-08-06T17:56:56-05:00",
+  "generated": "2026-08-06T18:00:06-05:00",
   "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Brick's Rockheads",
-    "hosts": [
-      "Brick Brecker"
-    ],
-    "automated": false,
-    "starts": "17:00",
-    "ends": "18:00",
-    "genre": "Rock and Roll"
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "18:00",
+    "ends": "19:00",
+    "genre": null
   },
   "track": {
-    "title": "Runaway",
-    "artist": "Jefferson Starship",
-    "album": "Runaway",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jefferson_Starship_-_Runaway.jpg",
-    "started_at": "2026-08-06T22:56:47Z",
-    "duration_seconds": 322
+    "title": "So Into You",
+    "artist": "Ray Parker Jr. & Raydio",
+    "album": "A Woman Needs Love (Bonus Track Version)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Parker_Jr._&_Raydio_-_So_Into_You.jpg",
+    "started_at": "2026-08-06T22:59:49Z",
+    "duration_seconds": 206
   },
   "next_poll_seconds": 10
 }
