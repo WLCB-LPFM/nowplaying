@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T08:16:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T08:18:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Something About You",
+    "artist": "Level 42",
+    "album": "World Machine",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Level_42_-_Something_About_You.jpg",
+    "started_at": "2026-08-07T13:17:53Z",
+    "duration_seconds": 196
+  },
   "next_poll_seconds": 10
 }
