@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T18:06:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T18:09:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "River deep mountain high",
+    "artist": "The Supremes & The Four Tops",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Supremes_&_The_Four_Tops.jpg",
+    "started_at": "2026-08-07T23:08:43Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
