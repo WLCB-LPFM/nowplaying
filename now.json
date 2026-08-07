@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:30:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T15:33:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "El Paso City",
+    "artist": "Marty Robbins",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marty_Robbins_-_El_Paso_City.jpg",
+    "started_at": "2026-08-07T20:33:11Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
