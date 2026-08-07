@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T09:19:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T09:20:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Handle With Care (feat. Jeff Lynne & Dhani Harrison) [Live]",
-    "artist": "Tom Petty & The Heartbreakers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tom_Petty_&_The_Heartbreakers.jpg",
-    "started_at": "2026-08-07T14:18:50Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
