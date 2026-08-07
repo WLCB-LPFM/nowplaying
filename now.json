@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T12:52:35-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T12:58:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I Can't Get Next To You",
-    "artist": "Savoy Brown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Savoy_Brown_-_I_Can't_Get_Next_To_You.jpg",
-    "started_at": "2026-08-07T17:52:33Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
