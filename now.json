@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-07T06:27:27-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T06:28:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Urgent",
-    "artist": "Foreigner",
-    "album": "4 (Expanded Version) [2002 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foreigner_-_Urgent.jpg",
-    "started_at": "2026-08-07T11:23:54Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
