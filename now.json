@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T17:35:58-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T17:38:16-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Venus",
-    "artist": "Shocking Blue",
-    "album": "At Home",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shocking_Blue_-_Venus.jpg",
-    "started_at": "2026-08-07T22:35:48Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
