@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:00:09-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T07:05:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Der Kommissar (Live at Salford University)",
+    "artist": "After the Fire",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/After_The_Fire.jpg",
+    "started_at": "2026-08-07T12:05:33Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
