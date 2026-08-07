@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T14:52:37-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T14:53:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "SNAKEDRIVE (MF) [Radio Edit]",
+    "artist": "Frank Bang & The Secret Stash",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/f/Frank_Bang_&_The_Secret_Stash.jpg",
+    "started_at": "2026-08-07T19:53:21Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
