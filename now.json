@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T20:46:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T20:49:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Year to Be Young 1994",
+    "artist": "Stephen Wilson Jr.",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stephen_Wilson_Jr._-_Year_To_Be_Young_1994.jpg",
+    "started_at": "2026-08-07T01:49:44Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
