@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:48:27-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T07:57:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "808 (Extended Remix)",
+    "artist": "Blaque",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blaque_-_808_(Extended_Remix).jpg",
+    "started_at": "2026-08-07T12:57:30Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
