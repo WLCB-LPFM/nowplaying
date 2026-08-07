@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T12:00:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T12:05:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Further On Up the Road (Live)",
+    "artist": "Eric Clapton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Further_On_Up_The_Road_(Live).jpg",
+    "started_at": "2026-08-07T17:05:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
