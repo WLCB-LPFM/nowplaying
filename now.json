@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T18:27:50-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T18:28:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "I Want to Spend the Night",
-    "artist": "Bill Withers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Withers_-_I_Want_To_Spend_The_Night.jpg",
-    "started_at": "2026-08-07T23:26:43Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
