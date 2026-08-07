@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T18:39:27-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T18:40:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Walk On By",
+    "artist": "Average White Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Average_White_Band_-_Walk_On_By.jpg",
+    "started_at": "2026-08-07T23:40:36Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
