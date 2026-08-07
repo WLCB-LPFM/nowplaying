@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:08:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T15:13:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Love Letter",
-    "artist": "Bonnie Raitt",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonnie_Raitt_-_Love_Letter.jpg",
-    "started_at": "2026-08-07T20:07:59Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
