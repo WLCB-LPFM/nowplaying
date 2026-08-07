@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:17:49-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T15:18:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "House of the Rising Sun",
+    "artist": "Leslie West",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Leslie_West_-_House_Of_The_Rising_Sun.jpg",
+    "started_at": "2026-08-07T20:18:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
