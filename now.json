@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T21:32:13-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T21:34:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Waiting On the World to Change",
-    "artist": "John Mayer",
-    "album": "Continuum",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Mayer_-_Waiting_On_The_World_To_Change.jpg",
-    "started_at": "2026-08-07T02:32:08Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
