@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-07T03:49:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T03:49:35-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Dead Man Blues",
+    "artist": "Jelly Roll Morton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jelly_Roll_Morton_-_Dead_Man_Blues.jpg",
+    "started_at": "2026-08-07T08:49:26Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
