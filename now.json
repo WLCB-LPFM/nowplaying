@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-07T04:32:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-07T04:34:58-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Doggin' Around",
-    "artist": "Count Basie And His Orchestra",
-    "album": "Various Artists",
-    "artwork_url": "",
-    "started_at": "2026-08-07T09:32:15.3461927Z",
-    "duration_seconds": 176,
-    "year": "1938"
+    "artist": "Count Basie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_Doggin'_Around.jpg",
+    "started_at": "2026-08-07T09:33:16Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
