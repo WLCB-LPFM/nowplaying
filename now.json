@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T18:19:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T18:21:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "(I Know) I'm Losing You",
-    "artist": "The Temptations",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_(I_Know)_I'm_Losing_You.jpg",
-    "started_at": "2026-08-07T23:19:02Z",
-    "duration_seconds": 147
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
