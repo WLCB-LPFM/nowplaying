@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T20:27:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T20:28:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Ghost In You",
+    "artist": "The Psychedelic Furs",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Psychedelic_Furs_-_The_Ghost_In_You.jpg",
+    "started_at": "2026-08-07T01:27:58Z",
+    "duration_seconds": 257
+  },
   "next_poll_seconds": 10
 }
