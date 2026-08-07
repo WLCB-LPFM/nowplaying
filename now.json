@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-07T05:20:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-07T05:24:19-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "East St. Louis Toodle-Oo",
-    "artist": "Duke Ellington and His Orchestra",
-    "album": "The Chronological Classics: Duke Ellington and His Orchestra 1927-1928",
-    "artwork_url": "",
-    "started_at": "2026-08-07T10:20:50.7382928Z",
-    "duration_seconds": 214,
-    "year": "1990"
+    "artist": "Duke Ellington",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_East_St._Louis_Toodle-oo.jpg",
+    "started_at": "2026-08-07T10:23:38Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
