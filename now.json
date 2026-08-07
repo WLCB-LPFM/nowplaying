@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T13:38:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T13:39:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Crazy Love",
+    "artist": "GA-20 & Charlie Musselwhite",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Ga-20_&_Charlie_Musselwhite.jpg",
+    "started_at": "2026-08-07T18:39:03Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
