@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T18:51:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T18:56:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "7 Minutes (feat. Jackie Evans)",
-    "artist": "Kyana Fanene",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kyana_Fanene.jpg",
-    "started_at": "2026-08-07T23:50:43Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
