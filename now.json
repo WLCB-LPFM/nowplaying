@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T20:10:58-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T20:16:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wondering",
-    "artist": "Manny Walters",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Manny_Walters.jpg",
-    "started_at": "2026-08-07T01:10:41Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
