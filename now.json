@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T21:41:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T21:45:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wagon Wheel",
-    "artist": "Darius Rucker",
-    "album": "True Believers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Darius_Rucker_-_Wagon_Wheel.jpg",
-    "started_at": "2026-08-07T02:41:00Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
