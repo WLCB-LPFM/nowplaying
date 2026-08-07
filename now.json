@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T12:58:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T13:00:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Same Rain Falls (2010 Remaster)",
+    "artist": "Robin Trower",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Robin_Trower.jpg",
+    "started_at": "2026-08-07T17:59:49Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
