@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:46:56-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T15:49:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "If You Leave Me Now",
+    "artist": "Chicago",
+    "album": "The Very Best of Chicago: Only the Beginning",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_If_You_Leave_Me_Now.jpg",
+    "started_at": "2026-08-07T20:49:10Z",
+    "duration_seconds": 205
+  },
   "next_poll_seconds": 10
 }
