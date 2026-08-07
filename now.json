@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T16:42:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T16:43:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Shotgun Blues",
+    "artist": "Kenny Wayne Shepherd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Wayne_Shepherd_-_Shotgun_Blues.jpg",
+    "started_at": "2026-08-07T21:43:53Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
