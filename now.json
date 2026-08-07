@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T16:20:25-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T16:23:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Lay Down Sally",
-    "artist": "Eric Clapton",
-    "album": "Slowhand (35th Anniversary Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Lay_Down_Sally.jpg",
-    "started_at": "2026-08-07T21:19:34Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
