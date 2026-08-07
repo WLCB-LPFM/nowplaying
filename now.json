@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T14:46:55-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T14:52:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "It's My Own Fault",
-    "artist": "Eric Steckel",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Steckel_-_It's_My_Own_Fault.jpg",
-    "started_at": "2026-08-07T19:46:47Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
