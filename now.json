@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:45:38-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T07:47:20-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Physical (Live)",
+    "artist": "Olivia Newton-John",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Olivia_Newton-john_-_Physical_(Live).jpg",
+    "started_at": "2026-08-07T12:47:09Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
