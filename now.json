@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:25:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T15:30:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "If I Could See an End",
-    "artist": "Savoy Brown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Savoy_Brown_-_If_I_Could_See_An_End.jpg",
-    "started_at": "2026-08-07T20:24:57Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
