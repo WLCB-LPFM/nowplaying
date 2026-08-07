@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:02:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T15:03:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Gnawin' On It",
+    "artist": "Bonnie Raitt",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonnie_Raitt_-_Gnawin'_On_It.jpg",
+    "started_at": "2026-08-07T20:03:40Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
