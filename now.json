@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:39:26-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T15:42:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Go Your Own Way",
-    "artist": "Fleetwood Mac",
-    "album": "Rumours",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fleetwood_Mac_-_Go_Your_Own_Way.jpg",
-    "started_at": "2026-08-07T20:39:14Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
