@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T14:32:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T14:39:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Drifting (feat. Marcus King)",
+    "artist": "Alain Apaloo",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Alain_Apaloo.jpg",
+    "started_at": "2026-08-07T19:39:34Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
