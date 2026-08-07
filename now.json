@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T20:41:02-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T20:46:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "South Dakota",
-    "artist": "Chris Stapleton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Stapleton_-_South_Dakota.jpg",
-    "started_at": "2026-08-07T01:40:57Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
