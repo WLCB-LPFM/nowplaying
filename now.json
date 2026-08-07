@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T09:03:53-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T09:07:24-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Bad Company",
+    "artist": "Bad Company",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bad_Company_-_Bad_Company.jpg",
+    "started_at": "2026-08-07T14:07:17Z",
+    "duration_seconds": 285
+  },
   "next_poll_seconds": 10
 }
