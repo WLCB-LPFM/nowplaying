@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:17:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T07:19:06-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "All She Wants To Do Is Dance",
+    "artist": "Don Henley",
+    "album": "Building The Perfect Beast (Remastered 2024)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Don_Henley_-_All_She_Wants_To_Do_Is_Dance.jpg",
+    "started_at": "2026-08-07T12:18:56Z",
+    "duration_seconds": 241
+  },
   "next_poll_seconds": 10
 }
