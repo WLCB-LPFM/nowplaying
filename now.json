@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T14:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T14:01:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Shame, Shame, Shame",
-    "artist": "Kenny Wayne Shepherd",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Wayne_Shepherd_-_Shame,_Shame,_Shame.jpg",
-    "started_at": "2026-08-07T18:59:55Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
