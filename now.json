@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T13:30:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T13:32:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Statesboro Blues",
+    "artist": "Taj Mahal",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Taj_Mahal_-_Statesboro_Blues.jpg",
+    "started_at": "2026-08-07T18:32:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
