@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T19:00:30-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T19:00:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Intro",
+    "artist": "Profetnyc",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Profetnyc.jpg",
+    "started_at": "2026-08-07T00:00:34Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
