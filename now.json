@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T12:15:49-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T12:16:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "How Blue Can You Get?",
+    "artist": "B.B. King",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/B.b._King_-_How_Blue_Can_You_Get?.jpg",
+    "started_at": "2026-08-07T17:16:17Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
