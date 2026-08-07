@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-07T04:05:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-07T04:08:31-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Parker's Mood",
-    "artist": "Charlie Parker All Stars",
-    "album": "Les Triomphes du jazz",
-    "artwork_url": "",
-    "started_at": "2026-08-07T09:05:49.9541818Z",
-    "duration_seconds": 171,
-    "year": "2000"
+    "artist": "Charlie Parker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Parker's_Mood.jpg",
+    "started_at": "2026-08-07T09:07:09Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
