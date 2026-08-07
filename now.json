@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:33:34-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T07:35:52-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Want a New Drug",
+    "artist": "Huey Lewis & The News",
+    "album": "Sports (2013 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Huey_Lewis_&_The_News_-_I_Want_A_New_Drug.jpg",
+    "started_at": "2026-08-07T12:35:42Z",
+    "duration_seconds": 186
+  },
   "next_poll_seconds": 10
 }
