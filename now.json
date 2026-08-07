@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T17:07:58-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T17:11:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "A Whiter Shade of Pale (Original Single Version)",
-    "artist": "Procol Harum",
-    "album": "A Whiter Shade of Pale (Original Single Version) [2007 Remaster] - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Procol_Harum_-_A_Whiter_Shade_Of_Pale_(Original_Single_Version).jpg",
-    "started_at": "2026-08-07T22:07:45Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
