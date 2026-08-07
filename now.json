@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T16:37:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T16:42:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Mountain Climbing",
-    "artist": "Joe Bonamassa",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_Mountain_Climbing.jpg",
-    "started_at": "2026-08-07T21:37:14Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
