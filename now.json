@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T08:38:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T08:49:20-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jump",
+    "artist": "Kris Kross",
+    "album": "Totally Krossed Out",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kris_Kross_-_Jump.jpg",
+    "started_at": "2026-08-07T13:48:48Z",
+    "duration_seconds": 167
+  },
   "next_poll_seconds": 10
 }
