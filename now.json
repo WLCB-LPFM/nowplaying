@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T21:47:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T21:50:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Just the Way You Are",
-    "artist": "Billy Joel",
-    "album": "The Essential Billy Joel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_Just_The_Way_You_Are.jpg",
-    "started_at": "2026-08-07T02:47:27Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
