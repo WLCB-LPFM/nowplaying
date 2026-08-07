@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T18:28:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T18:33:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Good Woman Turning Bad",
+    "artist": "Hot Sauce",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hot_Sauce_-_Good_Woman_Turning_Bad.jpg",
+    "started_at": "2026-08-07T23:33:46Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
