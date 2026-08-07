@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T16:50:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T16:50:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Endless Parade",
+    "artist": "Gov't Mule",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gov't_Mule_-_Endless_Parade.jpg",
+    "started_at": "2026-08-07T21:50:16Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
