@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T09:58:03-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T10:03:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Ain't No Sunshine (feat. Tracy Chapman)",
+    "artist": "Buddy Guy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buddy_Guy.jpg",
+    "started_at": "2026-08-07T15:03:39Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
