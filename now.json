@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T08:21:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T08:21:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rock Me Amadeus",
+    "artist": "Talk To Me",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Talk_To_Me.jpg",
+    "started_at": "2026-08-07T13:20:58Z",
+    "duration_seconds": 203
+  },
   "next_poll_seconds": 10
 }
