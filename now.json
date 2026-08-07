@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T14:25:29-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T14:26:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Try for Freedom",
+    "artist": "Frank Marino & Mahogany Rush",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Marino_&_Mahogany_Rush_-_Try_For_Freedom.jpg",
+    "started_at": "2026-08-07T19:26:27Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
