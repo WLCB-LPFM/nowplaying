@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T20:21:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-06T20:27:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "We 3",
-    "artist": "Soul Asylum",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Soul_Asylum_-_We_3.jpg",
-    "started_at": "2026-08-07T01:21:15Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
