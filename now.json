@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:42:24-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T15:42:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "The Boys Are Back In Town",
+    "artist": "Thin Lizzy",
+    "album": "Jailbreak (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thin_Lizzy_-_The_Boys_Are_Back_In_Town.jpg",
+    "started_at": "2026-08-07T20:42:35Z",
+    "duration_seconds": 269
+  },
   "next_poll_seconds": 10
 }
