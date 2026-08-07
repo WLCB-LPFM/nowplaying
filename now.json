@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:29:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T07:33:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Here Comes the Rain Again",
-    "artist": "Eurythmics",
-    "album": "Touch (Bonus Tracks) [2005 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eurythmics_-_Here_Comes_The_Rain_Again.jpg",
-    "started_at": "2026-08-07T12:29:05Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
