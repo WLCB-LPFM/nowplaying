@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T12:26:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T12:27:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Torn Down",
+    "artist": "Jeff Healey",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeff_Healey_-_I'm_Torn_Down.jpg",
+    "started_at": "2026-08-07T17:27:03Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
