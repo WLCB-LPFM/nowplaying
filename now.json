@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:13:52-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T15:14:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "After Midnight (Eric Clapton Mix)",
+    "artist": "Eric Clapton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_After_Midnight_(Eric_Clapton_Mix).jpg",
+    "started_at": "2026-08-07T20:14:38Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
