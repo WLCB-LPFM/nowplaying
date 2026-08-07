@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T19:06:25-05:00",
-  "source": "fallback",
+  "generated": "2026-08-06T19:57:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "White Horse",
+    "artist": "Chris Stapleton",
+    "album": "Higher",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Stapleton_-_White_Horse.jpg",
+    "started_at": "2026-08-07T00:57:27Z",
+    "duration_seconds": 224
+  },
   "next_poll_seconds": 10
 }
