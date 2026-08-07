@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:41:42-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T07:45:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Parents Just Don't Understand",
-    "artist": "DJ Jazzy Jeff & The Fresh Prince",
-    "album": "He's the DJ, I'm the Rapper",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Jazzy_Jeff_&_The_Fresh_Prince_-_Parents_Just_Don't_Understand.jpg",
-    "started_at": "2026-08-07T12:41:07Z",
-    "duration_seconds": 282
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
