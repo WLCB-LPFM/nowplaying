@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T15:54:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T15:55:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Take It to the Limit",
+    "artist": "Eagles",
+    "album": "Their Greatest Hits 1971-1975",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_Take_It_To_The_Limit.jpg",
+    "started_at": "2026-08-07T20:55:42Z",
+    "duration_seconds": 258
+  },
   "next_poll_seconds": 10
 }
