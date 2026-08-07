@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-07T01:37:22-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T01:37:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "St. Louis Blues",
-    "artist": "Bessie Smith",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bessie_Smith_-_St._Louis_Blues.jpg",
-    "started_at": "2026-08-07T06:36:15Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
