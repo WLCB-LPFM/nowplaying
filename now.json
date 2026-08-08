@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-08T15:35:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-08T15:35:56-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "All Night Long (All Night)",
-    "artist": "Lionel Richie",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-08T20:29:46.4612489Z",
-    "duration_seconds": 373,
-    "year": "1983"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
