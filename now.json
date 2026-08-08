@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T19:28:14-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T19:34:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "My Girl",
-    "artist": "Aerosmith",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_My_Girl.jpg",
-    "started_at": "2026-08-08T00:28:07Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
