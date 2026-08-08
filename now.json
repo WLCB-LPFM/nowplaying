@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T22:43:16-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T22:44:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rollin' Stoned",
+    "artist": "Great White",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Great_White_-_Rollin'_Stoned.jpg",
+    "started_at": "2026-08-08T03:44:17Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
