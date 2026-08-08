@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T21:19:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T21:24:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Two Bit Texas Town",
-    "artist": "Angela Strehli",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d1c30709dc3c44cd88864a3addde1701.png",
-    "started_at": "2026-08-08T02:18:44Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
