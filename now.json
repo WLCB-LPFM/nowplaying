@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T20:21:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T20:26:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Beautiful Wreck",
-    "artist": "Shawn Mullins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shawn_Mullins_-_Beautiful_Wreck.jpg",
-    "started_at": "2026-08-08T01:21:03Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
