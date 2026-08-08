@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T11:55:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T11:55:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "We Can't Be Friends",
-    "artist": "Deborah Cox",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deborah_Cox_-_We_Can't_Be_Friends.jpg",
-    "started_at": "2026-08-08T16:54:33Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
