@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-08T15:55:52-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T15:56:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Push It",
+    "artist": "Salt-N-Pepa",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-08T20:56:06.9326137Z",
+    "duration_seconds": 203,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
