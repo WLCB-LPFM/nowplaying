@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T21:48:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T21:50:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Coming In Hot",
+    "artist": "Coco Montoya",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Coco_Montoya_-_Coming_In_Hot.jpg",
+    "started_at": "2026-08-08T02:50:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
