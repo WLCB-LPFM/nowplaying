@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T19:48:08-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T19:53:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Darlin' Dear",
-    "artist": "Chicago",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chicago_-_Darlin'_Dear.jpg",
-    "started_at": "2026-08-08T00:47:59Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
