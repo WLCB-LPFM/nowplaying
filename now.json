@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-08T13:15:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-08T13:19:04-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Don't Stop 'Til You Get Enough",
-    "artist": "Michael Jackson",
-    "album": "Number Ones",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Don't_Stop_'til_You_Get_Enough.jpg",
-    "started_at": "2026-08-08T18:13:21.5811305Z",
-    "duration_seconds": 347,
-    "year": "2021"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
