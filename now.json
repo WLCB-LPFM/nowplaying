@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-08T00:15:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T00:16:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Danny Boy",
+    "artist": "Bob Rockwell Quartet",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bob_Rockwell_Quartet.jpg",
+    "started_at": "2026-08-08T05:16:28Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
