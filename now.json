@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T11:00:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T11:07:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Girl, You Are The One",
+    "artist": "Alfonzo",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alfonzo_-_Girl,_You_Are_The_One.jpg",
+    "started_at": "2026-08-08T16:07:09Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
