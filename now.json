@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T17:03:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T17:05:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Heaven Can Wait",
+    "artist": "Michael Jackson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Heaven_Can_Wait.jpg",
+    "started_at": "2026-08-08T22:05:35Z",
+    "duration_seconds": 290
+  },
   "next_poll_seconds": 10
 }
