@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-08T00:46:26-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T00:47:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Koko",
-    "artist": "Charlie Parker",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Koko.jpg",
-    "started_at": "2026-08-08T05:46:11Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
