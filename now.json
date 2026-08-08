@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-08T00:51:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T00:59:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You're on My Hair (Instrumental)",
+    "artist": "Susan Tedeschi",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Susan_Tedeschi.jpg",
+    "started_at": "2026-08-08T05:59:34Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
