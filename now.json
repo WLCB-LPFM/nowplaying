@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-07T23:18:05-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T23:18:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "September Waltz",
+    "artist": "Mads Vinding, AlexRiel & Enrico Pieranunzi",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-08-08T04:18:28Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
