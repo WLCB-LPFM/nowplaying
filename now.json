@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-08T00:04:19-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T00:06:24-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blowing In The Wind",
+    "artist": "Cheryl Porter",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cheryl_Porter.jpg",
+    "started_at": "2026-08-08T05:06:07Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
