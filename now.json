@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T11:19:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T11:20:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "You Can't Stop the Rain",
+    "artist": "Loose Ends",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Loose_Ends_-_You_Can't_Stop_The_Rain.jpg",
+    "started_at": "2026-08-08T16:20:21Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
