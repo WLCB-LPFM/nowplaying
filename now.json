@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T09:33:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T09:35:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Sky High",
-    "artist": "Jigsaw",
-    "album": "Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jigsaw_-_Sky_High.jpg",
-    "started_at": "2026-08-08T14:32:58Z",
-    "duration_seconds": 145
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
