@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-07T23:49:07-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T23:49:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sweethearts On Parade",
+    "artist": "Louis Armstrong & His Sebastian New Cotton Club Orchestra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Louis_Armstrong_&_His_Sebastian_New_Cotton_Club_Orchestra.jpg",
+    "started_at": "2026-08-08T04:49:42Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
