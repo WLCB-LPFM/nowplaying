@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T21:43:21-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T21:48:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Spirit of a Workin' Man",
-    "artist": "The Georgia Thunderbolts",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Georgia_Thunderbolts_-_Spirit_Of_A_Workin'_Man.jpg",
-    "started_at": "2026-08-08T02:43:05Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
