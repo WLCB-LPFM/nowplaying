@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T17:16:09-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T17:17:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "There Goes My Baby",
-    "artist": "USHER",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Usher_-_There_Goes_My_Baby.jpg",
-    "started_at": "2026-08-08T22:16:04Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
