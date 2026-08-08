@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T11:49:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T11:52:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "I'm Stone In Love With You",
-    "artist": "The Stylistics",
-    "album": "Round 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Stylistics_-_I'm_Stone_In_Love_With_You.jpg",
-    "started_at": "2026-08-08T16:49:22Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
