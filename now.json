@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T20:32:19-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T20:34:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dance to the Rhythm",
+    "artist": "Ana Popovic",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ana_Popovic_-_Dance_To_The_Rhythm.jpg",
+    "started_at": "2026-08-08T01:34:31Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
