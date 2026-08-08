@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-07T23:03:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T23:04:45-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "File Under Purple",
+    "artist": "Henrik Gunde, Jeppe Gram, Kaspar Vadsholt & Peter Fuglsang",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-08-08T04:04:27Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
