@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T11:42:57-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T11:43:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Between the Sheets",
-    "artist": "Streetwize",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Streetwize.jpg",
-    "started_at": "2026-08-08T16:42:28Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
