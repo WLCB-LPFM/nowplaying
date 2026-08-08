@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T19:34:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T19:38:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Move Me on Down the Line",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Move_Me_On_Down_The_Line.jpg",
+    "started_at": "2026-08-08T00:38:07Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
