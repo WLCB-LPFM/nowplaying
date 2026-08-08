@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T19:18:14-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T19:20:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Veronica",
-    "artist": "Elvis Costello",
-    "album": "Spike",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elvis_Costello_-_Veronica.jpg",
-    "started_at": "2026-08-08T00:18:05Z",
-    "duration_seconds": 160
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
