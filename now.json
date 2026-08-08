@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T20:04:18-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T20:05:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "You Know I'm No Good",
-    "artist": "Amy Winehouse",
-    "album": "Back to Black",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Amy_Winehouse_-_You_Know_I'm_No_Good.jpg",
-    "started_at": "2026-08-08T01:03:27Z",
-    "duration_seconds": 141
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
