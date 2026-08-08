@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-08T07:00:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T07:02:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mama Said Knock You Out",
+    "artist": "LL Cool J",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-08T12:02:12.1997332Z",
+    "duration_seconds": 278,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
