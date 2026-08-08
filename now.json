@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T19:02:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T19:10:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Thing Called Love",
+    "artist": "Bonnie Raitt",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bonnie_Raitt_-_Thing_Called_Love.jpg",
+    "started_at": "2026-08-08T00:10:32Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
