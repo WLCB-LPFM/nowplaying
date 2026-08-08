@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T19:53:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T19:54:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Crunge",
+    "artist": "Led Zeppelin",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_The_Crunge.jpg",
+    "started_at": "2026-08-08T00:54:37Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
