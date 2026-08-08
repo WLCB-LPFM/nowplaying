@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T21:31:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T21:33:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Make A Good Man (Wanna Be Bad)",
+    "artist": "Anthony Gomes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anthony_Gomes_-_Make_A_Good_Man_(Wanna_Be_Bad).jpg",
+    "started_at": "2026-08-08T02:32:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
