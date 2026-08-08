@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T20:07:51-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T20:13:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Crazy For Leaving",
-    "artist": "Catfish Haven",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Catfish_Haven_-_Crazy_For_Leaving.jpg",
-    "started_at": "2026-08-08T01:07:40Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
