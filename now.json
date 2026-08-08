@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T18:50:18-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T18:54:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "I Want You",
-    "artist": "Marvin Gaye",
-    "album": "Gold: Marvin Gaye",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marvin_Gaye_-_I_Want_You.jpg",
-    "started_at": "2026-08-08T23:50:02Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
