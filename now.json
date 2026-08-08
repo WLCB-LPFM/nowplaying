@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T11:29:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T11:35:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "A Real Mother For Ya",
+    "artist": "Johnny 'Guitar' Watson",
+    "album": "The Best Of The Funk Years",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_'guitar'_Watson_-_A_Real_Mother_For_Ya.jpg",
+    "started_at": "2026-08-08T16:35:44Z",
+    "duration_seconds": 302
+  },
   "next_poll_seconds": 10
 }
