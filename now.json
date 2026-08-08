@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T08:00:20-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T08:00:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Do Me!",
-    "artist": "Bell Biv DeVoe",
-    "album": "20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bell_Biv_Devoe_-_Do_Me!.jpg",
-    "started_at": "2026-08-08T12:56:04Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
