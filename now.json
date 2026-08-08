@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T17:17:20-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T17:19:30-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "I Belong to You (Every Time I See Your Face)",
+    "artist": "Rome",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rome_-_I_Belong_To_You_(Every_Time_I_See_Your_Face).jpg",
+    "started_at": "2026-08-08T22:19:19Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
