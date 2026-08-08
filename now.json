@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-08T14:37:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T14:38:00-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ice Ice Baby",
-    "artist": "Vanilla Ice",
-    "album": "Ice Ice Baby",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Vanilla_Ice_-_Ice_Ice_Baby.jpg",
-    "started_at": "2026-08-08T19:33:48Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
