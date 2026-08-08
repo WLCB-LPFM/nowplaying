@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-08T14:59:45-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T15:00:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Poison",
-    "artist": "Bell Biv DeVoe",
-    "album": "Poison",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bell_Biv_Devoe_-_Poison.jpg",
-    "started_at": "2026-08-08T19:58:26Z",
-    "duration_seconds": 166
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
