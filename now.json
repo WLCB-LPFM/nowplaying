@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T22:03:05-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T22:04:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Cities On Flame With Rock and Roll",
+    "artist": "Blue \u00d6yster Cult",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blue_\u00d6yster_Cult_-_Cities_On_Flame_With_Rock_And_Roll.jpg",
+    "started_at": "2026-08-08T03:04:15Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
