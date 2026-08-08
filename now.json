@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T18:34:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T18:39:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Jesus Is Coming Back (Back Again)",
+    "artist": "Al Green",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Green_-_Jesus_Is_Coming_Back_(Back_Again).jpg",
+    "started_at": "2026-08-08T23:38:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
