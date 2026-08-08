@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T21:04:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-07T21:05:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wild Women Don't Have The Blues",
+    "artist": "Saffire - The Uppity Blues Women",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f044183d91ee35effe0f91f459e7a68d.png",
+    "started_at": "2026-08-08T02:04:49Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
