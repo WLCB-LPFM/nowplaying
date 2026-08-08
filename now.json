@@ -1,9 +1,20 @@
 {
-  "generated": "2026-08-08T07:59:55-05:00",
+  "generated": "2026-08-08T08:00:08-05:00",
   "source": "autopost",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Sports Weekly",
+    "hosts": [
+      "Lucas Vollmer",
+      "Matt Rosenberg",
+      "Pat Cameron"
+    ],
+    "automated": false,
+    "starts": "08:00",
+    "ends": "11:00",
+    "genre": "Sports"
+  },
   "track": {
     "title": "Do Me!",
     "artist": "Bell Biv DeVoe",
