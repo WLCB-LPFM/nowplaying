@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-08T06:55:00-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T07:00:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Same Song",
-    "artist": "Digital Underground",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Digital_Underground_-_Same_Song.jpg",
-    "started_at": "2026-08-08T11:54:20Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
