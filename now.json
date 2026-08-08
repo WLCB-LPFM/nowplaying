@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T19:58:04-05:00",
-  "source": "autopost",
+  "generated": "2026-08-07T20:03:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Super Trouper",
-    "artist": "Deep Purple",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_Super_Trouper.jpg",
-    "started_at": "2026-08-08T00:57:54Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
