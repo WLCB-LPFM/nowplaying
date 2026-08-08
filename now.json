@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T18:25:53-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T18:29:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "McNasty Valentine",
+    "artist": "Dr. DeUxz",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-08-08T23:28:47Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
