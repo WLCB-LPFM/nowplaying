@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T18:46:16-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T18:49:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Mexican Moon",
+    "artist": "Concrete Blonde",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Concrete_Blonde_-_Mexican_Moon.jpg",
+    "started_at": "2026-08-09T23:49:33Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
