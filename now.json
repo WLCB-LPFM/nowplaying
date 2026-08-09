@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T09:06:38-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T09:09:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Rum And Coca-Cola",
-    "artist": "The Andrews Sisters",
-    "album": "Their Greatest Hits and Finest Performances",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Andrews_Sisters.jpg",
-    "started_at": "2026-08-09T14:06:24Z",
-    "duration_seconds": 166
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
