@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T17:15:30-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T17:19:02-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Bump n' Grind",
-    "artist": "R. Kelly",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R._Kelly_-_Bump_N'_Grind.jpg",
-    "started_at": "2026-08-09T22:15:19Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
