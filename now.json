@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-09T08:28:50-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T08:31:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cuckoo Waltz",
-    "artist": "Henri Ren\u00e9 and His Musette Orchestra",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-08-09T13:25:17Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
