@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T14:10:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T14:10:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Nagasaki (1940)",
+    "artist": "Aagaard and his Swingsters; Dixon",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T19:10:52.6916689Z",
+    "duration_seconds": 195,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
