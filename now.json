@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-09T06:27:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T06:28:14-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "My Love For You",
-    "artist": "Richard Tauber",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Richard_Tauber.jpg",
-    "started_at": "2026-08-09T11:22:20Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
