@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-09T07:17:06-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T07:19:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "A String of Pearls",
-    "artist": "Clyde Lucas and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-09T12:17:03.9503023Z",
-    "duration_seconds": 159,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
