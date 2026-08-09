@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-08T23:00:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T23:02:23-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Autumn Leaves",
+    "artist": "Maynard Ferguson",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6d32e629b24e4c13a6b069b4e3345ad6.png",
+    "started_at": "2026-08-09T04:02:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
