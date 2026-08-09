@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T14:37:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T14:37:46-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Miss Otis Regrets",
+    "artist": "B\u00f8rge Roger Henrichsens Sekstet",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T19:37:36.5493089Z",
+    "duration_seconds": 183,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
