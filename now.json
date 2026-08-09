@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-08T23:38:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T23:38:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Stampede",
+    "artist": "Fletcher Henderson and His Orchestra",
+    "album": "Big Band Compilation, Volume 1",
+    "artwork_url": "",
+    "started_at": "2026-08-09T04:38:39.1615743Z",
+    "duration_seconds": 187,
+    "year": "2006"
+  },
   "next_poll_seconds": 10
 }
