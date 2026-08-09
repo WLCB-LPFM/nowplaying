@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T14:05:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T14:05:31-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Wanna Be A Brat (1940)",
+    "artist": "Phil Harris and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T19:05:27.5682248Z",
+    "duration_seconds": 158,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
