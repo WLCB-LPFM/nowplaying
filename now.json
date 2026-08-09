@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-09T14:02:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T14:05:18-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Lenore (1940)",
-    "artist": "Johnny McGee and his Orchestra; Alan Gerard",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-09T19:02:18.5303856Z",
-    "duration_seconds": 188,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
