@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T16:27:49-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T16:30:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Killing Me Softly With His Song",
-    "artist": "Fugees",
-    "album": "The Score (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fugees_-_Killing_Me_Softly_With_His_Song.jpg",
-    "started_at": "2026-08-09T21:27:39Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
