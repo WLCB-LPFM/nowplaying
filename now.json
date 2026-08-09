@@ -1,17 +1,17 @@
 {
-  "generated": "2026-08-09T17:47:04-05:00",
+  "generated": "2026-08-09T18:00:10-05:00",
   "source": "fallback",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "mode": "live",
+  "automation_on": false,
   "show": {
-    "name": "Old School Throwbacks",
+    "name": "Crossing Genres",
     "hosts": [
-      "J. Cornelius"
+      "Pauly J."
     ],
     "automated": false,
-    "starts": "16:00",
-    "ends": "18:00",
-    "genre": "Hip-Hop"
+    "starts": "18:00",
+    "ends": "21:00",
+    "genre": "Variety"
   },
   "track": null,
   "next_poll_seconds": 10
