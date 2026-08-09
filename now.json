@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T16:03:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T16:08:46-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Breezin'",
-    "artist": "George Benson",
-    "album": "Breezin'",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Benson_-_Breezin'.jpg",
-    "started_at": "2026-08-09T21:03:16Z",
-    "duration_seconds": 342
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
