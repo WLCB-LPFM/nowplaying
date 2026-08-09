@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T09:00:10-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T09:05:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Flight Of The Bumble Bee",
-    "artist": "Harry James and His Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harry_James_And_His_Orchestra_-_Flight_Of_The_Bumble_Bee.jpg",
-    "started_at": "2026-08-09T13:59:27Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
