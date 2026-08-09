@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T08:49:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T08:49:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "How High the Moon (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T13:49:38.4906297Z",
+    "duration_seconds": 171,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
