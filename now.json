@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-09T07:57:34-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T08:00:33-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Summertime (1940)",
-    "artist": "Sanford & Herman Hertz; Gershwin",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-09T12:57:31.3719799Z",
-    "duration_seconds": 190,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
