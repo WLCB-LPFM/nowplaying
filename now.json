@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T19:26:37-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T19:32:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Everybody Everybody (Le Freak Mix)",
-    "artist": "Black Box",
-    "album": "Everybody Everybody - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Box_-_Everybody_Everybody_(Le_Freak_Mix).jpg",
-    "started_at": "2026-08-09T00:26:27Z",
-    "duration_seconds": 378
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
