@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-09T01:16:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T01:17:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Willow Weep For Me",
-    "artist": "Art Tatum",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Art_Tatum_-_Willow_Weep_For_Me.jpg",
-    "started_at": "2026-08-09T06:16:36Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
