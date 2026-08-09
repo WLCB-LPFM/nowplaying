@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T21:26:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T21:29:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Atomic Dog",
-    "artist": "George Clinton",
-    "album": "Greatest Funkin' Hits (Remixes)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Clinton_-_Atomic_Dog.jpg",
-    "started_at": "2026-08-09T02:25:28Z",
-    "duration_seconds": 264
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
