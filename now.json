@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T09:13:40-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T09:19:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Shine",
-    "artist": "Benny Goodman and His Orchestra",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/29009e11fb1f4d0e9f9369438b7cb42f.png",
-    "started_at": "2026-08-09T14:13:31Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
