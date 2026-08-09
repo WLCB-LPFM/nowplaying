@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T10:11:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T10:12:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "The Song Is You",
+    "artist": "Keely Smith",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Keely_Smith_-_The_Song_Is_You.jpg",
+    "started_at": "2026-08-09T15:12:16Z",
+    "duration_seconds": 192
+  },
   "next_poll_seconds": 10
 }
