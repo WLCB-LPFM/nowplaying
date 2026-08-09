@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T07:32:49-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T07:33:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Not On the First Nite Baby (1940)",
+    "artist": "Frankie Trumbauer and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T12:32:58.7912325Z",
+    "duration_seconds": 192,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
