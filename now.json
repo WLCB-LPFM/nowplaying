@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T07:19:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T07:19:43-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blues in the Night",
+    "artist": "Clyde Lucas and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T12:19:43.0770037Z",
+    "duration_seconds": 185,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
