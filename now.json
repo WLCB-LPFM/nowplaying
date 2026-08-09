@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T14:28:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T14:29:12-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Easy To Love (1940)",
+    "artist": "Casper Reardon and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T19:29:00.3754214Z",
+    "duration_seconds": 171,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
