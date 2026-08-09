@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T16:18:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T16:24:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Sweet Thing (Remix)",
+    "artist": "Mary J. Blige",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mary_J._Blige_-_Sweet_Thing_(Remix).jpg",
+    "started_at": "2026-08-09T21:24:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
