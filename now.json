@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T10:54:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T10:59:49-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "I Don't Want To Set The World On Fire",
-    "artist": "Glenn Miller",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_I_Don't_Want_To_Set_The_World_On_Fire.jpg",
-    "started_at": "2026-08-09T15:53:57Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
