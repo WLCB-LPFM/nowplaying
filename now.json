@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T10:22:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T10:28:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Don't Be That Way",
-    "artist": "Tex Beneke and His Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tex_Beneke_And_His_Orchestra.jpg",
-    "started_at": "2026-08-09T15:22:28Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
