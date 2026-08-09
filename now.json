@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T22:10:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T22:14:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "How Long Has This Been Going On",
+    "artist": "Sarah Vaughan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sarah_Vaughan_-_How_Long_Has_This_Been_Going_On.jpg",
+    "started_at": "2026-08-09T03:14:22Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
