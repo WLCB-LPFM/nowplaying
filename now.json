@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-09T15:13:43-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T15:16:17-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Wandering Man Blues (1940)",
-    "artist": "Joe Marsala; Dell St. John",
+    "title": "Wandering Man Blues",
+    "artist": "Joe Marsala",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-09T20:13:34.6190991Z",
-    "duration_seconds": 177,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Joe_Marsala.jpg",
+    "started_at": "2026-08-09T20:13:43Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
