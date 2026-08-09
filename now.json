@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T09:40:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T09:41:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Besame Mucho",
+    "artist": "Jimmy Dorsey",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Dorsey_-_Besame_Mucho.jpg",
+    "started_at": "2026-08-09T14:41:14Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
