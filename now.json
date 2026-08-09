@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T21:11:55-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T21:13:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "A Touch of Jazz (Playin' Kinda Ruff Pt. II)",
+    "artist": "Zapp",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/z/Zapp.jpg",
+    "started_at": "2026-08-09T02:12:53Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
