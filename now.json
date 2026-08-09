@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T22:04:35-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T22:10:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Love For Sale",
-    "artist": "Ahmad Jamal",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ahmad_Jamal_-_Love_For_Sale.jpg",
-    "started_at": "2026-08-09T03:04:29Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
