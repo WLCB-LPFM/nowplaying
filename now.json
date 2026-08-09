@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-09T14:58:01-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T15:00:47-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Miss Annabelle Lee",
-    "artist": "Asmussen Sextet; Clare",
+    "title": "Miss Annabel Lee",
+    "artist": "Svend Asmussen",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-09T19:57:53.3623461Z",
-    "duration_seconds": 181,
-    "year": "1941"
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Svend_Asmussen.jpg",
+    "started_at": "2026-08-09T19:59:54Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
