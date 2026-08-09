@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T19:21:39-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T19:23:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Percolator (Original Version)",
+    "artist": "Cajmere",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cajmere_-_Percolator_(Original_Version).jpg",
+    "started_at": "2026-08-09T00:23:09Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
