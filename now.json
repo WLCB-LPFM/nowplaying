@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T22:27:57-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T22:33:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Miz Kitty's Blues",
-    "artist": "Eddie 'Lockjaw' Davis & Harry Edison",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-08-09T03:27:45Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
