@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T22:33:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T22:37:51-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Desafinado",
+    "artist": "Stan Getz & Charlie Byrd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stan_Getz_&_Charlie_Byrd_-_Desafinado.jpg",
+    "started_at": "2026-08-09T03:36:44Z",
+    "duration_seconds": 352
+  },
   "next_poll_seconds": 10
 }
