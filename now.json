@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T18:12:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T18:13:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Too Weak To Fight",
-    "artist": "Clarence Carter",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Clarence_Carter_-_Too_Weak_To_Fight.jpg",
-    "started_at": "2026-08-09T23:12:05Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
