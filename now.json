@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-09T03:55:15-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T03:55:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ballad For Trane",
-    "artist": "George Garzone",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/George_Garzone.jpg",
-    "started_at": "2026-08-09T08:54:01Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
