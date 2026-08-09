@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T17:46:04-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T17:47:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Your Body",
-    "artist": "Pretty Ricky",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pretty_Ricky_-_Your_Body.jpg",
-    "started_at": "2026-08-09T22:45:47Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
