@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T06:52:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T06:52:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Main Street",
+    "artist": "Darrell Fischer and his Log-Jammers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T11:52:30.5259746Z",
+    "duration_seconds": 174,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
