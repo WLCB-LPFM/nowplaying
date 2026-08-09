@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-09T06:40:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T06:40:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Muddy River Blues (1940)",
+    "artist": "Jack Teagarden & his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-09T11:40:53.1694387Z",
+    "duration_seconds": 180,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
