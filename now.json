@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T19:17:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-08T19:21:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "I Feel Good All Over",
-    "artist": "Stephanie Mills",
-    "album": "The Power Of Love/A Ballads Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stephanie_Mills_-_I_Feel_Good_All_Over.jpg",
-    "started_at": "2026-08-09T00:16:54Z",
-    "duration_seconds": 298
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
