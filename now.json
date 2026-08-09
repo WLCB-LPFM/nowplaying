@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T18:26:30-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T18:27:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Fight the Power (Pt. 1 & 2)",
-    "artist": "The Isley Brothers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Isley_Brothers.jpg",
-    "started_at": "2026-08-09T23:26:18Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
