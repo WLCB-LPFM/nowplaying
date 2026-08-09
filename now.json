@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T19:40:50-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T19:42:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Bikers Shuffle",
+    "artist": "Big Mucci",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Big_Mucci_-_Bikers_Shuffle.jpg",
+    "started_at": "2026-08-09T00:42:31Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
