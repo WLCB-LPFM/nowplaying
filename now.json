@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T20:23:14-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T20:23:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Yamborghini High (feat. Juicy J)",
+    "artist": "A$AP Mob",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/A$ap_Mob_-_Yamborghini_High_(Feat._Juicy_J).jpg",
+    "started_at": "2026-08-09T01:23:42Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
