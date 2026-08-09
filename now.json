@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T09:34:58-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T09:40:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Are You Havin Any Fun?",
-    "artist": "Jeanne D'Arcy, Johnny Messner & Johnny Messner & His Hotel McAlpin Orchestra",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-08-09T14:34:44Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
