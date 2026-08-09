@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T21:18:49-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T21:20:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "D.M.S.R.",
+    "artist": "Prince",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_D.m.s.r..jpg",
+    "started_at": "2026-08-09T02:19:47Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
