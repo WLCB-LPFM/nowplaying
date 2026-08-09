@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T22:42:24-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T22:44:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Someday Sweetheart",
+    "artist": "Joe Venuti & Zoot Sims",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-08-09T03:44:30Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
