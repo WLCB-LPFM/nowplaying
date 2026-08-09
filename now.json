@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T22:20:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T22:21:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Here's That Rainy Day",
+    "artist": "Bill Evans",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Evans_-_Here's_That_Rainy_Day.jpg",
+    "started_at": "2026-08-09T03:21:09Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
