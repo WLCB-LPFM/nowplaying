@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T21:29:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-08T21:33:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "How Deep Is Your Love",
+    "artist": "Keith Sweat",
+    "album": "The Best of Keith Sweat: Make You Sweat (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Keith_Sweat_-_How_Deep_Is_Your_Love.jpg",
+    "started_at": "2026-08-09T02:33:08Z",
+    "duration_seconds": 270
+  },
   "next_poll_seconds": 10
 }
