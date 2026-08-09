@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-09T15:22:05-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T15:25:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Gullah Chant",
-    "artist": "Jimmie Livingston and his Orchestra",
+    "title": "Old Chief Walla Hoo",
+    "artist": "The Barry Sisters",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-09T20:22:03.4713046Z",
-    "duration_seconds": 202,
-    "year": "1941"
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Barry_Sisters.jpg",
+    "started_at": "2026-08-09T20:21:03Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
