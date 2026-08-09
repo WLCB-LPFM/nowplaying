@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-09T08:02:58-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T08:05:57-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "London Pride",
-    "artist": "Noel Coward",
+    "artist": "No\u00ebl Coward",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-09T13:02:52.8876929Z",
-    "duration_seconds": 191,
-    "year": "1941"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/No\u00ebl_Coward_-_London_Pride.jpg",
+    "started_at": "2026-08-09T13:05:23Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
