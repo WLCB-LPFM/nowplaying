@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-09T07:41:27-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T07:44:03-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Stompin' at the Savoy Part 1",
+    "title": "Stompin' At the Savoy",
     "artist": "Charlie Christian",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-09T12:41:15.2461823Z",
-    "duration_seconds": 174,
-    "year": "1941"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Christian_-_Stompin'_At_The_Savoy.jpg",
+    "started_at": "2026-08-09T12:41:28Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
