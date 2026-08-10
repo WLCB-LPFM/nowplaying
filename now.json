@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T09:20:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T09:22:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Turn to Stone (Live at Wembley Stadium)",
+    "artist": "Jeff Lynne's ELO",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jeff_Lynne's_Elo.jpg",
+    "started_at": "2026-08-10T14:22:24Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
