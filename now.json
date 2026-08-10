@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T20:36:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T20:42:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Livin' for the Weekend",
+    "artist": "The O'Jays",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_O'jays_-_Livin'_For_The_Weekend.jpg",
+    "started_at": "2026-08-10T01:42:23Z",
+    "duration_seconds": 395
+  },
   "next_poll_seconds": 10
 }
