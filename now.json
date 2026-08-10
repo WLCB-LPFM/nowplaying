@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-09T21:03:29-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T21:06:15-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Oh, Lady Be Good",
-    "artist": "Charlie Parker with Jazz at the Philharmonic",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-08-10T02:03:24.390173Z",
-    "duration_seconds": 185,
-    "year": "1987"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
