@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T20:55:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T20:57:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It's A Man's, Man's, Man's World (Live)",
-    "artist": "James Brown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_It's_A_Man's,_Man's,_Man's_World_(Live).jpg",
-    "started_at": "2026-08-10T01:55:09Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
