@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T07:39:05-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T07:42:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Let Me Down (feat. Daya)",
+    "artist": "The Chainsmokers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Chainsmokers_-_Don't_Let_Me_Down_(Feat._Daya).jpg",
+    "started_at": "2026-08-10T12:41:49Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
