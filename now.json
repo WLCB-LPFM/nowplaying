@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-09T21:32:34-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T21:35:08-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "The New East St. Louis Toodle-O",
-    "artist": "Duke Ellington and His Famous Orchestra",
-    "album": "I\u2019ve Got to Be a Rug Cutter / The New East St. Louis Toodle-O",
-    "artwork_url": "",
-    "started_at": "2026-08-10T02:32:28.0997193Z",
-    "duration_seconds": 171,
-    "year": "1937"
+    "artist": "Duke Ellington",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duke_Ellington.jpg",
+    "started_at": "2026-08-10T02:34:05Z",
+    "duration_seconds": 90
   },
   "next_poll_seconds": 10
 }
