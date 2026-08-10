@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T14:19:16-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T14:22:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Show Me Love",
+    "artist": "Robin S.",
+    "album": "Show Me Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robin_S._-_Show_Me_Love.jpg",
+    "started_at": "2026-08-10T19:22:32Z",
+    "duration_seconds": 242
+  },
   "next_poll_seconds": 10
 }
