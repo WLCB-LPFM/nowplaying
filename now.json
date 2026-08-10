@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T16:00:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T16:03:35-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Mr. Blue Sky",
+    "artist": "Electric Light Orchestra",
+    "album": "Out of the Blue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Electric_Light_Orchestra_-_Mr._Blue_Sky.jpg",
+    "started_at": "2026-08-10T21:03:31Z",
+    "duration_seconds": 277
+  },
   "next_poll_seconds": 10
 }
