@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T20:07:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T20:08:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Treat Her Like a Lady",
+    "artist": "The Temptations",
+    "album": "The 50 Greatest Songs",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_Treat_Her_Like_A_Lady.jpg",
+    "started_at": "2026-08-10T01:08:43Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
