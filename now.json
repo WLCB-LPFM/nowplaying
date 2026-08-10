@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-10T02:27:42-05:00",
-  "source": "autopost",
+  "generated": "2026-08-10T02:29:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Boplicity",
-    "artist": "Miles Davis",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Boplicity.jpg",
-    "started_at": "2026-08-10T07:26:41Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
