@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-10T04:30:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-10T04:34:49-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "I Don't Want to Talk About It",
-    "artist": "Inger Marie Gundersen",
-    "album": "By Myself",
-    "artwork_url": "",
-    "started_at": "2026-08-10T09:30:47.7475565Z",
-    "duration_seconds": 245,
-    "year": "2006"
+    "artist": "Inger Marie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inger_Marie_-_I_Don't_Want_To_Talk_About_It.jpg",
+    "started_at": "2026-08-10T09:33:53Z",
+    "duration_seconds": 90
   },
   "next_poll_seconds": 10
 }
