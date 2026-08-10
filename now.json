@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T08:57:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T08:58:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jesus He Knows Me",
+    "artist": "Genesis",
+    "album": "We Can't Dance (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Genesis_-_Jesus_He_Knows_Me.jpg",
+    "started_at": "2026-08-10T13:58:53Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
