@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-10T06:41:03-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-10T06:42:55-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Cars",
-    "artist": "Gary Numan",
+    "title": "in cars",
+    "artist": "gary numan",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-10T11:39:26.2117003Z",
-    "duration_seconds": 217,
-    "year": "2010"
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/Gary_Numan.jpg",
+    "started_at": "2026-08-10T11:40:39Z",
+    "duration_seconds": 230
   },
   "next_poll_seconds": 10
 }
