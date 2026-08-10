@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-10T00:55:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T00:55:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Danny Boy",
+    "artist": "Bob Rockwell Quartet",
+    "album": "Bob's Ben - A Salute to Ben Webster",
+    "artwork_url": "",
+    "started_at": "2026-08-10T05:55:39.2842801Z",
+    "duration_seconds": 221,
+    "year": "2004"
+  },
   "next_poll_seconds": 10
 }
