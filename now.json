@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T14:32:08-05:00",
-  "source": "autopost",
+  "generated": "2026-08-10T14:37:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Dancing On the Ceiling",
-    "artist": "Lionel Richie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lionel_Richie_-_Dancing_On_The_Ceiling.jpg",
-    "started_at": "2026-08-10T19:31:54Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
