@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T07:09:39-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T07:10:57-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Blame It On the Rain",
+    "artist": "Milli Vanilli",
+    "album": "Girl You Know It's True - The Best of Milli Vanilli",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Milli_Vanilli_-_Blame_It_On_The_Rain.jpg",
+    "started_at": "2026-08-10T12:10:46Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
