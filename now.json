@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-10T12:57:27-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T13:02:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Let Me Blow Ya Mind",
+    "artist": "Eve (ft. Gwen Stefani)",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-10T18:02:08.6763298Z",
+    "duration_seconds": 226,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
