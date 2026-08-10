@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T10:27:56-05:00",
-  "source": "autopost",
+  "generated": "2026-08-10T10:28:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Bad Boy",
-    "artist": "Joanne Shaw Taylor",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joanne_Shaw_Taylor_-_Bad_Boy.jpg",
-    "started_at": "2026-08-10T15:27:34Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
