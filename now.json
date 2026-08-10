@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-09T22:12:52-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-09T22:15:14-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Grandpa\u2019s Spells",
-    "artist": "Jelly Roll Morton's Red Hot Peppers",
-    "album": "Volume 1 (1923-1929)",
-    "artwork_url": "",
-    "started_at": "2026-08-10T03:12:40.0835089Z",
-    "duration_seconds": 165,
-    "year": "2000"
+    "title": "Black Bottom Stomp",
+    "artist": "Jelly Roll Morton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jelly_Roll_Morton_-_Black_Bottom_Stomp.jpg",
+    "started_at": "2026-08-10T03:14:26Z",
+    "duration_seconds": 90
   },
   "next_poll_seconds": 10
 }
