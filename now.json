@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-10T06:50:37-05:00",
-  "source": "autopost",
+  "generated": "2026-08-10T06:50:49-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Wannabe",
-    "artist": "Spice Girls",
-    "album": "Wannabe 25 - EP",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spice_Girls_-_Wannabe.jpg",
-    "started_at": "2026-08-10T11:48:11Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
