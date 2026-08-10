@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-10T06:56:05-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T06:57:12-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Spin Me Round (Like a Record)",
+    "artist": "Dead Or Alive",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-10T11:57:09.2906114Z",
+    "duration_seconds": 186,
+    "year": "1985"
+  },
   "next_poll_seconds": 10
 }
