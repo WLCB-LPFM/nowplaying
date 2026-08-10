@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T20:05:37-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T20:07:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ain't Too Proud To Beg",
-    "artist": "The Temptations",
-    "album": "Gettin' Ready",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_Ain't_Too_Proud_To_Beg.jpg",
-    "started_at": "2026-08-10T01:05:28Z",
-    "duration_seconds": 135
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
