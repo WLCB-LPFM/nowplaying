@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T17:18:24-05:00",
-  "source": "autopost",
+  "generated": "2026-08-10T17:24:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Achilles Come Down",
-    "artist": "Gang of Youths",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gang_Of_Youths_-_Achilles_Come_Down.jpg",
-    "started_at": "2026-08-10T22:18:14Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
