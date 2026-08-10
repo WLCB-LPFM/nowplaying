@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T19:37:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T19:38:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Doors Unlocked and Open",
+    "artist": "Death Cab for Cutie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Death_Cab_For_Cutie_-_Doors_Unlocked_And_Open.jpg",
+    "started_at": "2026-08-10T00:38:19Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
