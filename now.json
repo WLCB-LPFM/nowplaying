@@ -1,16 +1,17 @@
 {
-  "generated": "2026-08-09T21:22:01-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T21:22:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Tomato Jam",
-    "artist": "Jason Weber",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Tomato_Jam.jpg",
-    "started_at": "2026-08-10T02:20:57Z",
-    "duration_seconds": null
+    "title": "Parker's Mood",
+    "artist": "Charlie Parker All Stars",
+    "album": "Les Triomphes du jazz",
+    "artwork_url": "",
+    "started_at": "2026-08-10T02:22:34.7931319Z",
+    "duration_seconds": 171,
+    "year": "2000"
   },
   "next_poll_seconds": 10
 }
