@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T20:51:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-09T20:53:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I Don't Need No Doctor",
+    "artist": "Ray Charles",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Charles_-_I_Don't_Need_No_Doctor.jpg",
+    "started_at": "2026-08-10T01:53:42Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
