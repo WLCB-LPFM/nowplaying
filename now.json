@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T16:40:22-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T16:42:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Labyrinth",
+    "artist": "Miracle Musical",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miracle_Musical.jpg",
+    "started_at": "2026-08-10T21:42:11Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
