@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-10T12:50:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T12:51:07-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "A View To A Kill",
+    "artist": "Duran Duran",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-10T17:50:54.8496666Z",
+    "duration_seconds": 211,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
