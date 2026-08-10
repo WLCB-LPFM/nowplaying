@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-10T13:21:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-10T13:25:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Survivor",
-    "artist": "Destiny's Child",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-10T18:21:46.1246593Z",
-    "duration_seconds": 226,
-    "year": "2017"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
