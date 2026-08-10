@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-10T06:19:50-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T06:20:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Things That Make You Go Hmmm...",
+    "artist": "C&C Music Factory",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-10T11:20:03.5940857Z",
+    "duration_seconds": 310,
+    "year": "2009"
+  },
   "next_poll_seconds": 10
 }
