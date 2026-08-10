@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T17:53:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T17:56:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "End of the Road (feat. Blackbear)",
+    "artist": "mgk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mgk.jpg",
+    "started_at": "2026-08-10T22:56:16Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
