@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-10T13:18:35-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T13:18:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I'm Still Standing",
+    "artist": "Elton John",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-10T18:18:49.255746Z",
+    "duration_seconds": 176,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
