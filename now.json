@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T10:50:37-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T10:51:56-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Same Old Feeling",
+    "artist": "38 Special",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/3/38_Special_-_Same_Old_Feeling.jpg",
+    "started_at": "2026-08-10T15:51:50Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
