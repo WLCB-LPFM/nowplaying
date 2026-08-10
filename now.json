@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T17:38:43-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T17:39:55-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Don't Know My Name",
+    "artist": "Grace VanderWaal",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grace_Vanderwaal_-_I_Don't_Know_My_Name.jpg",
+    "started_at": "2026-08-10T22:39:51Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
