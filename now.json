@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T17:03:46-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T17:08:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Violence",
+    "artist": "Beach Bunny",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4092f831722a00766704f49d00ee50c7.png",
+    "started_at": "2026-08-10T22:08:41Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
