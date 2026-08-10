@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T18:59:47-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T19:05:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Shutout",
-    "artist": "The Walker Brothers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Walker_Brothers_-_Shutout.jpg",
-    "started_at": "2026-08-09T23:59:43Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
