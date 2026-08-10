@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T20:35:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-09T20:36:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "For The Love Of Money",
-    "artist": "The O'Jays",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_O'jays_-_For_The_Love_Of_Money.jpg",
-    "started_at": "2026-08-10T01:35:16Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
