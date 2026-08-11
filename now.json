@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-11T11:00:07-05:00",
-  "source": "fallback",
+  "generated": "2026-08-11T11:02:08-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Panama",
+    "artist": "Van Halen",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-11T16:02:05.9053191Z",
+    "duration_seconds": 202,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
