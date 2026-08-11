@@ -1,16 +1,18 @@
 {
-  "generated": "2026-08-10T19:59:45-05:00",
-  "source": "autopost",
-  "mode": "music_block",
+  "generated": "2026-08-10T20:00:11-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Rosanna",
-    "artist": "Toto",
-    "album": "80's Pop Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toto_-_Rosanna.jpg",
-    "started_at": "2026-08-11T00:55:33Z",
-    "duration_seconds": 290
+  "show": {
+    "name": "Jazz Lives!",
+    "hosts": [
+      "Bob Dauber"
+    ],
+    "automated": false,
+    "starts": "20:00",
+    "ends": "22:00",
+    "genre": "Jazz"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
