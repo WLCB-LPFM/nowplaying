@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-10T19:05:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T19:06:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Distance",
+    "artist": "Cake",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-11T00:06:02.629552Z",
+    "duration_seconds": 170,
+    "year": "2014"
+  },
   "next_poll_seconds": 10
 }
