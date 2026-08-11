@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T20:50:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T20:52:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The In Crowd",
+    "artist": "Ramsey Lewis Trio",
+    "album": "Time Flies",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ramsey_Lewis_Trio_-_The_In_Crowd.jpg",
+    "started_at": "2026-08-11T01:52:03Z",
+    "duration_seconds": 220
+  },
   "next_poll_seconds": 10
 }
