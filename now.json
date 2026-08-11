@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T22:08:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T22:09:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hot Cherie",
+    "artist": "Hardline",
+    "album": "Double Eclipse",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hardline_-_Hot_Cherie.jpg",
+    "started_at": "2026-08-11T03:09:00Z",
+    "duration_seconds": 219
+  },
   "next_poll_seconds": 10
 }
