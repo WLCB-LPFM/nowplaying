@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T16:19:44-05:00",
-  "source": "autopost",
+  "generated": "2026-08-11T16:21:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Real Slim Shady",
-    "artist": "Eminem",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eminem_-_The_Real_Slim_Shady.jpg",
-    "started_at": "2026-08-11T21:19:38Z",
-    "duration_seconds": 116
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
