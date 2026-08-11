@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T08:48:27-05:00",
-  "source": "fallback",
+  "generated": "2026-08-11T08:50:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Love Will Never Do (Without You) - Design Of A Decade: 1986-1996",
+    "artist": "Janet Jackson",
+    "album": "Design of a Decade 1986/1996",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Janet_Jackson.jpg",
+    "started_at": "2026-08-11T13:50:05Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
