@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-10T19:34:29-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-10T19:37:15-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Invisible Touch",
-    "artist": "Genesis",
-    "album": "Invisible Touch (2007 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Genesis_-_Invisible_Touch.jpg",
-    "started_at": "2026-08-11T00:33:58.4956025Z",
-    "duration_seconds": 201,
-    "year": "1986"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
