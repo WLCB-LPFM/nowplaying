@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T23:39:55-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T23:40:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Man On the Silver Mountain",
+    "artist": "Rainbow",
+    "album": "Ritchie Blackmore's Rainbow",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rainbow_-_Man_On_The_Silver_Mountain.jpg",
+    "started_at": "2026-08-11T04:39:55Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
