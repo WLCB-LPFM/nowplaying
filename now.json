@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T23:04:24-05:00",
-  "source": "autopost",
+  "generated": "2026-08-10T23:05:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Tears In The Rain",
-    "artist": "Triumph",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Triumph_-_Tears_In_The_Rain.jpg",
-    "started_at": "2026-08-11T04:04:16Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
