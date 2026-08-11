@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-11T14:42:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-11T14:42:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Parents Just Don't Understand",
+    "artist": "DJ Jazzy Jeff & The Fresh Prince",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-11T19:42:20.4285347Z",
+    "duration_seconds": 327,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
