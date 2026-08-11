@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T15:32:25-05:00",
-  "source": "fallback",
+  "generated": "2026-08-11T15:38:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "The Jump Off",
+    "artist": "Lil' Kim",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lil'_Kim_-_The_Jump_Off.jpg",
+    "started_at": "2026-08-11T20:38:11Z",
+    "duration_seconds": 234
+  },
   "next_poll_seconds": 10
 }
