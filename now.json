@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T20:22:24-05:00",
-  "source": "fallback",
+  "generated": "2026-08-10T20:22:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "\u00c1 la Mode",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Art_Blakey_&_The_Jazz_Messengers.jpg",
+    "started_at": "2026-08-11T01:22:30Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
