@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T08:17:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-11T08:20:16-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Come Dancing",
-    "artist": "The Kinks",
-    "album": "State of Confusion",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Kinks_-_Come_Dancing.jpg",
-    "started_at": "2026-08-11T13:16:59Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
