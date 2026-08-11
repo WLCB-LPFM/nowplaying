@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T15:09:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-11T15:10:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Mr. Jones",
+    "artist": "Counting Crows",
+    "album": "August and Everything After",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Counting_Crows_-_Mr._Jones.jpg",
+    "started_at": "2026-08-11T20:10:41Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
