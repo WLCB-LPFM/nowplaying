@@ -1,17 +1,25 @@
 {
-  "generated": "2026-08-11T06:59:41-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-08-11T07:00:05-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
     "title": "What I Got",
     "artist": "Sublime",
     "album": "",
     "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sublime_-_What_I_Got.jpg",
-    "started_at": "2026-08-11T11:58:25.1445901Z",
-    "duration_seconds": 166,
-    "year": "1996"
+    "started_at": "2026-08-11T11:59:36Z",
+    "duration_seconds": 301
   },
   "next_poll_seconds": 10
 }
