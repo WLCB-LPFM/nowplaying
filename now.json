@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T10:22:55-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T10:31:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Secret World (Live)",
-    "artist": "Peter Gabriel",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Gabriel_-_Secret_World_(Live).jpg",
-    "started_at": "2026-08-12T15:22:50Z",
-    "duration_seconds": 551
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
