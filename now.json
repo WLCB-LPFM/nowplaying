@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-11T19:49:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-11T19:51:54-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "I Love Rock N Roll",
-    "artist": "Joan Jett and the Blackhearts",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-12T00:49:08.3835176Z",
-    "duration_seconds": 173,
-    "year": "1981"
+    "title": "I Love Rock 'N Roll",
+    "artist": "Joan Jett & The Blackhearts",
+    "album": "I Love Rock 'N' Roll (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joan_Jett_&_The_Blackhearts_-_I_Love_Rock_'n_Roll.jpg",
+    "started_at": "2026-08-12T00:50:33Z",
+    "duration_seconds": 115
   },
   "next_poll_seconds": 10
 }
