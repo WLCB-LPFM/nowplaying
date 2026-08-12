@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T09:38:38-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T09:48:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Ace of Spades (At Montreux Jazz Festival)",
+    "artist": "Hollywood Vampires",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hollywood_Vampires_-_Ace_Of_Spades_(At_Montreux_Jazz_Festival).jpg",
+    "started_at": "2026-08-12T14:48:33Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
