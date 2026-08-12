@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T11:11:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T11:20:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Run Away from It All (Live)",
+    "artist": "Blackberry Smoke",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackberry_Smoke_-_Run_Away_From_It_All_(Live).jpg",
+    "started_at": "2026-08-12T16:19:57Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
