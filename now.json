@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-12T15:30:48-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-12T15:33:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rock The Casbah",
-    "artist": "The Clash",
-    "album": "Combat Rock",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Clash_-_Rock_The_Casbah.jpg",
-    "started_at": "2026-08-12T20:29:56.3352373Z",
-    "duration_seconds": 211,
-    "year": "1982"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
