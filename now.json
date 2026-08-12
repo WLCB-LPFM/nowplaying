@@ -1,16 +1,17 @@
 {
-  "generated": "2026-08-12T01:10:53-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T01:11:05-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Dinah",
-    "artist": "Benny Goodman",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benny_Goodman_-_Dinah.jpg",
-    "started_at": "2026-08-12T06:09:42Z",
-    "duration_seconds": null
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Take Five, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-08-12T06:11:03.7355101Z",
+    "duration_seconds": 313,
+    "year": "1990"
   },
   "next_poll_seconds": 10
 }
