@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T22:30:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-11T22:31:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "It's Only Love",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_It's_Only_Love.jpg",
+    "started_at": "2026-08-12T03:30:50Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
