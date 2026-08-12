@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-12T02:40:07-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T02:40:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Pent-Up House",
+    "artist": "Sonny Rollins Plus Four",
+    "album": "The Prestige Albums 1953-1957",
+    "artwork_url": "",
+    "started_at": "2026-08-12T07:40:15.8551425Z",
+    "duration_seconds": 515,
+    "year": "2025"
+  },
   "next_poll_seconds": 10
 }
