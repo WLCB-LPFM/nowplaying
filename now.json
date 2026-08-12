@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T09:32:52-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T09:34:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "I'm No Angel",
-    "artist": "The Gregg Allman Band",
-    "album": "I'm No Angel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Gregg_Allman_Band_-_I'm_No_Angel.jpg",
-    "started_at": "2026-08-12T14:31:45Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
