@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T09:15:23-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T09:17:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Long Train Runnin'",
-    "artist": "The Doobie Brothers",
-    "album": "The Captain and Me (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_Long_Train_Runnin'.jpg",
-    "started_at": "2026-08-12T14:14:13Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
