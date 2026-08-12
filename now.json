@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-12T15:37:48-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-12T15:41:21-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Uptown Funk",
-    "artist": "Mark Ronson ft. Bruno Mars",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-12T20:37:38.0358683Z",
-    "duration_seconds": 233,
-    "year": ""
+    "title": "Uptown Funk (feat. Bruno Mars)",
+    "artist": "Mark Ronson",
+    "album": "Uptown Special",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mark_Ronson_-_Uptown_Funk_(Feat._Bruno_Mars).jpg",
+    "started_at": "2026-08-12T20:39:09Z",
+    "duration_seconds": 177
   },
   "next_poll_seconds": 10
 }
