@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T09:05:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T09:10:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Bennie And The Jets (Remastered)",
-    "artist": "Elton John",
-    "album": "Goodbye Yellow Brick Road (2014 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elton_John_-_Bennie_And_The_Jets_(Remastered).jpg",
-    "started_at": "2026-08-12T14:05:43Z",
-    "duration_seconds": 277
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
