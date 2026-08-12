@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T12:11:35-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T12:14:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Yeahhh (Konstantin Wallner Remix)",
-    "artist": "The Whiteliner",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Whiteliner.jpg",
-    "started_at": "2026-08-12T17:11:23Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
