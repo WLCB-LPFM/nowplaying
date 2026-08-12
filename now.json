@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T11:01:38-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T11:02:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "24 Hours at a Time",
+    "artist": "The Marshall Tucker Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Marshall_Tucker_Band_-_24_Hours_At_A_Time.jpg",
+    "started_at": "2026-08-12T16:01:53Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
