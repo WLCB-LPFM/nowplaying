@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T11:53:03-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T11:56:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Stay Around",
+    "artist": "THE BAND FEEL",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Band_Feel_-_Stay_Around.jpg",
+    "started_at": "2026-08-12T16:56:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
