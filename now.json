@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T09:27:17-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T09:27:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Whitehouse Road",
+    "artist": "Tyler Childers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tyler_Childers_-_Whitehouse_Road.jpg",
+    "started_at": "2026-08-12T14:27:45Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
