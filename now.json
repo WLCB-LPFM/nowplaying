@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T09:52:41-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T09:55:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Caught Up In You",
-    "artist": "38 Special",
-    "album": "Special Forces",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/3/38_Special_-_Caught_Up_In_You.jpg",
-    "started_at": "2026-08-12T14:51:38Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
