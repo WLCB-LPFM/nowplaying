@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-12T16:16:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T16:17:00-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Party Rock Anthem",
+    "artist": "LMFAO ft. Lauren Bennett & GoonRock",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-12T21:16:54.3042233Z",
+    "duration_seconds": 206,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
