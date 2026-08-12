@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T10:36:48-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T10:42:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Mountain Time (Live)",
-    "artist": "Joe Bonamassa",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3ead91f6b51a08175ee6d8b6ed76a608.png",
-    "started_at": "2026-08-12T15:36:35Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
