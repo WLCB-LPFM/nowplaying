@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T21:41:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-11T21:42:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Angry Eyes",
+    "artist": "Loggins & Messina",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Loggins_&_Messina_-_Angry_Eyes.jpg",
+    "started_at": "2026-08-12T02:42:08Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
