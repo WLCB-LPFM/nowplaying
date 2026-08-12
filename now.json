@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T09:55:06-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T10:03:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Every Little Kiss",
+    "artist": "Bruce Hornsby & The Range",
+    "album": "Greatest Radio Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bruce_Hornsby_&_The_Range_-_Every_Little_Kiss.jpg",
+    "started_at": "2026-08-12T15:02:23Z",
+    "duration_seconds": 347
+  },
   "next_poll_seconds": 10
 }
