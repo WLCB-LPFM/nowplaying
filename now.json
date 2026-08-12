@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T10:31:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T10:32:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "She's a Runner",
+    "artist": "Billy Squier",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Squier_-_She's_A_Runner.jpg",
+    "started_at": "2026-08-12T15:32:31Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
