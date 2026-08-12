@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T11:07:13-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T11:11:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Boogie No More",
-    "artist": "Molly Hatchet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Molly_Hatchet_-_Boogie_No_More.jpg",
-    "started_at": "2026-08-12T16:05:43Z",
-    "duration_seconds": 369
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
