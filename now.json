@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T10:17:08-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T10:22:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The Carpet Crawlers 1999",
-    "artist": "Genesis",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Genesis_-_The_Carpet_Crawlers_1999.jpg",
-    "started_at": "2026-08-12T15:17:05Z",
-    "duration_seconds": 341
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
