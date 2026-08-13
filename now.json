@@ -1,17 +1,25 @@
 {
-  "generated": "2026-08-13T06:58:54-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-08-13T07:00:02-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
     "title": "She Drives Me Crazy",
     "artist": "Fine Young Cannibals",
     "album": "The Raw & the Cooked",
     "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fine_Young_Cannibals_-_She_Drives_Me_Crazy.jpg",
-    "started_at": "2026-08-13T11:58:29.1366252Z",
-    "duration_seconds": 211,
-    "year": "1988"
+    "started_at": "2026-08-13T11:58:44Z",
+    "duration_seconds": 187
   },
   "next_poll_seconds": 10
 }
