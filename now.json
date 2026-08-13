@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T15:03:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T15:04:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Weird Science",
-    "artist": "Oingo Boingo",
-    "album": "Dead Man's Party",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Oingo_Boingo_-_Weird_Science.jpg",
-    "started_at": "2026-08-13T20:03:12Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
