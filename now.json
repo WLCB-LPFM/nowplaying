@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:00:51-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T17:03:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Tell It to My Heart",
-    "artist": "Taylor Dayne",
-    "album": "Tell It to My Heart (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Taylor_Dayne_-_Tell_It_To_My_Heart.jpg",
-    "started_at": "2026-08-13T22:00:49Z",
-    "duration_seconds": 188
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
