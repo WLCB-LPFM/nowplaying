@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T20:25:53-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T20:28:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sweet Lullaby",
-    "artist": "Deep Forest",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Forest_-_Sweet_Lullaby.jpg",
-    "started_at": "2026-08-13T01:25:15Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
