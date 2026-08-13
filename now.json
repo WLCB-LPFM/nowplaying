@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-13T14:28:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T14:30:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-13T19:30:07.857591Z",
+    "duration_seconds": 287,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
