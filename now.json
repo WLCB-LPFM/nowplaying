@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-13T14:27:56-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T14:28:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "New Sensation",
-    "artist": "INXS",
-    "album": "Kick (30th Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inxs_-_New_Sensation.jpg",
-    "started_at": "2026-08-13T19:25:27Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
