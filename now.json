@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T16:06:54-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T16:10:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Let's Talk About Sex",
-    "artist": "Salt-N-Pepa",
-    "album": "Pure Throwback Radio: Queens of Hip Hop (DJ Mix)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Salt-n-pepa_-_Let's_Talk_About_Sex.jpg",
-    "started_at": "2026-08-13T21:06:51Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
