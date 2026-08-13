@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:43:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T17:45:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Badge",
-    "artist": "Cream",
-    "album": "Goodbye",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cream_-_Badge.jpg",
-    "started_at": "2026-08-13T22:43:16Z",
-    "duration_seconds": 168
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
