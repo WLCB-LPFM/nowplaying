@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:40:29-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T17:41:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Around You",
+    "artist": "Gypsy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gypsy_-_Around_You.jpg",
+    "started_at": "2026-08-13T22:41:26Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
