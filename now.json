@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T07:40:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T07:40:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Raspberry Beret (Extended 12' Version)",
-    "artist": "Prince",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Prince.jpg",
-    "started_at": "2026-08-13T12:39:36Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
