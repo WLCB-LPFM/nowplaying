@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:24:28-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T17:25:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "So Into You",
+    "artist": "Atlanta Rhythm Section",
+    "album": "The Best Of Atlanta Rhythm Section",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Atlanta_Rhythm_Section_-_So_Into_You.jpg",
+    "started_at": "2026-08-13T22:25:18Z",
+    "duration_seconds": 260
+  },
   "next_poll_seconds": 10
 }
