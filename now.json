@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-12T23:50:22-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T23:51:07-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Lady Bird (feat. Tadd Dameron Sextet)",
+    "artist": "Fats Navarro",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fats_Navarro_-_Lady_Bird_(Feat._Tadd_Dameron_Sextet).jpg",
+    "started_at": "2026-08-13T04:51:03Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
