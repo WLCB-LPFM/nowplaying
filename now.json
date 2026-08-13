@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:27:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T17:30:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Him or Me, What's It Gonna Be?",
-    "artist": "Paul Revere & The Raiders",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Paul_Revere_&_The_Raiders.jpg",
-    "started_at": "2026-08-13T22:27:14Z",
-    "duration_seconds": 185
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
