@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:52:12-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T17:53:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The One You Love",
-    "artist": "Glenn Frey",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Frey_-_The_One_You_Love.jpg",
-    "started_at": "2026-08-13T22:52:01Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
