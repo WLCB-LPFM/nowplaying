@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T21:28:44-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T21:31:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Drivin' On 9",
-    "artist": "The Breeders",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Breeders_-_Drivin'_On_9.jpg",
-    "started_at": "2026-08-13T02:28:38Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
