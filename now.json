@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T19:54:50-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T19:57:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Breakaway",
-    "artist": "Big Pig",
-    "album": "Breakaway",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Big_Pig_-_Breakaway.jpg",
-    "started_at": "2026-08-13T00:54:25Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
