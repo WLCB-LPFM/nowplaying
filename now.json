@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T21:49:22-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T21:52:20-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Augie's Great Municipal Band and End Credits",
+    "artist": "John Williams & London Symphony Orchestra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/John_Williams_&_London_Symphony_Orchestra.jpg",
+    "started_at": "2026-08-13T02:51:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
