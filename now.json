@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-13T04:40:35-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-13T04:42:48-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Evidence",
-    "artist": "Thelonius Monk Quartet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-08-13T09:40:31.4041148Z",
-    "duration_seconds": 148,
-    "year": "1997"
+    "title": "'Round Midnight",
+    "artist": "Thelonious Monk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_'round_Midnight.jpg",
+    "started_at": "2026-08-13T09:42:07Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
