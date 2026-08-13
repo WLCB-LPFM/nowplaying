@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T19:00:07-05:00",
-  "source": "fallback",
+  "generated": "2026-08-12T19:06:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Moonlight Shadow",
+    "artist": "Mike Oldfield",
+    "album": "The Mike Oldfield Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike_Oldfield_-_Moonlight_Shadow.jpg",
+    "started_at": "2026-08-13T00:05:56Z",
+    "duration_seconds": 182
+  },
   "next_poll_seconds": 10
 }
