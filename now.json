@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:53:20-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T17:55:33-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Cant Find The Time",
+    "artist": "Orpheus",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/o/Orpheus.jpg",
+    "started_at": "2026-08-13T22:55:23Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
