@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T20:41:44-05:00",
-  "source": "autopost",
+  "generated": "2026-08-12T20:45:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Freedom! '90",
-    "artist": "George Michael",
-    "album": "Listen Without Prejudice / MTV Unplugged (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Michael_-_Freedom!_'90.jpg",
-    "started_at": "2026-08-13T01:41:32Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
