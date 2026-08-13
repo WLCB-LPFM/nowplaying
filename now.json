@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:15:22-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T17:17:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Heart Full of Soul",
-    "artist": "The Yardbirds",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Yardbirds_-_Heart_Full_Of_Soul.jpg",
-    "started_at": "2026-08-13T22:15:12Z",
-    "duration_seconds": 149
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
