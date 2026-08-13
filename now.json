@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T17:03:49-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T17:04:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Mr. Soul",
+    "artist": "Buffalo Springfield",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buffalo_Springfield_-_Mr._Soul.jpg",
+    "started_at": "2026-08-13T22:04:23Z",
+    "duration_seconds": 170
+  },
   "next_poll_seconds": 10
 }
