@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-13T18:56:20-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T18:56:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rio",
+    "artist": "Duran Duran",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-13T23:56:31.6253436Z",
+    "duration_seconds": 270,
+    "year": "2015"
+  },
   "next_poll_seconds": 10
 }
