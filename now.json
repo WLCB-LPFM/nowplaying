@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T21:26:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T21:28:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Symphony of Destruction",
+    "artist": "Megadeth",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Megadeth_-_Symphony_Of_Destruction.jpg",
+    "started_at": "2026-08-14T02:28:02Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
