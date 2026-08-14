@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T20:55:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T20:57:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Space Lord",
+    "artist": "Monster Magnet",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Monster_Magnet_-_Space_Lord.jpg",
+    "started_at": "2026-08-14T01:57:18Z",
+    "duration_seconds": 356
+  },
   "next_poll_seconds": 10
 }
