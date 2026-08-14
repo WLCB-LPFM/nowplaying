@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T17:20:15-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T17:20:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Back In the Saddle",
+    "artist": "Aerosmith",
+    "album": "Rocks",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Back_In_The_Saddle.jpg",
+    "started_at": "2026-08-14T22:20:47Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
