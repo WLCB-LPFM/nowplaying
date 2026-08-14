@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-13T22:50:32-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T22:50:45-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Sweethearts On Parade",
-    "artist": "Louis Armstrong",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Sweethearts_On_Parade.jpg",
-    "started_at": "2026-08-14T03:49:27Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
