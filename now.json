@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T20:49:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T20:51:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Oceans",
-    "artist": "Pearl Jam",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pearl_Jam_-_Oceans.jpg",
-    "started_at": "2026-08-14T01:49:08Z",
-    "duration_seconds": 155
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
