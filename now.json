@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T20:04:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T20:12:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "GALA",
+    "artist": "XG",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/x/Xg_-_Gala.jpg",
+    "started_at": "2026-08-14T01:12:37Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
