@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T12:24:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T12:26:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Hang Up and Drive",
+    "artist": "Jimmy Thackery",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Thackery_-_Hang_Up_And_Drive.jpg",
+    "started_at": "2026-08-14T17:26:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
