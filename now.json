@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T14:12:18-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T14:18:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Honey Bad",
-    "artist": "Robert Cray & Hi Rhythm",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Robert_Cray_&_Hi_Rhythm.jpg",
-    "started_at": "2026-08-14T19:12:10Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
