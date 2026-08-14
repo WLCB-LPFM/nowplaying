@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T20:51:43-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T20:55:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Garden",
-    "artist": "Pearl Jam",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pearl_Jam_-_Garden.jpg",
-    "started_at": "2026-08-14T01:51:14Z",
-    "duration_seconds": 299
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
