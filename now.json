@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T16:03:45-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T16:04:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Smoke from a Distant Fire",
-    "artist": "Sanford Townsend Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sanford_Townsend_Band_-_Smoke_From_A_Distant_Fire.jpg",
-    "started_at": "2026-08-14T21:02:55Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
