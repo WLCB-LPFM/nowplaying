@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T18:17:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T18:18:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Someday We'll Be Together",
+    "artist": "Diana Ross & The Supremes",
+    "album": "Cream of the Crop",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Diana_Ross_&_The_Supremes_-_Someday_We'll_Be_Together.jpg",
+    "started_at": "2026-08-14T23:18:38Z",
+    "duration_seconds": 180
+  },
   "next_poll_seconds": 10
 }
