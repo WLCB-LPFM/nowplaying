@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T18:49:16-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T18:50:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hit the Target",
+    "artist": "Theo Katzman & 10 Good Songs",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-08-14T23:50:14Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
