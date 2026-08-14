@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T19:35:41-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T19:39:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Firestarter",
-    "artist": "The Prodigy",
-    "album": "Their Law the Singles 1990 - 2005",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Prodigy_-_Firestarter.jpg",
-    "started_at": "2026-08-14T00:35:23Z",
-    "duration_seconds": 280
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
