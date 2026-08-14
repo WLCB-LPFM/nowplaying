@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T17:00:20-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T17:01:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Do The Memphis Grind",
-    "artist": "Duke Robillard",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Robillard_-_Do_The_Memphis_Grind.jpg",
-    "started_at": "2026-08-14T21:55:28Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
