@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T21:53:09-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T21:58:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Fight Fire With Fire (Remastered)",
-    "artist": "Metallica",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Metallica_-_Fight_Fire_With_Fire_(Remastered).jpg",
-    "started_at": "2026-08-14T02:52:58Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
