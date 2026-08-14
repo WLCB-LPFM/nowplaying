@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T15:56:20-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T15:58:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Those Jeans",
-    "artist": "Ray Scott",
-    "album": "Rayality",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Scott_-_Those_Jeans.jpg",
-    "started_at": "2026-08-14T20:55:42Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
