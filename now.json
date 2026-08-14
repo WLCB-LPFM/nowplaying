@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T19:23:27-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T19:27:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "One",
-    "artist": "U2",
-    "album": "U218 Singles (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_One.jpg",
-    "started_at": "2026-08-14T00:22:56Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
