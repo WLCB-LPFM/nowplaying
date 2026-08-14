@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-13T22:03:42-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T22:06:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "In My Life",
+    "artist": "Veronica Mortensen",
+    "album": "Happiness... is not included",
+    "artwork_url": "",
+    "started_at": "2026-08-14T03:06:15.6773051Z",
+    "duration_seconds": 180,
+    "year": "2007"
+  },
   "next_poll_seconds": 10
 }
