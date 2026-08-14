@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T18:25:43-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T18:27:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Memory Lane",
-    "artist": "Minnie Riperton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Minnie_Riperton_-_Memory_Lane.jpg",
-    "started_at": "2026-08-14T23:25:38Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
