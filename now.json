@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T18:04:38-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T18:06:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Hot Fun In the Summertime",
-    "artist": "Sly Stone",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sly_Stone_-_Hot_Fun_In_The_Summertime.jpg",
-    "started_at": "2026-08-14T23:04:25Z",
-    "duration_seconds": 160
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
