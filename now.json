@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T20:16:14-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T20:35:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jerry Was a Race Car Driver",
+    "artist": "Primus",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Primus_-_Jerry_Was_A_Race_Car_Driver.jpg",
+    "started_at": "2026-08-14T01:35:41Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
