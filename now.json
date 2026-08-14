@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T19:53:32-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T19:54:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Every You Every Me",
-    "artist": "Placebo",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Placebo_-_Every_You_Every_Me.jpg",
-    "started_at": "2026-08-14T00:52:56Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
