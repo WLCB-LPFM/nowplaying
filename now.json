@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-14T03:40:12-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T03:40:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ko Ko",
-    "artist": "Duke Ellington and His Famous Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_And_His_Famous_Orchestra_-_Ko_Ko.jpg",
-    "started_at": "2026-08-14T08:38:58Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
