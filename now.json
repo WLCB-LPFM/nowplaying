@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-13T22:47:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-13T22:50:32-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Sweethearts on Parade",
-    "artist": "Louis Armstrong And His Orchestra",
-    "album": "When the Saints Go Marching In / Sweethearts on Parade",
-    "artwork_url": "",
-    "started_at": "2026-08-14T03:47:36.803832Z",
-    "duration_seconds": 189,
-    "year": "1944"
+    "title": "Sweethearts On Parade",
+    "artist": "Louis Armstrong",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Sweethearts_On_Parade.jpg",
+    "started_at": "2026-08-14T03:49:27Z",
+    "duration_seconds": 90
   },
   "next_poll_seconds": 10
 }
