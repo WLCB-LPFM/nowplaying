@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T20:00:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T20:03:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Human Behaviour",
+    "artist": "Bj\u00f6rk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bj\u00f6rk_-_Human_Behaviour.jpg",
+    "started_at": "2026-08-14T01:03:11Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
