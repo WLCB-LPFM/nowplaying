@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T17:49:59-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T17:52:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Get Ready",
-    "artist": "Rare Earth",
-    "album": "The Best of Rare Earth",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rare_Earth_-_Get_Ready.jpg",
-    "started_at": "2026-08-14T22:49:46Z",
-    "duration_seconds": 141
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
