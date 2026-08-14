@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T21:22:49-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T21:26:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I'm Broken",
-    "artist": "Pantera",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pantera_-_I'm_Broken.jpg",
-    "started_at": "2026-08-14T02:22:39Z",
-    "duration_seconds": 265
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
