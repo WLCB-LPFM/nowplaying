@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T18:46:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T18:49:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Sugar Sugar",
-    "artist": "Wilson Pickett",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wilson_Pickett_-_Sugar_Sugar.jpg",
-    "started_at": "2026-08-14T23:46:23Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
