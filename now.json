@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T17:58:24-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T17:58:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Everything's Coming Our Way",
+    "artist": "Santana",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_Everything's_Coming_Our_Way.jpg",
+    "started_at": "2026-08-14T22:58:54Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
