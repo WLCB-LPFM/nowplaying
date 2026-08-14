@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T17:17:49-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T17:18:57-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Rock You Like a Hurricane (Re-Recorded)",
+    "artist": "Scorpions",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Scorpions_-_Rock_You_Like_A_Hurricane_(Re-recorded).jpg",
+    "started_at": "2026-08-14T22:18:50Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
