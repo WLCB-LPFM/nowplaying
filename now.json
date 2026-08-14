@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T13:01:02-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T13:02:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Up and Adam (feat. Harvey Mason)",
-    "artist": "Larry Carlton & Lee Ritenour",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Larry_Carlton_&_Lee_Ritenour.jpg",
-    "started_at": "2026-08-14T18:00:45Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
