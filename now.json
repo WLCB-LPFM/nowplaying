@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T18:21:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T18:22:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You've Got My Soul On Fire",
+    "artist": "The Temptations",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_You've_Got_My_Soul_On_Fire.jpg",
+    "started_at": "2026-08-14T23:21:51Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
