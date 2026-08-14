@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T13:44:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T13:46:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "(You Caught Me) Smilin' [Single Version]",
-    "artist": "Sly & The Family Stone",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sly_&_The_Family_Stone.jpg",
-    "started_at": "2026-08-14T18:43:49Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
