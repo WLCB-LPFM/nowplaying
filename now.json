@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T13:02:10-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T13:03:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Vibe With Me",
+    "artist": "D.K. Harrell",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/D.k._Harrell_-_Vibe_With_Me.jpg",
+    "started_at": "2026-08-14T18:03:01Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
