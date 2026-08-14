@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-14T02:23:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T02:24:26-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Four or Five Times",
+    "artist": "Jimmie Noone's Apex Club Orchestra",
+    "album": "At The Apex Club Volume 1 (1928)",
+    "artwork_url": "",
+    "started_at": "2026-08-14T07:24:15.5360171Z",
+    "duration_seconds": 187,
+    "year": "1967"
+  },
   "next_poll_seconds": 10
 }
