@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T14:22:30-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T14:28:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Crucifyin'",
-    "artist": "Vivian Hayes & The Hi-Praise",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-08-14T19:22:18Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
