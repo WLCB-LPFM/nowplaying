@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T21:02:53-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T21:08:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "How the Gods Kill",
-    "artist": "Danzig",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Danzig_-_How_The_Gods_Kill.jpg",
-    "started_at": "2026-08-14T02:02:48Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
