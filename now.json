@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T19:44:47-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T19:45:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "No Rain",
-    "artist": "Blind Melon",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blind_Melon_-_No_Rain.jpg",
-    "started_at": "2026-08-14T00:44:40Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
