@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T16:11:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T16:14:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Long Cut",
-    "artist": "Uncle Tupelo",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Uncle_Tupelo_-_The_Long_Cut.jpg",
-    "started_at": "2026-08-14T21:11:45Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
