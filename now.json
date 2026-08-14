@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T21:08:38-05:00",
-  "source": "fallback",
+  "generated": "2026-08-13T21:10:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "November Rain",
+    "artist": "Guns N' Roses",
+    "album": "Use Your Illusion I",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Guns_N'_Roses_-_November_Rain.jpg",
+    "started_at": "2026-08-14T02:10:01Z",
+    "duration_seconds": 469
+  },
   "next_poll_seconds": 10
 }
