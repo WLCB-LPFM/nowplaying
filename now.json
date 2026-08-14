@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T19:49:48-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T19:52:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Midlife Crisis",
-    "artist": "Faith No More",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Faith_No_More_-_Midlife_Crisis.jpg",
-    "started_at": "2026-08-14T00:48:25Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
