@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T19:57:49-05:00",
-  "source": "autopost",
+  "generated": "2026-08-13T20:00:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Impression That I Get",
-    "artist": "The Mighty Mighty Bosstones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Mighty_Mighty_Bosstones_-_The_Impression_That_I_Get.jpg",
-    "started_at": "2026-08-14T00:57:39Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
