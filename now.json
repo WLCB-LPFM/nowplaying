@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-15T16:34:57-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-15T16:39:14-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'm Bad",
-    "artist": "LL Cool J",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-15T21:34:49.1684312Z",
-    "duration_seconds": 279,
-    "year": "2019"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
