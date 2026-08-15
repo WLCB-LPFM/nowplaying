@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T10:05:06-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T10:33:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Can't Fight This Feeling",
+    "artist": "REO Speedwagon",
+    "album": "Wheels Are Turnin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Reo_Speedwagon_-_Can't_Fight_This_Feeling.jpg",
+    "started_at": "2026-08-15T15:33:01Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
