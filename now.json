@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T19:43:50-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T19:44:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Blinding Lights",
-    "artist": "The Weeknd",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Weeknd_-_Blinding_Lights.jpg",
-    "started_at": "2026-08-15T00:43:38Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
