@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T20:02:27-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T20:06:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Hey, Johnny Park!",
-    "artist": "Foo Fighters",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foo_Fighters_-_Hey,_Johnny_Park!.jpg",
-    "started_at": "2026-08-15T01:02:23Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
