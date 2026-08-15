@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-15T02:57:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-15T02:59:52-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Lady Bird",
-    "artist": "Tadd Dameron Sextet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 3",
-    "artwork_url": "",
-    "started_at": "2026-08-15T07:57:12.5226547Z",
-    "duration_seconds": 167,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
