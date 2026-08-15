@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T19:03:34-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T19:05:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "No Matter What Shape (Your Stomach's In) [Rerecorded]",
-    "artist": "The T-Bones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_T-bones.jpg",
-    "started_at": "2026-08-15T00:03:26Z",
-    "duration_seconds": 145
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
