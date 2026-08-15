@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T19:56:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T20:02:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Finish Line",
-    "artist": "Skillet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Skillet_-_Finish_Line.jpg",
-    "started_at": "2026-08-15T00:56:15Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
