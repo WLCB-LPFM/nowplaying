@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T19:45:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T19:48:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Blinding Lights (Remix)",
-    "artist": "The Weeknd & ROSAL\u00cdA",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Weeknd_&_Rosal\u00cda.jpg",
-    "started_at": "2026-08-15T00:45:15Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
