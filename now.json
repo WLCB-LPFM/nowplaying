@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-15T00:19:03-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T00:19:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Bare Essentials",
+    "artist": "Jason Weber",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Bare_Essentials.jpg",
+    "started_at": "2026-08-15T05:19:39Z",
+    "duration_seconds": 274
+  },
   "next_poll_seconds": 10
 }
