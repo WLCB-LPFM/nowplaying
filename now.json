@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T11:09:22-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T11:11:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Respect",
-    "artist": "Aretha Franklin",
-    "album": "I Never Loved a Man the Way I Love You",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_Respect.jpg",
-    "started_at": "2026-08-15T16:09:17Z",
-    "duration_seconds": 123
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
