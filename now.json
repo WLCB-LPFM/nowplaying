@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-15T03:29:26-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-15T03:32:02-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Koko",
-    "artist": "Charlie Parker\u2019s Ree Boppers",
-    "album": "Boss Bird!",
-    "artwork_url": "",
-    "started_at": "2026-08-15T08:29:23.4916709Z",
-    "duration_seconds": 171,
-    "year": "1998"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
