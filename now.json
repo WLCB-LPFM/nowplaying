@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-15T13:28:52-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T13:29:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Run To You (Classic Version)",
-    "artist": "Bryan Adams",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bryan_Adams_-_Run_To_You_(Classic_Version).jpg",
-    "started_at": "2026-08-15T18:25:19Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
