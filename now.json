@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T19:28:38-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T19:32:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Not in the Right Way",
+    "artist": "Ivy Ford",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Ivy_Ford_-_Not_In_The_Right_Way.jpg",
+    "started_at": "2026-08-15T00:32:27Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
