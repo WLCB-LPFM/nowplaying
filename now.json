@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-15T06:26:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T06:26:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Humpty Dance",
-    "artist": "Digital Underground",
-    "album": "Sex Packets",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Digital_Underground_-_The_Humpty_Dance.jpg",
-    "started_at": "2026-08-15T11:23:28Z",
-    "duration_seconds": 222
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
