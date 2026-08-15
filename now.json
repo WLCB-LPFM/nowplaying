@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T20:44:15-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T20:50:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Blue Jean Blues (Live)",
-    "artist": "The Jeff Healey Band",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d7324fdd202ce6ca79d87f53a4b510e8.png",
-    "started_at": "2026-08-15T01:44:12Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
