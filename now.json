@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-15T00:24:03-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T00:25:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Deep Ground",
+    "artist": "Marilyn Mazur",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marilyn_Mazur_-_Deep_Ground.jpg",
+    "started_at": "2026-08-15T05:25:05Z",
+    "duration_seconds": 327
+  },
   "next_poll_seconds": 10
 }
