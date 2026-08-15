@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-15T15:16:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T15:17:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sussudio",
+    "artist": "Phil Collins",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-15T20:17:07.7255184Z",
+    "duration_seconds": 247,
+    "year": "1985"
+  },
   "next_poll_seconds": 10
 }
