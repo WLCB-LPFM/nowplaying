@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-14T23:21:57-05:00",
-  "source": "fallback",
+  "generated": "2026-08-14T23:22:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Don't Want to Talk About It",
+    "artist": "Inger Marie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inger_Marie_-_I_Don't_Want_To_Talk_About_It.jpg",
+    "started_at": "2026-08-15T04:22:20Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
