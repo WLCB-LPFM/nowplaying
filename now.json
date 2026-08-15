@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T11:36:23-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T11:39:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Touch Me In the Morning",
-    "artist": "Diana Ross",
-    "album": "The Motown Anthology",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Diana_Ross_-_Touch_Me_In_The_Morning.jpg",
-    "started_at": "2026-08-15T16:36:16Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
