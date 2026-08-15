@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T21:17:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T21:22:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Creep",
-    "artist": "Stone Temple Pilots",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stone_Temple_Pilots_-_Creep.jpg",
-    "started_at": "2026-08-15T02:17:04Z",
-    "duration_seconds": 333
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
