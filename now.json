@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T21:25:17-05:00",
-  "source": "autopost",
+  "generated": "2026-08-14T21:30:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Hit the Road",
-    "artist": "Judy Rudin",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-08-15T02:25:00Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
