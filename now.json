@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T17:56:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T17:58:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Me Myself and I",
+    "artist": "De La Soul",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/De_La_Soul_-_Me_Myself_And_I.jpg",
+    "started_at": "2026-08-15T22:58:47Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
