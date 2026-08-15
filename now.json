@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T17:18:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T17:19:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Same Song",
-    "artist": "Digital Underground",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Digital_Underground_-_Same_Song.jpg",
-    "started_at": "2026-08-15T22:18:06Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
