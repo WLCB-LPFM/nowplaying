@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T08:03:53-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T09:32:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "I Don't Want to Lose You",
+    "artist": "REO Speedwagon",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Reo_Speedwagon_-_I_Don't_Want_To_Lose_You.jpg",
+    "started_at": "2026-08-15T14:32:34Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
