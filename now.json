@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-15T01:47:50-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T01:48:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "No Clue",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "",
+    "started_at": "2026-08-15T06:48:04.8807425Z",
+    "duration_seconds": 236,
+    "year": "1996"
+  },
   "next_poll_seconds": 10
 }
