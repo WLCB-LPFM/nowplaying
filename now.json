@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-15T03:36:53-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T03:37:16-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Nature Boy",
-    "artist": "Rony Verbiest",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rony_Verbiest_-_Nature_Boy.jpg",
-    "started_at": "2026-08-15T08:32:36Z",
-    "duration_seconds": 295
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
