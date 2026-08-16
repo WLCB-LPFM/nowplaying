@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-16T07:03:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T07:03:31-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "R.A.F. Choruses; She'll Be Comin' Round the Mountain; I've Got a Sixpence; Bless 'em All",
+    "artist": "Royal Air Force",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-16T12:03:26.6643761Z",
+    "duration_seconds": 170,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
