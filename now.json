@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-16T08:00:05-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T08:02:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ticketyboo",
+    "artist": "Johnny Jones and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-16T13:02:18.2597108Z",
+    "duration_seconds": 192,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
