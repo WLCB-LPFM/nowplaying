@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T22:22:34-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T22:28:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Three Little Words",
-    "artist": "Sonny Rollins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sonny_Rollins_-_Three_Little_Words.jpg",
-    "started_at": "2026-08-16T03:22:33Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
