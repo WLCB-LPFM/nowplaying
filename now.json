@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T06:02:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T06:04:56-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "When Manuel Shakes His Maracas",
-    "artist": "The Good-Fellows",
+    "title": "When Manuel Shakes His Maracas (with Harold Grant and His Orchestra)",
+    "artist": "The Good Fellows",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T11:02:26.0746457Z",
-    "duration_seconds": 161,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Good_Fellows.jpg",
+    "started_at": "2026-08-16T11:02:41Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
