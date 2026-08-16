@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T09:49:25-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T09:51:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Frankie And Johnny",
+    "artist": "Bunny Berigan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bunny_Berigan_-_Frankie_And_Johnny.jpg",
+    "started_at": "2026-08-16T14:51:31Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
