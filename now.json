@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T10:05:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T10:06:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Abba Dabba",
+    "artist": "Larry Clinton",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9bc99f7735e5eaa98bbea59fc9697441.png",
+    "started_at": "2026-08-16T15:06:26Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
