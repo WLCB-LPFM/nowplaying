@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T20:01:43-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T20:04:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "My Hood",
+    "artist": "Young Jeezy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young_Jeezy_-_My_Hood.jpg",
+    "started_at": "2026-08-16T01:04:50Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
