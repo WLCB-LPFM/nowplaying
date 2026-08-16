@@ -1,16 +1,17 @@
 {
-  "generated": "2026-08-16T15:31:09-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T15:31:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "June Night",
-    "artist": "Svend Asmussen",
+    "title": "Night and Day",
+    "artist": "Paul Whiteman and his Concert Orchestra",
     "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Svend_Asmussen_-_June_Night.jpg",
-    "started_at": "2026-08-16T20:29:10Z",
-    "duration_seconds": null
+    "artwork_url": "",
+    "started_at": "2026-08-16T20:31:21.4365084Z",
+    "duration_seconds": 250,
+    "year": "1942"
   },
   "next_poll_seconds": 10
 }
