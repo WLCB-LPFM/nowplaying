@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T07:35:27-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T07:37:09-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Together",
-    "artist": "Martha Raye; Ray; dePaul",
+    "artist": "Martha Raye",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T12:35:25.3314251Z",
-    "duration_seconds": 115,
-    "year": "1941"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Martha_Raye_-_Together.jpg",
+    "started_at": "2026-08-16T12:35:39Z",
+    "duration_seconds": 121
   },
   "next_poll_seconds": 10
 }
