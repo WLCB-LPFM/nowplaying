@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T17:13:17-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T17:19:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Happy Feelin's",
-    "artist": "Maze & Frankie Beverly",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Maze_&_Frankie_Beverly.jpg",
-    "started_at": "2026-08-16T22:12:59Z",
-    "duration_seconds": 433
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
