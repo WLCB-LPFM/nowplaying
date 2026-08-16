@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T22:15:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T22:17:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Round Midnight",
+    "artist": "Hank Jones",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a3851e490a4baa3f2ce5e1ebd187c80c.png",
+    "started_at": "2026-08-16T03:16:56Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
