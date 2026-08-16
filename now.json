@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T16:03:18-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T16:04:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Breezin' (2003 Remaster)",
-    "artist": "George Benson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/George_Benson.jpg",
-    "started_at": "2026-08-16T21:03:02Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
