@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T22:43:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T22:47:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Call Me",
+    "artist": "Della Reese",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Della_Reese_-_Call_Me.jpg",
+    "started_at": "2026-08-16T03:47:14Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
