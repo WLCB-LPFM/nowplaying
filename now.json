@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T16:58:17-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T17:04:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Voyage to Atlantis",
+    "artist": "The Isley Brothers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Isley_Brothers_-_Voyage_To_Atlantis.jpg",
+    "started_at": "2026-08-16T22:04:15Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
