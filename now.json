@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T08:20:46-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T08:23:44-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Wishing Well",
-    "artist": "The Good-Fellow; Harold Grant & his Orchestra",
+    "title": "The Wishing Well (with Harold Grant and His Orchestra)",
+    "artist": "The Good Fellows",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T13:20:44.4342861Z",
-    "duration_seconds": 185,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Good_Fellows.jpg",
+    "started_at": "2026-08-16T13:21:41Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
