@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T08:11:55-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T08:14:21-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Indian Summer (1940)",
-    "artist": "Richard Tauber; Al Dubin",
+    "title": "Indian Summer",
+    "artist": "Richard Tauber",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T13:11:45.3022724Z",
-    "duration_seconds": 167,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Richard_Tauber_-_Indian_Summer.jpg",
+    "started_at": "2026-08-16T13:12:07Z",
+    "duration_seconds": 171
   },
   "next_poll_seconds": 10
 }
