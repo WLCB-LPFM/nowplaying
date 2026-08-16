@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T18:33:45-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T18:37:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Supernaut",
-    "artist": "Black Sabbath",
-    "album": "Black Sabbath, Vol. 4",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Sabbath_-_Supernaut.jpg",
-    "started_at": "2026-08-16T23:33:34Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
