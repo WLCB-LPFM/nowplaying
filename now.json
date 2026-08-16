@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T19:10:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-15T19:16:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Warm It Up (Instrumental)",
+    "artist": "Kris Kross",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kris_Kross_-_Warm_It_Up_(Instrumental).jpg",
+    "started_at": "2026-08-16T00:16:22Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
