@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T06:32:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T06:35:35-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "What's the Matter With Dixie (1940)",
-    "artist": "Phil Harris and his Orchestra",
+    "title": "What's The Matter With Dixie?",
+    "artist": "Phil Harris",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T11:32:57.1184524Z",
-    "duration_seconds": 163,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Phil_Harris_-_What's_The_Matter_With_Dixie?.jpg",
+    "started_at": "2026-08-16T11:34:45Z",
+    "duration_seconds": 150
   },
   "next_poll_seconds": 10
 }
