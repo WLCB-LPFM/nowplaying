@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T09:00:06-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T09:04:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Sent For You Yesterday And Here You Come Today",
+    "artist": "Count Basie and His Orchestra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_And_His_Orchestra_-_Sent_For_You_Yesterday_And_Here_You_Come_Today.jpg",
+    "started_at": "2026-08-16T14:04:01Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
