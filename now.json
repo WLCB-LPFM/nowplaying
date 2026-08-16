@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T18:37:05-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T18:38:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Dolly Dagger",
+    "artist": "Jimi Hendrix",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimi_Hendrix_-_Dolly_Dagger.jpg",
+    "started_at": "2026-08-16T23:37:45Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
