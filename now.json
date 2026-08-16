@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-16T02:05:42-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T02:06:16-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "BrainFreez",
-    "artist": "Jason Weber",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Brainfreez.jpg",
-    "started_at": "2026-08-16T07:01:05Z",
-    "duration_seconds": 317
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
