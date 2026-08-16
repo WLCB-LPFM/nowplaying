@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T20:18:24-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T20:21:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "No Sucker",
-    "artist": "Lil Baby & Moneybagg Yo",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lil_Baby_&_Moneybagg_Yo_-_No_Sucker.jpg",
-    "started_at": "2026-08-16T01:18:06Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
