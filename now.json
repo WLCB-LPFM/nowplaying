@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T06:24:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T06:27:53-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Boog-It (1940)",
-    "artist": "Harry James and his Orchestra; Jack Palmer",
+    "title": "Boog It",
+    "artist": "Harry James and His Orchestra",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T11:24:45.2586369Z",
-    "duration_seconds": 195,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_James_And_His_Orchestra.jpg",
+    "started_at": "2026-08-16T11:24:56Z",
+    "duration_seconds": 202
   },
   "next_poll_seconds": 10
 }
