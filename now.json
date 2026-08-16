@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T17:23:41-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T17:27:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "This Is for the Lover in You",
-    "artist": "Shalamar",
-    "album": "Three for Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shalamar_-_This_Is_For_The_Lover_In_You.jpg",
-    "started_at": "2026-08-16T22:23:33Z",
-    "duration_seconds": 273
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
