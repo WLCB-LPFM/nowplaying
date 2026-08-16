@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T17:33:55-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T17:34:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "That's The Way Of The World (Live)",
-    "artist": "Earth, Wind & Fire",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Earth,_Wind_&_Fire.jpg",
-    "started_at": "2026-08-16T22:33:26Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
