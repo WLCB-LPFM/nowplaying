@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T18:58:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T18:58:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Raging River of Fear",
+    "artist": "Captain Beyond",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Captain_Beyond_-_Raging_River_Of_Fear.jpg",
+    "started_at": "2026-08-16T23:58:37Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
