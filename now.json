@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-16T06:27:53-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T06:28:05-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Boog It",
-    "artist": "Harry James and His Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_James_And_His_Orchestra.jpg",
-    "started_at": "2026-08-16T11:24:56Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
