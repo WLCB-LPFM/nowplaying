@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T22:53:23-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T22:59:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Bewitched",
-    "artist": "Andr\u00e9 Previn",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fb44fefe1f02d98df207642a607ade78.png",
-    "started_at": "2026-08-16T03:53:16Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
