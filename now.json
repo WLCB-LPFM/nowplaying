@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-16T07:21:55-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T07:24:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Johnny Private",
-    "artist": "Happy Jim Parsons and the Boys of Company B",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T12:21:54.5912497Z",
-    "duration_seconds": 150,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
