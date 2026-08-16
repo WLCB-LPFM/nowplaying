@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T08:42:58-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T08:45:13-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Honeysuckle Rose",
-    "artist": "Rose Murphy; Razaf; Waller",
+    "artist": "Rose Murphy",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T13:42:53.3232738Z",
-    "duration_seconds": 153,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rose_Murphy_-_Honeysuckle_Rose.jpg",
+    "started_at": "2026-08-16T13:44:04Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
