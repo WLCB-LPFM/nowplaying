@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T08:17:45-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T08:20:33-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Missouri Waltz (1940)",
+    "title": "Missouri Waltz",
     "artist": "The Three Suns",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T13:17:43.2638593Z",
-    "duration_seconds": 180,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Three_Suns.jpg",
+    "started_at": "2026-08-16T13:19:08Z",
+    "duration_seconds": 189
   },
   "next_poll_seconds": 10
 }
