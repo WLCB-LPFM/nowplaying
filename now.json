@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T22:29:14-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T22:34:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Don't Go to Strangers",
-    "artist": "Etta James",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Etta_James_-_Don't_Go_To_Strangers.jpg",
-    "started_at": "2026-08-16T03:29:09Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
