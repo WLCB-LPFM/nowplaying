@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T19:09:39-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T19:10:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Get Ready for This (Yar Rap Edit)",
-    "artist": "2 Unlimited",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/2/2_Unlimited_-_Get_Ready_For_This_(Yar_Rap_Edit).jpg",
-    "started_at": "2026-08-16T00:09:34Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
