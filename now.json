@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T16:15:34-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T16:17:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Giving Him Something He Can Feel",
-    "artist": "En Vogue",
-    "album": "The Very Best of En Vogue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/En_Vogue_-_Giving_Him_Something_He_Can_Feel.jpg",
-    "started_at": "2026-08-16T21:15:24Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
