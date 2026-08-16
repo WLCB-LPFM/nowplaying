@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T17:19:57-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T17:20:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Members Only",
+    "artist": "Bobby 'Blue' Bland",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_'blue'_Bland_-_Members_Only.jpg",
+    "started_at": "2026-08-16T22:19:42Z",
+    "duration_seconds": 249
+  },
   "next_poll_seconds": 10
 }
