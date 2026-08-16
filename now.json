@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T18:14:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T18:14:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Happy Together",
+    "artist": "Flo & Eddie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/f/Flo_&_Eddie.jpg",
+    "started_at": "2026-08-16T23:14:22Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
