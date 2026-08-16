@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T20:21:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-15T20:25:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Antidote",
-    "artist": "Travis Scott",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Travis_Scott_-_Antidote.jpg",
-    "started_at": "2026-08-16T01:21:34Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
