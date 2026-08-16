@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T17:45:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T17:50:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "This Will Be (An Everlasting Love)",
+    "artist": "Natalie Cole",
+    "album": "Inseparable",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Natalie_Cole_-_This_Will_Be_(An_Everlasting_Love).jpg",
+    "started_at": "2026-08-16T22:50:15Z",
+    "duration_seconds": 170
+  },
   "next_poll_seconds": 10
 }
