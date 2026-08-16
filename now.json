@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T10:52:41-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T10:58:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Boo Hoo",
-    "artist": "Guy Lombardo",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Guy_Lombardo_-_Boo_Hoo.jpg",
-    "started_at": "2026-08-16T15:52:30Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
