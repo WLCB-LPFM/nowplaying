@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-16T06:53:56-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T06:54:08-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Can't Give You Anything But Love (1940)",
+    "artist": "Casper Beardon and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-16T11:54:04.2289864Z",
+    "duration_seconds": 152,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
