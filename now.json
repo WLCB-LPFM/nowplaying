@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-16T15:28:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T15:31:09-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "June Night (1940)",
-    "artist": "Asmussen Trio; Baer; Friend",
+    "title": "June Night",
+    "artist": "Svend Asmussen",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-16T20:28:27.9285247Z",
-    "duration_seconds": 173,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Svend_Asmussen_-_June_Night.jpg",
+    "started_at": "2026-08-16T20:29:10Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
