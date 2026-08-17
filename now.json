@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-16T21:41:49-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-16T21:47:12-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "No Funkin' Way",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-08-17T02:41:40.501899Z",
-    "duration_seconds": 340,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
