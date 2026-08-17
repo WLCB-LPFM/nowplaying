@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T20:17:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T20:20:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Harvest for the World",
+    "artist": "The Isley Brothers",
+    "album": "Harvest for the World (Bonus Track Version)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Isley_Brothers_-_Harvest_For_The_World.jpg",
+    "started_at": "2026-08-17T01:20:20Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
