@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-16T23:21:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T23:28:14-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "There's Nothing On The Radio",
+    "artist": "Graham Parker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Graham_Parker_-_There's_Nothing_On_The_Radio.jpg",
+    "started_at": "2026-08-17T04:28:11Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
