@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T20:45:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-16T20:47:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Take the Money and Run",
-    "artist": "Steve Miller Band",
-    "album": "The Very Best Of The Steve Miller Band",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Miller_Band_-_Take_The_Money_And_Run.jpg",
-    "started_at": "2026-08-17T01:45:07Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
