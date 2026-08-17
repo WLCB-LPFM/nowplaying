@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T20:28:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T20:30:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Whatcha Gonna Do",
+    "artist": "Peter Tosh",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Tosh_-_Whatcha_Gonna_Do.jpg",
+    "started_at": "2026-08-17T01:29:55Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
