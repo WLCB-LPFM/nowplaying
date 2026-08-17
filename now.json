@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T20:55:53-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T20:57:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Hello Old Friend",
+    "artist": "Eric Clapton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Hello_Old_Friend.jpg",
+    "started_at": "2026-08-17T01:57:50Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
