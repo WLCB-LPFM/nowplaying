@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-17T13:59:55-05:00",
-  "source": "fallback",
+  "generated": "2026-08-17T14:00:18-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Here We Go, Let's Rock & Roll (feat. Freedom Williams & Zelma Davis)",
+    "artist": "C+C Music Factory",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/C_C_Music_Factory.jpg",
+    "started_at": "2026-08-17T19:00:10Z",
+    "duration_seconds": 341
+  },
   "next_poll_seconds": 10
 }
