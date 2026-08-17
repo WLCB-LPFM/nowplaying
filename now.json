@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T19:16:56-05:00",
-  "source": "fallback",
+  "generated": "2026-08-16T19:23:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Fragile (feat. Kendrick Lamar, \u00a1MAYDAY! & Kendall Morgan)",
+    "artist": "Tech N9ne",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tech_N9ne.jpg",
+    "started_at": "2026-08-17T00:23:14Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
