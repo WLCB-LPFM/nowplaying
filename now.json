@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-17T05:20:09-05:00",
-  "source": "autopost",
+  "generated": "2026-08-17T05:20:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Oye Como Va",
-    "artist": "SAP Big Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sap_Big_Band_-_Oye_Como_Va.jpg",
-    "started_at": "2026-08-17T10:14:28Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
