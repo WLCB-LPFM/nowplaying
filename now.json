@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18T16:52:12-05:00",
-  "source": "fallback",
+  "generated": "2026-08-18T16:52:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Party Fears Two",
+    "artist": "The Associates",
+    "album": "Sulk",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Associates_-_Party_Fears_Two.jpg",
+    "started_at": "2026-08-18T21:52:43Z",
+    "duration_seconds": 403
+  },
   "next_poll_seconds": 10
 }
