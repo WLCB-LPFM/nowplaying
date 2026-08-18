@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18T15:12:25-05:00",
-  "source": "autopost",
+  "generated": "2026-08-18T15:13:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Celebration",
-    "artist": "Kool & The Gang",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kool_&_The_Gang_-_Celebration.jpg",
-    "started_at": "2026-08-18T20:12:14Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
