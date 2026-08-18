@@ -1,17 +1,25 @@
 {
-  "generated": "2026-08-18T06:59:28-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-08-18T07:00:02-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
     "title": "The Humpty Dance",
     "artist": "Digital Underground",
     "album": "Sex Packets",
     "artwork_url": "https://cdn.autopo.st/images/coverart/d/Digital_Underground_-_The_Humpty_Dance.jpg",
-    "started_at": "2026-08-18T11:58:33.4789566Z",
-    "duration_seconds": 285,
-    "year": "1990"
+    "started_at": "2026-08-18T11:59:21Z",
+    "duration_seconds": 222
   },
   "next_poll_seconds": 10
 }
