@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-18T12:03:57-05:00",
-  "source": "fallback",
+  "generated": "2026-08-18T12:04:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Baby Got Back",
+    "artist": "Sir Mix-a-Lot",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sir_Mix-a-lot_-_Baby_Got_Back.jpg",
+    "started_at": "2026-08-18T17:04:01.1254086Z",
+    "duration_seconds": 252,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
