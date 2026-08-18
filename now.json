@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-18T03:45:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-18T03:46:08-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Can\u2019t Help If I\u2019m Still in Love With You",
+    "artist": "Lisa Bassenge",
+    "album": "The Best Jazz Audiophile Recommended, Volume 4",
+    "artwork_url": "",
+    "started_at": "2026-08-18T08:45:59.4177597Z",
+    "duration_seconds": 163,
+    "year": "2006"
+  },
   "next_poll_seconds": 10
 }
