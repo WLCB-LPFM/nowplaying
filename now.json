@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-17T19:08:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-17T19:08:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "And Fools Shine On",
+    "artist": "Brother Cane",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-18T00:08:08.6115245Z",
+    "duration_seconds": 267,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
