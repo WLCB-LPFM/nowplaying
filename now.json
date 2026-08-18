@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-18T11:12:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-18T11:12:48-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Uptown Girl",
+    "artist": "Billy Joel",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-18T16:12:44.6272001Z",
+    "duration_seconds": 189,
+    "year": "2013"
+  },
   "next_poll_seconds": 10
 }
