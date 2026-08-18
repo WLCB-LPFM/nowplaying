@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-18T13:41:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-18T13:41:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sexy and I Know It",
+    "artist": "LMFAO",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-18T18:41:12.8011951Z",
+    "duration_seconds": 222,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
