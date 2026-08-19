@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T12:36:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-19T12:37:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Blues In The Night",
+    "artist": "Jimmy Smith",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmy_Smith_-_Blues_In_The_Night.jpg",
+    "started_at": "2026-08-19T17:37:20Z",
+    "duration_seconds": 289
+  },
   "next_poll_seconds": 10
 }
