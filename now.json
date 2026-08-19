@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T14:02:13-05:00",
-  "source": "autopost",
+  "generated": "2026-08-19T14:08:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Mistake Kindness for Weakness",
-    "artist": "Albert Collins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Albert_Collins_-_Don't_Mistake_Kindness_For_Weakness.jpg",
-    "started_at": "2026-08-19T19:02:08Z",
-    "duration_seconds": 370
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
