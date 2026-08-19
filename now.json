@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T08:43:12-05:00",
-  "source": "fallback",
+  "generated": "2026-08-19T08:43:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "7 Days",
+    "artist": "Craig David",
+    "album": "Born to Do It",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Craig_David_-_7_Days.jpg",
+    "started_at": "2026-08-19T13:43:43Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
