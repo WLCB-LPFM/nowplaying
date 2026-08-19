@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-19T15:06:37-05:00",
-  "source": "fallback",
+  "generated": "2026-08-19T15:06:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "December",
+    "artist": "Collective Soul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-19T20:06:47.7878226Z",
+    "duration_seconds": 239,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
