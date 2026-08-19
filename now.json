@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18T22:38:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-18T22:39:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "I'm The Slime",
+    "artist": "Frank Zappa & The Mothers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Zappa_&_The_Mothers_-_I'm_The_Slime.jpg",
+    "started_at": "2026-08-19T03:39:35Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
