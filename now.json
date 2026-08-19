@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-19T00:33:10-05:00",
-  "source": "fallback",
+  "generated": "2026-08-19T00:33:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Struttin' With Some Barbecue",
+    "artist": "Louis Armstrong And His Hot Five",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-08-19T05:33:25.3619827Z",
+    "duration_seconds": 178,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
