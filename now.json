@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-19T05:00:55-05:00",
-  "source": "fallback",
+  "generated": "2026-08-19T05:02:47-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tomato Jam",
+    "artist": "Jason Weber",
+    "album": "1st Avenue",
+    "artwork_url": "",
+    "started_at": "2026-08-19T10:02:39.5801083Z",
+    "duration_seconds": 292,
+    "year": "1996"
+  },
   "next_poll_seconds": 10
 }
