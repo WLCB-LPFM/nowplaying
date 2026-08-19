@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T12:43:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-19T12:48:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Sweatin'",
-    "artist": "Joe Pass",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Joe_Pass.jpg",
-    "started_at": "2026-08-19T17:42:50Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
