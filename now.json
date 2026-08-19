@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T09:54:35-05:00",
-  "source": "autopost",
+  "generated": "2026-08-19T09:55:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Down To Houston",
-    "artist": "Duane Betts",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duane_Betts_-_Down_To_Houston.jpg",
-    "started_at": "2026-08-19T14:54:00Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
