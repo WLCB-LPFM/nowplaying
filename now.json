@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18T21:58:52-05:00",
-  "source": "fallback",
+  "generated": "2026-08-18T22:01:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "The City Sleeps",
+    "artist": "MC 900 Ft. Jesus",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mc_900_Ft._Jesus_-_The_City_Sleeps.jpg",
+    "started_at": "2026-08-19T03:01:43Z",
+    "duration_seconds": 281
+  },
   "next_poll_seconds": 10
 }
