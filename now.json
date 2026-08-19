@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T12:29:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-19T12:32:59-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Young Rabbits",
+    "artist": "The Jazz Crusaders",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jazz_Crusaders_-_The_Young_Rabbits.jpg",
+    "started_at": "2026-08-19T17:32:51Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
