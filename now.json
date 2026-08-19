@@ -1,23 +1,17 @@
 {
-  "generated": "2026-08-19T18:32:48-05:00",
-  "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "15:00",
-    "ends": "19:00",
-    "genre": null
-  },
+  "generated": "2026-08-19T18:33:44-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
-    "title": "Livin' On A Prayer",
+    "title": "Livin\u2019 on a Prayer",
     "artist": "Bon Jovi",
     "album": "Slippery When Wet",
     "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_Livin'_On_A_Prayer.jpg",
-    "started_at": "2026-08-19T23:31:45Z",
-    "duration_seconds": 212
+    "started_at": "2026-08-19T23:31:19.4629668Z",
+    "duration_seconds": 237,
+    "year": "1986"
   },
   "next_poll_seconds": 10
 }
