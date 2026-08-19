@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-18T19:25:46-05:00",
-  "source": "autopost",
+  "generated": "2026-08-18T19:25:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Love Don't Cost a Thing",
-    "artist": "Jennifer Lopez",
-    "album": "J. Lo",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jennifer_Lopez_-_Love_Don't_Cost_A_Thing.jpg",
-    "started_at": "2026-08-19T00:22:26Z",
-    "duration_seconds": 224
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
