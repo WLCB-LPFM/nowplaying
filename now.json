@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18T22:34:34-05:00",
-  "source": "fallback",
+  "generated": "2026-08-18T22:35:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "El Diablo",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_El_Diablo.jpg",
+    "started_at": "2026-08-19T03:34:34Z",
+    "duration_seconds": 262
+  },
   "next_poll_seconds": 10
 }
