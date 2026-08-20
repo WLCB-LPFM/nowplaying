@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-20T11:53:48-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-20T11:54:01-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You May Be Right",
-    "artist": "Billy Joel",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-20T16:50:13.177453Z",
-    "duration_seconds": 242,
-    "year": "2013"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
