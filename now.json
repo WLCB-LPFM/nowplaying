@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T20:48:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-19T20:54:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Talyllyn Railway",
-    "artist": "Indignation Meeting",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ada3d8ca4212bc496d4425bdf859db3d.png",
-    "started_at": "2026-08-20T01:48:19Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
