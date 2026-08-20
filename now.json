@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T07:28:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T07:30:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Take On Me",
+    "artist": "a-ha",
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/A-ha_-_Take_On_Me.jpg",
+    "started_at": "2026-08-20T12:29:55Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
