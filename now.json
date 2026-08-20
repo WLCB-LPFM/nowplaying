@@ -1,26 +1,16 @@
 {
-  "generated": "2026-08-19T21:59:20-05:00",
+  "generated": "2026-08-19T22:00:06-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Mix",
-    "hosts": [
-      "Tony Young",
-      "Carolyn Carmody"
-    ],
-    "automated": false,
-    "starts": "19:00",
-    "ends": "22:00",
-    "genre": "Variety"
-  },
+  "show": null,
   "track": {
-    "title": "Sunshine of Your Love (Live)",
-    "artist": "Cream",
+    "title": "For Those About to Rock (We Salute You)",
+    "artist": "AC feat. DC",
     "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cream.jpg",
-    "started_at": "2026-08-20T02:59:10Z",
-    "duration_seconds": null
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-08-20T02:59:56Z",
+    "duration_seconds": 320
   },
   "next_poll_seconds": 10
 }
