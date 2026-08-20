@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T15:40:40-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T15:43:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Macarena",
-    "artist": "Los Del Rio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Los_Del_Rio_-_Macarena.jpg",
-    "started_at": "2026-08-20T20:40:11Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
