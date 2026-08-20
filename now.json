@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-20T12:22:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-20T12:26:08-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Alright",
-    "artist": "Janet Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-20T17:22:16.0620408Z",
-    "duration_seconds": 241,
-    "year": "2022"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
