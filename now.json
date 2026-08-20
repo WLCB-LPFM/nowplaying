@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-20T18:47:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-20T18:49:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "One Week",
-    "artist": "Barenaked Ladies",
-    "album": "All Their Greatest Hits: Disc One 1991-2001",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Barenaked_Ladies_-_One_Week.jpg",
-    "started_at": "2026-08-20T23:47:19.9300878Z",
-    "duration_seconds": 166,
-    "year": "1998"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
