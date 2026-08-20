@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-20T03:18:22-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T03:18:34-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Subconscious Lee",
+    "artist": "Lennie Tristano Quintet",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
+    "artwork_url": "",
+    "started_at": "2026-08-20T08:18:27.6610528Z",
+    "duration_seconds": 159,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
