@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T17:50:17-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T17:52:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Don't Let The Sun Catch You Crying (Live)",
-    "artist": "Gerry & The Pacemakers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Gerry_&_The_Pacemakers.jpg",
-    "started_at": "2026-08-20T22:50:07Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
