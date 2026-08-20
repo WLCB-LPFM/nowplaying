@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T21:50:04-05:00",
-  "source": "autopost",
+  "generated": "2026-08-19T21:55:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Eleanor Rigby",
-    "artist": "Barbara Dickson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Barbara_Dickson_-_Eleanor_Rigby.jpg",
-    "started_at": "2026-08-20T02:49:58Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
