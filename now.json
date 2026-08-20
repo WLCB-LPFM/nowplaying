@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-20T00:54:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T00:54:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tennessee Waltz",
+    "artist": "Simone Kopmajer",
+    "album": "Didn't You Say",
+    "artwork_url": "",
+    "started_at": "2026-08-20T05:54:54.0228826Z",
+    "duration_seconds": 255,
+    "year": "2009"
+  },
   "next_poll_seconds": 10
 }
