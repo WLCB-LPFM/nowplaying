@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T19:47:34-05:00",
-  "source": "autopost",
+  "generated": "2026-08-19T19:50:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "My Angel Baby",
-    "artist": "Toby Beau",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toby_Beau_-_My_Angel_Baby.jpg",
-    "started_at": "2026-08-20T00:47:32Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
