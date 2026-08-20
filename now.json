@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T15:52:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T16:02:24-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Tainted Love",
+    "artist": "Soft Cell",
+    "album": "Tainted Love / Where Did Our Love Go - Single",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Soft_Cell_-_Tainted_Love.jpg",
+    "started_at": "2026-08-20T21:02:22Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
