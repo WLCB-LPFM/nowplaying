@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T17:35:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T17:36:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Smoke Rings In the Dark",
+    "artist": "Gary Allan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Allan_-_Smoke_Rings_In_The_Dark.jpg",
+    "started_at": "2026-08-20T22:36:01Z",
+    "duration_seconds": 258
+  },
   "next_poll_seconds": 10
 }
