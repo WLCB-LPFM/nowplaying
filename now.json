@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T08:28:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T08:31:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Here Comes the Hotstepper (Heartical Mix)",
+    "artist": "Ini Kamoze",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Ini_Kamoze_-_Here_Comes_The_Hotstepper_(Heartical_Mix).jpg",
+    "started_at": "2026-08-20T13:31:39Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
