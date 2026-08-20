@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T21:14:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-19T21:16:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Bubble Gum",
+    "artist": "Clairo",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Clairo_-_Bubble_Gum.jpg",
+    "started_at": "2026-08-20T02:16:56Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
