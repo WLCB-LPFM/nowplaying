@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-20T00:38:15-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T00:39:35-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Haitian Fight Song",
-    "artist": "Charles Mingus",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charles_Mingus_-_Haitian_Fight_Song.jpg",
-    "started_at": "2026-08-20T05:38:10Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
