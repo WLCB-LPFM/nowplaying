@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-20T13:43:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T13:43:36-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Power",
+    "artist": "Snap!",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-20T18:43:31.4166157Z",
+    "duration_seconds": 217,
+    "year": "2024"
+  },
   "next_poll_seconds": 10
 }
