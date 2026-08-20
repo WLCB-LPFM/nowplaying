@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-20T06:42:49-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-20T06:45:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Summertime",
-    "artist": "DJ Jazzy Jeff & The Fresh Prince",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Jazzy_Jeff_&_The_Fresh_Prince_-_Summertime.jpg",
-    "started_at": "2026-08-20T11:41:48.7480617Z",
-    "duration_seconds": 263,
-    "year": "2018"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
