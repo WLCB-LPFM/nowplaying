@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-20T09:57:23-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T09:57:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Eye of the Tiger",
-    "artist": "Survivor",
-    "album": "Eye of the Tiger (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Survivor_-_Eye_Of_The_Tiger.jpg",
-    "started_at": "2026-08-20T14:54:16Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
