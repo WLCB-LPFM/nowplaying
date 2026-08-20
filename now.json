@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-20T18:17:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T18:17:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Would I Lie To You?",
-    "artist": "Eurythmics",
-    "album": "Ultimate Collection (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eurythmics_-_Would_I_Lie_To_You?.jpg",
-    "started_at": "2026-08-20T23:13:56Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
