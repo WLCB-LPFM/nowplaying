@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T19:11:10-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T19:28:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Fabienk",
+    "artist": "deadmau5",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fc0798462849e9fe79b6c08edfbc0e72.png",
+    "started_at": "2026-08-21T00:28:41Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
