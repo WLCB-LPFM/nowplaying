@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T16:22:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T16:25:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Lyin' Eyes",
+    "artist": "Eagles",
+    "album": "Their Greatest Hits 1971-1975",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_Lyin'_Eyes.jpg",
+    "started_at": "2026-08-21T21:25:17Z",
+    "duration_seconds": 355
+  },
   "next_poll_seconds": 10
 }
