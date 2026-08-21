@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T20:54:43-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T21:00:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "You Shook Me",
-    "artist": "Led Zeppelin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_You_Shook_Me.jpg",
-    "started_at": "2026-08-21T01:54:35Z",
-    "duration_seconds": 388
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
