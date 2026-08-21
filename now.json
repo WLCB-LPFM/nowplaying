@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T19:04:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T19:11:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Four Horsemen (Remastered)",
-    "artist": "Metallica",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Metallica_-_The_Four_Horsemen_(Remastered).jpg",
-    "started_at": "2026-08-21T00:04:02Z",
-    "duration_seconds": 433
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
