@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T20:40:09-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T20:45:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Devil Named Music",
-    "artist": "Chris Stapleton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Stapleton_-_The_Devil_Named_Music.jpg",
-    "started_at": "2026-08-21T01:40:00Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
