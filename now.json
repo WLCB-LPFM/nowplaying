@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T12:13:59-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T12:19:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "A Quitter Never Wins",
-    "artist": "Jonny Lang",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jonny_Lang_-_A_Quitter_Never_Wins.jpg",
-    "started_at": "2026-08-21T17:13:53Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
