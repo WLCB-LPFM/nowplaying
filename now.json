@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T17:25:38-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T17:28:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Little Lies",
-    "artist": "Fleetwood Mac",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fleetwood_Mac_-_Little_Lies.jpg",
-    "started_at": "2026-08-21T22:25:31Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
