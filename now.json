@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T22:04:56-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T22:05:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Of Wolf and Man",
+    "artist": "Metallica",
+    "album": "Metallica (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Metallica_-_Of_Wolf_And_Man.jpg",
+    "started_at": "2026-08-21T03:05:36Z",
+    "duration_seconds": 222
+  },
   "next_poll_seconds": 10
 }
