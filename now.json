@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T18:05:47-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T18:08:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "'Main Stuff': Track 4",
-    "artist": "Mister Modo & Ugly Mac Beer",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mister_Modo_&_Ugly_Mac_Beer.jpg",
-    "started_at": "2026-08-21T23:05:37Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
