@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T22:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T22:04:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Master of Puppets",
-    "artist": "Metallica",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Metallica_-_Master_Of_Puppets.jpg",
-    "started_at": "2026-08-21T02:56:38Z",
-    "duration_seconds": 513
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
