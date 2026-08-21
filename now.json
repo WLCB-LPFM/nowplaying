@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T17:29:00-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T17:30:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Breathe (In the Air)",
-    "artist": "Pink Floyd",
-    "album": "The Dark Side of the Moon (50th Anniversary) [Remastered]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_Breathe_(In_The_Air).jpg",
-    "started_at": "2026-08-21T22:28:52Z",
-    "duration_seconds": 126
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
