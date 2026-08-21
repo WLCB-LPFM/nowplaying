@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T12:19:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T12:19:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Good Morning Little Schoolgirl",
+    "artist": "Jonny Lang",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jonny_Lang_-_Good_Morning_Little_Schoolgirl.jpg",
+    "started_at": "2026-08-21T17:19:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
