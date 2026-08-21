@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T20:23:57-05:00",
-  "source": "fallback",
+  "generated": "2026-08-20T20:33:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I'm A Song (Live at The Print Shop)",
+    "artist": "Stephen Wilson Jr.",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Stephen_Wilson_Jr..jpg",
+    "started_at": "2026-08-21T01:33:11Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
