@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T22:43:58-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T22:48:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "In Hell I'll Be in Good Company",
-    "artist": "The Dead South",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dead_South_-_In_Hell_I'll_Be_In_Good_Company.jpg",
-    "started_at": "2026-08-21T03:43:52Z",
-    "duration_seconds": 296
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
