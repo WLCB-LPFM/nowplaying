@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T17:14:26-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T17:15:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Second Chance",
-    "artist": "Shinedown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shinedown_-_Second_Chance.jpg",
-    "started_at": "2026-08-21T22:14:20Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
