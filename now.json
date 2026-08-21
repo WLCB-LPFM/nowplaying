@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T20:09:23-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T20:12:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Babe I'm Gonna Leave You",
-    "artist": "Led Zeppelin",
-    "album": "Led Zeppelin (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Babe_I'm_Gonna_Leave_You.jpg",
-    "started_at": "2026-08-21T01:09:21Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
