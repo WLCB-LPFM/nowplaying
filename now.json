@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T07:12:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T07:13:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Back That Thang Up (feat. Mannie Fresh & Lil Wayne)",
+    "artist": "Juvenile",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Juvenile.jpg",
+    "started_at": "2026-08-21T12:13:01Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
