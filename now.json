@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T18:03:09-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T18:05:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Slip Away",
-    "artist": "Clarence Carter",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Clarence_Carter_-_Slip_Away.jpg",
-    "started_at": "2026-08-21T23:03:01Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
