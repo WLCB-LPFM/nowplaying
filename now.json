@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T13:49:38-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T13:50:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "She's a Heartbreaker",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_She's_A_Heartbreaker.jpg",
+    "started_at": "2026-08-21T18:49:56Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
