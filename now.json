@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T13:33:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T13:38:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Always there for you",
+    "artist": "Womack Michael Lee",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-08-21T18:37:58Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
