@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T22:37:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T22:40:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Hell's Comin' with Me",
-    "artist": "Poor Man's Poison",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Poor_Man's_Poison_-_Hell's_Comin'_With_Me.jpg",
-    "started_at": "2026-08-21T03:37:16Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
