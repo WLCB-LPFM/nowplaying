@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T18:08:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T18:09:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You Haven't Done Nothin'",
+    "artist": "Stevie Wonder",
+    "album": "Fulfillingness' First Finale",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_You_Haven't_Done_Nothin'.jpg",
+    "started_at": "2026-08-21T23:09:14Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
