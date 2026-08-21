@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T20:46:08-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T20:47:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Broken Window Serenade",
-    "artist": "Whiskey Myers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whiskey_Myers_-_Broken_Window_Serenade.jpg",
-    "started_at": "2026-08-21T01:46:00Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
