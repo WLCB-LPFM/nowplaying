@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-21T02:17:08-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-21T02:22:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Jungle in My Livingroom",
-    "artist": "Sofi Hellborg",
-    "album": "To Give Is to Get",
-    "artwork_url": "",
-    "started_at": "2026-08-21T07:17:01.3331269Z",
-    "duration_seconds": 329,
-    "year": "2006"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
