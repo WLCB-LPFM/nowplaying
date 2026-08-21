@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T20:04:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T20:09:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Be Quiet and Drive (Far Away)",
-    "artist": "Deftones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deftones_-_Be_Quiet_And_Drive_(Far_Away).jpg",
-    "started_at": "2026-08-21T01:04:11Z",
-    "duration_seconds": 308
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
