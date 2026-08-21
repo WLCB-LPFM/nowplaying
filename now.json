@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T13:47:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T13:47:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Heard It On the X",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Heard_It_On_The_X.jpg",
+    "started_at": "2026-08-21T18:47:20Z",
+    "duration_seconds": 145
+  },
   "next_poll_seconds": 10
 }
