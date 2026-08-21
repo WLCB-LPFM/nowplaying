@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T20:21:42-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T20:23:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Take Lots with Alcohol",
-    "artist": "Alkaline Trio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alkaline_Trio_-_Take_Lots_With_Alcohol.jpg",
-    "started_at": "2026-08-21T01:20:57Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
