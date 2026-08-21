@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T12:10:25-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T12:13:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Cut N' Run",
-    "artist": "Texas Headhunters",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Texas_Headhunters_-_Cut_N'_Run.jpg",
-    "started_at": "2026-08-21T17:10:13Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
