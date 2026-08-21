@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-21T06:04:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-21T06:07:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Gold Digger",
-    "artist": "Kanye West",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-21T11:04:11.7691332Z",
-    "duration_seconds": 205,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
