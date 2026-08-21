@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T21:22:44-05:00",
-  "source": "autopost",
+  "generated": "2026-08-20T21:29:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Dazed and Confused",
-    "artist": "Led Zeppelin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Dazed_And_Confused.jpg",
-    "started_at": "2026-08-21T02:22:41Z",
-    "duration_seconds": 395
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
