@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T13:21:30-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T13:27:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "The Heart That Never Waits (Live)",
-    "artist": "Joe Bonamassa",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_The_Heart_That_Never_Waits_(Live).jpg",
-    "started_at": "2026-08-21T18:21:18Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
