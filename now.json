@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T20:12:18-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T20:14:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Gee",
-    "artist": "The Crows",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Crows_-_Gee.jpg",
-    "started_at": "2026-08-22T01:12:08Z",
-    "duration_seconds": 132
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
