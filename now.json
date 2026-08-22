@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T09:02:22-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T09:06:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "I'm Bad, I'm Nationwide",
-    "artist": "ZZ Top",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_I'm_Bad,_I'm_Nationwide.jpg",
-    "started_at": "2026-08-22T14:02:20Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
