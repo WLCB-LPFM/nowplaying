@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T22:50:41-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T22:54:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Great Minds Drink Alike",
-    "artist": "Altered Five Blues Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Altered_Five_Blues_Band_-_Great_Minds_Drink_Alike.jpg",
-    "started_at": "2026-08-22T03:50:39Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
