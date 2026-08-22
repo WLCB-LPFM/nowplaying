@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T11:44:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T11:47:55-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "No One In the World",
+    "artist": "Anita Baker",
+    "album": "Rapture",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anita_Baker_-_No_One_In_The_World.jpg",
+    "started_at": "2026-08-22T16:47:47Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
