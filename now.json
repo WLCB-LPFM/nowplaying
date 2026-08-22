@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T19:19:37-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T19:22:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "DJ (1999 Remastered Version)",
-    "artist": "David Bowie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/David_Bowie.jpg",
-    "started_at": "2026-08-22T00:19:21Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
