@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T20:14:23-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T20:19:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Mystery Train",
-    "artist": "Little Junior Parker",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Junior_Parker_-_Mystery_Train.jpg",
-    "started_at": "2026-08-22T01:14:09Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
