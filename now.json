@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T19:22:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T19:23:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "She Loves My Automobile",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_She_Loves_My_Automobile.jpg",
+    "started_at": "2026-08-22T00:23:39Z",
+    "duration_seconds": 143
+  },
   "next_poll_seconds": 10
 }
