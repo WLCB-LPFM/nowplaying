@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T11:41:24-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T11:43:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Spend My Life With You",
+    "artist": "Eric Ben\u00e9t",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Ben\u00e9t_-_Spend_My_Life_With_You.jpg",
+    "started_at": "2026-08-22T16:42:56Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
