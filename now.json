@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-22T16:49:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-22T16:53:57-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Celebration",
-    "artist": "Kool and the Gang",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-22T21:49:11.1511151Z",
-    "duration_seconds": 290,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
