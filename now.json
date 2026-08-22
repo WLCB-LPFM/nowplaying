@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T21:46:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T21:48:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "With You or Without You",
+    "artist": "Steve Jones",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Jones_-_With_You_Or_Without_You.jpg",
+    "started_at": "2026-08-22T02:47:34Z",
+    "duration_seconds": 265
+  },
   "next_poll_seconds": 10
 }
