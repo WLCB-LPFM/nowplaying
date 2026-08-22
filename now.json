@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-21T23:45:35-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T23:45:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mr. Jelly Lord",
+    "artist": "Jelly Roll Morton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jelly_Roll_Morton_-_Mr._Jelly_Lord.jpg",
+    "started_at": "2026-08-22T04:45:34Z",
+    "duration_seconds": 172
+  },
   "next_poll_seconds": 10
 }
