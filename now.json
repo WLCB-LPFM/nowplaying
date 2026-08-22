@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-22T00:04:14-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T00:07:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Criss Cross",
+    "artist": "Thelonious Monk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_Criss_Cross.jpg",
+    "started_at": "2026-08-22T05:07:41Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
