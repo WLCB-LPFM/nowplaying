@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-22T00:33:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T00:37:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Moten Swing",
+    "artist": "Bennie Moten's Kansas City Orchestra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bennie_Moten's_Kansas_City_Orchestra_-_Moten_Swing.jpg",
+    "started_at": "2026-08-22T05:36:59Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
