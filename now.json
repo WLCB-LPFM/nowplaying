@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T19:53:53-05:00",
-  "source": "autopost",
+  "generated": "2026-08-21T19:57:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "We Care a Lot",
-    "artist": "Faith No More",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Faith_No_More_-_We_Care_A_Lot.jpg",
-    "started_at": "2026-08-22T00:53:42Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
