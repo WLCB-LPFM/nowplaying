@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T22:01:25-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T22:06:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Tattoo Vampire",
+    "artist": "Blue \u00d6yster Cult",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blue_\u00d6yster_Cult_-_Tattoo_Vampire.jpg",
+    "started_at": "2026-08-22T03:06:12Z",
+    "duration_seconds": 161
+  },
   "next_poll_seconds": 10
 }
