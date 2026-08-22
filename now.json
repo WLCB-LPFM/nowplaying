@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T08:32:00-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T08:35:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Rough Boy",
-    "artist": "ZZ Top",
-    "album": "Afterburner",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Rough_Boy.jpg",
-    "started_at": "2026-08-22T13:31:55Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
