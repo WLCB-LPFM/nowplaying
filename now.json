@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-22T13:41:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T13:42:22-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Bust A Move",
+    "artist": "Young MC",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-22T18:42:10.031345Z",
+    "duration_seconds": 263,
+    "year": "2019"
+  },
   "next_poll_seconds": 10
 }
