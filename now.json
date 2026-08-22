@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T20:48:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-21T20:48:45-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Blue Jean Blues (Live)",
+    "artist": "The Jeff Healey Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jeff_Healey_Band_-_Blue_Jean_Blues_(Live).jpg",
+    "started_at": "2026-08-22T01:44:25Z",
+    "duration_seconds": 699
+  },
   "next_poll_seconds": 10
 }
