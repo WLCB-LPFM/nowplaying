@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T11:38:27-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T11:41:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "I Love You Babe",
-    "artist": "Babyface",
-    "album": "Lovers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Babyface_-_I_Love_You_Babe.jpg",
-    "started_at": "2026-08-22T16:38:20Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
