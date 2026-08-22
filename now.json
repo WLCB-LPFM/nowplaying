@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T11:17:15-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T11:18:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "I Present To You the Fabulous Freddie Prodigy",
+    "artist": "Kevin JZ Prodigy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kevin_Jz_Prodigy.jpg",
+    "started_at": "2026-08-22T16:18:38Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
