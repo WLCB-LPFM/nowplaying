@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T18:14:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T18:15:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Open the Door to Your Heart",
+    "artist": "Darrell Banks",
+    "album": "Darrell Banks Is Here!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Darrell_Banks_-_Open_The_Door_To_Your_Heart.jpg",
+    "started_at": "2026-08-23T23:15:50Z",
+    "duration_seconds": 133
+  },
   "next_poll_seconds": 10
 }
