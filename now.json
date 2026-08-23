@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T20:44:53-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T20:51:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Rapper Dapper Snapper",
-    "artist": "Edwin Birdsong",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Edwin_Birdsong_-_Rapper_Dapper_Snapper.jpg",
-    "started_at": "2026-08-23T01:44:41Z",
-    "duration_seconds": 399
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
