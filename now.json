@@ -1,17 +1,18 @@
 {
-  "generated": "2026-08-23T15:57:28-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-08-23T16:00:06-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Fools Rush In (Where Angels Fear To Tread) (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-23T20:57:26.9860552Z",
-    "duration_seconds": 177,
-    "year": "1940"
+  "show": {
+    "name": "Old School Throwbacks",
+    "hosts": [
+      "J. Cornelius"
+    ],
+    "automated": false,
+    "starts": "16:00",
+    "ends": "18:00",
+    "genre": "Hip-Hop"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
