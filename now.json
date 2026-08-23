@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T09:05:35-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T09:11:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Is You Is Or Is You Ain't (Ma' Baby) [feat. Vic Schoen and His Orchestra]",
-    "artist": "The Andrews Sisters & Bing Crosby",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Andrews_Sisters_&_Bing_Crosby.jpg",
-    "started_at": "2026-08-23T14:05:19Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
