@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T15:25:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T15:25:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Anitra's Dance (1940)",
+    "artist": "Johnny McGee and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T20:25:30.891772Z",
+    "duration_seconds": 160,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
