@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T07:15:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T07:15:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Eli Eli (1940)",
+    "artist": "Belle Baker",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T12:15:29.5664685Z",
+    "duration_seconds": 226,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
