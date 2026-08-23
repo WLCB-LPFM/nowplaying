@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T16:16:42-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T16:17:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Baby Come To Me",
+    "artist": "Regina Belle",
+    "album": "Stay With Me",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Regina_Belle_-_Baby_Come_To_Me.jpg",
+    "started_at": "2026-08-23T21:17:40Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
