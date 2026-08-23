@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T17:50:12-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T17:50:35-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Somebody Loves You Baby (You Know Who It Is)",
+    "artist": "Patti LaBelle",
+    "album": "Burnin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Patti_Labelle_-_Somebody_Loves_You_Baby_(You_Know_Who_It_Is).jpg",
+    "started_at": "2026-08-23T22:50:24Z",
+    "duration_seconds": 269
+  },
   "next_poll_seconds": 10
 }
