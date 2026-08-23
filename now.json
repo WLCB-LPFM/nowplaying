@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T19:51:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T19:54:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "All Night Long (All Night)",
-    "artist": "Lionel Richie",
-    "album": "The Definitive Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lionel_Richie_-_All_Night_Long_(All_Night).jpg",
-    "started_at": "2026-08-23T00:50:54Z",
-    "duration_seconds": 241
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
