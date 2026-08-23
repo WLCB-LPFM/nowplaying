@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T15:22:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T15:22:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Seems Like a Month of Sundays (Since I Saw You Saturday Night) (1940)",
+    "artist": "Buster Bailey and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T20:22:25.0306236Z",
+    "duration_seconds": 185,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
