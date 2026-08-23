@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T20:03:37-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T20:05:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Look Alive",
+    "artist": "Rae Sremmurd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rae_Sremmurd_-_Look_Alive.jpg",
+    "started_at": "2026-08-23T01:05:21Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
