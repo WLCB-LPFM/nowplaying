@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T17:54:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T17:55:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "We Go a Long Way Back",
+    "artist": "Bloodstone",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bloodstone_-_We_Go_A_Long_Way_Back.jpg",
+    "started_at": "2026-08-23T22:55:10Z",
+    "duration_seconds": 296
+  },
   "next_poll_seconds": 10
 }
