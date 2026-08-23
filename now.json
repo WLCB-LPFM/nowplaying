@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T17:40:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T17:41:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Practice What You Preach",
+    "artist": "Barry White",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Barry_White_-_Practice_What_You_Preach.jpg",
+    "started_at": "2026-08-23T22:41:42Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
