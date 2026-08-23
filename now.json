@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-23T05:25:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T05:35:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Doggin' Around",
-    "artist": "Count Basie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_Doggin'_Around.jpg",
-    "started_at": "2026-08-23T10:24:23Z",
-    "duration_seconds": 658
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
