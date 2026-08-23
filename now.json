@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T10:32:15-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T10:36:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "They Can't Take That Away From Me",
-    "artist": "Billie Holiday",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billie_Holiday_-_They_Can't_Take_That_Away_From_Me.jpg",
-    "started_at": "2026-08-23T15:32:05Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
