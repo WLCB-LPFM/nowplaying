@@ -1,17 +1,17 @@
 {
-  "generated": "2026-08-22T21:55:36-05:00",
+  "generated": "2026-08-22T22:00:02-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Legacy of the Wolf",
+    "name": "Late Night Chicago Radio",
     "hosts": [
-      "Cleveland \"Da\" Black Wolf"
+      "Denny Farrell"
     ],
     "automated": false,
-    "starts": "20:00",
-    "ends": "22:00",
-    "genre": null
+    "starts": "22:00",
+    "ends": "23:00",
+    "genre": "Jazz"
   },
   "track": null,
   "next_poll_seconds": 10
