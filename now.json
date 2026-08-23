@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T22:13:58-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T22:15:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Come Away With Me",
-    "artist": "Norah Jones",
-    "album": "Come Away With Me (Super Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Norah_Jones_-_Come_Away_With_Me.jpg",
-    "started_at": "2026-08-23T03:13:55Z",
-    "duration_seconds": 106
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
