@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T06:45:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T06:46:00-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Summertime Girl (1940)",
+    "artist": "Ceelle Burke and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T11:45:55.1442431Z",
+    "duration_seconds": 181,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
