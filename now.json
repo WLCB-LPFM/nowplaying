@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T21:25:20-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T21:27:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Electric Avenue",
+    "artist": "Eddy Grant",
+    "album": "Killer on the Rampage",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eddy_Grant_-_Electric_Avenue.jpg",
+    "started_at": "2026-08-23T02:27:47Z",
+    "duration_seconds": 217
+  },
   "next_poll_seconds": 10
 }
