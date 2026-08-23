@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-23T03:20:36-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-23T03:23:35-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "West End Blues",
-    "artist": "Louis Armstrong And His Hot Five",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-08-23T08:20:33.250097Z",
-    "duration_seconds": 188,
-    "year": "1997"
+    "title": "Save It, Pretty Mama",
+    "artist": "Louis Armstrong",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Save_It,_Pretty_Mama.jpg",
+    "started_at": "2026-08-23T08:21:33Z",
+    "duration_seconds": 266
   },
   "next_poll_seconds": 10
 }
