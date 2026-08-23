@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T21:29:26-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T21:31:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "White Horse",
-    "artist": "Laid Back",
-    "album": "Keep Smiling (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Laid_Back_-_White_Horse.jpg",
-    "started_at": "2026-08-23T02:29:13Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
