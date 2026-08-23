@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T07:58:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T08:00:39-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Yours Is My Heart Alone (1940)",
+    "artist": "Will Osborne and his Slide Music",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T13:00:39.0486134Z",
+    "duration_seconds": 185,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
