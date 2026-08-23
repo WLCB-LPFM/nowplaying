@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T20:11:49-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T20:15:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Money On Money (feat. Future)",
-    "artist": "Young Thug",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young_Thug_-_Money_On_Money_(Feat._Future).jpg",
-    "started_at": "2026-08-23T01:11:42Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
