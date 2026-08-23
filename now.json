@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T16:26:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T16:26:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Let's Wait Awhile",
+    "artist": "Janet Jackson",
+    "album": "Control",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Let's_Wait_Awhile.jpg",
+    "started_at": "2026-08-23T21:26:43Z",
+    "duration_seconds": 276
+  },
   "next_poll_seconds": 10
 }
