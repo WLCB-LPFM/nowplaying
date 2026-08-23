@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T10:07:01-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T10:12:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Do Nothin' Till You Hear From Me",
-    "artist": "Duke Ellington",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Do_Nothin'_Till_You_Hear_From_Me.jpg",
-    "started_at": "2026-08-23T15:06:51Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
