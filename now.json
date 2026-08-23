@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T06:23:30-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T06:23:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Breeze and I (1940)",
+    "artist": "Lang Thompson and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T11:23:34.3031782Z",
+    "duration_seconds": 162,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
