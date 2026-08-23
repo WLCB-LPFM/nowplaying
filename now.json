@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T08:52:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T08:52:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "How Can I Ever Be Alone (1940)",
+    "artist": "Griff Williams andh his Stevens Hotel Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T13:52:16.7511179Z",
+    "duration_seconds": 143,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
