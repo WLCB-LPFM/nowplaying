@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T06:26:07-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T06:28:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You'd Be So Nice To Come Home To",
+    "artist": "Emil Davis and His Society Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T11:28:21.0843622Z",
+    "duration_seconds": 161,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
