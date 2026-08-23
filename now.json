@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T17:26:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T17:26:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Missing You",
+    "artist": "Diana Ross",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Diana_Ross_-_Missing_You.jpg",
+    "started_at": "2026-08-23T22:26:38Z",
+    "duration_seconds": 257
+  },
   "next_poll_seconds": 10
 }
