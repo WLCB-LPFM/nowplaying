@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T21:31:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T21:33:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Venus de Milo",
+    "artist": "Prince & The Revolution",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Prince_&_The_Revolution.jpg",
+    "started_at": "2026-08-23T02:33:00Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
