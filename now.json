@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T14:09:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T14:09:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rock it Out",
+    "artist": "Harry Parry and his Radio Sextet",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T19:09:48.2017332Z",
+    "duration_seconds": 191,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
