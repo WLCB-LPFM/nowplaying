@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T08:13:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T08:13:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Live at Eleven Five",
+    "artist": "Saunders King; Sammy Deane",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T13:13:10.1633944Z",
+    "duration_seconds": 194,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
