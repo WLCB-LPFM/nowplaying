@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-23T14:12:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T14:13:06-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Over the Rainbow (1940)",
+    "artist": "Leslie Hutchinson; Harburg",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-23T19:12:59.8848596Z",
+    "duration_seconds": 191,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
