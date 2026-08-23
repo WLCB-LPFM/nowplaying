@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T20:37:28-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T20:43:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Salsa Smurph (2006 Remastered 12' Vocal Version)",
-    "artist": "Special Request",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Special_Request.jpg",
-    "started_at": "2026-08-23T01:37:10Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
