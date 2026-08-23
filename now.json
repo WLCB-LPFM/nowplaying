@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T22:04:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T22:10:16-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Wise One",
-    "artist": "John Coltrane Quartet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Coltrane_Quartet_-_Wise_One.jpg",
-    "started_at": "2026-08-23T03:04:21Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
