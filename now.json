@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T18:56:30-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T19:00:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Doowutchyalike",
-    "artist": "Digital Underground",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Digital_Underground_-_Doowutchyalike.jpg",
-    "started_at": "2026-08-22T23:56:23Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
