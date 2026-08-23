@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-23T15:20:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-23T15:22:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "When the Roses Bloom Again",
-    "artist": "Vincent Lopez and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-23T20:20:04.8370161Z",
-    "duration_seconds": 140,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
