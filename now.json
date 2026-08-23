@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T21:53:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T21:54:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "It's Been a Long Time",
+    "artist": "New Birth",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Birth_-_It's_Been_A_Long_Time.jpg",
+    "started_at": "2026-08-23T02:54:19Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
