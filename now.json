@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T16:19:53-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T16:23:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "I Want Her",
+    "artist": "Keith Sweat",
+    "album": "Make It Last Forever",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Keith_Sweat_-_I_Want_Her.jpg",
+    "started_at": "2026-08-23T21:23:01Z",
+    "duration_seconds": 191
+  },
   "next_poll_seconds": 10
 }
