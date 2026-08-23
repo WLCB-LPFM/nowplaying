@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T09:11:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T09:12:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Bell-bottom Trousers",
+    "artist": "Tony Pastor",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ac5e5cfd24d46df971caf056d3f5f67.png",
+    "started_at": "2026-08-23T14:12:00Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
