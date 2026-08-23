@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T21:03:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-22T21:09:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Not a Stain On Me (feat. Fat Bastard)",
+    "artist": "Big Tuck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Big_Tuck.jpg",
+    "started_at": "2026-08-23T02:09:04Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
