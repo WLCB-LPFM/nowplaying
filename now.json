@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T20:56:55-05:00",
-  "source": "autopost",
+  "generated": "2026-08-22T21:00:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Play That Beat Mr. D.J. (7' Radio Edit Vocal)",
-    "artist": "G.L.O.B.E. & Whiz Kid",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/G.l.o.b.e._&_Whiz_Kid.jpg",
-    "started_at": "2026-08-23T01:56:46Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
