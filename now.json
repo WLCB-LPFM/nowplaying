@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T16:32:25-05:00",
-  "source": "fallback",
+  "generated": "2026-08-24T16:34:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Silence and I",
+    "artist": "The Alan Parsons Project",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Alan_Parsons_Project_-_Silence_And_I.jpg",
+    "started_at": "2026-08-24T21:34:02Z",
+    "duration_seconds": 440
+  },
   "next_poll_seconds": 10
 }
