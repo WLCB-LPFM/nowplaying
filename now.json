@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:43:29-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T21:45:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Nights In White Satin",
+    "artist": "The Moody Blues",
+    "album": "Nights In White Satin: The Essential Moody Blues",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Moody_Blues_-_Nights_In_White_Satin.jpg",
+    "started_at": "2026-08-24T02:44:58Z",
+    "duration_seconds": 205
+  },
   "next_poll_seconds": 10
 }
