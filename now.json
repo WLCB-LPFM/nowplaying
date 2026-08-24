@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T20:53:57-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T20:58:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Born Under Punches (The Heat Goes On)",
-    "artist": "Talking Heads",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Talking_Heads_-_Born_Under_Punches_(The_Heat_Goes_On).jpg",
-    "started_at": "2026-08-24T01:53:50Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
