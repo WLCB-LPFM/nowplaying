@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-24T12:09:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-24T12:13:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Two Princes",
-    "artist": "Spin Doctors",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-24T17:09:25.3412021Z",
-    "duration_seconds": 267,
-    "year": "1993"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
