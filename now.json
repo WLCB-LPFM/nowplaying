@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:22:24-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T21:24:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Nate Smith Is the Ace of Aces",
-    "artist": "The Fearless Flyers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fearless_Flyers_-_Nate_Smith_Is_The_Ace_Of_Aces.jpg",
-    "started_at": "2026-08-24T02:22:14Z",
-    "duration_seconds": 137
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
