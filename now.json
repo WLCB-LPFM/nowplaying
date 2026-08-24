@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T20:26:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T20:31:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Big Electric Cat",
-    "artist": "Adrian Belew",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Adrian_Belew_-_Big_Electric_Cat.jpg",
-    "started_at": "2026-08-24T01:25:55Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
