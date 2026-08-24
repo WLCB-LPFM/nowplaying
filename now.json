@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-24T13:34:43-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-24T13:37:21-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "That's The Way (I Like It)",
-    "artist": "KC & The Sunshine Band",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-24T18:34:31.830528Z",
-    "duration_seconds": 178,
-    "year": "2010"
+    "title": "That's the Way (I Like It)",
+    "artist": "KC and the Sunshine Band",
+    "album": "That's the Way (I Like It) / What Makes You Happy [Digital 45]",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kc_And_The_Sunshine_Band_-_That's_The_Way_(I_Like_It).jpg",
+    "started_at": "2026-08-24T18:37:02Z",
+    "duration_seconds": 159
   },
   "next_poll_seconds": 10
 }
