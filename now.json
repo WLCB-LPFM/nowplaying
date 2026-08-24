@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T20:17:19-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T20:20:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Night After Night (Live)",
+    "artist": "U.K.",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/35d303b1a361e277678c39dfc9c2c03b.png",
+    "started_at": "2026-08-24T01:20:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
