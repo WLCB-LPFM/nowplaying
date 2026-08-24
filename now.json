@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:13:18-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T21:17:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Stay With Me",
-    "artist": "Faces",
-    "album": "A Nod Is As Good As a Wink... To a Blind Horse",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Faces_-_Stay_With_Me.jpg",
-    "started_at": "2026-08-24T02:13:14Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
