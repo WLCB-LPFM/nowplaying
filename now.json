@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:40:19-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T21:40:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Ride My See-Saw",
+    "artist": "The Moody Blues",
+    "album": "In Search of the Lost Chord",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Moody_Blues_-_Ride_My_See-saw.jpg",
+    "started_at": "2026-08-24T02:40:29Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
