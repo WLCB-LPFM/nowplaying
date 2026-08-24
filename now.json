@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:50:39-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T21:52:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Computer Blue",
+    "artist": "Prince & The Revolution",
+    "album": "Purple Rain",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_Revolution_-_Computer_Blue.jpg",
+    "started_at": "2026-08-24T02:52:32Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
