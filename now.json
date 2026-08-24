@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:25:02-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T21:30:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Wish You Were Here",
-    "artist": "Pink Floyd",
-    "album": "A Collection Of Great Dance Songs",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_Wish_You_Were_Here.jpg",
-    "started_at": "2026-08-24T02:25:00Z",
-    "duration_seconds": 321
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
