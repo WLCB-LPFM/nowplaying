@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T19:41:30-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T19:44:52-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Baddy On the Floor (feat. Honey Dijon)",
-    "artist": "Jamie xx",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jamie_Xx_-_Baddy_On_The_Floor_(Feat._Honey_Dijon).jpg",
-    "started_at": "2026-08-24T00:41:23Z",
-    "duration_seconds": 222
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
