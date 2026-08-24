@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T07:37:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-24T07:39:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Like a Virgin",
+    "artist": "Madonna",
+    "album": "Like a Virgin",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Like_A_Virgin.jpg",
+    "started_at": "2026-08-24T12:39:21Z",
+    "duration_seconds": 163
+  },
   "next_poll_seconds": 10
 }
