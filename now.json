@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T19:05:59-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T19:11:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Ballad of El Goodo",
-    "artist": "Big Star",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Big_Star_-_The_Ballad_Of_El_Goodo.jpg",
-    "started_at": "2026-08-24T00:05:55Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
