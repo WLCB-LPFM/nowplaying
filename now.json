@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:17:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T21:18:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Ghost of Stephen Foster",
+    "artist": "Squirrel Nut Zippers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Squirrel_Nut_Zippers_-_Ghost_Of_Stephen_Foster.jpg",
+    "started_at": "2026-08-24T02:18:28Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
