@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-24T15:27:52-05:00",
-  "source": "autopost",
+  "generated": "2026-08-24T15:28:16-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Shake It Off",
-    "artist": "Taylor Swift",
-    "album": "1989 (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Taylor_Swift_-_Shake_It_Off.jpg",
-    "started_at": "2026-08-24T20:24:40Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
