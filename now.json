@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:08:15-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T21:08:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Meadows",
+    "artist": "Joe Walsh",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Walsh_-_Meadows.jpg",
+    "started_at": "2026-08-24T02:08:30Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
