@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-24T04:14:42-05:00",
-  "source": "fallback",
+  "generated": "2026-08-24T04:15:06-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "So What",
+    "artist": "Miles Davis Sextet",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-24T09:14:54.3333276Z",
+    "duration_seconds": 540,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
