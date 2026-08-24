@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-24T12:40:08-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-24T12:40:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Jump",
-    "artist": "Van Halen",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-24T17:36:41.4598441Z",
-    "duration_seconds": 231,
-    "year": "1983"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
