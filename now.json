@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T20:31:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T20:33:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Keep Moving",
+    "artist": "Large Meese",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Large_Meese.jpg",
+    "started_at": "2026-08-24T01:32:59Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
