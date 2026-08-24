@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:04:09-05:00",
-  "source": "autopost",
+  "generated": "2026-08-23T21:08:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "A Fool for Your Stockings",
-    "artist": "ZZ Top",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_A_Fool_For_Your_Stockings.jpg",
-    "started_at": "2026-08-24T02:04:04Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
