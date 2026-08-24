@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-24T15:28:16-05:00",
-  "source": "fallback",
+  "generated": "2026-08-24T15:30:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Walking on Sunshine",
+    "artist": "Katrina and the Waves",
+    "album": "Anthology",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Katrina_And_The_Waves_-_Walking_On_Sunshine.jpg",
+    "started_at": "2026-08-24T20:30:09.6503496Z",
+    "duration_seconds": 227,
+    "year": "1985"
+  },
   "next_poll_seconds": 10
 }
