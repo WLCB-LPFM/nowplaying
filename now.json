@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T19:33:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T19:34:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Tall Tales",
+    "artist": "Yard Act",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c8ce43c5f41e7f2e2e3245b6560f5129.png",
+    "started_at": "2026-08-24T00:33:55Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
