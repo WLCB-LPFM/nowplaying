@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T21:30:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-23T21:33:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Intro and the Outro",
+    "artist": "The Bonzo Dog Doo-Dah Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Bonzo_Dog_Doo-dah_Band_-_The_Intro_And_The_Outro.jpg",
+    "started_at": "2026-08-24T02:33:08Z",
+    "duration_seconds": 184
+  },
   "next_poll_seconds": 10
 }
