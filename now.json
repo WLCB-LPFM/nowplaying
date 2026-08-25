@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-25T04:49:58-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-25T04:51:28-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Maple Leaf Rag",
-    "artist": "Scott Joplin",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-08-25T09:48:21.5492586Z",
-    "duration_seconds": 192,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
