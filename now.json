@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T15:46:24-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T15:49:22-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Danger Zone",
-    "artist": "Kenny Loggins",
-    "album": "Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Loggins_-_Danger_Zone.jpg",
-    "started_at": "2026-08-25T20:46:16Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
