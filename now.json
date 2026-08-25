@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-25T12:04:56-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T12:05:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'm Still Standing",
-    "artist": "Elton John",
-    "album": "Too Low For Zero (Bonus Track Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elton_John_-_I'm_Still_Standing.jpg",
-    "started_at": "2026-08-25T17:02:46Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
