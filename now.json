@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T07:03:27-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T07:07:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Cult Of Personality",
-    "artist": "Living Colour",
-    "album": "Cult of Personality EP",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Living_Colour_-_Cult_Of_Personality.jpg",
-    "started_at": "2026-08-25T12:03:24Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
