@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-25T11:35:50-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T11:36:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Wanna Dance With Somebody (Who Loves Me)",
+    "artist": "Whitney Houston",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-25T16:35:59.8015809Z",
+    "duration_seconds": 274,
+    "year": "1987"
+  },
   "next_poll_seconds": 10
 }
