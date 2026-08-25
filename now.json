@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-25T06:49:33-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T06:49:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Kiss On My List",
+    "artist": "Daryl Hall & John Oates",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-25T11:49:38.0543052Z",
+    "duration_seconds": 253,
+    "year": "2014"
+  },
   "next_poll_seconds": 10
 }
