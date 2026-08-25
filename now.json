@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-25T14:13:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T14:13:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Note in a Bottle",
-    "artist": "George Bone",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/George_Bone.jpg",
-    "started_at": "2026-08-25T19:09:52Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
