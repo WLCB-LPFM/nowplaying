@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T15:37:33-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T15:38:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "You Make My Dreams (Live)",
-    "artist": "Daryl Hall & John Oates",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Daryl_Hall_&_John_Oates.jpg",
-    "started_at": "2026-08-25T20:37:12Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
