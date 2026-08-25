@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-24T19:13:03-05:00",
-  "source": "fallback",
+  "generated": "2026-08-24T19:13:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Get Down Tonight",
+    "artist": "KC & The Sunshine Band",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-25T00:13:13.5133999Z",
+    "duration_seconds": 185,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
