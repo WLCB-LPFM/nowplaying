@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-24T19:30:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-24T19:34:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'm So Excited",
-    "artist": "The Pointer Sisters",
-    "album": "Break Out (1984 Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Pointer_Sisters_-_I'm_So_Excited.jpg",
-    "started_at": "2026-08-25T00:30:08.6833619Z",
-    "duration_seconds": 284,
-    "year": "1982"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
