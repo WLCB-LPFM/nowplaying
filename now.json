@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T16:43:53-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T16:45:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Barbie Girl",
+    "artist": "Aqua",
+    "album": "Barbie Girl - Single",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aqua_-_Barbie_Girl.jpg",
+    "started_at": "2026-08-25T21:44:52Z",
+    "duration_seconds": 171
+  },
   "next_poll_seconds": 10
 }
