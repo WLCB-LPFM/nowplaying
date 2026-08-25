@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T22:14:54-05:00",
-  "source": "autopost",
+  "generated": "2026-08-24T22:19:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Stranger Dreams",
-    "artist": "Frank Marino",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/f/Frank_Marino.jpg",
-    "started_at": "2026-08-25T03:14:43Z",
-    "duration_seconds": 318
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
