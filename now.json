@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-24T19:41:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-24T19:42:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cupid Shuffle",
-    "artist": "Cupid",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-25T00:39:25.5154539Z",
-    "duration_seconds": 228,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
