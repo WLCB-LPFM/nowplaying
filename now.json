@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-25T05:17:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T05:17:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Fiesta",
+    "artist": "Jason Weber",
+    "album": "1996",
+    "artwork_url": "",
+    "started_at": "2026-08-25T10:17:37.2802823Z",
+    "duration_seconds": 293,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
