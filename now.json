@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T22:43:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-24T22:46:57-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "On the Loose",
+    "artist": "Saga",
+    "album": "Worlds Apart",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Saga_-_On_The_Loose.jpg",
+    "started_at": "2026-08-25T03:46:42Z",
+    "duration_seconds": 220
+  },
   "next_poll_seconds": 10
 }
