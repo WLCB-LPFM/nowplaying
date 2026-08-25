@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-25T11:27:00-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T11:27:12-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Bye Bye Bye",
+    "artist": "NSYNC",
+    "album": "Greatest Hits",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/deb9b622b145486817958fa69884541c.png",
+    "started_at": "2026-08-25T16:27:01.8300048Z",
+    "duration_seconds": 190,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
