@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T15:38:30-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T15:38:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Uptown Funk (feat. Bruno Mars)",
+    "artist": "Mark Ronson",
+    "album": "Uptown Special",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mark_Ronson_-_Uptown_Funk_(Feat._Bruno_Mars).jpg",
+    "started_at": "2026-08-25T20:38:50Z",
+    "duration_seconds": 177
+  },
   "next_poll_seconds": 10
 }
