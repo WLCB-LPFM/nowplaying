@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T16:24:37-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T16:28:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Karma Chameleon",
-    "artist": "Culture Club",
-    "album": "Colour By Numbers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Culture_Club_-_Karma_Chameleon.jpg",
-    "started_at": "2026-08-25T21:24:30Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
