@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-25T18:10:28-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T18:10:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-25T23:10:35.022762Z",
+    "duration_seconds": 203,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
