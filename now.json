@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T22:50:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T22:53:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Loser",
-    "artist": "Beck",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beck_-_Loser.jpg",
-    "started_at": "2026-08-26T03:49:55Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
