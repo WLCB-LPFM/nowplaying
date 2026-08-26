@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T22:35:25-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T22:38:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "She Talks In Stereo",
-    "artist": "Gary Myrick & The Figures",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Myrick_&_The_Figures_-_She_Talks_In_Stereo.jpg",
-    "started_at": "2026-08-26T03:35:12Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
