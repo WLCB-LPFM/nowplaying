@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T13:07:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-26T13:11:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Skin Deep",
+    "artist": "Duke Ellington",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Skin_Deep.jpg",
+    "started_at": "2026-08-26T18:11:35Z",
+    "duration_seconds": 684
+  },
   "next_poll_seconds": 10
 }
