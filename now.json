@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T13:44:57-05:00",
-  "source": "fallback",
+  "generated": "2026-08-26T13:50:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "It Was a Very Good Year",
+    "artist": "Frank Sinatra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Sinatra_-_It_Was_A_Very_Good_Year.jpg",
+    "started_at": "2026-08-26T18:49:30Z",
+    "duration_seconds": 270
+  },
   "next_poll_seconds": 10
 }
