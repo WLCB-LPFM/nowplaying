@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T12:14:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T12:19:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Fragile",
-    "artist": "ndk",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Ndk.jpg",
-    "started_at": "2026-08-26T17:13:54Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
