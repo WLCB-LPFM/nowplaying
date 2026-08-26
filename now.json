@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T07:23:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-26T07:25:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Got My Mind Set on You (2004 Remaster)",
+    "artist": "George Harrison",
+    "album": "Cloud Nine",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Harrison_-_Got_My_Mind_Set_On_You_(2004_Remaster).jpg",
+    "started_at": "2026-08-26T12:25:00Z",
+    "duration_seconds": 299
+  },
   "next_poll_seconds": 10
 }
