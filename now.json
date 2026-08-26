@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T20:35:40-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T20:40:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Sheep",
+    "artist": "Pink Floyd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_Sheep.jpg",
+    "started_at": "2026-08-26T01:40:04Z",
+    "duration_seconds": 526
+  },
   "next_poll_seconds": 10
 }
