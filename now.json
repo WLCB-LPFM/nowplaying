@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T07:48:01-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T07:52:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Love Shack",
-    "artist": "The B-52's",
-    "album": "Cosmic Thing",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_B-52's_-_Love_Shack.jpg",
-    "started_at": "2026-08-26T12:47:56Z",
-    "duration_seconds": 265
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
