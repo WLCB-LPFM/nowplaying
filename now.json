@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T21:31:31-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T21:37:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Overdose",
-    "artist": "AC feat. DC",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
-    "started_at": "2026-08-26T02:31:22Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
