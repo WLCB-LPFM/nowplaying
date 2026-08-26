@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T20:54:42-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T20:57:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "You Keep Me Hangin' On",
-    "artist": "Vanilla Fudge",
-    "album": "You Keep Me Hangin' On",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Vanilla_Fudge_-_You_Keep_Me_Hangin'_On.jpg",
-    "started_at": "2026-08-26T01:54:32Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
