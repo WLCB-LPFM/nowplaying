@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-25T23:00:08-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T23:00:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Go Robot",
-    "artist": "Red Hot Chili Peppers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Red_Hot_Chili_Peppers_-_Go_Robot.jpg",
-    "started_at": "2026-08-26T03:54:30Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
