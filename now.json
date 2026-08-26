@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T11:32:10-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T11:36:07-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Night Train",
-    "artist": "Tab Benoit",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tab_Benoit_-_Night_Train.jpg",
-    "started_at": "2026-08-26T16:32:00Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
