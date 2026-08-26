@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T07:19:58-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T07:23:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Money For Nothing",
-    "artist": "Dire Straits",
-    "album": "Private Investigations: The Best of Dire Straits & Mark Knopfler",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dire_Straits_-_Money_For_Nothing.jpg",
-    "started_at": "2026-08-26T12:19:47Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
