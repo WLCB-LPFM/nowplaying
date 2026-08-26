@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T20:22:32-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T20:26:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Unchain My Heart",
-    "artist": "Joe Cocker",
-    "album": "The Best of Joe Cocker",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Cocker_-_Unchain_My_Heart.jpg",
-    "started_at": "2026-08-26T01:22:19Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
