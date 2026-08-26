@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-26T04:08:06-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-26T04:10:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Criss Cross",
-    "artist": "Didier Lockwood",
-    "album": "Nova Collection '90",
-    "artwork_url": "",
-    "started_at": "2026-08-26T09:07:57.0257031Z",
-    "duration_seconds": 173,
-    "year": "1990"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
