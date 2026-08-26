@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-25T23:29:59-05:00",
-  "source": "fallback",
+  "generated": "2026-08-25T23:30:22-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Honky Tonk Train Blues",
+    "artist": "Meade 'Lux' Lewis",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
+    "artwork_url": "",
+    "started_at": "2026-08-26T04:30:11.787524Z",
+    "duration_seconds": 176,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
