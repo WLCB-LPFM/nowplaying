@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T21:52:44-05:00",
-  "source": "autopost",
+  "generated": "2026-08-25T21:58:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Bittersweet",
-    "artist": "Big Head Todd & The Monsters",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Big_Head_Todd_&_The_Monsters_-_Bittersweet.jpg",
-    "started_at": "2026-08-26T02:52:40Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
