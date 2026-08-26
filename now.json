@@ -1,18 +1,9 @@
 {
-  "generated": "2026-08-25T22:54:34-05:00",
+  "generated": "2026-08-25T23:00:08-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Classic Tuesdays with Ted",
-    "hosts": [
-      "Ted Runnels"
-    ],
-    "automated": false,
-    "starts": "20:00",
-    "ends": "23:00",
-    "genre": "Funk"
-  },
+  "show": null,
   "track": {
     "title": "Go Robot",
     "artist": "Red Hot Chili Peppers",
