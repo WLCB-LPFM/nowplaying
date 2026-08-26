@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-26T06:33:39-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T06:33:51-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Neutron Dance",
-    "artist": "The Pointer Sisters",
-    "album": "Break Out (1984 Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Pointer_Sisters_-_Neutron_Dance.jpg",
-    "started_at": "2026-08-26T11:30:17Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
