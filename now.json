@@ -1,16 +1,17 @@
 {
-  "generated": "2026-08-26T04:16:36-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T04:16:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Windows",
-    "artist": "Jason Weber",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jason_Weber_-_Windows.jpg",
-    "started_at": "2026-08-26T09:14:59Z",
-    "duration_seconds": 175
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Take Five, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-08-26T09:16:43.3369838Z",
+    "duration_seconds": 318,
+    "year": "1990"
   },
   "next_poll_seconds": 10
 }
