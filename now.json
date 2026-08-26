@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-26T15:28:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T15:28:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hey Ya!",
-    "artist": "Outkast",
-    "album": "00s Party Mixtape",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Outkast_-_Hey_Ya!.jpg",
-    "started_at": "2026-08-26T20:24:53Z",
-    "duration_seconds": 222
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
