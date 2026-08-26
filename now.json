@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-25T19:35:14-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-25T19:37:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dancing on the Ceiling",
-    "artist": "Lionel Richie",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-26T00:33:38.5288002Z",
-    "duration_seconds": 265,
-    "year": "1986"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
