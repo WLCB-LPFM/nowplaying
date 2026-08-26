@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T08:08:27-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T08:09:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "I Heard a Rumour (Horoscope Mix)",
-    "artist": "Bananarama",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bananarama_-_I_Heard_A_Rumour_(Horoscope_Mix).jpg",
-    "started_at": "2026-08-26T13:08:23Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
