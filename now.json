@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T19:18:15-05:00",
-  "source": "fallback",
+  "generated": "2026-08-26T19:22:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "(Sittin' on) The Dock of the Bay [2020 Remaster]",
+    "artist": "Otis Redding",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/o/Otis_Redding.jpg",
+    "started_at": "2026-08-27T00:21:43Z",
+    "duration_seconds": 91
+  },
   "next_poll_seconds": 10
 }
