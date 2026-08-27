@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-27T13:06:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-27T13:10:00-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Power Of Love",
-    "artist": "Huey Lewis And The News",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-27T18:06:22.6663557Z",
-    "duration_seconds": 224,
-    "year": "1985"
+    "title": "The Power of Love",
+    "artist": "Huey Lewis & The News",
+    "album": "Greatest Hits (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Huey_Lewis_&_The_News_-_The_Power_Of_Love.jpg",
+    "started_at": "2026-08-27T18:07:35Z",
+    "duration_seconds": 214
   },
   "next_poll_seconds": 10
 }
