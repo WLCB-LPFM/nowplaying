@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T19:04:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-26T19:06:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "What'd I Say",
+    "artist": "Ray Charles",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Charles_-_What'd_I_Say.jpg",
+    "started_at": "2026-08-27T00:06:42Z",
+    "duration_seconds": 307
+  },
   "next_poll_seconds": 10
 }
