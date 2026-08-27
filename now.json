@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T17:15:48-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T17:18:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sitting In The Park",
-    "artist": "Billy Stewart",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Stewart_-_Sitting_In_The_Park.jpg",
-    "started_at": "2026-08-27T22:15:43Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
