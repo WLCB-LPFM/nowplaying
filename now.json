@@ -1,25 +1,16 @@
 {
-  "generated": "2026-08-27T17:57:10-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T18:00:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Brick's Rockheads",
-    "hosts": [
-      "Brick Brecker"
-    ],
-    "automated": false,
-    "starts": "17:00",
-    "ends": "18:00",
-    "genre": "Rock and Roll"
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "18:00",
+    "ends": "19:00",
+    "genre": null
   },
-  "track": {
-    "title": "Walk Away from Love",
-    "artist": "David Ruffin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Ruffin_-_Walk_Away_From_Love.jpg",
-    "started_at": "2026-08-27T22:57:02Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
