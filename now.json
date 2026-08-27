@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T08:51:14-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T08:53:06-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Sharp Dressed Man",
+    "artist": "ZZ Top",
+    "album": "Rock Masterpieces",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Sharp_Dressed_Man.jpg",
+    "started_at": "2026-08-27T13:53:04Z",
+    "duration_seconds": 158
+  },
   "next_poll_seconds": 10
 }
