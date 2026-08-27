@@ -1,25 +1,17 @@
 {
-  "generated": "2026-08-27T08:57:13-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-08-27T09:00:01-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The John and Heidi Show",
-    "hosts": [
-      "John and Heidi Small"
-    ],
-    "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
     "title": "I'm Gonna Be (500 Miles)",
     "artist": "The Proclaimers",
     "album": "I'm Gonna Be (500 Miles)",
     "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Proclaimers_-_I'm_Gonna_Be_(500_Miles).jpg",
-    "started_at": "2026-08-27T13:57:07Z",
-    "duration_seconds": 219
+    "started_at": "2026-08-27T13:56:58.0262836Z",
+    "duration_seconds": 200,
+    "year": "1988"
   },
   "next_poll_seconds": 10
 }
