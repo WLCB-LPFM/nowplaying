@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T21:49:24-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T21:55:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "House of the Rising Sun",
-    "artist": "Sin\u00e9ad O'Connor",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sin\u00e9ad_O'connor_-_House_Of_The_Rising_Sun.jpg",
-    "started_at": "2026-08-27T02:49:22Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
