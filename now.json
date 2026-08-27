@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-27T10:59:15-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T10:59:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Any Way You Want It",
-    "artist": "Journey",
-    "album": "Departure (Bonus Track Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Any_Way_You_Want_It.jpg",
-    "started_at": "2026-08-27T15:56:15Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
