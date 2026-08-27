@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T20:23:31-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T20:24:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It's Your Thing",
-    "artist": "The Isley Brothers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Isley_Brothers_-_It's_Your_Thing.jpg",
-    "started_at": "2026-08-27T01:23:22Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
