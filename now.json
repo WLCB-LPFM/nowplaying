@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-27T11:23:33-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-27T11:26:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Party In The U.S.A.",
-    "artist": "Miley Cyrus",
-    "album": "Party In the U.S.A. - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miley_Cyrus_-_Party_In_The_U.s.a..jpg",
-    "started_at": "2026-08-27T16:22:58.3231821Z",
-    "duration_seconds": 200,
-    "year": "2014"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
