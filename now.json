@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-27T00:07:20-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T00:07:44-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "When Lights Are Low",
-    "artist": "Lionel Hampton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lionel_Hampton_-_When_Lights_Are_Low.jpg",
-    "started_at": "2026-08-27T05:05:39Z",
-    "duration_seconds": 134
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
