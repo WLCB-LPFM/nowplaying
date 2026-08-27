@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T19:23:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-26T19:24:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Dancing Barefoot",
+    "artist": "Patti Smith Group",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Patti_Smith_Group_-_Dancing_Barefoot.jpg",
+    "started_at": "2026-08-27T00:24:16Z",
+    "duration_seconds": 257
+  },
   "next_poll_seconds": 10
 }
