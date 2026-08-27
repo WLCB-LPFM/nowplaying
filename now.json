@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-27T12:03:46-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-27T12:06:14-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Maneater",
-    "artist": "Daryl Hall & John Oates",
-    "album": "H2O",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daryl_Hall_&_John_Oates_-_Maneater.jpg",
-    "started_at": "2026-08-27T17:02:12.871403Z",
-    "duration_seconds": 250,
-    "year": "1981"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
