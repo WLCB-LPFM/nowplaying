@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T20:25:48-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T20:29:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Combine Harvester (Brand New Key)",
-    "artist": "The Wurzels",
-    "album": "The Wurzels Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Wurzels_-_The_Combine_Harvester_(Brand_New_Key).jpg",
-    "started_at": "2026-08-27T01:25:39Z",
-    "duration_seconds": 288
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
