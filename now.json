@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T19:34:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-26T19:37:57-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Uptight (Everything's Alright)",
+    "artist": "Stevie Wonder",
+    "album": "Up-Tight",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Uptight_(Everything's_Alright).jpg",
+    "started_at": "2026-08-27T00:37:28Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
