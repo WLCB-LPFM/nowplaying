@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-27T18:59:13-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T18:59:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Jump",
-    "artist": "Van Halen",
-    "album": "1984",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Jump.jpg",
-    "started_at": "2026-08-27T23:56:24Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
