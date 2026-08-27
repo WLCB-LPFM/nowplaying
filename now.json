@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T20:46:41-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T20:52:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "My Sweet Lord (Live)",
-    "artist": "Brian Wilson",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/aeb705a2038245c8727fb2ba2be8361f.png",
-    "started_at": "2026-08-27T01:46:13Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
