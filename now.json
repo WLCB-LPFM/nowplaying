@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T15:35:50-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T15:38:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Get Down Tonight",
-    "artist": "KC and the Sunshine Band",
-    "album": "Funk the Disco - Ministry of Sound",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kc_And_The_Sunshine_Band_-_Get_Down_Tonight.jpg",
-    "started_at": "2026-08-27T20:35:43Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
