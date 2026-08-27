@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-27T01:22:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-27T01:27:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Brainfreez",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-08-27T06:22:54.4206563Z",
-    "duration_seconds": 306,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
