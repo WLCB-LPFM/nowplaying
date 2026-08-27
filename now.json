@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-27T09:44:13-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T09:44:26-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Stronger",
-    "artist": "Kanye West",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kanye_West_-_Stronger.jpg",
-    "started_at": "2026-08-27T14:39:24Z",
-    "duration_seconds": 312
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
