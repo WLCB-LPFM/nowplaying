@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-27T09:13:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T09:14:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Good Times",
+    "artist": "Chic",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-27T14:14:08.8545566Z",
+    "duration_seconds": 216,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
