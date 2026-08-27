@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T17:36:25-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T17:39:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "I Can't Get Next To You",
-    "artist": "The Temptations",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_I_Can't_Get_Next_To_You.jpg",
-    "started_at": "2026-08-27T22:36:16Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
