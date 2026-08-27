@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-27T06:14:14-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-27T06:17:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Holiday",
-    "artist": "Madonna",
-    "album": "Madonna",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Holiday.jpg",
-    "started_at": "2026-08-27T11:13:50.6353458Z",
-    "duration_seconds": 222,
-    "year": "2021"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
