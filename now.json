@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T15:40:10-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T15:42:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Wannabe",
+    "artist": "Spice Girls",
+    "album": "Wannabe 25 - EP",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spice_Girls_-_Wannabe.jpg",
+    "started_at": "2026-08-27T20:42:08Z",
+    "duration_seconds": 173
+  },
   "next_poll_seconds": 10
 }
