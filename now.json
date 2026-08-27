@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T19:31:47-05:00",
-  "source": "autopost",
+  "generated": "2026-08-26T19:34:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Get On The Good Foot",
-    "artist": "James Brown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_Get_On_The_Good_Foot.jpg",
-    "started_at": "2026-08-27T00:31:45Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
