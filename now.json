@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T07:03:24-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T07:03:37-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Put Your Hands Where My Eyes Could See",
+    "artist": "Busta Rhymes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Busta_Rhymes_-_Put_Your_Hands_Where_My_Eyes_Could_See.jpg",
+    "started_at": "2026-08-27T12:03:34Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
