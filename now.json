@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T19:49:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-26T19:52:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Tracks Of My Tears (The Motown Story: The 60s Version)",
+    "artist": "Smokey Robinson & The Miracles",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Smokey_Robinson_&_The_Miracles.jpg",
+    "started_at": "2026-08-27T00:52:07Z",
+    "duration_seconds": 176
+  },
   "next_poll_seconds": 10
 }
