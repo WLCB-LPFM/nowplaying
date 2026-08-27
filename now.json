@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T16:33:45-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T16:37:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Obsession",
-    "artist": "Animotion",
-    "album": "Obsession",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Animotion_-_Obsession.jpg",
-    "started_at": "2026-08-27T21:33:36Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
