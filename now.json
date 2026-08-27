@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-27T11:26:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T11:30:22-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Photograph",
+    "artist": "Def Leppard",
+    "album": "Pyromania",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Photograph.jpg",
+    "started_at": "2026-08-27T16:30:07.4530879Z",
+    "duration_seconds": 243,
+    "year": "2016"
+  },
   "next_poll_seconds": 10
 }
