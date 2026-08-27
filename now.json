@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T15:22:14-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T15:24:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "What I Like About You",
-    "artist": "The Romantics",
-    "album": "The Romantics",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Romantics_-_What_I_Like_About_You.jpg",
-    "started_at": "2026-08-27T20:22:07Z",
-    "duration_seconds": 152
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
