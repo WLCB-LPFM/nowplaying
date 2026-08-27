@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T17:11:51-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T17:14:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Caught Up in the Rapture",
-    "artist": "Anita Baker",
-    "album": "Rapture",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anita_Baker_-_Caught_Up_In_The_Rapture.jpg",
-    "started_at": "2026-08-27T22:11:44Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
