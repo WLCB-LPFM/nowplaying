@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T16:02:41-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T16:06:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Safety Dance",
-    "artist": "Men Without Hats",
-    "album": "Rhythm of Youth (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Men_Without_Hats_-_The_Safety_Dance.jpg",
-    "started_at": "2026-08-27T21:02:33Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
