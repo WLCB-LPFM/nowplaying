@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T08:39:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T08:41:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Part-Time Lover",
+    "artist": "Stevie Wonder",
+    "album": "In Square Circle",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Part-time_Lover.jpg",
+    "started_at": "2026-08-27T13:41:38Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
