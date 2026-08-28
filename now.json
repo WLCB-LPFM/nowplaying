@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T08:03:43-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T08:03:56-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wild Wild West (No Intro)",
+    "artist": "Will Smith, Dru Hill & Kool Mo Dee",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Will_Smith,_Dru_Hill_&_Kool_Mo_Dee.jpg",
+    "started_at": "2026-08-28T13:03:46Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
