@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T19:36:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T19:40:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Even Flow",
-    "artist": "Pearl Jam",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pearl_Jam_-_Even_Flow.jpg",
-    "started_at": "2026-08-28T00:36:11Z",
-    "duration_seconds": 294
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
