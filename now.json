@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-28T00:11:49-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T00:12:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Midnight Secrets",
+    "artist": "Jonathan Fritz\u00e9n",
+    "album": "Love Birds",
+    "artwork_url": "",
+    "started_at": "2026-08-28T05:12:04.9283238Z",
+    "duration_seconds": 349,
+    "year": "2008"
+  },
   "next_poll_seconds": 10
 }
