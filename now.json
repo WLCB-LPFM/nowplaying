@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T19:49:35-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T19:49:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Black (Live)",
+    "artist": "Pearl Jam",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pearl_Jam_-_Black_(Live).jpg",
+    "started_at": "2026-08-28T00:49:44Z",
+    "duration_seconds": 344
+  },
   "next_poll_seconds": 10
 }
