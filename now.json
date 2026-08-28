@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:56:17-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T17:56:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Night Fever (From 'Saturday Night Fever' Soundtrack)",
+    "artist": "Bee Gees",
+    "album": "Greatest",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bee_Gees.jpg",
+    "started_at": "2026-08-28T22:56:19Z",
+    "duration_seconds": 175
+  },
   "next_poll_seconds": 10
 }
