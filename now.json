@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:16:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T17:17:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Looking Through You",
+    "artist": "The Beatles",
+    "album": "Rubber Soul",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_I'm_Looking_Through_You.jpg",
+    "started_at": "2026-08-28T22:17:00Z",
+    "duration_seconds": 149
+  },
   "next_poll_seconds": 10
 }
