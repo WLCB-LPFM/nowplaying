@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T21:42:06-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T21:48:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Broken Whiskey Glass",
+    "artist": "Post Malone",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Post_Malone_-_Broken_Whiskey_Glass.jpg",
+    "started_at": "2026-08-28T02:48:21Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
