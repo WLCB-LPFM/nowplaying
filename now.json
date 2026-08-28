@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T20:58:27-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T21:04:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Off He Goes",
-    "artist": "Pearl Jam",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pearl_Jam_-_Off_He_Goes.jpg",
-    "started_at": "2026-08-28T01:58:15Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
