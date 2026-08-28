@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T08:13:34-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T08:17:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Middle Of The Road",
-    "artist": "The Pretenders",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Pretenders_-_Middle_Of_The_Road.jpg",
-    "started_at": "2026-08-28T13:13:24Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
