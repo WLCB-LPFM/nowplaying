@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:45:35-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T17:48:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fire",
-    "artist": "The Jimi Hendrix Experience",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jimi_Hendrix_Experience_-_Fire.jpg",
-    "started_at": "2026-08-28T22:45:28Z",
-    "duration_seconds": 164
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
