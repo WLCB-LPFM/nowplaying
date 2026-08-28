@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T07:11:51-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T07:17:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "(I've Had) The Time of My Life",
+    "artist": "Bill Medley & Jennifer Warnes",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Medley_&_Jennifer_Warnes_-_(I've_Had)_The_Time_Of_My_Life.jpg",
+    "started_at": "2026-08-28T12:17:36Z",
+    "duration_seconds": 255
+  },
   "next_poll_seconds": 10
 }
