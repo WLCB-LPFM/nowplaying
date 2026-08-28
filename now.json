@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T19:40:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-27T19:41:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Alive",
+    "artist": "Pearl Jam",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pearl_Jam_-_Alive.jpg",
+    "started_at": "2026-08-28T00:40:58Z",
+    "duration_seconds": 343
+  },
   "next_poll_seconds": 10
 }
