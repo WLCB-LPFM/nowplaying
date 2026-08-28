@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T18:39:27-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T18:40:35-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Get High",
+    "artist": "Aretha Franklin",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_I_Get_High.jpg",
+    "started_at": "2026-08-28T23:40:30Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
