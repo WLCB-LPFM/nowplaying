@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T21:52:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T21:56:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Sicko Mode (Clean)",
-    "artist": "Travis Scott ft. Drake, Juicy J & Swae Lee",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Travis_Scott_Ft._Drake,_Juicy_J_&_Swae_Lee.jpg",
-    "started_at": "2026-08-28T02:51:48Z",
-    "duration_seconds": 315
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
