@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:11:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T17:13:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Black Is Black",
-    "artist": "Los Bravos",
-    "album": "Black Is Black",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Los_Bravos_-_Black_Is_Black.jpg",
-    "started_at": "2026-08-28T22:11:17Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
