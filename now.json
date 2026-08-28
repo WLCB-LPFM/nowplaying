@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:35:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T17:37:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Wendy",
-    "artist": "The Beach Boys",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beach_Boys_-_Wendy.jpg",
-    "started_at": "2026-08-28T22:35:08Z",
-    "duration_seconds": 137
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
