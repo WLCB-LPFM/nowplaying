@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:37:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T17:37:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Jackie Blue",
+    "artist": "The Ozark Mountain Daredevils",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Ozark_Mountain_Daredevils_-_Jackie_Blue.jpg",
+    "started_at": "2026-08-28T22:37:50Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
