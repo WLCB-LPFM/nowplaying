@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:19:22-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T17:19:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hey Joe",
+    "artist": "The Leaves",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Leaves_-_Hey_Joe.jpg",
+    "started_at": "2026-08-28T22:19:39Z",
+    "duration_seconds": 168
+  },
   "next_poll_seconds": 10
 }
