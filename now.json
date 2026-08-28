@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T21:38:57-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T21:42:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Dancing Queen",
-    "artist": "ABBA",
-    "album": "ABBA Gold: Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Abba_-_Dancing_Queen.jpg",
-    "started_at": "2026-08-28T02:38:51Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
