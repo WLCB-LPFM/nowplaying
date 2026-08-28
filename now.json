@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:13:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T17:14:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Gloria",
+    "artist": "The Shadows of Knight",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Shadows_Of_Knight_-_Gloria.jpg",
+    "started_at": "2026-08-28T22:14:11Z",
+    "duration_seconds": 158
+  },
   "next_poll_seconds": 10
 }
