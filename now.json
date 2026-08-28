@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T18:22:10-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T18:26:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Just Got Back from Baby's",
-    "artist": "ZZ Top",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Just_Got_Back_From_Baby's.jpg",
-    "started_at": "2026-08-28T23:22:01Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
