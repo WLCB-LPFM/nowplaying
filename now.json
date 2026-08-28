@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T12:00:10-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T12:04:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Make My Own Weather",
+    "artist": "Robben Ford",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robben_Ford_-_Make_My_Own_Weather.jpg",
+    "started_at": "2026-08-28T17:04:05Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
