@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:28:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T17:30:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Pushin' Too Hard",
-    "artist": "The Seeds",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Seeds_-_Pushin'_Too_Hard.jpg",
-    "started_at": "2026-08-28T22:27:59Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
