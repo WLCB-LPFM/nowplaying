@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T18:26:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T18:28:52-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Since I Lost My Baby",
-    "artist": "The Temptations",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_Since_I_Lost_My_Baby.jpg",
-    "started_at": "2026-08-28T23:26:11Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
