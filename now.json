@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-28T03:52:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-28T03:55:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Weather Bird",
-    "artist": "Louis Armstrong And Earl Hines",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-08-28T08:52:56.4356207Z",
-    "duration_seconds": 158,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
