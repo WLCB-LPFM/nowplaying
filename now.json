@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T18:45:37-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T18:48:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "All I Ever Wonder",
-    "artist": "St. Paul & The Broken Bones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/St._Paul_&_The_Broken_Bones_-_All_I_Ever_Wonder.jpg",
-    "started_at": "2026-08-28T23:45:30Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
