@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T12:56:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T12:56:57-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Sophie",
+    "artist": "Jeff Beck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeff_Beck_-_Sophie.jpg",
+    "started_at": "2026-08-28T17:56:46Z",
+    "duration_seconds": 390
+  },
   "next_poll_seconds": 10
 }
