@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T15:21:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T15:23:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Make It Last",
+    "artist": "Montrose",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Montrose_-_Make_It_Last.jpg",
+    "started_at": "2026-08-28T20:23:32Z",
+    "duration_seconds": 331
+  },
   "next_poll_seconds": 10
 }
