@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T17:05:52-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T17:07:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Little Children",
-    "artist": "Billy J. Kramer & The Dakotas",
-    "album": "EMI Legends Rock 'n' Roll Seris - The Definitive Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_J._Kramer_&_The_Dakotas_-_Little_Children.jpg",
-    "started_at": "2026-08-28T22:05:43Z",
-    "duration_seconds": 142
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
