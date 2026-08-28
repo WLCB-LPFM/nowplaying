@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T12:21:12-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T12:26:49-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Living for the City",
-    "artist": "Slash & Tash Neal",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Slash_&_Tash_Neal.jpg",
-    "started_at": "2026-08-28T17:21:03Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
