@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T18:05:53-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T18:06:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You Ought to Be with Me",
+    "artist": "Al Green",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Green_-_You_Ought_To_Be_With_Me.jpg",
+    "started_at": "2026-08-28T23:05:59Z",
+    "duration_seconds": 200
+  },
   "next_poll_seconds": 10
 }
