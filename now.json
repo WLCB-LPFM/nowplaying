@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T22:00:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T22:03:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Silent Lucidity",
-    "artist": "Queensr\u00ffche",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/q/Queensr\u00ffche_-_Silent_Lucidity.jpg",
-    "started_at": "2026-08-28T02:57:52Z",
-    "duration_seconds": 348
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
