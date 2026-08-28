@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T19:46:31-05:00",
-  "source": "autopost",
+  "generated": "2026-08-27T19:49:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Why Go",
-    "artist": "Pearl Jam",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pearl_Jam_-_Why_Go.jpg",
-    "started_at": "2026-08-28T00:46:26Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
