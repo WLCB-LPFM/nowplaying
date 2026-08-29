@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-29T15:27:35-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T15:27:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "One Thing Leads to Another",
-    "artist": "The Fixx",
-    "album": "Reach The Beach",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Fixx_-_One_Thing_Leads_To_Another.jpg",
-    "started_at": "2026-08-29T20:24:45Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
