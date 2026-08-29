@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T10:01:04-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T10:02:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Sole Survivor",
+    "artist": "Asia",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Asia_-_Sole_Survivor.jpg",
+    "started_at": "2026-08-29T15:02:38Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
