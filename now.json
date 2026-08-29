@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T19:08:58-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T19:10:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Mustang Sally (feat. Andrew Strong)",
+    "artist": "The Commitments",
+    "album": "The Commitments (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Commitments_-_Mustang_Sally_(Feat._Andrew_Strong).jpg",
+    "started_at": "2026-08-29T00:10:21Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
