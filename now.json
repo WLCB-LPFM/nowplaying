@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T08:06:56-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T08:33:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Peace of Mind",
+    "artist": "Boston",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boston_-_Peace_Of_Mind.jpg",
+    "started_at": "2026-08-29T13:32:55Z",
+    "duration_seconds": 302
+  },
   "next_poll_seconds": 10
 }
