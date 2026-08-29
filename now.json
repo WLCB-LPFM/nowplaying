@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-29T16:55:52-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T16:58:17-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Magic Number",
-    "artist": "De La Soul",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/De_La_Soul_-_The_Magic_Number.jpg",
-    "started_at": "2026-08-29T21:53:01Z",
-    "duration_seconds": 329
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
