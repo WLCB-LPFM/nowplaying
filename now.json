@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T22:06:21-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T22:10:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Undercover of the Night",
+    "artist": "The Rolling Stones",
+    "album": "Undercover (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Undercover_Of_The_Night.jpg",
+    "started_at": "2026-08-29T03:10:43Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
