@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-28T23:41:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T23:44:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You got me (F\u00f8r Vi G\u00e5r Hjem)",
+    "artist": "S\u00f8ren Torpegaard Lund & twocolors",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-08-29T04:43:58Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
