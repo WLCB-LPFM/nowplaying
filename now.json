@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T11:51:52-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T11:54:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Shower Me With Your Love",
+    "artist": "Surface",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Surface_-_Shower_Me_With_Your_Love.jpg",
+    "started_at": "2026-08-29T16:54:29Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
