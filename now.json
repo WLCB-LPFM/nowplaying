@@ -1,9 +1,20 @@
 {
-  "generated": "2026-08-29T07:56:18-05:00",
+  "generated": "2026-08-29T08:00:02-05:00",
   "source": "fallback",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Sports Weekly",
+    "hosts": [
+      "Lucas Vollmer",
+      "Matt Rosenberg",
+      "Pat Cameron"
+    ],
+    "automated": false,
+    "starts": "08:00",
+    "ends": "11:00",
+    "genre": "Sports"
+  },
   "track": null,
   "next_poll_seconds": 10
 }
