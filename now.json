@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T18:02:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T18:06:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Roll With It",
-    "artist": "Steve Winwood",
-    "album": "Roll With It",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Winwood_-_Roll_With_It.jpg",
-    "started_at": "2026-08-29T23:02:20Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
