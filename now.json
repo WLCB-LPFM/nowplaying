@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-29T00:46:33-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T00:54:21-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Superjet",
+    "artist": "Morozoff",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Morozoff_-_Superjet.jpg",
+    "started_at": "2026-08-29T05:54:09Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
