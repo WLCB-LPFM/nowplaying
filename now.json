@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T22:35:09-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T22:35:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Won't Get Fooled Again",
+    "artist": "The Who",
+    "album": "Who's Next (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Who_-_Won't_Get_Fooled_Again.jpg",
+    "started_at": "2026-08-29T03:35:12Z",
+    "duration_seconds": 456
+  },
   "next_poll_seconds": 10
 }
