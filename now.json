@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-29T14:55:03-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-29T14:58:26-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Boombastic",
-    "artist": "Shaggy",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-29T19:54:52.2093048Z",
-    "duration_seconds": 225,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
