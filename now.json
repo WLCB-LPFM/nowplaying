@@ -1,9 +1,16 @@
 {
-  "generated": "2026-08-29T00:01:57-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T00:08:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "He's Funny That Way",
+    "artist": "Billie Holiday",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billie_Holiday_-_He's_Funny_That_Way.jpg",
+    "started_at": "2026-08-29T05:08:32Z",
+    "duration_seconds": 194
+  },
   "next_poll_seconds": 10
 }
