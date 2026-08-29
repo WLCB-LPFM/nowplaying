@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T18:30:48-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T18:34:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Billie Jean",
-    "artist": "Michael Jackson",
-    "album": "Thriller",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Billie_Jean.jpg",
-    "started_at": "2026-08-29T23:30:41Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
