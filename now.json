@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T22:43:31-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T22:46:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Feel Like a Number",
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "album": "Stranger In Town",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_&_The_Silver_Bullet_Band_-_Feel_Like_A_Number.jpg",
-    "started_at": "2026-08-29T03:43:25Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
