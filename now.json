@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T18:57:00-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T18:58:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Gold Digger (feat. Jamie Foxx)",
-    "artist": "Kanye West",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kanye_West_-_Gold_Digger_(Feat._Jamie_Foxx).jpg",
-    "started_at": "2026-08-29T23:56:54Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
