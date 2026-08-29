@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-29T16:20:02-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T16:20:15-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Lady Marmalade",
+    "artist": "Christina Aguilera & Lil\u2019Kim & Mya & Pink & Missy Elliott",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-29T21:20:08.7432889Z",
+    "duration_seconds": 255,
+    "year": "2024"
+  },
   "next_poll_seconds": 10
 }
