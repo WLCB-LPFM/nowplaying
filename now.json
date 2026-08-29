@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T09:02:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T09:04:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Rock & Roll Band",
-    "artist": "Boston",
-    "album": "Boston",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boston_-_Rock_&_Roll_Band.jpg",
-    "started_at": "2026-08-29T14:02:26Z",
-    "duration_seconds": 109
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
