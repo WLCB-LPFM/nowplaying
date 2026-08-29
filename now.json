@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T22:04:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T22:06:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "California Sun",
-    "artist": "Ramones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ramones_-_California_Sun.jpg",
-    "started_at": "2026-08-29T03:04:22Z",
-    "duration_seconds": 128
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
