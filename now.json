@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T11:00:01-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T11:00:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Tube Snake Boogie",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Tube_Snake_Boogie.jpg",
+    "started_at": "2026-08-29T16:00:20Z",
+    "duration_seconds": 181
+  },
   "next_poll_seconds": 10
 }
