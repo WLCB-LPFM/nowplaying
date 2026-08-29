@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-29T06:12:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-29T06:12:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Whenever, Wherever",
-    "artist": "Shakira",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-29T11:09:53.9985153Z",
-    "duration_seconds": 192,
-    "year": "2023"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
