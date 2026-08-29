@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T19:12:43-05:00",
-  "source": "autopost",
+  "generated": "2026-08-28T19:13:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Shining Star (Single Version)",
-    "artist": "Earth, Wind & Fire",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Earth,_Wind_&_Fire.jpg",
-    "started_at": "2026-08-29T00:12:21Z",
-    "duration_seconds": 90
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
