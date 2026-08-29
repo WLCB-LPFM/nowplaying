@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T21:54:15-05:00",
-  "source": "fallback",
+  "generated": "2026-08-28T21:55:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Trouble Every Day",
+    "artist": "Frank Zappa & The Mothers of Invention",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/f/Frank_Zappa_&_The_Mothers_Of_Invention.jpg",
+    "started_at": "2026-08-29T02:55:16Z",
+    "duration_seconds": 350
+  },
   "next_poll_seconds": 10
 }
