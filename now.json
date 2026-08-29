@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T09:33:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T09:37:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Hitch a Ride",
-    "artist": "Boston",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boston_-_Hitch_A_Ride.jpg",
-    "started_at": "2026-08-29T14:32:55Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
