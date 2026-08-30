@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T15:09:54-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T15:10:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Don't Want to Set the World on Fire",
+    "artist": "Vincent Lopez and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T20:10:09.452164Z",
+    "duration_seconds": 192,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
