@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-30T16:00:07-05:00",
+  "generated": "2026-08-30T16:00:20-05:00",
   "source": "fallback",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "mode": "live",
+  "automation_on": false,
   "show": {
     "name": "Old School Throwbacks",
     "hosts": [
