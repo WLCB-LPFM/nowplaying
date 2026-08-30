@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T16:57:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T16:58:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "When Doves Cry",
+    "artist": "Prince",
+    "album": "When Doves Cry",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_When_Doves_Cry.jpg",
+    "started_at": "2026-08-30T21:57:57Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
