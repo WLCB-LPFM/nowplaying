@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-30T06:49:23-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T06:49:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You're Lonely and I'm Lonely",
-    "artist": "Will Osborne",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/w/Will_Osborne.jpg",
-    "started_at": "2026-08-30T11:44:01Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
