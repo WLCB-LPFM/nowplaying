@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T21:41:59-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T21:46:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Can't Tell You Why",
-    "artist": "Eagles",
-    "album": "Eagles Greatest Hits, Vol. 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_I_Can't_Tell_You_Why.jpg",
-    "started_at": "2026-08-30T02:41:47Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
