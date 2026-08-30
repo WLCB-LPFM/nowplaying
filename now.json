@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T06:07:19-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T06:07:31-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Secrets In The Moonlight (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T11:07:30.8891444Z",
+    "duration_seconds": 166,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
