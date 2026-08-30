@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T22:05:13-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T22:10:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "'Round Midnight",
-    "artist": "Miles Davis Quintet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miles_Davis_Quintet.jpg",
-    "started_at": "2026-08-30T03:04:30Z",
-    "duration_seconds": 356
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
