@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T19:05:12-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T19:06:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Good Vibrations (feat. Loleatta Holloway)",
+    "artist": "Marky Mark and the Funky Bunch & Loleatta Holloway",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Marky_Mark_And_The_Funky_Bunch_&_Loleatta_Holloway.jpg",
+    "started_at": "2026-08-30T00:06:13Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
