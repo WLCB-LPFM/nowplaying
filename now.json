@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T21:34:00-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T21:37:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Will Be Here for You (Nitakungodea Milele)",
-    "artist": "Al Jarreau",
-    "album": "Jarreau",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Jarreau_-_I_Will_Be_Here_For_You_(Nitakungodea_Milele).jpg",
-    "started_at": "2026-08-30T02:33:53Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
