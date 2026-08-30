@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T09:27:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T09:41:30-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Jivin' The Vibes",
+    "artist": "Lionel Hampton and His Orchestra",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d437fefe6c168a9c0d9af255fa71aeba.png",
+    "started_at": "2026-08-30T14:41:15Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
