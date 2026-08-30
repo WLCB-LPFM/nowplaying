@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T18:56:15-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T18:58:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Champ",
+    "artist": "The Mohawks",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Mohawks_-_The_Champ.jpg",
+    "started_at": "2026-08-30T23:58:13Z",
+    "duration_seconds": 158
+  },
   "next_poll_seconds": 10
 }
