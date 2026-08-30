@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T06:22:22-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T06:22:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "What is there to Say",
+    "artist": "Artie Shaw and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T11:22:31.0387626Z",
+    "duration_seconds": 188,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
