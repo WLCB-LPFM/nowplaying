@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T17:53:35-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T17:56:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Candy (7' Version)",
-    "artist": "Cameo",
-    "album": "'80s Urban Beats & Grooves",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cameo.jpg",
-    "started_at": "2026-08-30T22:53:14Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
