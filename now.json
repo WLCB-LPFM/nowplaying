@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-30T00:00:01-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T00:00:13-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cotton Tail",
-    "artist": "Duke Ellington and His Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_And_His_Orchestra_-_Cotton_Tail.jpg",
-    "started_at": "2026-08-30T04:57:15Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
