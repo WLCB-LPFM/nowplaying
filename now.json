@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T19:27:43-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T19:30:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "All That She Wants (12' Version)",
+    "artist": "Ace of Base",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ace_Of_Base.jpg",
+    "started_at": "2026-08-30T00:30:26Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
