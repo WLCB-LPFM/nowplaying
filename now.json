@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T09:07:17-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T09:10:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "April In Paris",
-    "artist": "Count Basie and His Orchestra",
-    "album": "April in Paris",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_And_His_Orchestra_-_April_In_Paris.jpg",
-    "started_at": "2026-08-30T14:07:14Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
