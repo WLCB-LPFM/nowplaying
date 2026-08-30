@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T10:07:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T10:24:42-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Inside Our Hearts (feat. Shaun Farrugia) [Extended Mix]",
+    "artist": "Martin Garrix & Alesso",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-08-30T15:24:23Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
