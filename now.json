@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T21:46:03-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T21:47:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "There'll Never Be",
+    "artist": "Switch",
+    "album": "20th Century Masters - The Millennium Collection: The Best of Switch",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Switch_-_There'll_Never_Be.jpg",
+    "started_at": "2026-08-30T02:47:21Z",
+    "duration_seconds": 283
+  },
   "next_poll_seconds": 10
 }
