@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T20:12:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T20:15:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Hood Figga",
-    "artist": "Gorilla Zoe",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gorilla_Zoe_-_Hood_Figga.jpg",
-    "started_at": "2026-08-30T01:12:07Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
