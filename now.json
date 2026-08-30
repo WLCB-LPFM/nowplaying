@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T21:37:31-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T21:38:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You Got It All",
+    "artist": "The Jets",
+    "album": "20th Century Masters: The Millennium Collection: Best Of The Jets",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jets_-_You_Got_It_All.jpg",
+    "started_at": "2026-08-30T02:38:02Z",
+    "duration_seconds": 249
+  },
   "next_poll_seconds": 10
 }
