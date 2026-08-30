@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T15:24:56-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T15:25:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sing Me a Song of the Islands",
+    "artist": "Dolly Dawn and her Dawn Patrol Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T20:25:11.4637569Z",
+    "duration_seconds": 168,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
