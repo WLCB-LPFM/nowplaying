@@ -1,16 +1,17 @@
 {
-  "generated": "2026-08-30T01:15:01-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T01:15:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Take Five",
-    "artist": "Dave Brubeck",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
-    "started_at": "2026-08-30T06:10:15Z",
-    "duration_seconds": 324
+    "title": "Oh, Lady Be Good",
+    "artist": "Charlie Parker with Jazz at the Philharmonic",
+    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
+    "artwork_url": "",
+    "started_at": "2026-08-30T06:15:10.7603063Z",
+    "duration_seconds": 180,
+    "year": "1987"
   },
   "next_poll_seconds": 10
 }
