@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T20:15:18-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T20:17:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "mix 1",
+    "artist": "Mari Valie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mari_Valie.jpg",
+    "started_at": "2026-08-30T01:17:22Z",
+    "duration_seconds": 227
+  },
   "next_poll_seconds": 10
 }
