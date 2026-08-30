@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T17:21:29-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T17:24:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Give Me the Night",
-    "artist": "George Benson",
-    "album": "Give Me the Night",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Benson_-_Give_Me_The_Night.jpg",
-    "started_at": "2026-08-30T22:21:18Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
