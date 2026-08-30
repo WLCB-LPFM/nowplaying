@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T17:56:55-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T17:57:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Rock Me Tonight (For Old Times Sake)",
+    "artist": "Freddie Jackson",
+    "album": "Rock Me Tonight",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Freddie_Jackson_-_Rock_Me_Tonight_(For_Old_Times_Sake).jpg",
+    "started_at": "2026-08-30T22:57:27Z",
+    "duration_seconds": 383
+  },
   "next_poll_seconds": 10
 }
