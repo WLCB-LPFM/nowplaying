@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T06:37:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T06:37:36-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When It's Blossom Time in Caroline (1940)",
+    "artist": "Jimmie Livingston and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T11:37:30.6385416Z",
+    "duration_seconds": 172,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
