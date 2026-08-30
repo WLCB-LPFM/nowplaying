@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T22:00:57-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T22:04:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "'Round Midnight",
+    "artist": "Miles Davis",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_'round_Midnight.jpg",
+    "started_at": "2026-08-30T03:04:27Z",
+    "duration_seconds": 355
+  },
   "next_poll_seconds": 10
 }
