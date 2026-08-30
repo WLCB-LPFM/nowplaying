@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T20:08:13-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T20:08:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Safe From Harm (feat. Shara Nelson)",
+    "artist": "Massive Attack",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Massive_Attack.jpg",
+    "started_at": "2026-08-30T01:08:50Z",
+    "duration_seconds": 416
+  },
   "next_poll_seconds": 10
 }
