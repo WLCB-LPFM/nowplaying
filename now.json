@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-30T08:46:03-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-30T08:49:03-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Day In-Day Out (1940)",
-    "artist": "Billy Cotton and His Band",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-30T13:45:57.6744422Z",
-    "duration_seconds": 200,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
