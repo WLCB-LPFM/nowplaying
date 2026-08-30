@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T21:56:06-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T21:58:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I've Been Loving You Too Long",
-    "artist": "Otis Redding",
-    "album": "The Very Best of Otis Redding",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Otis_Redding_-_I've_Been_Loving_You_Too_Long.jpg",
-    "started_at": "2026-08-30T02:55:53Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
