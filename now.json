@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-30T07:19:46-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-30T07:22:22-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "My Melancholy Baby (1940)",
-    "artist": "Jack Teagarden and his Orchestra",
+    "title": "Rock Me",
+    "artist": "Great White",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-30T12:19:37.0907808Z",
-    "duration_seconds": 173,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Great_White_-_Rock_Me.jpg",
+    "started_at": "2026-08-30T12:19:31Z",
+    "duration_seconds": 438
   },
   "next_poll_seconds": 10
 }
