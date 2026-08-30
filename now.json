@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T17:12:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T17:12:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Let's Hear It for the Boy",
+    "artist": "Deniece Williams",
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deniece_Williams_-_Let's_Hear_It_For_The_Boy.jpg",
+    "started_at": "2026-08-30T22:12:21Z",
+    "duration_seconds": 273
+  },
   "next_poll_seconds": 10
 }
