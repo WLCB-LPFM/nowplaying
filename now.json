@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T14:57:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T14:58:00-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Alimony Blues (1940)",
+    "artist": "Benny Bell; Ben Samberg",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T19:57:57.0994676Z",
+    "duration_seconds": 123,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
