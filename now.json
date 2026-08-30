@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T07:59:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T08:02:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Who Do You Think You Are",
+    "artist": "Betty Bradley",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T13:02:10.3934396Z",
+    "duration_seconds": 157,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
