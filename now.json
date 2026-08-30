@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T16:53:41-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T16:53:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Hello",
+    "artist": "Lionel Richie",
+    "album": "Number Ones - Soul",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lionel_Richie_-_Hello.jpg",
+    "started_at": "2026-08-30T21:53:47Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
