@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T01:53:36-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T01:54:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "What It Means To Me",
+    "artist": "Sinne Eeg",
+    "album": "The Best Of Sinne Eeg",
+    "artwork_url": "",
+    "started_at": "2026-08-30T06:54:10.8570567Z",
+    "duration_seconds": 208,
+    "year": "2015"
+  },
   "next_poll_seconds": 10
 }
