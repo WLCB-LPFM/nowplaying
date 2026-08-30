@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T08:49:03-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T08:49:49-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Gaucho Serenade (1940)",
+    "artist": "Johnny McGee and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T13:49:48.1875153Z",
+    "duration_seconds": 162,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
