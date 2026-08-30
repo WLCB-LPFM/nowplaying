@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-30T06:19:41-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-30T06:22:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "It's My Turn Now (1940)",
-    "artist": "Roy Eldridge and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-30T11:19:40.0419197Z",
-    "duration_seconds": 170,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
