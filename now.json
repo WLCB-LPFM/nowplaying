@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T22:24:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T22:27:10-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Since I Fell For You (feat. Rudy Martin Trio)",
-    "artist": "Dinah Washington",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dinah_Washington_-_Since_I_Fell_For_You_(Feat._Rudy_Martin_Trio).jpg",
-    "started_at": "2026-08-30T03:23:59Z",
-    "duration_seconds": 197
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
