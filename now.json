@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T16:25:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T16:28:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "We're In This Love Together",
-    "artist": "Al Jarreau",
-    "album": "Breakin' Away",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Jarreau_-_We're_In_This_Love_Together.jpg",
-    "started_at": "2026-08-30T21:25:14Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
