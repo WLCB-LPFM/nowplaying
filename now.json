@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T15:37:24-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T15:37:36-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Skylark",
+    "artist": "Bunny Berigan and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T20:37:31.6499563Z",
+    "duration_seconds": 160,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
