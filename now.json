@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T08:58:05-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T08:58:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You're Made to Order for Me (1945)",
+    "artist": "Benny Bell",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T13:58:09.5462762Z",
+    "duration_seconds": 111,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
