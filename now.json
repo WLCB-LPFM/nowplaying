@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-30T08:40:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-30T08:43:24-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "All the Things You Are",
-    "artist": "Artie Shaw and his Orchestra",
+    "title": "All The Things You Are",
+    "artist": "Artie Shaw",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-30T13:40:12.9207207Z",
-    "duration_seconds": 195,
-    "year": "1941"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Artie_Shaw_-_All_The_Things_You_Are.jpg",
+    "started_at": "2026-08-30T13:40:22Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
