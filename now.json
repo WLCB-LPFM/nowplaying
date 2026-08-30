@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-30T08:37:35-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-30T08:40:00-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Carnival of Venice (1940)",
-    "artist": "Harry James; Harry James and his Orchestra",
+    "title": "Carnival of Venice",
+    "artist": "Harry James and His Orchestra",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-30T13:37:31.4772461Z",
-    "duration_seconds": 161,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harry_James_And_His_Orchestra.jpg",
+    "started_at": "2026-08-30T13:39:27Z",
+    "duration_seconds": 153
   },
   "next_poll_seconds": 10
 }
