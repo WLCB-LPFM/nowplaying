@@ -1,18 +1,9 @@
 {
-  "generated": "2026-08-30T13:35:48-05:00",
+  "generated": "2026-08-30T14:00:08-05:00",
   "source": "fallback",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Radio Roots",
-    "hosts": [
-      "Rick Hagerty"
-    ],
-    "automated": false,
-    "starts": "11:00",
-    "ends": "14:00",
-    "genre": "OTR"
-  },
+  "show": null,
   "track": null,
   "next_poll_seconds": 10
 }
