@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T21:09:14-05:00",
-  "source": "fallback",
+  "generated": "2026-08-29T21:28:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Age Ain't Nothing But a Number",
+    "artist": "Aaliyah",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aaliyah_-_Age_Ain't_Nothing_But_A_Number.jpg",
+    "started_at": "2026-08-30T02:28:38Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
