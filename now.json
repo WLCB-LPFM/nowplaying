@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T22:34:48-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T22:40:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "After Hours",
-    "artist": "Buck Clayton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buck_Clayton_-_After_Hours.jpg",
-    "started_at": "2026-08-30T03:34:39Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
