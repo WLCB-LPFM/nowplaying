@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T09:10:26-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T09:14:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Full Moon",
+    "artist": "Peggy Lee",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peggy_Lee_-_Full_Moon.jpg",
+    "started_at": "2026-08-30T14:14:35Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
