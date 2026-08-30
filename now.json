@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T06:57:12-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T06:57:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jingle Jangle Jingle",
+    "artist": "Mal Hallett and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T11:57:27.1772731Z",
+    "duration_seconds": 153,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
