@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T18:08:53-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T18:11:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Hold On",
-    "artist": "IAN GOMM",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Ian_Gomm_-_Hold_On.jpg",
-    "started_at": "2026-08-30T23:08:42Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
