@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T18:27:08-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T18:31:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Riding with the King",
-    "artist": "Eric Clapton & B.B. King",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_&_B.b._King_-_Riding_With_The_King.jpg",
-    "started_at": "2026-08-30T23:27:00Z",
-    "duration_seconds": 3680
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
