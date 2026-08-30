@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T08:34:45-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T08:34:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Little Girl (1940)",
+    "artist": "Johnny McGee and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T13:34:55.4025895Z",
+    "duration_seconds": 155,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
