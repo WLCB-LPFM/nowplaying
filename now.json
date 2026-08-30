@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T20:23:19-05:00",
-  "source": "autopost",
+  "generated": "2026-08-29T20:25:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Ace Trumpets",
-    "artist": "Clipse, Pusha T & Malice",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-08-30T01:23:10Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
