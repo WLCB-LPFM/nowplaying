@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T17:24:28-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T17:26:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Freeway of Love",
+    "artist": "Aretha Franklin",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_Freeway_Of_Love.jpg",
+    "started_at": "2026-08-30T22:26:21Z",
+    "duration_seconds": 352
+  },
   "next_poll_seconds": 10
 }
