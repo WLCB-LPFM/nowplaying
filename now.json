@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T08:24:47-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T08:24:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Salty Mama Blues (1940)",
+    "artist": "Joe Marsala and his Delta Four",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T13:24:54.7755308Z",
+    "duration_seconds": 185,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
