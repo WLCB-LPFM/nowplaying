@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T07:16:22-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T07:16:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When Cohen Plays the Jew's-Harp & Riley Plays the Flute",
+    "artist": "Tommy Doyle and his Rhythm Toppers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T12:16:32.6218492Z",
+    "duration_seconds": 154,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
