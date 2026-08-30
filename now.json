@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-30T07:52:25-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T07:52:37-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Walkin' the Dog (1940)",
+    "artist": "Frankie Trumbauer and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-30T12:52:30.6428389Z",
+    "duration_seconds": 152,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
