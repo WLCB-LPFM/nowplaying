@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T17:05:32-05:00",
-  "source": "fallback",
+  "generated": "2026-08-31T17:05:56-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Mr. Predictable",
+    "artist": "Beach Bunny",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beach_Bunny_-_Mr._Predictable.jpg",
+    "started_at": "2026-08-31T22:05:44Z",
+    "duration_seconds": 160
+  },
   "next_poll_seconds": 10
 }
