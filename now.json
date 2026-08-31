@@ -1,17 +1,9 @@
 {
-  "generated": "2026-08-30T23:55:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-30T23:59:55-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Desperado",
-    "artist": "Malene Mortensen",
-    "album": "Malene",
-    "artwork_url": "",
-    "started_at": "2026-08-31T04:55:51.9529849Z",
-    "duration_seconds": 248,
-    "year": "2006"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
