@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T20:09:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T20:24:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "And It Stoned Me",
+    "artist": "Widespread Panic",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_And_It_Stoned_Me.jpg",
+    "started_at": "2026-08-31T01:24:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
