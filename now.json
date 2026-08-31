@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T21:11:38-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T21:14:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Kiss the Sky",
-    "artist": "Shawn Lee's Ping Pong Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shawn_Lee's_Ping_Pong_Orchestra_-_Kiss_The_Sky.jpg",
-    "started_at": "2026-08-31T02:11:33Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
