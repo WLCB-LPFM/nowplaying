@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T11:36:00-05:00",
-  "source": "fallback",
+  "generated": "2026-08-31T11:36:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "The House Is Rockin'",
+    "artist": "Stevie Ray Vaughan & Double Trouble",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_The_House_Is_Rockin'.jpg",
+    "started_at": "2026-08-31T16:36:20Z",
+    "duration_seconds": 287
+  },
   "next_poll_seconds": 10
 }
