@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T19:21:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T19:23:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The First Cut Is The Deepest",
-    "artist": "Cat Stevens",
-    "album": "New Masters (Deluxe Edition) [2004 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cat_Stevens_-_The_First_Cut_Is_The_Deepest.jpg",
-    "started_at": "2026-08-31T00:21:07Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
