@@ -1,9 +1,17 @@
 {
-  "generated": "2026-08-31T15:26:11-05:00",
-  "source": "fallback",
+  "generated": "2026-08-31T15:26:24-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Can't Stop the Feeling",
+    "artist": "Justin Timberlake",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-08-31T20:26:13.9905469Z",
+    "duration_seconds": 225,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
