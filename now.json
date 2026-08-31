@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T07:06:08-05:00",
-  "source": "fallback",
+  "generated": "2026-08-31T07:07:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't You Want Me",
+    "artist": "The Human League",
+    "album": "Anthology: A Very British Synthesizer Group (Super Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Human_League_-_Don't_You_Want_Me.jpg",
+    "started_at": "2026-08-31T12:07:20Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
