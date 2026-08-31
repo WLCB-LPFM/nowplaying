@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T20:35:48-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T20:53:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I See You",
+    "artist": "Yes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yes_-_I_See_You.jpg",
+    "started_at": "2026-08-31T01:53:36Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
