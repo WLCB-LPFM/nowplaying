@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T19:00:44-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T19:04:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Come Again",
+    "artist": "Billy Nicholls",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Nicholls_-_Come_Again.jpg",
+    "started_at": "2026-08-31T00:04:36Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
