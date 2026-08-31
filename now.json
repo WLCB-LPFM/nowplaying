@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T16:06:33-05:00",
-  "source": "fallback",
+  "generated": "2026-08-31T16:08:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Walking the Cow",
+    "artist": "Daniel Johnston",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daniel_Johnston_-_Walking_The_Cow.jpg",
+    "started_at": "2026-08-31T21:08:37Z",
+    "duration_seconds": 217
+  },
   "next_poll_seconds": 10
 }
