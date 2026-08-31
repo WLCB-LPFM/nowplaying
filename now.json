@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T16:16:12-05:00",
-  "source": "fallback",
+  "generated": "2026-08-31T16:16:36-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wraith Pinned to the Mist and Other Games",
+    "artist": "of Montreal",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Of_Montreal_-_Wraith_Pinned_To_The_Mist_And_Other_Games.jpg",
+    "started_at": "2026-08-31T21:16:26Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
