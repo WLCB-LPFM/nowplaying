@@ -1,17 +1,16 @@
 {
-  "generated": "2026-08-31T15:33:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-08-31T15:35:20-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Hungry Like the Wolf",
-    "artist": "Duran Duran",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-08-31T20:32:09.6179171Z",
-    "duration_seconds": 200,
-    "year": "1982"
+    "title": "You Send Me",
+    "artist": "Sam Cooke",
+    "album": "The Best of Sam Cooke",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_Cooke_-_You_Send_Me.jpg",
+    "started_at": "2026-08-31T20:33:53Z",
+    "duration_seconds": 257
   },
   "next_poll_seconds": 10
 }
