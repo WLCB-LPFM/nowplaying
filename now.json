@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T19:37:44-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T19:43:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Madman Running Through the Fields",
-    "artist": "Dantalian's Chariot",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dantalian's_Chariot_-_Madman_Running_Through_The_Fields.jpg",
-    "started_at": "2026-08-31T00:37:40Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
