@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T08:25:10-05:00",
-  "source": "fallback",
+  "generated": "2026-08-31T08:26:18-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Independent Women, Pt. I",
+    "artist": "Destiny's Child",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Destiny's_Child_-_Independent_Women,_Pt._I.jpg",
+    "started_at": "2026-08-31T13:26:08Z",
+    "duration_seconds": 218
+  },
   "next_poll_seconds": 10
 }
