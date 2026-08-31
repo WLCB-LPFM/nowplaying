@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T20:04:02-05:00",
-  "source": "autopost",
+  "generated": "2026-08-30T20:09:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Your Time Is Gonna Come",
-    "artist": "Sandie Shaw",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sandie_Shaw_-_Your_Time_Is_Gonna_Come.jpg",
-    "started_at": "2026-08-31T01:03:53Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
