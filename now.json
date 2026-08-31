@@ -1,16 +1,9 @@
 {
-  "generated": "2026-08-31T02:09:11-05:00",
-  "source": "autopost",
+  "generated": "2026-08-31T02:09:34-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Taxi War Dance",
-    "artist": "Count Basie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_Taxi_War_Dance.jpg",
-    "started_at": "2026-08-31T07:06:57Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
