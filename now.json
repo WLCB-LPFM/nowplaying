@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T19:10:23-05:00",
-  "source": "fallback",
+  "generated": "2026-08-30T19:15:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I'll Remember",
+    "artist": "The Kinks",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Kinks_-_I'll_Remember.jpg",
+    "started_at": "2026-08-31T00:15:35Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
