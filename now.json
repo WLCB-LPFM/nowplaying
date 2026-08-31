@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T17:13:16-05:00",
-  "source": "autopost",
+  "generated": "2026-08-31T17:17:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Seven Sins",
-    "artist": "Ren",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ren_-_Seven_Sins.jpg",
-    "started_at": "2026-08-31T22:13:10Z",
-    "duration_seconds": 275
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
