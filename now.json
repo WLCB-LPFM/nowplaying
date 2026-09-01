@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T21:12:12-05:00",
-  "source": "fallback",
+  "generated": "2026-08-31T21:20:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Fever",
+    "artist": "Peggy Lee",
+    "album": "Things Are Swingin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peggy_Lee_-_Fever.jpg",
+    "started_at": "2026-09-01T02:20:02Z",
+    "duration_seconds": 469
+  },
   "next_poll_seconds": 10
 }
