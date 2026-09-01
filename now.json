@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T21:26:07-05:00",
-  "source": "autopost",
+  "generated": "2026-08-31T21:31:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Piano Concerto No. 20 in D Minor, K. 466: I. Allegro",
-    "artist": "Murray Perahia & English Chamber Orchestra",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-09-01T02:25:53Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
