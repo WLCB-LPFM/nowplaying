@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T20:03:05-05:00",
-  "source": "autopost",
+  "generated": "2026-08-31T20:08:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Take Five",
-    "artist": "The Dave Brubeck Quartet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dave_Brubeck_Quartet_-_Take_Five.jpg",
-    "started_at": "2026-09-01T01:02:55Z",
-    "duration_seconds": 329
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
