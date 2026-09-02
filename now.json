@@ -1,17 +1,18 @@
 {
-  "generated": "2026-09-02T13:59:04-05:00",
+  "generated": "2026-09-02T14:00:01-05:00",
   "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Jazz Lives!",
+    "name": "Now and Then Talk Radio",
     "hosts": [
-      "Bob Dauber"
+      "Denny Farrell",
+      "Bill Mackie"
     ],
     "automated": false,
-    "starts": "12:00",
-    "ends": "14:00",
-    "genre": "Jazz"
+    "starts": "14:00",
+    "ends": "15:00",
+    "genre": null
   },
   "track": {
     "title": "Eclissi del cuore (feat. Nek)",
