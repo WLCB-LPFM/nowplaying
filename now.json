@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T21:21:09-05:00",
-  "source": "autopost",
+  "generated": "2026-09-01T21:25:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Lonely Is the Night",
-    "artist": "Billy Squier",
-    "album": "Don't Say No (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Squier_-_Lonely_Is_The_Night.jpg",
-    "started_at": "2026-09-02T02:20:59Z",
-    "duration_seconds": 251
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
