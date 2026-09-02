@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T20:49:46-05:00",
-  "source": "fallback",
+  "generated": "2026-09-01T20:50:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Moonshadow",
+    "artist": "Cat Stevens",
+    "album": "Teaser And The Firecat (2021 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cat_Stevens_-_Moonshadow.jpg",
+    "started_at": "2026-09-02T01:50:42Z",
+    "duration_seconds": 142
+  },
   "next_poll_seconds": 10
 }
