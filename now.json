@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-02T16:37:04-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T16:37:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Girls Just Want to Have Fun",
+    "artist": "Cyndi Lauper",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-02T21:37:05.3285573Z",
+    "duration_seconds": 220,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
