@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-02T15:07:08-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T15:07:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Gel",
+    "artist": "Collective Soul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-02T20:07:15.0570815Z",
+    "duration_seconds": 175,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
