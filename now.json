@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-02T17:27:37-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-02T17:27:50-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "One Week",
-    "artist": "Barenaked Ladies",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-02T22:25:18.3753349Z",
-    "duration_seconds": 162,
-    "year": "1998"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
