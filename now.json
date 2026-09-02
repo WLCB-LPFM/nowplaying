@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T12:07:30-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T12:21:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Get Me To The Church On Time",
+    "artist": "Shelly Manne",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shelly_Manne_-_Get_Me_To_The_Church_On_Time.jpg",
+    "started_at": "2026-09-02T17:21:31Z",
+    "duration_seconds": 254
+  },
   "next_poll_seconds": 10
 }
