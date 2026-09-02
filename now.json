@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T14:00:01-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T14:03:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Eclissi del cuore (feat. Nek)",
-    "artist": "L'Aura",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/L'aura_-_Eclissi_Del_Cuore_(Feat._Nek).jpg",
-    "started_at": "2026-09-02T18:58:10Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
