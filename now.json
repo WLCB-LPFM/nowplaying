@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T21:31:33-05:00",
-  "source": "autopost",
+  "generated": "2026-09-01T21:37:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "The Heinrich Maneuver",
-    "artist": "Interpol",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Interpol_-_The_Heinrich_Maneuver.jpg",
-    "started_at": "2026-09-02T02:31:24Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
