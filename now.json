@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-02T01:52:43-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T01:52:55-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Singin' the Blues",
-    "artist": "Bix Beiderbecke",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bix_Beiderbecke_-_Singin'_The_Blues.jpg",
-    "started_at": "2026-09-02T06:50:08Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
