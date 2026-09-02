@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T13:04:04-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T13:10:26-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Watermelon Man",
-    "artist": "Herbie Hancock",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Herbie_Hancock_-_Watermelon_Man.jpg",
-    "started_at": "2026-09-02T18:04:02Z",
-    "duration_seconds": 390
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
