@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-01T23:41:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-01T23:46:33-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Deep Ground",
-    "artist": "Marilyn Mazur",
-    "album": "Daylight Stories",
-    "artwork_url": "",
-    "started_at": "2026-09-02T04:41:27.9624001Z",
-    "duration_seconds": 314,
-    "year": "2004"
+    "title": "Doggin' Around",
+    "artist": "Count Basie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_Doggin'_Around.jpg",
+    "started_at": "2026-09-02T04:37:02Z",
+    "duration_seconds": 658
   },
   "next_poll_seconds": 10
 }
