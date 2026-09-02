@@ -1,18 +1,9 @@
 {
-  "generated": "2026-09-01T22:57:06-05:00",
+  "generated": "2026-09-01T23:00:04-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Classic Tuesdays with Ted",
-    "hosts": [
-      "Ted Runnels"
-    ],
-    "automated": false,
-    "starts": "20:00",
-    "ends": "23:00",
-    "genre": "Funk"
-  },
+  "show": null,
   "track": {
     "title": "Comfortably Numb",
     "artist": "Pink Floyd",
