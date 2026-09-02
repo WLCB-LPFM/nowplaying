@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-02T02:21:02-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T02:21:14-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Moon Rays",
-    "artist": "Horace Silver",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Horace_Silver_-_Moon_Rays.jpg",
-    "started_at": "2026-09-02T07:10:24Z",
-    "duration_seconds": 654
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
