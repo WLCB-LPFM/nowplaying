@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-02T01:03:26-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-02T01:04:08-05:00",
+  "source": "autopost",
   "mode": "music_block",
-  "automation_on": true,
+  "automation_on": null,
   "show": null,
   "track": {
-    "title": "Imagine",
-    "artist": "Simone Kopmajer",
-    "album": "Nothing\u2019s Gonna Change",
-    "artwork_url": "",
-    "started_at": "2026-09-02T06:03:17.0239453Z",
-    "duration_seconds": 327,
-    "year": "2011"
+    "title": "Knucklehead",
+    "artist": "The Bar-Kays",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Bar-kays_-_Knucklehead.jpg",
+    "started_at": "2026-09-02T06:03:08Z",
+    "duration_seconds": 143
   },
   "next_poll_seconds": 10
 }
