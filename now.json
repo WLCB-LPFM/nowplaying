@@ -1,9 +1,18 @@
 {
-  "generated": "2026-09-02T06:55:46-05:00",
+  "generated": "2026-09-02T07:00:10-05:00",
   "source": "fallback",
-  "mode": "music_block",
+  "mode": "live",
   "automation_on": null,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": null,
   "next_poll_seconds": 10
 }
