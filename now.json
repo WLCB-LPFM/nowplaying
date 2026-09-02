@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-02T17:30:18-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-02T17:33:51-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Out Of Touch",
-    "artist": "Hall & Oates",
+    "title": "Out of Touch (Club Version)",
+    "artist": "Daryl Hall & John Oates",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-02T22:30:09.774245Z",
-    "duration_seconds": 229,
-    "year": "2021"
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Daryl_Hall_&_John_Oates.jpg",
+    "started_at": "2026-09-02T22:30:13Z",
+    "duration_seconds": 261
   },
   "next_poll_seconds": 10
 }
