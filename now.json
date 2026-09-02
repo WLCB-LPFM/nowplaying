@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-02T15:54:34-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T15:54:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rio (US Edit)",
-    "artist": "Duran Duran",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duran_Duran_-_Rio_(Us_Edit).jpg",
-    "started_at": "2026-09-02T20:50:11Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
