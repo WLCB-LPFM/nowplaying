@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T22:48:12-05:00",
-  "source": "autopost",
+  "generated": "2026-09-01T22:53:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Take a Picture",
-    "artist": "Filter",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Filter_-_Take_A_Picture.jpg",
-    "started_at": "2026-09-02T03:47:48Z",
-    "duration_seconds": 364
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
