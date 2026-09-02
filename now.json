@@ -1,16 +1,17 @@
 {
-  "generated": "2026-09-02T01:18:55-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T01:19:07-05:00",
+  "source": "playitlive",
   "mode": "music_block",
-  "automation_on": null,
+  "automation_on": true,
   "show": null,
   "track": {
-    "title": "9,99\u20ac",
-    "artist": "Beatriz Pessoa",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-09-02T06:16:18Z",
-    "duration_seconds": null
+    "title": "Cobra",
+    "artist": "Acoustic Affaire",
+    "album": "Mira",
+    "artwork_url": "",
+    "started_at": "2026-09-02T06:18:17.0501829Z",
+    "duration_seconds": 343,
+    "year": "2003"
   },
   "next_poll_seconds": 10
 }
