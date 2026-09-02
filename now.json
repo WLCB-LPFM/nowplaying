@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-02T03:18:10-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T03:18:31-05:00",
+  "source": "autopost",
   "mode": "music_block",
-  "automation_on": true,
+  "automation_on": null,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Evidence",
+    "artist": "Thelonious Monk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_Evidence.jpg",
+    "started_at": "2026-09-02T08:18:18Z",
+    "duration_seconds": 528
+  },
   "next_poll_seconds": 10
 }
