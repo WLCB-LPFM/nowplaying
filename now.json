@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-02T01:35:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T01:35:35-05:00",
+  "source": "fallback",
   "mode": "music_block",
-  "automation_on": true,
+  "automation_on": null,
   "show": null,
-  "track": {
-    "title": "Potato Head Blues",
-    "artist": "Louis Armstrong and His Hot Seven",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_And_His_Hot_Seven_-_Potato_Head_Blues.jpg",
-    "started_at": "2026-09-02T06:32:51Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
