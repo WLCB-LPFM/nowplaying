@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T20:57:37-05:00",
-  "source": "fallback",
+  "generated": "2026-09-01T20:58:00-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Space Oddity",
+    "artist": "David Bowie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Bowie_-_Space_Oddity.jpg",
+    "started_at": "2026-09-02T01:57:48Z",
+    "duration_seconds": 315
+  },
   "next_poll_seconds": 10
 }
