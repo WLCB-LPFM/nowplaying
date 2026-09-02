@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T22:44:06-05:00",
-  "source": "autopost",
+  "generated": "2026-09-01T22:47:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Sour Girl",
-    "artist": "Stone Temple Pilots",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stone_Temple_Pilots_-_Sour_Girl.jpg",
-    "started_at": "2026-09-02T03:43:58Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
