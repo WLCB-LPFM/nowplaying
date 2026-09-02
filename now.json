@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T21:07:19-05:00",
-  "source": "autopost",
+  "generated": "2026-09-01T21:11:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "The Great Gig In the Sky",
-    "artist": "Pink Floyd",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_The_Great_Gig_In_The_Sky.jpg",
-    "started_at": "2026-09-02T02:07:12Z",
-    "duration_seconds": 280
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
