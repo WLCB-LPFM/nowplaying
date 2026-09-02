@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-01T20:13:15-05:00",
+  "generated": "2026-09-01T20:13:30-05:00",
   "source": "fallback",
-  "mode": "live",
-  "automation_on": null,
+  "mode": "rebroadcast",
+  "automation_on": true,
   "show": {
     "name": "Classic Tuesdays with Ted",
     "hosts": [
