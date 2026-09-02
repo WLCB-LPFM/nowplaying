@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T20:53:32-05:00",
-  "source": "autopost",
+  "generated": "2026-09-01T20:57:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Rocket Man (I Think It's Going To Be A Long Long Time) [Remastered]",
-    "artist": "Elton John",
-    "album": "Diamonds (Deluxe)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Elton_John.jpg",
-    "started_at": "2026-09-02T01:53:14Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
