@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-02T01:06:11-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-02T01:07:50-05:00",
+  "source": "autopost",
   "mode": "music_block",
-  "automation_on": true,
+  "automation_on": null,
   "show": null,
   "track": {
-    "title": "Imagine",
-    "artist": "Simone Kopmajer",
-    "album": "Nothing\u2019s Gonna Change",
-    "artwork_url": "",
-    "started_at": "2026-09-02T06:03:17.0239453Z",
-    "duration_seconds": 327,
-    "year": "2011"
+    "title": "Always There for Me Before 2",
+    "artist": "Original Audio",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/o/Original_Audio.jpg",
+    "started_at": "2026-09-02T06:07:24Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
