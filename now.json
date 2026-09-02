@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-02T17:18:43-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T17:18:55-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My Humps",
+    "artist": "The Black Eyed Peas",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-02T22:18:49.2333995Z",
+    "duration_seconds": 213,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
