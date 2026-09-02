@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-02T08:55:16-05:00",
+  "generated": "2026-09-02T09:00:06-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": null,
   "show": {
-    "name": "The John and Heidi Show",
+    "name": "The Mark Ricky Radio Show",
     "hosts": [
-      "John and Heidi Small"
+      "Mark Ricky"
     ],
     "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
+    "starts": "09:00",
+    "ends": "12:00",
+    "genre": "Rock and Roll"
   },
   "track": null,
   "next_poll_seconds": 10
