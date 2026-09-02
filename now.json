@@ -1,15 +1,17 @@
 {
-  "generated": "2026-09-01T17:00:02-05:00",
+  "generated": "2026-09-01T20:00:05-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "17:00",
-    "ends": "20:00",
-    "genre": null
+    "name": "Classic Tuesdays with Ted",
+    "hosts": [
+      "Ted Runnels"
+    ],
+    "automated": false,
+    "starts": "20:00",
+    "ends": "23:00",
+    "genre": "Funk"
   },
   "track": null,
   "next_poll_seconds": 10
