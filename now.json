@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-03T05:05:03-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-03T05:08:12-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Of Smiles Remembered",
-    "artist": "Nadja Stoller Group",
-    "album": "The Best Jazz Audiophile Recommended, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-09-03T10:04:59.1532279Z",
-    "duration_seconds": 199,
-    "year": "2012"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-09-03T10:03:20Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
