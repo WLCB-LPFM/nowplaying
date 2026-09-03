@@ -1,17 +1,18 @@
 {
-  "generated": "2026-09-03T14:57:51-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-09-03T15:00:06-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "I Love Rock N Roll",
-    "artist": "Joan Jett and the Blackhearts",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-03T19:57:41.8879571Z",
-    "duration_seconds": 168,
-    "year": "1981"
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
