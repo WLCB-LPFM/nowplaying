@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T20:16:22-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T20:16:35-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Wildflowers",
+    "artist": "Dolly Parton, Linda Ronstadt & Emmylou Harris",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton,_Linda_Ronstadt_&_Emmylou_Harris_-_Wildflowers.jpg",
+    "started_at": "2026-09-03T01:16:28Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
