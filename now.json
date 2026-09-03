@@ -1,17 +1,15 @@
 {
-  "generated": "2026-09-03T17:59:39-05:00",
+  "generated": "2026-09-03T18:00:03-05:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Brick's Rockheads",
-    "hosts": [
-      "Brick Brecker"
-    ],
-    "automated": false,
-    "starts": "17:00",
-    "ends": "18:00",
-    "genre": "Rock and Roll"
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "18:00",
+    "ends": "19:00",
+    "genre": null
   },
   "track": null,
   "next_poll_seconds": 10
