@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T15:25:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T15:25:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "TiK ToK",
+    "artist": "Kesha",
+    "album": "Animal (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kesha_-_Tik_Tok.jpg",
+    "started_at": "2026-09-03T20:25:20Z",
+    "duration_seconds": 190
+  },
   "next_poll_seconds": 10
 }
