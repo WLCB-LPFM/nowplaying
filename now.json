@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-03T11:18:43-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T11:18:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "If I Had No Loot",
+    "artist": "Tony! Toni! Ton\u00e9!",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-03T16:18:48.3512721Z",
+    "duration_seconds": 233,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
