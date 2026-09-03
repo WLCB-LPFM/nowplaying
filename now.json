@@ -1,19 +1,9 @@
 {
-  "generated": "2026-09-02T21:58:42-05:00",
+  "generated": "2026-09-02T22:00:11-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Mix",
-    "hosts": [
-      "Tony Young",
-      "Carolyn Carmody"
-    ],
-    "automated": false,
-    "starts": "19:00",
-    "ends": "22:00",
-    "genre": "Variety"
-  },
+  "show": null,
   "track": {
     "title": "Outro - Smoky Mountain DNA",
     "artist": "Dolly Parton & Family",
