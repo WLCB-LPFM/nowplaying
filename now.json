@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T07:26:53-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T07:29:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "The Future's So Bright, I Gotta Wear Shades",
-    "artist": "Timbuk 3",
-    "album": "Greetings from Timbuk 3",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Timbuk_3_-_The_Future's_So_Bright,_I_Gotta_Wear_Shades.jpg",
-    "started_at": "2026-09-03T12:26:43Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
