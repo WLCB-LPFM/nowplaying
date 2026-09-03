@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-02T23:59:50-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T00:00:14-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Un Homme & Une Femme (\u7537\u3068\u5973)",
-    "artist": "Awa",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Awa.jpg",
-    "started_at": "2026-09-03T04:57:27Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
