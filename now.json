@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T08:41:33-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T08:46:00-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "4 Days of Heaven 3 Days of Work",
-    "artist": "Little Feat",
-    "album": "Strike Up The Band",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Feat_-_4_Days_Of_Heaven_3_Days_Of_Work.jpg",
-    "started_at": "2026-09-03T13:41:09Z",
-    "duration_seconds": 297
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
