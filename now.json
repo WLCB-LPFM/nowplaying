@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T07:48:58-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T07:52:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Hungry Eyes",
-    "artist": "Eric Carmen",
-    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Carmen_-_Hungry_Eyes.jpg",
-    "started_at": "2026-09-03T12:48:49Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
