@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T08:52:45-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T08:54:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Who Said That",
-    "artist": "YAZ",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/y/Yaz.jpg",
-    "started_at": "2026-09-03T13:52:27Z",
-    "duration_seconds": 142
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
