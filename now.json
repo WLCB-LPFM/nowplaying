@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T19:32:41-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T19:35:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Coat of Many Colors",
-    "artist": "Dolly Parton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_Coat_Of_Many_Colors.jpg",
-    "started_at": "2026-09-03T00:32:28Z",
-    "duration_seconds": 186
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
