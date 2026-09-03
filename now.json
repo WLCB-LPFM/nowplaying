@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T15:57:52-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T15:59:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Our Lips Are Sealed",
-    "artist": "The Go-Go's",
-    "album": "Beauty and the Beat",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Go-go's_-_Our_Lips_Are_Sealed.jpg",
-    "started_at": "2026-09-03T20:57:48Z",
-    "duration_seconds": 140
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
