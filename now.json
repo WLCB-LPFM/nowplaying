@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T17:00:22-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T17:02:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Persuasion",
+    "artist": "Santana",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_Persuasion.jpg",
+    "started_at": "2026-09-03T22:02:51Z",
+    "duration_seconds": 154
+  },
   "next_poll_seconds": 10
 }
