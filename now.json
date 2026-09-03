@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-03T10:52:15-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T10:52:28-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Weird Science",
+    "artist": "Oingo Boingo",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-03T15:52:20.0921816Z",
+    "duration_seconds": 370,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
