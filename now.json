@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T19:43:36-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T19:45:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Blue Bonnet Breeze",
+    "artist": "Dolly Parton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_Blue_Bonnet_Breeze.jpg",
+    "started_at": "2026-09-03T00:45:02Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
