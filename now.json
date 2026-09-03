@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T07:38:13-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T07:44:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Summertime",
+    "artist": "DJ Jazzy Jeff & The Fresh Prince",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Jazzy_Jeff_&_The_Fresh_Prince_-_Summertime.jpg",
+    "started_at": "2026-09-03T12:44:49Z",
+    "duration_seconds": 207
+  },
   "next_poll_seconds": 10
 }
