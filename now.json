@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T21:19:19-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T21:20:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Rocky Top (Live)",
+    "artist": "Dolly Parton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dolly_Parton.jpg",
+    "started_at": "2026-09-03T02:19:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
