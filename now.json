@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-03T13:10:04-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T13:10:17-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You May Be Right",
-    "artist": "Billy Joel",
-    "album": "The Essential Billy Joel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_You_May_Be_Right.jpg",
-    "started_at": "2026-09-03T18:06:54Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
