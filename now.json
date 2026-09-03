@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-03T06:53:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-03T06:58:10-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Celebration",
-    "artist": "Kool and the Gang",
+    "artist": "Kool & The Gang",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-03T11:53:42.9135746Z",
-    "duration_seconds": 282,
-    "year": ""
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kool_&_The_Gang_-_Celebration.jpg",
+    "started_at": "2026-09-03T11:53:55Z",
+    "duration_seconds": 299
   },
   "next_poll_seconds": 10
 }
