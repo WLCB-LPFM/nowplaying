@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T19:24:23-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T19:27:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Here You Come Again",
-    "artist": "Dolly Parton",
-    "album": "16 Biggest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_Here_You_Come_Again.jpg",
-    "started_at": "2026-09-03T00:24:16Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
