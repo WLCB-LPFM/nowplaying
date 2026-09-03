@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-03T03:01:22-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T03:01:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "King Porter Stomp",
-    "artist": "Jelly Roll Morton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jelly_Roll_Morton_-_King_Porter_Stomp.jpg",
-    "started_at": "2026-09-03T07:57:39Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
