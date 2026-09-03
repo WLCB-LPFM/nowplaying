@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-03T06:06:51-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T06:07:04-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Around the Way Girl",
+    "artist": "LL Cool J",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-03T11:06:56.7621223Z",
+    "duration_seconds": 229,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
