@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T21:16:54-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T21:19:19-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Will Always Love You",
-    "artist": "Dolly Parton",
-    "album": "Ultimate Dolly Parton",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_I_Will_Always_Love_You.jpg",
-    "started_at": "2026-09-03T02:16:44Z",
-    "duration_seconds": 161
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
