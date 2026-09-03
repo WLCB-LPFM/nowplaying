@@ -1,9 +1,19 @@
 {
-  "generated": "2026-09-02T18:58:34-05:00",
+  "generated": "2026-09-02T19:00:05-05:00",
   "source": "autopost",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The Mix",
+    "hosts": [
+      "Tony Young",
+      "Carolyn Carmody"
+    ],
+    "automated": false,
+    "starts": "19:00",
+    "ends": "22:00",
+    "genre": "Variety"
+  },
   "track": {
     "title": "California Love (feat. Roger Troutman & Dr. Dre)",
     "artist": "2Pac",
