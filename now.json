@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T08:35:11-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T08:35:57-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "When the Going Gets Tough, The Tough Get Going",
+    "artist": "Billy Ocean",
+    "album": "Love Zone (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Ocean_-_When_The_Going_Gets_Tough,_The_Tough_Get_Going.jpg",
+    "started_at": "2026-09-03T13:35:45Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
