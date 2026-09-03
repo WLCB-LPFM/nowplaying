@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T19:18:21-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T19:20:48-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "9 To 5",
-    "artist": "Dolly Parton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_9_To_5.jpg",
-    "started_at": "2026-09-03T00:18:13Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
