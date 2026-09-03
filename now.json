@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-02T22:56:56-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T22:57:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue Horizon",
-    "artist": "Sidney Bechet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sidney_Bechet_-_Blue_Horizon.jpg",
-    "started_at": "2026-09-03T03:52:55Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
