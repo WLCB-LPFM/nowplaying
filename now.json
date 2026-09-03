@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T19:00:05-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T19:00:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "California Love (feat. Roger Troutman & Dr. Dre)",
-    "artist": "2Pac",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/2/2pac.jpg",
-    "started_at": "2026-09-02T23:56:10Z",
-    "duration_seconds": 285
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
