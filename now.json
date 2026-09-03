@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T15:20:52-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T15:21:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Let's Go Crazy",
+    "artist": "Prince & The Revolution",
+    "album": "Purple Rain (Deluxe Expanded Edition) [2015 Paisley Park Remaster]",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_Revolution_-_Let's_Go_Crazy.jpg",
+    "started_at": "2026-09-03T20:21:03Z",
+    "duration_seconds": 265
+  },
   "next_poll_seconds": 10
 }
