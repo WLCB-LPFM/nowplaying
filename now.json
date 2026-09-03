@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T07:18:31-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T07:20:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Papa Don't Preach",
+    "artist": "Madonna",
+    "album": "True Blue",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Papa_Don't_Preach.jpg",
+    "started_at": "2026-09-03T12:20:19Z",
+    "duration_seconds": 242
+  },
   "next_poll_seconds": 10
 }
