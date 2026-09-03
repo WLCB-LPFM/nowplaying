@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-03T18:25:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-03T18:28:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Heart And Soul",
-    "artist": "Huey Lewis & The News",
-    "album": "Greatest Hits (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Huey_Lewis_&_The_News_-_Heart_And_Soul.jpg",
-    "started_at": "2026-09-03T23:25:03.9630546Z",
-    "duration_seconds": 241,
-    "year": "2021"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
