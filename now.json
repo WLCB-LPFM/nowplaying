@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-03T09:00:57-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T09:01:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Tonight She Comes",
-    "artist": "The Cars",
-    "album": "Complete Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cars_-_Tonight_She_Comes.jpg",
-    "started_at": "2026-09-03T13:57:33Z",
-    "duration_seconds": 233
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
