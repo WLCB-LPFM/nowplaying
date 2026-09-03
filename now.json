@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T19:49:59-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T19:53:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Blue Smoke",
-    "artist": "Dolly Parton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_Blue_Smoke.jpg",
-    "started_at": "2026-09-03T00:49:46Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
