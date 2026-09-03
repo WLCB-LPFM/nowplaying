@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T19:37:12-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T19:39:38-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Bargain Store",
-    "artist": "Dolly Parton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_The_Bargain_Store.jpg",
-    "started_at": "2026-09-03T00:37:05Z",
-    "duration_seconds": 161
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
