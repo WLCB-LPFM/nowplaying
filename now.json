@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-03T05:02:35-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T05:02:58-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Inside",
+    "artist": "Start Vision",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Start_Vision.jpg",
+    "started_at": "2026-09-03T10:02:44Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
