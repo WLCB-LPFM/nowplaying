@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T08:12:50-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T08:16:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Beds Are Burning",
-    "artist": "Midnight Oil",
-    "album": "Diesel and Dust (2008 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Midnight_Oil_-_Beds_Are_Burning.jpg",
-    "started_at": "2026-09-03T13:12:44Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
