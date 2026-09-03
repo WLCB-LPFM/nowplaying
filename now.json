@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T19:40:13-05:00",
-  "source": "autopost",
+  "generated": "2026-09-02T19:43:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "When I Get Where I'm Going (feat. Dolly Parton)",
-    "artist": "Brad Paisley",
-    "album": "Time Well Wasted",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brad_Paisley_-_When_I_Get_Where_I'm_Going_(Feat._Dolly_Parton).jpg",
-    "started_at": "2026-09-03T00:40:12Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
