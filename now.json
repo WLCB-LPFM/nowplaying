@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T20:10:08-05:00",
-  "source": "fallback",
+  "generated": "2026-09-02T20:10:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Wings of a Dove",
+    "artist": "Dolly Parton, Tammy Wynette & Loretta Lynn",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dolly_Parton,_Tammy_Wynette_&_Loretta_Lynn.jpg",
+    "started_at": "2026-09-03T01:10:15Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
