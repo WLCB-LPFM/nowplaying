@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-03T12:29:34-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T12:29:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Everybody Everybody (Rockappella)",
-    "artist": "Black Box",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Black_Box.jpg",
-    "started_at": "2026-09-03T17:25:34Z",
-    "duration_seconds": 277
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
