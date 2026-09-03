@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T17:12:12-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T17:13:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Him",
+    "artist": "Rupert Holmes",
+    "album": "Partners In Crime",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rupert_Holmes_-_Him.jpg",
+    "started_at": "2026-09-03T22:13:30Z",
+    "duration_seconds": 207
+  },
   "next_poll_seconds": 10
 }
