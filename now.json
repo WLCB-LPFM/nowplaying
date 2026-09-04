@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-04T06:27:47-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T06:28:55-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Smokey the Bear",
+    "artist": "Gene Autry",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gene_Autry_-_Smokey_The_Bear.jpg",
+    "started_at": "2026-09-04T11:28:48Z",
+    "duration_seconds": 176
+  },
   "next_poll_seconds": 10
 }
