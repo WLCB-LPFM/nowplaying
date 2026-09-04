@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T09:35:58-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T09:36:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Ain't Wastin' Time No More",
+    "artist": "The Allman Brothers Band",
+    "album": "Eat a Peach (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_Ain't_Wastin'_Time_No_More.jpg",
+    "started_at": "2026-09-04T14:36:08Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
