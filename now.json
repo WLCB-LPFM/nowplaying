@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T20:37:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T20:44:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Faithfully",
+    "artist": "Journey",
+    "album": "Frontiers",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Faithfully.jpg",
+    "started_at": "2026-09-04T01:44:22Z",
+    "duration_seconds": 267
+  },
   "next_poll_seconds": 10
 }
