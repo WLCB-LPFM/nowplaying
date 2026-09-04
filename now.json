@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T12:23:33-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T12:26:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Them Changes",
+    "artist": "Buddy Miles",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Miles_-_Them_Changes.jpg",
+    "started_at": "2026-09-04T17:26:46Z",
+    "duration_seconds": 200
+  },
   "next_poll_seconds": 10
 }
