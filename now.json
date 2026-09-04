@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T21:11:01-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T21:11:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Ask the Lonely",
+    "artist": "Journey",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Ask_The_Lonely.jpg",
+    "started_at": "2026-09-04T02:11:54Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
