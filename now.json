@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T10:05:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T10:17:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Can't You See (Live from the Garden State 1981)",
+    "artist": "The Marshall Tucker Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Marshall_Tucker_Band.jpg",
+    "started_at": "2026-09-04T15:17:09Z",
+    "duration_seconds": 378
+  },
   "next_poll_seconds": 10
 }
