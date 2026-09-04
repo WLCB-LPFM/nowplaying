@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T09:43:43-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T09:48:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Tears",
+    "artist": "John Waite",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Waite_-_Tears.jpg",
+    "started_at": "2026-09-04T14:48:53Z",
+    "duration_seconds": 239
+  },
   "next_poll_seconds": 10
 }
