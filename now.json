@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T18:09:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T18:09:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Trouble In Mind",
+    "artist": "Aretha Franklin",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_Trouble_In_Mind.jpg",
+    "started_at": "2026-09-04T23:09:33Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
