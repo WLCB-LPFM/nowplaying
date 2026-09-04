@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-04T03:42:55-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T03:43:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Concerto for Cootie",
-    "artist": "Duke Ellington",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Concerto_For_Cootie.jpg",
-    "started_at": "2026-09-04T08:40:22Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
