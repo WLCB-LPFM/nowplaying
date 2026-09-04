@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T08:17:31-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T08:18:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Man In the Box",
+    "artist": "Alice In Chains",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_In_Chains_-_Man_In_The_Box.jpg",
+    "started_at": "2026-09-04T13:18:26Z",
+    "duration_seconds": 297
+  },
   "next_poll_seconds": 10
 }
