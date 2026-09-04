@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T20:56:54-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T21:00:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wheel In the Sky",
-    "artist": "Journey",
-    "album": "Greatest Hits (2024 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Wheel_In_The_Sky.jpg",
-    "started_at": "2026-09-04T01:56:50Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
