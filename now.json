@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T17:22:19-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T17:22:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Born To Wander",
+    "artist": "Rare Earth",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rare_Earth_-_Born_To_Wander.jpg",
+    "started_at": "2026-09-04T22:22:19Z",
+    "duration_seconds": 264
+  },
   "next_poll_seconds": 10
 }
