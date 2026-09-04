@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T17:36:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T17:39:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "(I Know) I'm Losing You",
-    "artist": "Rare Earth",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rare_Earth_-_(I_Know)_I'm_Losing_You.jpg",
-    "started_at": "2026-09-04T22:36:08Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
