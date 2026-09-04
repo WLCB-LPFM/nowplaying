@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T07:31:37-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T07:36:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "We Didn't Start the Fire",
-    "artist": "Billy Joel",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_We_Didn't_Start_The_Fire.jpg",
-    "started_at": "2026-09-04T12:31:32Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
