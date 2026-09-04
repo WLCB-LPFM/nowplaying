@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T15:37:12-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T15:39:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Manic Monday",
-    "artist": "The Bangles",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Bangles_-_Manic_Monday.jpg",
-    "started_at": "2026-09-04T20:37:07Z",
-    "duration_seconds": 161
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
