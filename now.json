@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T08:52:32-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T08:56:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Careless Whisper",
-    "artist": "George Michael",
-    "album": "Ladies & Gentlemen",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Michael_-_Careless_Whisper.jpg",
-    "started_at": "2026-09-04T13:52:18Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
