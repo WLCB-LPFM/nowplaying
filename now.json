@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T17:57:08-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T17:57:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "We Got The Beat",
+    "artist": "The Go-Go's",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Go-go's_-_We_Got_The_Beat.jpg",
+    "started_at": "2026-09-04T22:57:10Z",
+    "duration_seconds": 153
+  },
   "next_poll_seconds": 10
 }
