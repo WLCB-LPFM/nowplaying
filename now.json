@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T16:42:40-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T16:44:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Who's Your Daddy?",
+    "artist": "Toby Keith",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toby_Keith_-_Who's_Your_Daddy?.jpg",
+    "started_at": "2026-09-04T21:44:11Z",
+    "duration_seconds": 239
+  },
   "next_poll_seconds": 10
 }
