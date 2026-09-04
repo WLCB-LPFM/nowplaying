@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T15:26:43-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T15:29:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Boney Fingers",
-    "artist": "Hoyt Axton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hoyt_Axton_-_Boney_Fingers.jpg",
-    "started_at": "2026-09-04T20:26:35Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
