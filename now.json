@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T16:55:07-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T16:56:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Here For A Good Time",
-    "artist": "George Strait",
-    "album": "Here for a Good Time",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Strait_-_Here_For_A_Good_Time.jpg",
-    "started_at": "2026-09-04T21:55:03Z",
-    "duration_seconds": 93
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
