@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T21:42:00-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T21:42:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Be Good to Yourself",
+    "artist": "Journey",
+    "album": "Greatest Hits (2024 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Be_Good_To_Yourself.jpg",
+    "started_at": "2026-09-04T02:42:34Z",
+    "duration_seconds": 103
+  },
   "next_poll_seconds": 10
 }
