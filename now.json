@@ -1,17 +1,26 @@
 {
-  "generated": "2026-09-03T18:56:28-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "generated": "2026-09-03T19:00:05-05:00",
+  "source": "autopost",
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "Red-Pill",
+    "hosts": [
+      "Dino Gradisca",
+      "Rocco Martinelli"
+    ],
+    "automated": false,
+    "starts": "19:00",
+    "ends": "22:00",
+    "genre": null
+  },
   "track": {
-    "title": "Run To You",
+    "title": "Run To You (Classic Version)",
     "artist": "Bryan Adams",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-03T23:56:23.3454656Z",
-    "duration_seconds": 246,
-    "year": "1984"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bryan_Adams_-_Run_To_You_(Classic_Version).jpg",
+    "started_at": "2026-09-03T23:56:49Z",
+    "duration_seconds": 258
   },
   "next_poll_seconds": 10
 }
