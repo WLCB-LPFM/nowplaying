@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-04T11:56:19-05:00",
+  "generated": "2026-09-04T12:00:02-05:00",
   "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "The Mark Ricky Radio Show",
+    "name": "Ted's Blues Plate Special",
     "hosts": [
-      "Mark Ricky"
+      "Ted Runnels"
     ],
     "automated": false,
-    "starts": "09:00",
-    "ends": "12:00",
-    "genre": "Rock and Roll"
+    "starts": "12:00",
+    "ends": "15:00",
+    "genre": "Blues"
   },
   "track": {
     "title": "Cowboy Song",
