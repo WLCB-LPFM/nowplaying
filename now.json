@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-04T04:43:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T04:43:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Don't Ask Me Like a Stranger",
+    "artist": "Ro Gebhardt",
+    "album": "The Best Jazz Audiophile Recommended, Volume 2",
+    "artwork_url": "",
+    "started_at": "2026-09-04T09:43:35.0571023Z",
+    "duration_seconds": 362,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
