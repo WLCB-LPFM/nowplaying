@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-04T03:27:46-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T03:29:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Believe God",
+    "artist": "Jekalyn Carr",
+    "album": "JEKALYN",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jekalyn_Carr_-_I_Believe_God.jpg",
+    "started_at": "2026-09-04T08:28:57Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
