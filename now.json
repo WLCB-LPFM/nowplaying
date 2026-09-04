@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T21:15:32-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T21:17:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Who's Crying Now",
-    "artist": "Journey",
-    "album": "Greatest Hits (2024 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Who's_Crying_Now.jpg",
-    "started_at": "2026-09-04T02:15:25Z",
-    "duration_seconds": 166
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
