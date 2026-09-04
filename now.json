@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T18:34:12-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T18:36:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Soul Dressing",
-    "artist": "Booker T. & The M.G.'s",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Booker_T._&_The_M.g.'s.jpg",
-    "started_at": "2026-09-04T23:34:04Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
