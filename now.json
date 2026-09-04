@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-04T03:30:12-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-04T03:32:37-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Lady Bird",
-    "artist": "Tadd Dameron Sextet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 3",
-    "artwork_url": "",
-    "started_at": "2026-09-04T08:30:04.3860942Z",
-    "duration_seconds": 163,
-    "year": "1997"
+    "title": "Lady Bird (feat. Tadd Dameron Sextet)",
+    "artist": "Fats Navarro",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fats_Navarro_-_Lady_Bird_(Feat._Tadd_Dameron_Sextet).jpg",
+    "started_at": "2026-09-04T08:30:24Z",
+    "duration_seconds": 171
   },
   "next_poll_seconds": 10
 }
