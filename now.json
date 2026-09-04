@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T18:37:23-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T18:40:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Ain't That Peculiar",
-    "artist": "Marvin Gaye",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marvin_Gaye_-_Ain't_That_Peculiar.jpg",
-    "started_at": "2026-09-04T23:37:14Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
