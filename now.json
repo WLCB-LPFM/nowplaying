@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T16:38:34-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T16:42:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Then",
-    "artist": "Brad Paisley",
-    "album": "American Saturday Night",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brad_Paisley_-_Then.jpg",
-    "started_at": "2026-09-04T21:38:30Z",
-    "duration_seconds": 260
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
