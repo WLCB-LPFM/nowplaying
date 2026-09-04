@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T13:45:24-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T13:50:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "When A Guitar Plays The Blues",
-    "artist": "Albert Collins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Albert_Collins_-_When_A_Guitar_Plays_The_Blues.jpg",
-    "started_at": "2026-09-04T18:45:12Z",
-    "duration_seconds": 314
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
