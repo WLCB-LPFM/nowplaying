@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T20:48:34-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T20:48:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Only the Young",
+    "artist": "Journey",
+    "album": "Greatest Hits (2024 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Only_The_Young.jpg",
+    "started_at": "2026-09-04T01:48:43Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
