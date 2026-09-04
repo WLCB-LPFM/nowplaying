@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T17:51:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T17:52:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Try Too Hard",
+    "artist": "The Dave Clark Five",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dave_Clark_Five_-_Try_Too_Hard.jpg",
+    "started_at": "2026-09-04T22:52:07Z",
+    "duration_seconds": 129
+  },
   "next_poll_seconds": 10
 }
