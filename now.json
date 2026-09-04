@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T12:34:47-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T12:57:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Good Day for the Blues (Live)",
+    "artist": "Storyville",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Storyville.jpg",
+    "started_at": "2026-09-04T17:57:08Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
