@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T10:23:08-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T10:27:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fire on the Mountain (Live from the Garden State 1981)",
-    "artist": "The Marshall Tucker Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Marshall_Tucker_Band.jpg",
-    "started_at": "2026-09-04T15:22:58Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
