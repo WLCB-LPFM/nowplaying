@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T18:40:10-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T18:40:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Last Two Dollars",
+    "artist": "Johnnie Taylor",
+    "album": "Good Love!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnnie_Taylor_-_Last_Two_Dollars.jpg",
+    "started_at": "2026-09-04T23:40:09Z",
+    "duration_seconds": 297
+  },
   "next_poll_seconds": 10
 }
