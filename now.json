@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T13:08:45-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T13:09:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Bad Like Me",
+    "artist": "Christone 'Kingfish' Ingram",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Christone_'kingfish'_Ingram.jpg",
+    "started_at": "2026-09-04T18:09:10Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
