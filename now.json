@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T16:25:04-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T16:28:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Forty Hour Week (For a Livin')",
-    "artist": "Alabama",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alabama_-_Forty_Hour_Week_(For_A_Livin').jpg",
-    "started_at": "2026-09-04T21:24:51Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
