@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T19:10:41-05:00",
-  "source": "fallback",
+  "generated": "2026-09-03T19:13:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Folsom Prison Blues (feat. The Tennessee Two)",
+    "artist": "Johnny Cash",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Johnny_Cash.jpg",
+    "started_at": "2026-09-04T00:13:37Z",
+    "duration_seconds": 170
+  },
   "next_poll_seconds": 10
 }
