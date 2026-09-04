@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T16:35:01-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T16:35:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Never Could Toe the Mark",
+    "artist": "Waylon Jennings",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Waylon_Jennings_-_Never_Could_Toe_The_Mark.jpg",
+    "started_at": "2026-09-04T21:35:48Z",
+    "duration_seconds": 178
+  },
   "next_poll_seconds": 10
 }
