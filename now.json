@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T19:59:01-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T20:03:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Purpose",
-    "artist": "John Tartaglia",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Tartaglia_-_Purpose.jpg",
-    "started_at": "2026-09-04T00:58:50Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
