@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T17:49:06-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T17:51:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Unconscious Power",
-    "artist": "Iron Butterfly",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Iron_Butterfly_-_Unconscious_Power.jpg",
-    "started_at": "2026-09-04T22:48:58Z",
-    "duration_seconds": 151
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
