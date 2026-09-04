@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T13:12:30-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T13:16:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Blues Is a Feeling (with Jimmy Hall)",
+    "artist": "Devon Allman",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Devon_Allman.jpg",
+    "started_at": "2026-09-04T18:16:03Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
