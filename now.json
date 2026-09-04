@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T13:53:04-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T13:58:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Magnetar Glow",
-    "artist": "Gravity Bebop",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Gravity_Bebop.jpg",
-    "started_at": "2026-09-04T18:52:53Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
