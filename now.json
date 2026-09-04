@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T11:19:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T11:20:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hold the Line",
+    "artist": "Toto",
+    "album": "Toto",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toto_-_Hold_The_Line.jpg",
+    "started_at": "2026-09-04T16:20:04Z",
+    "duration_seconds": 237
+  },
   "next_poll_seconds": 10
 }
