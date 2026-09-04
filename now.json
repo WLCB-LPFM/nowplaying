@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T18:06:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T18:06:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "634-5789",
+    "artist": "Wilson Pickett",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wilson_Pickett_-_634-5789.jpg",
+    "started_at": "2026-09-04T23:06:40Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
