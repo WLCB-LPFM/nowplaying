@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T18:44:59-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T18:50:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You Can't Hurt Me Anymore",
+    "artist": "The Vintage Explosion",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Vintage_Explosion_-_You_Can't_Hurt_Me_Anymore.jpg",
+    "started_at": "2026-09-04T23:50:04Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
