@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T13:58:39-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T14:00:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Night Rhythms",
+    "artist": "Lee Ritenour",
+    "album": "Festival (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lee_Ritenour_-_Night_Rhythms.jpg",
+    "started_at": "2026-09-04T19:00:39Z",
+    "duration_seconds": 273
+  },
   "next_poll_seconds": 10
 }
