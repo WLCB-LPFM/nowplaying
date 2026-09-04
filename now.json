@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-04T18:00:34-05:00",
+  "generated": "2026-09-04T18:02:26-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "mode": "live",
+  "automation_on": false,
   "show": {
     "name": "Soul of Music",
     "hosts": [
@@ -14,12 +14,12 @@
     "genre": null
   },
   "track": {
-    "title": "Rock Me",
-    "artist": "Great White",
+    "title": "For Those About to Rock (We Salute You)",
+    "artist": "AC feat. DC",
     "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Great_White_-_Rock_Me.jpg",
-    "started_at": "2026-09-04T23:00:27Z",
-    "duration_seconds": 438
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-09-04T23:02:14Z",
+    "duration_seconds": 320
   },
   "next_poll_seconds": 10
 }
