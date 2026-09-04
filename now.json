@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-03T22:59:47-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T22:59:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Carolina Shout",
-    "artist": "James P. Johnson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_P._Johnson_-_Carolina_Shout.jpg",
-    "started_at": "2026-09-04T03:57:36Z",
-    "duration_seconds": 155
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
