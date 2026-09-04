@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T09:52:31-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T09:55:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Turn It Up",
-    "artist": "Samantha Fish",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Samantha_Fish_-_Turn_It_Up.jpg",
-    "started_at": "2026-09-04T14:52:19Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
