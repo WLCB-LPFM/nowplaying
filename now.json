@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T15:39:41-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T15:52:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Workin' at the Car Wash Blues",
+    "artist": "Jim Croce",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jim_Croce_-_Workin'_At_The_Car_Wash_Blues.jpg",
+    "started_at": "2026-09-04T20:52:43Z",
+    "duration_seconds": 154
+  },
   "next_poll_seconds": 10
 }
