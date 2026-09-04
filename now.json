@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T19:17:25-05:00",
-  "source": "autopost",
+  "generated": "2026-09-03T19:22:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Purple Rain (Short Version)",
-    "artist": "Prince & The Revolution",
-    "album": "Purple Rain (Deluxe Expanded Edition) [2015 Paisley Park Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Prince_&_The_Revolution.jpg",
-    "started_at": "2026-09-04T00:17:08Z",
-    "duration_seconds": 325
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
