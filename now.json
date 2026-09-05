@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T11:04:08-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T11:08:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Best Friend",
-    "artist": "Brandy",
-    "album": "Brandy",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brandy_-_Best_Friend.jpg",
-    "started_at": "2026-09-05T16:04:01Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
