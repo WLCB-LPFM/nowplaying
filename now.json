@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T11:58:30-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T11:59:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Nobody Does It Better (feat. Warren G.)",
+    "artist": "Nate Dogg",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nate_Dogg_-_Nobody_Does_It_Better_(Feat._Warren_G.).jpg",
+    "started_at": "2026-09-05T16:59:31Z",
+    "duration_seconds": 270
+  },
   "next_poll_seconds": 10
 }
