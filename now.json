@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T09:32:19-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T09:34:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Spirits In the Material World",
-    "artist": "The Police",
-    "album": "Ghost in the Machine (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Police_-_Spirits_In_The_Material_World.jpg",
-    "started_at": "2026-09-05T14:32:08Z",
-    "duration_seconds": 159
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
