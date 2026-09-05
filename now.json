@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T18:07:25-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T18:10:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Lady Marmalade",
-    "artist": "Christina Aguilera, Lil' Kim, M\u00fda & P!nk",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-09-05T23:07:12Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
