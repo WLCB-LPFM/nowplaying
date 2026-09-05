@@ -1,17 +1,18 @@
 {
-  "generated": "2026-09-05T11:59:38-05:00",
+  "generated": "2026-09-05T12:00:01-05:00",
   "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "Timeless Traxx",
+    "name": "Now and Then Talk Radio",
     "hosts": [
-      "Tyrone DuBose"
+      "Denny Farrell",
+      "Bill Mackie"
     ],
     "automated": false,
-    "starts": "11:00",
-    "ends": "12:00",
-    "genre": "R&B"
+    "starts": "12:00",
+    "ends": "13:00",
+    "genre": null
   },
   "track": {
     "title": "Nobody Does It Better (feat. Warren G.)",
