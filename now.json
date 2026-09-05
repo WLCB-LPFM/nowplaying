@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-05T03:36:01-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-05T03:38:48-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Cotton Tail",
-    "artist": "Duke Ellington and His Famous Orchestra",
-    "album": "Swingingest Sounds Ever Heard: The Best of Big Bands",
-    "artwork_url": "",
-    "started_at": "2026-09-05T08:35:52.768252Z",
-    "duration_seconds": 182,
-    "year": "1997"
+    "artist": "Duke Ellington and His Orchestra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_And_His_Orchestra_-_Cotton_Tail.jpg",
+    "started_at": "2026-09-05T08:36:12Z",
+    "duration_seconds": 191
   },
   "next_poll_seconds": 10
 }
