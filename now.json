@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T11:13:25-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T11:14:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Waterfalls",
+    "artist": "TLC",
+    "album": "CrazySexyCool",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tlc_-_Waterfalls.jpg",
+    "started_at": "2026-09-05T16:14:00Z",
+    "duration_seconds": 163
+  },
   "next_poll_seconds": 10
 }
