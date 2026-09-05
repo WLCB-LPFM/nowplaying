@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T19:40:22-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T19:41:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Itchycoo Park",
+    "artist": "Small Faces",
+    "album": "Small Faces (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Small_Faces_-_Itchycoo_Park.jpg",
+    "started_at": "2026-09-05T00:41:11Z",
+    "duration_seconds": 144
+  },
   "next_poll_seconds": 10
 }
