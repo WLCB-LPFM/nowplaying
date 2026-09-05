@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T22:24:28-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T22:30:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "You're so Fine",
-    "artist": "Joanna Connor",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joanna_Connor_-_You're_So_Fine.jpg",
-    "started_at": "2026-09-05T03:24:23Z",
-    "duration_seconds": 353
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
