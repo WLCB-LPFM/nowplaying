@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T18:21:10-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T18:22:18-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Hold On",
+    "artist": "Wilson Phillips",
+    "album": "Wilson Phillips",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wilson_Phillips_-_Hold_On.jpg",
+    "started_at": "2026-09-05T23:22:04Z",
+    "duration_seconds": 194
+  },
   "next_poll_seconds": 10
 }
