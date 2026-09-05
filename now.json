@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T19:35:30-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T19:37:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Reach Out I'll Be There",
-    "artist": "Four Tops",
-    "album": "Essential Collection: Four Tops",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Four_Tops_-_Reach_Out_I'll_Be_There.jpg",
-    "started_at": "2026-09-05T00:35:25Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
