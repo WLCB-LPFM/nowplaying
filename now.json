@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T11:47:45-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T11:52:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Hey Lover (feat. Boyz II Men)",
-    "artist": "LL COOL J",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Ll_Cool_J_-_Hey_Lover_(Feat._Boyz_Ii_Men).jpg",
-    "started_at": "2026-09-05T16:47:40Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
