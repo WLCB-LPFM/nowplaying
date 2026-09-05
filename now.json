@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-05T07:34:39-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T07:35:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Shake Ya Tailfeather",
+    "artist": "Nelly ft. P. Diddy & Murphy Lee",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-05T12:34:51.7748469Z",
+    "duration_seconds": 280,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
