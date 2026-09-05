@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-05T03:19:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T03:19:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Moten Swing",
+    "artist": "Bennie Moten's Kansas City Orchestra",
+    "album": "The Ultimate Jazz Archive, Set 33: Big Band",
+    "artwork_url": "",
+    "started_at": "2026-09-05T08:19:40.6723585Z",
+    "duration_seconds": 191,
+    "year": "2005"
+  },
   "next_poll_seconds": 10
 }
