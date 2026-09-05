@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T20:34:46-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T20:43:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Old Folks' Boogie (Live)",
+    "artist": "Little Feat",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Feat_-_Old_Folks'_Boogie_(Live).jpg",
+    "started_at": "2026-09-05T01:43:36Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
