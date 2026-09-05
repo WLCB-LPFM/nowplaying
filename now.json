@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T17:49:02-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T17:51:27-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Need You Tonight",
-    "artist": "INXS",
-    "album": "Kick (30th Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inxs_-_Need_You_Tonight.jpg",
-    "started_at": "2026-09-05T22:48:59Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
