@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-05T02:29:57-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T02:30:53-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Karn Evil 9 1st Impression, Pt. 2",
+    "artist": "Emerson & Lake & Palmer",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Emerson_&_Lake_&_Palmer.jpg",
+    "started_at": "2026-09-05T07:30:41Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
