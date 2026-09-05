@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T21:27:47-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T21:31:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Street Fighting Man (Live)",
-    "artist": "The Rolling Stones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Street_Fighting_Man_(Live).jpg",
-    "started_at": "2026-09-05T02:27:19Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
