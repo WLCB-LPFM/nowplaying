@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-04T23:53:23-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T23:54:20-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Weather Bird",
+    "artist": "Louis Armstrong & Earl 'Fatha' Hines",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Louis_Armstrong_&_Earl_'fatha'_Hines.jpg",
+    "started_at": "2026-09-05T04:54:08Z",
+    "duration_seconds": 165
+  },
   "next_poll_seconds": 10
 }
