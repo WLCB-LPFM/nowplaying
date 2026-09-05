@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-05T06:29:29-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T06:29:42-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rosanna",
-    "artist": "Toto",
-    "album": "80's Pop Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toto_-_Rosanna.jpg",
-    "started_at": "2026-09-05T11:25:06Z",
-    "duration_seconds": 290
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
