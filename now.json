@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-05T02:22:02-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T02:22:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hell Yeah",
+    "artist": "Rev Theory",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rev_Theory_-_Hell_Yeah.jpg",
+    "started_at": "2026-09-05T07:22:01Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
