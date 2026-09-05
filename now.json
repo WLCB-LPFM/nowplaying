@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-05T14:58:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T14:58:37-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "1999 (Edit)",
-    "artist": "Prince",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_1999_(Edit).jpg",
-    "started_at": "2026-09-05T19:55:10Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
