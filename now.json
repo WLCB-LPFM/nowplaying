@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T21:37:14-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T21:40:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Thrill Is Gone (Live)",
+    "artist": "B.B. King",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/B.b._King.jpg",
+    "started_at": "2026-09-05T02:39:56Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
