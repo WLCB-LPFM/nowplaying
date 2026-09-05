@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T19:52:18-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T19:53:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bullfrog Blues",
+    "artist": "Canned Heat",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Canned_Heat_-_Bullfrog_Blues.jpg",
+    "started_at": "2026-09-05T00:52:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
