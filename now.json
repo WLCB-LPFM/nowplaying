@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T19:43:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T19:44:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "When I'm Sixty-Four",
+    "artist": "The Beatles",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_When_I'm_Sixty-four.jpg",
+    "started_at": "2026-09-05T00:44:05Z",
+    "duration_seconds": 160
+  },
   "next_poll_seconds": 10
 }
