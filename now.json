@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T21:17:22-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T21:23:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Ramble On (Live)",
-    "artist": "Led Zeppelin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Ramble_On_(Live).jpg",
-    "started_at": "2026-09-05T02:17:13Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
