@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T17:51:27-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T17:52:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Two Of Hearts",
+    "artist": "Stacey Q",
+    "album": "Better Than Heaven",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stacey_Q_-_Two_Of_Hearts.jpg",
+    "started_at": "2026-09-05T22:52:11Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
