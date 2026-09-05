@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-05T05:30:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-05T05:33:22-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Concerto For Cootie",
-    "artist": "Duke Ellington and His Famous Orchestra",
-    "album": "Duke at His Very Best: The Jimmy Blanton - Billy Strayhorn - Ben Webster Sessions - Legendary Works 1940-1942",
-    "artwork_url": "",
-    "started_at": "2026-09-05T10:30:19.4777862Z",
-    "duration_seconds": 190,
-    "year": "2024"
+    "title": "Concerto for Cootie",
+    "artist": "Duke Ellington",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Concerto_For_Cootie.jpg",
+    "started_at": "2026-09-05T10:31:05Z",
+    "duration_seconds": 198
   },
   "next_poll_seconds": 10
 }
