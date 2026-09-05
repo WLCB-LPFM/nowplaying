@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T18:50:57-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T18:55:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Forever Your Girl",
-    "artist": "Paula Abdul",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paula_Abdul_-_Forever_Your_Girl.jpg",
-    "started_at": "2026-09-05T23:50:50Z",
-    "duration_seconds": 300
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
