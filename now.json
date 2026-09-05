@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-05T00:33:13-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T00:33:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Lester Leaps In",
+    "artist": "Count Basie & The Kansas City Seven",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Count_Basie_&_The_Kansas_City_Seven.jpg",
+    "started_at": "2026-09-05T05:33:28Z",
+    "duration_seconds": 194
+  },
   "next_poll_seconds": 10
 }
