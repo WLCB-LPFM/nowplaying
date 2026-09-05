@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-04T22:41:08-05:00",
+  "generated": "2026-09-04T22:59:32-05:00",
   "source": "fallback",
-  "mode": "live",
-  "automation_on": false,
+  "mode": "rebroadcast",
+  "automation_on": true,
   "show": {
     "name": "Graybeard's Clubhouse",
     "hosts": [
