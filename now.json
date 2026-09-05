@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T18:28:48-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T18:30:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Uptown Girl",
+    "artist": "Billy Joel",
+    "album": "The Essential Billy Joel",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_Uptown_Girl.jpg",
+    "started_at": "2026-09-05T23:30:20Z",
+    "duration_seconds": 166
+  },
   "next_poll_seconds": 10
 }
