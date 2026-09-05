@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T22:17:47-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T22:23:31-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Magic Sam Boogie",
-    "artist": "Joanna Connor",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1353aa69f530d31bcabbcfed85276422.png",
-    "started_at": "2026-09-05T03:17:37Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
