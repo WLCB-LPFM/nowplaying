@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-05T02:14:31-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T02:14:43-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mariage d'Amour",
+    "artist": "DanhLuongMusic",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-05T07:14:27Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
