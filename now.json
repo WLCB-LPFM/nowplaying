@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T08:33:29-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T08:36:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "In God's Country",
-    "artist": "U2",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_In_God's_Country.jpg",
-    "started_at": "2026-09-05T13:33:17Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
