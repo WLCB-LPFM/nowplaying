@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-05T01:35:50-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T01:36:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Body And Soul",
-    "artist": "Coleman Hawkins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Coleman_Hawkins_-_Body_And_Soul.jpg",
-    "started_at": "2026-09-05T06:33:34Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
