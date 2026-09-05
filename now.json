@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T22:37:58-05:00",
-  "source": "autopost",
+  "generated": "2026-09-04T22:41:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "You Can Leave Your Hat On",
-    "artist": "Etta James",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Etta_James_-_You_Can_Leave_Your_Hat_On.jpg",
-    "started_at": "2026-09-05T03:37:50Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
