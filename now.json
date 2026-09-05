@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T11:36:15-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T11:39:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Brown Sugar",
+    "artist": "D'Angelo",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/D'angelo_-_Brown_Sugar.jpg",
+    "started_at": "2026-09-05T16:38:49Z",
+    "duration_seconds": 262
+  },
   "next_poll_seconds": 10
 }
