@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T19:46:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-04T19:50:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Omaha",
+    "artist": "Moby Grape",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Moby_Grape_-_Omaha.jpg",
+    "started_at": "2026-09-05T00:50:08Z",
+    "duration_seconds": 142
+  },
   "next_poll_seconds": 10
 }
