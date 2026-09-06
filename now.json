@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T18:12:57-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T18:16:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Don't Bug Me When I'm Working",
-    "artist": "Little Village",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Village_-_Don't_Bug_Me_When_I'm_Working.jpg",
-    "started_at": "2026-09-06T23:12:44Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
