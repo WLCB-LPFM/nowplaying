@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-06T02:10:48-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T02:13:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Grandpa\u2019s Spells",
-    "artist": "Jelly Roll Morton's Red Hot Peppers",
-    "album": "Volume 1 (1923-1929)",
-    "artwork_url": "",
-    "started_at": "2026-09-06T07:10:44.9615604Z",
-    "duration_seconds": 165,
-    "year": "2000"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
