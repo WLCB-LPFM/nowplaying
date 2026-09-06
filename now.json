@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T21:33:11-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T21:37:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Killing Me Softly",
-    "artist": "Al B. Sure!",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_B._Sure!_-_Killing_Me_Softly.jpg",
-    "started_at": "2026-09-06T02:33:03Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
