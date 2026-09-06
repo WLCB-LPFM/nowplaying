@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T16:35:09-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T16:38:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Lonely Town, Lonely Street",
+    "artist": "Bill Withers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Withers_-_Lonely_Town,_Lonely_Street.jpg",
+    "started_at": "2026-09-06T21:38:09Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
