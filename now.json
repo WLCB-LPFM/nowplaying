@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T08:34:47-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T08:34:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Old Chief Walla Hoo",
+    "artist": "Barry Sisters; Sammy Meade's Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T13:34:57.3533658Z",
+    "duration_seconds": 153,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
