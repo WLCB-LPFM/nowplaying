@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T08:40:25-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T08:40:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "By the Sleepy Lagoon",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T13:40:34.7742966Z",
+    "duration_seconds": 170,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
