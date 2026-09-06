@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T17:55:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T17:58:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Nite and Day",
-    "artist": "Al B. Sure!",
-    "album": "In Effect Mode",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_B._Sure!_-_Nite_And_Day.jpg",
-    "started_at": "2026-09-06T22:55:40Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
