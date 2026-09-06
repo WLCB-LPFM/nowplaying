@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T18:24:04-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T18:28:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Take This Job And Shove It",
+    "artist": "Johnny Paycheck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Paycheck_-_Take_This_Job_And_Shove_It.jpg",
+    "started_at": "2026-09-06T23:28:21Z",
+    "duration_seconds": 159
+  },
   "next_poll_seconds": 10
 }
