@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T07:33:23-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T07:33:46-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Together",
+    "artist": "Martha Raye; Ray; dePaul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T12:33:36.2394507Z",
+    "duration_seconds": 112,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
