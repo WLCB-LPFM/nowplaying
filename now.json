@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T03:09:44-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T03:10:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Imagine",
+    "artist": "Simone Kopmajer",
+    "album": "Nothing\u2019s Gonna Change",
+    "artwork_url": "",
+    "started_at": "2026-09-06T08:10:28.7163695Z",
+    "duration_seconds": 327,
+    "year": "2011"
+  },
   "next_poll_seconds": 10
 }
