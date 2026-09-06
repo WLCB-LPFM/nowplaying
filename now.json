@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T15:15:53-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T15:16:06-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Love For Sale (1940)",
+    "artist": "Jack Teagarden and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T20:16:05.7498304Z",
+    "duration_seconds": 175,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
