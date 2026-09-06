@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T18:54:00-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T18:59:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Insignificant Other",
-    "artist": "Queens of the Stone Age",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/q/Queens_Of_The_Stone_Age_-_Insignificant_Other.jpg",
-    "started_at": "2026-09-06T23:53:52Z",
-    "duration_seconds": 354
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
