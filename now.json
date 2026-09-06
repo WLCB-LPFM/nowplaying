@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T21:04:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T21:16:22-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "OUT THE ROOF (feat. Young Ray & Chip)",
+    "artist": "Paper Chase",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Paper_Chase.jpg",
+    "started_at": "2026-09-06T02:16:10Z",
+    "duration_seconds": 258
+  },
   "next_poll_seconds": 10
 }
