@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T14:54:55-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T14:55:07-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Why Don't We Do This More Often",
+    "artist": "Blue Barron and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T19:55:04.6283707Z",
+    "duration_seconds": 144,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
