@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-06T07:01:06-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T07:01:18-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Paradise",
+    "artist": "Sound Remedy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sound_Remedy_-_Paradise.jpg",
+    "started_at": "2026-09-06T12:01:08Z",
+    "duration_seconds": 310
+  },
   "next_poll_seconds": 10
 }
