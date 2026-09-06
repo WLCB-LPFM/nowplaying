@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T21:47:19-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T21:51:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "A Dream",
-    "artist": "DeBarge",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Debarge_-_A_Dream.jpg",
-    "started_at": "2026-09-06T02:47:13Z",
-    "duration_seconds": 264
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
