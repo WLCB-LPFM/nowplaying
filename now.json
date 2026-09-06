@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T21:37:51-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T21:42:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Doin' Just Fine",
-    "artist": "Boyz II Men",
-    "album": "Evolution",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boyz_Ii_Men_-_Doin'_Just_Fine.jpg",
-    "started_at": "2026-09-06T02:37:44Z",
-    "duration_seconds": 310
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
