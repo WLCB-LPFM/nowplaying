@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T20:05:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T20:05:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hypnotize",
+    "artist": "The Notorious B.I.G.",
+    "album": "Hypnotize (2007 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Notorious_B.i.g._-_Hypnotize.jpg",
+    "started_at": "2026-09-06T01:05:33Z",
+    "duration_seconds": 163
+  },
   "next_poll_seconds": 10
 }
