@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T16:01:50-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T16:02:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Knucklehead",
+    "artist": "The Bar-Kays",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Bar-kays_-_Knucklehead.jpg",
+    "started_at": "2026-09-06T21:02:09Z",
+    "duration_seconds": 143
+  },
   "next_poll_seconds": 10
 }
