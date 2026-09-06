@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T17:27:48-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T17:28:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "It Hurts so Good",
+    "artist": "Millie Jackson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Millie_Jackson_-_It_Hurts_So_Good.jpg",
+    "started_at": "2026-09-06T22:28:23Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
