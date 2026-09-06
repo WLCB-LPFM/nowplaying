@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-06T05:54:44-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T05:55:08-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Riverboat Shuffle",
-    "artist": "Frankie Trumbauer and His Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frankie_Trumbauer_And_His_Orchestra_-_Riverboat_Shuffle.jpg",
-    "started_at": "2026-09-06T10:52:07Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
