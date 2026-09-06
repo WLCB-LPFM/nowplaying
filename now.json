@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T07:11:15-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T07:11:28-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Russian Rose",
+    "artist": "Denny Dennis; Miller & Charles",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T12:11:19.7946836Z",
+    "duration_seconds": 177,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
