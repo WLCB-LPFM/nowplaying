@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T17:16:52-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T17:20:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Mannish Boy",
-    "artist": "Muddy Waters",
-    "album": "Hard Again",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Muddy_Waters_-_Mannish_Boy.jpg",
-    "started_at": "2026-09-06T22:16:40Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
