@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T06:26:47-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T06:26:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Lick (1940)",
+    "artist": "Les Hite and his Orchestra; Les",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T11:26:57.3033621Z",
+    "duration_seconds": 172,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
