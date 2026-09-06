@@ -1,18 +1,9 @@
 {
-  "generated": "2026-09-05T22:55:15-05:00",
+  "generated": "2026-09-05T23:00:03-05:00",
   "source": "fallback",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Late Night Chicago Radio",
-    "hosts": [
-      "Denny Farrell"
-    ],
-    "automated": false,
-    "starts": "22:00",
-    "ends": "23:00",
-    "genre": "Jazz"
-  },
+  "show": null,
   "track": null,
   "next_poll_seconds": 10
 }
