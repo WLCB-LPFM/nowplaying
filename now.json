@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T07:41:04-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T07:41:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "One O'Clock Jump (1937)",
+    "artist": "Count Basie and his Orchestra",
+    "album": "78'er",
+    "artwork_url": "",
+    "started_at": "2026-09-06T12:41:18.8706079Z",
+    "duration_seconds": 167,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
