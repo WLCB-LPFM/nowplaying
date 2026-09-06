@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-06T05:48:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T05:51:43-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Oh, Lady Be Good",
-    "artist": "Charlie Parker with Jazz at the Philharmonic",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-09-06T10:48:52.9315405Z",
-    "duration_seconds": 180,
-    "year": "1987"
+    "title": "Oh, Lady, Be Good! (Live at Philharmonic Auditorium, Los Angeles feat. 1946)",
+    "artist": "Charlie Parker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charlie_Parker.jpg",
+    "started_at": "2026-09-06T10:49:07Z",
+    "duration_seconds": 673
   },
   "next_poll_seconds": 10
 }
