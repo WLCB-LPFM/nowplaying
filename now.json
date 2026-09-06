@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T10:09:24-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T10:15:41-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "No Name Jive I & ll",
-    "artist": "Casa Loma Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Casa_Loma_Orchestra.jpg",
-    "started_at": "2026-09-06T15:09:17Z",
-    "duration_seconds": 392
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
