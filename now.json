@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T20:37:33-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T20:38:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Burn the Flames",
+    "artist": "Roky Erickson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roky_Erickson_-_Burn_The_Flames.jpg",
+    "started_at": "2026-09-06T01:37:57Z",
+    "duration_seconds": 369
+  },
   "next_poll_seconds": 10
 }
