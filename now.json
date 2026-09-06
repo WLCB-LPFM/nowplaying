@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T07:43:53-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T07:44:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tend to Your Knitting",
+    "artist": "Jerry Abbott and The Main Streeters",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T12:44:06.8394395Z",
+    "duration_seconds": 166,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
