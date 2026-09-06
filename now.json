@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T17:22:05-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T17:27:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Rock Me Baby",
-    "artist": "I'M BB KING",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-09-06T22:21:56Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
