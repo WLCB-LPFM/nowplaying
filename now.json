@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T18:41:46-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T18:47:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "How Love's Supposed To Go",
-    "artist": "Alabama Shakes",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/83dfd95441c7b4952845e23ab1bf18f3.png",
-    "started_at": "2026-09-06T23:41:42Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
