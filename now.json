@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-06T02:32:38-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T02:35:26-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Ain't Got Nobody",
-    "artist": "Fats Waller",
-    "album": "Blue Velvet",
-    "artwork_url": "",
-    "started_at": "2026-09-06T07:32:32.1605671Z",
-    "duration_seconds": 178,
-    "year": "2004"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
