@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-06T14:12:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T14:15:58-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'll See You Again",
-    "artist": "Nelson Eddy; Coward",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-06T19:12:47.022325Z",
-    "duration_seconds": 203,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
