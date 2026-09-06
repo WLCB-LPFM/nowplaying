@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T10:36:49-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T10:57:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Andante and Five Variations for Piano Duet in G, K. 501",
+    "artist": "Ingrid Haebler & Ludwig Hoffmann",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-06T15:57:16Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
