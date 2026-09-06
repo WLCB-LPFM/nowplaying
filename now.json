@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T22:05:46-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T22:07:49-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Piano Concerto No. 3 in D Minor, Op. 30: III. Finale (Alla Breve)",
+    "artist": "Ivan Shpiller, Nikolai Lugansky & Russian State Symphony Orchestra",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-06T03:07:41Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
