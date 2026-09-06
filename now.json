@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T16:48:33-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T16:48:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Hard Times",
+    "artist": "Baby Huey & The Baby Sitters",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Baby_Huey_&_The_Baby_Sitters_-_Hard_Times.jpg",
+    "started_at": "2026-09-06T21:48:51Z",
+    "duration_seconds": 239
+  },
   "next_poll_seconds": 10
 }
