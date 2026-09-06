@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T19:22:40-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T19:23:04-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Genie In a Bottle",
+    "artist": "Christina Aguilera",
+    "album": "Christina Aguilera (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Christina_Aguilera_-_Genie_In_A_Bottle.jpg",
+    "started_at": "2026-09-06T00:22:59Z",
+    "duration_seconds": 197
+  },
   "next_poll_seconds": 10
 }
