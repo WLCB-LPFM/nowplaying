@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T07:38:05-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T07:38:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "While Others Are Building Castles (I'll Build a Castle For Two) (1940)",
+    "artist": "Johnny McGee and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T12:38:16.7441526Z",
+    "duration_seconds": 181,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
