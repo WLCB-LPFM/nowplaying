@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T06:35:55-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T06:36:07-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Russian Rose",
+    "artist": "Geraldo and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T11:36:05.2006347Z",
+    "duration_seconds": 187,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
