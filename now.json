@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T09:09:43-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T09:15:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Rock Me",
+    "artist": "Great White",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Great_White_-_Rock_Me.jpg",
+    "started_at": "2026-09-06T14:15:08Z",
+    "duration_seconds": 438
+  },
   "next_poll_seconds": 10
 }
