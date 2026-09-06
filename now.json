@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-06T15:04:57-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T15:07:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Sweet Potato Piper (1940)",
-    "artist": "Johnny Green and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-06T20:04:50.2130738Z",
-    "duration_seconds": 160,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
