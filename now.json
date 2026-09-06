@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T16:17:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T16:20:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Don't Stop 'Til You Get Enough",
-    "artist": "Michael Jackson",
-    "album": "Number Ones",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Don't_Stop_'til_You_Get_Enough.jpg",
-    "started_at": "2026-09-06T21:17:10Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
