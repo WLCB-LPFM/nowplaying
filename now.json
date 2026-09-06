@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-06T15:25:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T15:27:55-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dinah (1940)",
-    "artist": "Muggsy Spanier and his Ragtime Band",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-06T20:25:24.940366Z",
-    "duration_seconds": 155,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
