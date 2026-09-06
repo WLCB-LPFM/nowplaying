@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T20:57:48-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T20:58:01-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Shooting Star",
+    "artist": "Bad Company",
+    "album": "Swan Song Years 1974-1982 (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bad_Company_-_Shooting_Star.jpg",
+    "started_at": "2026-09-06T01:57:46Z",
+    "duration_seconds": 375
+  },
   "next_poll_seconds": 10
 }
