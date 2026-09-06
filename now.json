@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T18:55:57-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T19:00:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Mama Said Knock You Out",
-    "artist": "LL COOL J",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Ll_Cool_J_-_Mama_Said_Knock_You_Out.jpg",
-    "started_at": "2026-09-05T23:55:45Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
