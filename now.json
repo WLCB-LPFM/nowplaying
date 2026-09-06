@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T20:52:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T20:57:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Voodoo Child (Slight Return)",
-    "artist": "The Jimi Hendrix Experience",
-    "album": "Experience Hendrix: The Best of Jimi Hendrix",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jimi_Hendrix_Experience_-_Voodoo_Child_(Slight_Return).jpg",
-    "started_at": "2026-09-06T01:52:45Z",
-    "duration_seconds": 318
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
