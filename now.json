@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T16:43:54-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T16:48:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "School Boy Crush",
-    "artist": "Average White Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Average_White_Band_-_School_Boy_Crush.jpg",
-    "started_at": "2026-09-06T21:43:43Z",
-    "duration_seconds": 299
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
