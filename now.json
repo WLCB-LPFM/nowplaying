@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-06T00:33:35-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T00:37:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "September Waltz",
-    "artist": "Mads Vinding Trio",
-    "album": "The Kingdom (Where Nobidy Dies)",
-    "artwork_url": "",
-    "started_at": "2026-09-06T05:33:23.1579994Z",
-    "duration_seconds": 255,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
