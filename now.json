@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-06T08:40:38-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T08:43:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "By the Sleepy Lagoon",
-    "artist": "Harry James and his Orchestra",
+    "title": "Sleepy Lagoon",
+    "artist": "Harry James",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-06T13:40:34.7742966Z",
-    "duration_seconds": 170,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harry_James_-_Sleepy_Lagoon.jpg",
+    "started_at": "2026-09-06T13:40:59Z",
+    "duration_seconds": 190
   },
   "next_poll_seconds": 10
 }
