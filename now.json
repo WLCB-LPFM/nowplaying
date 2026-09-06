@@ -1,9 +1,18 @@
 {
-  "generated": "2026-09-06T08:59:51-05:00",
+  "generated": "2026-09-06T09:00:03-05:00",
   "source": "fallback",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The Original Big Band Showcase",
+    "hosts": [
+      "Denny Farrell"
+    ],
+    "automated": false,
+    "starts": "09:00",
+    "ends": "11:00",
+    "genre": "Big Band"
+  },
   "track": null,
   "next_poll_seconds": 10
 }
