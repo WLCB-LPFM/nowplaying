@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T16:25:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T16:30:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Freak-A-Zoid",
-    "artist": "Midnight Star",
-    "album": "No Parking On the Dance Floor",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Midnight_Star_-_Freak-a-zoid.jpg",
-    "started_at": "2026-09-06T21:25:36Z",
-    "duration_seconds": 299
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
