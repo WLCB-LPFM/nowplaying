@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T14:07:18-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T14:07:41-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Always Too Tired",
+    "artist": "The Ramblers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T19:07:30.4008415Z",
+    "duration_seconds": 151,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
