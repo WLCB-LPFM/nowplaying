@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T21:55:41-05:00",
-  "source": "fallback",
+  "generated": "2026-09-05T21:56:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Burn",
+    "artist": "USHER",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Usher_-_Burn.jpg",
+    "started_at": "2026-09-06T02:55:50Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
