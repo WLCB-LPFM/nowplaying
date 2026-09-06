@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T15:40:18-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T15:40:31-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ma Curly-Headed Baby (1940)",
+    "artist": "Barbara Mullen; Clutsam",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T20:40:24.223566Z",
+    "duration_seconds": 172,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
