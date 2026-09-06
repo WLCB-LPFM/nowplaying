@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T21:51:36-05:00",
-  "source": "autopost",
+  "generated": "2026-09-05T21:55:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Ask My Neighbors",
-    "artist": "The Emotions",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Emotions_-_Don't_Ask_My_Neighbors.jpg",
-    "started_at": "2026-09-06T02:51:25Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
