@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-06T14:48:54-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T14:49:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Come and Get It (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-06T19:49:30.7512878Z",
+    "duration_seconds": 179,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
