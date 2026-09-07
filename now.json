@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T16:38:50-05:00",
-  "source": "autopost",
+  "generated": "2026-09-07T16:41:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Where's My Phone?",
-    "artist": "Mitski",
-    "album": "Where's My Phone?",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mitski_-_Where's_My_Phone?.jpg",
-    "started_at": "2026-09-07T21:38:41Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
