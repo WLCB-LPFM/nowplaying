@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T19:31:44-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T19:44:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Say My Name",
+    "artist": "KylaRage",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-07T00:44:41Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
