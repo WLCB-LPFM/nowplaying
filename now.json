@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T20:18:47-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T20:18:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Out Of The Blue (Live)",
+    "artist": "Roxy Music",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roxy_Music_-_Out_Of_The_Blue_(Live).jpg",
+    "started_at": "2026-09-07T01:18:51Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
