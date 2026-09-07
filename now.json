@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T17:19:01-05:00",
-  "source": "autopost",
+  "generated": "2026-09-07T17:24:45-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "I Guess Time Just Makes Fools of Us All",
-    "artist": "Father John Misty",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Father_John_Misty_-_I_Guess_Time_Just_Makes_Fools_Of_Us_All.jpg",
-    "started_at": "2026-09-07T22:18:54Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
