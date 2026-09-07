@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-07T18:12:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-07T18:20:15-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Funkytown",
-    "artist": "Lipps Inc.",
+    "title": "Funkytown (Long Version)",
+    "artist": "Lipps, Inc.",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-07T23:12:53.4167312Z",
-    "duration_seconds": 452,
-    "year": "1980"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lipps,_Inc._-_Funkytown_(Long_Version).jpg",
+    "started_at": "2026-09-07T23:13:15Z",
+    "duration_seconds": 469
   },
   "next_poll_seconds": 10
 }
