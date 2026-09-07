@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T19:02:09-05:00",
-  "source": "autopost",
+  "generated": "2026-09-06T19:06:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Pepper",
-    "artist": "B******e Surfers",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-09-07T00:01:55Z",
-    "duration_seconds": 295
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
