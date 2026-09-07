@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T20:11:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-06T20:13:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Gotta Leave (feat. Davy Knowles)",
+    "artist": "Back Door Slam",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Back_Door_Slam.jpg",
+    "started_at": "2026-09-07T01:12:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
