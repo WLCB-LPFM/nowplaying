@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-07T02:02:34-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-07T02:05:32-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Misterioso",
-    "artist": "Thelonius Monk Quartet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-09-07T07:02:24.0143238Z",
-    "duration_seconds": 198,
-    "year": "1997"
+    "artist": "Thelonious Monk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_Misterioso.jpg",
+    "started_at": "2026-09-07T07:03:05Z",
+    "duration_seconds": 201
   },
   "next_poll_seconds": 10
 }
