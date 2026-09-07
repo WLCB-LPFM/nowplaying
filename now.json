@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-06T21:38:08-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-06T21:43:32-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "My Funny Valentine",
-    "artist": "Sarah Vaughan",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-09-07T02:37:56.1314552Z",
-    "duration_seconds": 351,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
