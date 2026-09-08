@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-08T13:24:28-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-08T13:24:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Two Of Hearts",
-    "artist": "Stacey Q",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-08T18:20:52.7774126Z",
-    "duration_seconds": 231,
-    "year": "2024"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
