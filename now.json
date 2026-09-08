@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-08T08:06:16-05:00",
-  "source": "fallback",
+  "generated": "2026-09-08T08:07:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Creep",
+    "artist": "TLC",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tlc_-_Creep.jpg",
+    "started_at": "2026-09-08T13:07:40Z",
+    "duration_seconds": 269
+  },
   "next_poll_seconds": 10
 }
