@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T20:19:40-05:00",
-  "source": "autopost",
+  "generated": "2026-09-07T20:25:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Matador",
-    "artist": "Grant Green",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grant_Green_-_Matador.jpg",
-    "started_at": "2026-09-08T01:19:31Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
