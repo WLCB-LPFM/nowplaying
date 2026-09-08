@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T21:53:16-05:00",
-  "source": "fallback",
+  "generated": "2026-09-07T21:55:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Caravan",
+    "artist": "Erroll Garner",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_Caravan.jpg",
+    "started_at": "2026-09-08T02:55:41Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
