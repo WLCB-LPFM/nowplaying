@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-08T06:29:41-05:00",
-  "source": "fallback",
+  "generated": "2026-09-08T06:30:15-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Conga",
+    "artist": "Gloria Estefan",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-08T11:30:08.6491149Z",
+    "duration_seconds": 252,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
