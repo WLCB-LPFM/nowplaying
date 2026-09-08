@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T23:53:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-07T23:56:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Kyrie",
-    "artist": "Mr. Mister",
-    "album": "The Best of Mr. Mister",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mr._Mister_-_Kyrie.jpg",
-    "started_at": "2026-09-08T04:53:09Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
