@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-08T12:55:43-05:00",
-  "source": "autopost",
+  "generated": "2026-09-08T12:58:32-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You Send Me",
-    "artist": "Sam Cooke",
-    "album": "The Best of Sam Cooke",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_Cooke_-_You_Send_Me.jpg",
-    "started_at": "2026-09-08T17:54:20Z",
-    "duration_seconds": 257
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
