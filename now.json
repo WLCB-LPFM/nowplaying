@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T21:04:24-05:00",
-  "source": "fallback",
+  "generated": "2026-09-07T21:10:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Rockin' In Rhythm",
+    "artist": "Duke Ellington",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Rockin'_In_Rhythm.jpg",
+    "started_at": "2026-09-08T02:10:04Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
