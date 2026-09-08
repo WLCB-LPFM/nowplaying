@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-08T15:50:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-08T15:53:49-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Pump It Up",
-    "artist": "Elvis Costello & The Attractions",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elvis_Costello_&_The_Attractions_-_Pump_It_Up.jpg",
-    "started_at": "2026-09-08T20:50:43Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
