@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-08T21:42:31-05:00",
-  "source": "autopost",
+  "generated": "2026-09-08T21:48:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Roll Over Beethoven",
-    "artist": "Chuck Berry",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chuck_Berry_-_Roll_Over_Beethoven.jpg",
-    "started_at": "2026-09-09T02:42:22Z",
-    "duration_seconds": 404
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
