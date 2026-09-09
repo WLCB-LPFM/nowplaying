@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T09:00:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-09T09:00:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Little Miss Can't Be Wrong",
-    "artist": "Spin Doctors",
-    "album": "Pocket Full of Kryptonite",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spin_Doctors_-_Little_Miss_Can't_Be_Wrong.jpg",
-    "started_at": "2026-09-09T13:56:53Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
