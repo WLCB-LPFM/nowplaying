@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-08T20:13:05-05:00",
-  "source": "fallback",
+  "generated": "2026-09-08T20:14:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Mean Street",
+    "artist": "Van Halen",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Mean_Street.jpg",
+    "started_at": "2026-09-09T01:13:53Z",
+    "duration_seconds": 300
+  },
   "next_poll_seconds": 10
 }
