@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-09T17:22:06-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-09T17:25:08-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cars",
-    "artist": "Gary Numan",
-    "album": "The Pleasure Principle (Bonus Tracks)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Numan_-_Cars.jpg",
-    "started_at": "2026-09-09T22:21:44.4788994Z",
-    "duration_seconds": 216,
-    "year": "2010"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
