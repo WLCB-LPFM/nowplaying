@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T07:47:24-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T07:53:19-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Material Girl",
+    "artist": "Madonna",
+    "album": "Like a Virgin",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Material_Girl.jpg",
+    "started_at": "2026-09-09T12:53:15Z",
+    "duration_seconds": 256
+  },
   "next_poll_seconds": 10
 }
