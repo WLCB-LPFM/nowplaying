@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-09T05:22:52-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T05:23:16-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Shelter",
+    "artist": "Stick Figure",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stick_Figure_-_Shelter.jpg",
+    "started_at": "2026-09-09T10:23:10Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
