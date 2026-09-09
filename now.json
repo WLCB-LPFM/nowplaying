@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T13:19:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T13:21:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Song Is You",
+    "artist": "Charlie Parker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_The_Song_Is_You.jpg",
+    "started_at": "2026-09-09T18:21:00Z",
+    "duration_seconds": 177
+  },
   "next_poll_seconds": 10
 }
