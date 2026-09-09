@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-09T17:17:15-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T17:17:28-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Good Vibrations",
+    "artist": "Marky Mark And The Funky Bunch",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-09T22:17:17.4537441Z",
+    "duration_seconds": 266,
+    "year": "1991"
+  },
   "next_poll_seconds": 10
 }
