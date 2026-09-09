@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-08T22:51:56-05:00",
-  "source": "autopost",
+  "generated": "2026-09-08T22:56:46-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "So Far Away",
-    "artist": "Dire Straits",
-    "album": "So Far Away",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dire_Straits_-_So_Far_Away.jpg",
-    "started_at": "2026-09-09T03:51:49Z",
-    "duration_seconds": 309
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
