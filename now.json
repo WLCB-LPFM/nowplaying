@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T07:31:22-05:00",
-  "source": "autopost",
+  "generated": "2026-09-09T07:34:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Cars With The Boom (Cars That Go Boom)",
-    "artist": "L'Trimm",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/L'trimm_-_Cars_With_The_Boom_(Cars_That_Go_Boom).jpg",
-    "started_at": "2026-09-09T12:31:18Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
