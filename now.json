@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T07:36:36-05:00",
-  "source": "autopost",
+  "generated": "2026-09-09T07:39:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "9 To 5 (Remix Edit)",
-    "artist": "Dolly Parton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dolly_Parton.jpg",
-    "started_at": "2026-09-09T12:36:21Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
