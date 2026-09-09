@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T07:23:35-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T07:23:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Centerfold",
+    "artist": "The J. Geils Band",
+    "album": "Freeze Frame",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_J._Geils_Band_-_Centerfold.jpg",
+    "started_at": "2026-09-09T12:23:46Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
