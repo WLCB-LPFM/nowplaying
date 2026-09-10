@@ -1,25 +1,17 @@
 {
-  "generated": "2026-09-10T08:58:14-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-09-10T09:00:07-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The John and Heidi Show",
-    "hosts": [
-      "John and Heidi Small"
-    ],
-    "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
-  },
+  "show": null,
   "track": {
     "title": "Cherry Pie",
     "artist": "Warrant",
     "album": "Cherry Pie (Bonus Track Version)",
     "artwork_url": "https://cdn.autopo.st/images/coverart/w/Warrant_-_Cherry_Pie.jpg",
-    "started_at": "2026-09-10T13:58:11Z",
-    "duration_seconds": 173
+    "started_at": "2026-09-10T13:57:28.4132273Z",
+    "duration_seconds": 191,
+    "year": "1990"
   },
   "next_poll_seconds": 10
 }
