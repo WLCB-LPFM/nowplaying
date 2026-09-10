@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T21:54:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T21:56:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Going Home",
+    "artist": "Tim Curry, Richard O'Brien & The Rocky Horror Picture Show",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-10T02:56:33Z",
+    "duration_seconds": 172
+  },
   "next_poll_seconds": 10
 }
