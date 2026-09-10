@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T20:11:20-05:00",
-  "source": "autopost",
+  "generated": "2026-09-09T20:14:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sweet Transvestite",
-    "artist": "Tim Curry & The Rocky Horror Picture Show",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-09-10T01:11:06Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
