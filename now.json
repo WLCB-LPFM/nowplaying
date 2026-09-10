@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-10T01:08:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-10T01:16:51-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Stardust",
-    "artist": "Rony Verbiest",
-    "album": "The Best Jazz Audiophile Recommended, Volume 4",
-    "artwork_url": "",
-    "started_at": "2026-09-10T06:08:50.1572145Z",
-    "duration_seconds": 493,
-    "year": "2012"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
