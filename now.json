@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T19:02:24-05:00",
-  "source": "autopost",
+  "generated": "2026-09-09T19:08:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Rose Tint My World (The Rocky Horror Picture Show) [feat. Richard O'Brien]",
-    "artist": "Susan Sarandon, Little Nell, Barry Bostwick, Peter Hinwood, Tim Curry & The Rocky Horror Picture Show",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-09-10T00:02:12Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
