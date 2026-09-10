@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T21:48:46-05:00",
-  "source": "autopost",
+  "generated": "2026-09-09T21:54:21-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Summer In the City",
-    "artist": "Styx",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Styx_-_Summer_In_The_City.jpg",
-    "started_at": "2026-09-10T02:48:33Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
