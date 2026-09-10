@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-10T08:28:12-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T08:29:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Legends of Glory (Trailer Music)",
+    "artist": "Network Music Ensemble",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/317f9691f09ea949ffa89a98cda91a3a.png",
+    "started_at": "2026-09-10T13:29:39Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
