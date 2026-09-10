@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-10T06:35:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T06:35:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Shake That Thang",
+    "artist": "Salt-N-Pepa",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-10T11:35:21.377396Z",
+    "duration_seconds": 228,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
