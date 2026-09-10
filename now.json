@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-10T11:27:49-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T11:28:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Get the Party Started",
+    "artist": "P!nk",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-10T16:28:02.1647297Z",
+    "duration_seconds": 192,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
