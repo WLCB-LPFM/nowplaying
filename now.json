@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-10T15:05:58-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T15:06:55-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "And Fools Shine On",
+    "artist": "Brother Cane",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brother_Cane_-_And_Fools_Shine_On.jpg",
+    "started_at": "2026-09-10T20:06:44Z",
+    "duration_seconds": 282
+  },
   "next_poll_seconds": 10
 }
