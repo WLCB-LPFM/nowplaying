@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T21:41:51-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T21:44:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Summer In the City",
+    "artist": "Joe Cocker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Cocker_-_Summer_In_The_City.jpg",
+    "started_at": "2026-09-10T02:44:36Z",
+    "duration_seconds": 235
+  },
   "next_poll_seconds": 10
 }
