@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-10T04:22:48-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T04:23:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Man binder os p\u00e5 mund og h\u00e5nd",
+    "artist": "Thomas Fryland Sekstet",
+    "album": "The Best Jazz Audiophile Recommended, Volume 3",
+    "artwork_url": "",
+    "started_at": "2026-09-10T09:22:54.2366431Z",
+    "duration_seconds": 306,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
