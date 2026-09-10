@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T21:05:23-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T21:10:15-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I Do The Rock",
+    "artist": "Tim Curry",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tim_Curry_-_I_Do_The_Rock.jpg",
+    "started_at": "2026-09-10T02:10:09Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
