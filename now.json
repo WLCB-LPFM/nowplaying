@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-10T12:24:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-10T12:24:31-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Gettin Jiggy Wit It",
-    "artist": "Will Smith",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-10T17:21:00.8136621Z",
-    "duration_seconds": 218,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
