@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-10T10:45:27-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T10:45:39-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ooops Up",
+    "artist": "Snap!",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-10T15:45:31.6927629Z",
+    "duration_seconds": 240,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
