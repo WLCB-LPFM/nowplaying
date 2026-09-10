@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-10T11:37:54-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T11:38:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Real Slim Shady",
+    "artist": "Eminem",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-10T16:38:08.7653317Z",
+    "duration_seconds": 261,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
