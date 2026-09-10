@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-10T15:25:18-05:00",
-  "source": "autopost",
+  "generated": "2026-09-10T15:27:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Get the Party Started",
-    "artist": "P!nk",
-    "album": "Greatest Hits...So Far!!!",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/P!nk_-_Get_The_Party_Started.jpg",
-    "started_at": "2026-09-10T20:25:05Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
