@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T21:18:04-05:00",
-  "source": "fallback",
+  "generated": "2026-09-09T21:18:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Hit the Road, Jack",
+    "artist": "Tim Curry",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tim_Curry_-_Hit_The_Road,_Jack.jpg",
+    "started_at": "2026-09-10T02:18:20Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
