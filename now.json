@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-10T17:02:48-05:00",
-  "source": "autopost",
+  "generated": "2026-09-10T17:05:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "What You Won't Do for Love",
-    "artist": "Bobby Caldwell",
-    "album": "About Last Night (Music from the Motion Picture)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Caldwell_-_What_You_Won't_Do_For_Love.jpg",
-    "started_at": "2026-09-10T22:02:37Z",
-    "duration_seconds": 178
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
