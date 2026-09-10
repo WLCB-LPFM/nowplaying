@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-10T10:58:34-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T11:02:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Love Shack",
+    "artist": "The B52s",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-10T16:02:08.9525913Z",
+    "duration_seconds": 252,
+    "year": "2019"
+  },
   "next_poll_seconds": 10
 }
