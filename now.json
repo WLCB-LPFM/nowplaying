@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T19:32:27-05:00",
-  "source": "autopost",
+  "generated": "2026-09-09T19:38:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Toxic Love",
-    "artist": "Tim Curry",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tim_Curry_-_Toxic_Love.jpg",
-    "started_at": "2026-09-10T00:32:19Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
