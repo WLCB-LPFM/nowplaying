@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T12:37:53-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T12:43:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Illusion Remix Techno",
-    "artist": "Techno Music",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Techno_Music.jpg",
-    "started_at": "2026-09-11T17:37:38Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
