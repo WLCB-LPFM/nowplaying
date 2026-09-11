@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T09:59:57-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T10:02:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Monster Mash",
-    "artist": "Bobby 'Boris' Pickett",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_'boris'_Pickett_-_Monster_Mash.jpg",
-    "started_at": "2026-09-11T14:59:45Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
