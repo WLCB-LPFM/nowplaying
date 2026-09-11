@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T14:21:26-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T14:26:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "You Got It (And I Need It)",
+    "artist": "Robert Finley",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Finley_-_You_Got_It_(And_I_Need_It).jpg",
+    "started_at": "2026-09-11T19:26:05Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
