@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-11T04:57:42-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-11T04:59:46-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Radiator",
-    "artist": "Acoustic Guitars",
-    "album": "The Best Jazz Audiophile Recommended, Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-09-11T09:57:30.224706Z",
-    "duration_seconds": 150,
-    "year": "2002"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
