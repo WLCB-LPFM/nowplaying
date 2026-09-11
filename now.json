@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T18:10:18-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T18:11:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Papa Was a Rollin' Stone",
+    "artist": "The Temptations",
+    "album": "All Directions",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_Papa_Was_A_Rollin'_Stone.jpg",
+    "started_at": "2026-09-11T23:11:06Z",
+    "duration_seconds": 218
+  },
   "next_poll_seconds": 10
 }
