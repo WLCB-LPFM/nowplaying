@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T11:02:33-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T11:22:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "A World Without Love",
+    "artist": "Peter & Gordon",
+    "album": "Peter and Gordon Plus",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_&_Gordon_-_A_World_Without_Love.jpg",
+    "started_at": "2026-09-11T16:22:38Z",
+    "duration_seconds": 138
+  },
   "next_poll_seconds": 10
 }
