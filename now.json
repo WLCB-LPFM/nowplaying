@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T14:12:16-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T14:16:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Ntoni (feat. Hloni)",
+    "artist": "DJ Ganyani",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/756fd4916c08bfb0abf5a9ddf43c90d5.png",
+    "started_at": "2026-09-11T19:15:40Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
