@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T17:48:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T17:50:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "She's Not There",
-    "artist": "The Zombies",
-    "album": "Begin Here",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Zombies_-_She's_Not_There.jpg",
-    "started_at": "2026-09-11T22:48:12Z",
-    "duration_seconds": 122
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
