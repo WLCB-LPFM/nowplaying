@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T17:54:27-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T17:57:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Jimmy Loves Mary-Anne",
-    "artist": "Looking Glass",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Looking_Glass_-_Jimmy_Loves_Mary-anne.jpg",
-    "started_at": "2026-09-11T22:54:20Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
