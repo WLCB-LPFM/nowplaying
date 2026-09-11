@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T14:49:04-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T14:54:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Ain't No Good Life",
+    "artist": "Lynyrd Skynyrd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lynyrd_Skynyrd_-_Ain't_No_Good_Life.jpg",
+    "started_at": "2026-09-11T19:54:27Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
