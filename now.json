@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T10:56:11-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T11:00:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I Go To Pieces",
+    "artist": "Peter & Gordon",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_&_Gordon_-_I_Go_To_Pieces.jpg",
+    "started_at": "2026-09-11T16:00:21Z",
+    "duration_seconds": 146
+  },
   "next_poll_seconds": 10
 }
