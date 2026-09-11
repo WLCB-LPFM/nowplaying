@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T17:26:56-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T17:27:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Ain't Talkin' 'Bout Love",
+    "artist": "Van Halen",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Ain't_Talkin'_'bout_Love.jpg",
+    "started_at": "2026-09-11T22:26:58Z",
+    "duration_seconds": 230
+  },
   "next_poll_seconds": 10
 }
