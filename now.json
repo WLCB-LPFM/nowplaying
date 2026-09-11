@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-10T19:49:29-05:00",
-  "source": "fallback",
+  "generated": "2026-09-10T19:52:18-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "It Roars",
+    "artist": "Erika Henningsen & Original Broadway Cast of Mean Girls",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-11T00:52:10Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
