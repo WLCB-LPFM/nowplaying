@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T17:38:32-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T17:41:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sweet Freedom",
-    "artist": "Michael McDonald",
-    "album": "Running Scared Original Soundtrack",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Mcdonald_-_Sweet_Freedom.jpg",
-    "started_at": "2026-09-11T22:38:30Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
