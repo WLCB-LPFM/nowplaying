@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T14:43:13-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T14:46:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "I Would Lose My Mind",
+    "artist": "Robin Trower",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robin_Trower_-_I_Would_Lose_My_Mind.jpg",
+    "started_at": "2026-09-11T19:46:04Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
