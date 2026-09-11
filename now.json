@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T14:37:35-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T14:43:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Could I've Been So Blind",
-    "artist": "The Black Crowes",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Crowes_-_Could_I've_Been_So_Blind.jpg",
-    "started_at": "2026-09-11T19:37:26Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
