@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T13:27:03-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T13:27:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Ninety-Nine and One Half",
+    "artist": "Tommy Castro",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tommy_Castro_-_Ninety-nine_And_One_Half.jpg",
+    "started_at": "2026-09-11T18:27:17Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
