@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T18:35:39-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T18:36:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "grapevine",
+    "artist": "Margaux",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Margaux_-_Grapevine.jpg",
+    "started_at": "2026-09-11T23:35:41Z",
+    "duration_seconds": 183
+  },
   "next_poll_seconds": 10
 }
