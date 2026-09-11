@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T17:06:08-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T17:08:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Crazy",
-    "artist": "Gnarls Barkley",
-    "album": "St. Elsewhere",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gnarls_Barkley_-_Crazy.jpg",
-    "started_at": "2026-09-11T22:06:00Z",
-    "duration_seconds": 162
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
