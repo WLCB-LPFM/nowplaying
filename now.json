@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-11T04:03:40-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-11T04:06:16-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "I Gotta Right to Sing the Blues",
-    "artist": "Louis Armstrong & His Orchestra",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-09-11T09:03:30.8846877Z",
-    "duration_seconds": 174,
-    "year": "1937"
+    "title": "Jesus Just Left Chicago",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_Jesus_Just_Left_Chicago.jpg",
+    "started_at": "2026-09-11T09:03:22Z",
+    "duration_seconds": 210
   },
   "next_poll_seconds": 10
 }
