@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T13:23:30-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T13:27:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Can't Catch A Break",
-    "artist": "Tommy Castro & The Painkillers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tommy_Castro_&_The_Painkillers.jpg",
-    "started_at": "2026-09-11T18:23:21Z",
-    "duration_seconds": 233
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
