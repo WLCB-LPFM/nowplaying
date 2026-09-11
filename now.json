@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T10:26:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T10:28:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Amie",
-    "artist": "Pure Prairie League",
-    "album": "Bustin' Out (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pure_Prairie_League_-_Amie.jpg",
-    "started_at": "2026-09-11T15:25:59Z",
-    "duration_seconds": 186
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
