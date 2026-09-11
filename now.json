@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T12:43:29-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T12:50:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Not Here for a Long Time, Pt. 1",
+    "artist": "D.K. Harrell",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/D.k._Harrell_-_Not_Here_For_A_Long_Time,_Pt._1.jpg",
+    "started_at": "2026-09-11T17:50:09Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
