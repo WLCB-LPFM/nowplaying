@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T21:53:04-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T21:53:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Big Block (Live)",
+    "artist": "Jeff Beck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeff_Beck_-_Big_Block_(Live).jpg",
+    "started_at": "2026-09-12T02:53:35Z",
+    "duration_seconds": 349
+  },
   "next_poll_seconds": 10
 }
