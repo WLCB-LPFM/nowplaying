@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T11:23:47-05:00",
-  "source": "fallback",
+  "generated": "2026-09-12T11:25:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Every Shade of Love",
+    "artist": "Jesse Johnson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jesse_Johnson_-_Every_Shade_Of_Love.jpg",
+    "started_at": "2026-09-12T16:25:06Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
