@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T19:02:46-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T19:04:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "All Day and All of the Night",
-    "artist": "The Kinks",
-    "album": "The Anthology 1964 - 1971",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Kinks_-_All_Day_And_All_Of_The_Night.jpg",
-    "started_at": "2026-09-12T00:02:38Z",
-    "duration_seconds": 118
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
