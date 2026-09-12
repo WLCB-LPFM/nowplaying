@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T21:46:02-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T21:53:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Freeway Jam (Live)",
-    "artist": "Jeff Beck",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeff_Beck_-_Freeway_Jam_(Live).jpg",
-    "started_at": "2026-09-12T02:45:51Z",
-    "duration_seconds": 444
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
