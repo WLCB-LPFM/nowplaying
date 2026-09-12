@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-12T01:00:05-05:00",
-  "source": "fallback",
+  "generated": "2026-09-12T01:01:24-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cool Cats",
+    "artist": "Family Kush",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Family_Kush_-_Cool_Cats.jpg",
+    "started_at": "2026-09-12T06:01:17Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
