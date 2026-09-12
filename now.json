@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T19:46:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T19:47:17-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Shark Attack",
+    "artist": "Wailing Souls",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wailing_Souls_-_Shark_Attack.jpg",
+    "started_at": "2026-09-12T00:47:06Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
