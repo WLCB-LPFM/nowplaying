@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T19:58:26-05:00",
-  "source": "autopost",
+  "generated": "2026-09-11T20:00:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Them Bones",
-    "artist": "Alice In Chains",
-    "album": "Dirt (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_In_Chains_-_Them_Bones.jpg",
-    "started_at": "2026-09-12T00:58:25Z",
-    "duration_seconds": 160
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
