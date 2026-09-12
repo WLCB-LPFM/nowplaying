@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-12T03:35:57-05:00",
-  "source": "autopost",
+  "generated": "2026-09-12T03:36:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Crazy",
-    "artist": "Lils Mackintosh",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lils_Mackintosh_-_Crazy.jpg",
-    "started_at": "2026-09-12T08:34:00Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
