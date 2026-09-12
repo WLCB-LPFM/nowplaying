@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T18:50:46-05:00",
-  "source": "autopost",
+  "generated": "2026-09-12T18:54:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Footloose (Made Famous By Footloose)",
-    "artist": "80's Pop",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/8/80's_Pop.jpg",
-    "started_at": "2026-09-12T23:50:32Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
