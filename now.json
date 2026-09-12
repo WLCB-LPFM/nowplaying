@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-12T08:06:58-05:00",
+  "generated": "2026-09-12T08:31:01-05:00",
   "source": "fallback",
-  "mode": "live",
-  "automation_on": false,
+  "mode": "rebroadcast",
+  "automation_on": true,
   "show": {
     "name": "Sports Weekly",
     "hosts": [
