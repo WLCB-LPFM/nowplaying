@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T20:11:52-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T20:13:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Do You Realize??",
+    "artist": "The Flaming Lips",
+    "album": "Yoshimi Battles the Pink Robots",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Flaming_Lips_-_Do_You_Realize??.jpg",
+    "started_at": "2026-09-12T01:13:01Z",
+    "duration_seconds": 342
+  },
   "next_poll_seconds": 10
 }
