@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-12T04:17:36-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-12T04:22:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "2nd Thoughts",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-09-12T09:17:25.5987186Z",
-    "duration_seconds": 305,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
