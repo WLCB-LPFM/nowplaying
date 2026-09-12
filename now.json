@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T19:37:02-05:00",
-  "source": "fallback",
+  "generated": "2026-09-11T19:38:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "That Train Don't Stop Here",
+    "artist": "Los Lobos",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Los_Lobos_-_That_Train_Don't_Stop_Here.jpg",
+    "started_at": "2026-09-12T00:38:46Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
