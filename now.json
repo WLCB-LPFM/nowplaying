@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-12T02:54:39-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-12T03:01:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Steppin'",
-    "artist": "World Saxophone Quartet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 5",
-    "artwork_url": "",
-    "started_at": "2026-09-12T07:54:27.4605878Z",
-    "duration_seconds": 415,
-    "year": "1987"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
