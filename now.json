@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T10:32:56-05:00",
-  "source": "autopost",
+  "generated": "2026-09-12T10:37:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "The Grand Illusion",
-    "artist": "Styx",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Styx_-_The_Grand_Illusion.jpg",
-    "started_at": "2026-09-12T15:32:51Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
