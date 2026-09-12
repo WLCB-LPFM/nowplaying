@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-12T00:34:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-12T00:35:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Oh, Lady, Be Good! (Live at Philharmonic Auditorium, Los Angeles feat. 1946)",
+    "artist": "Charlie Parker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charlie_Parker.jpg",
+    "started_at": "2026-09-12T05:35:11Z",
+    "duration_seconds": 673
+  },
   "next_poll_seconds": 10
 }
