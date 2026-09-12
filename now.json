@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T09:04:10-05:00",
-  "source": "autopost",
+  "generated": "2026-09-12T09:07:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "It's All I Can Do",
-    "artist": "The Cars",
-    "album": "Candy-O",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cars_-_It's_All_I_Can_Do.jpg",
-    "started_at": "2026-09-12T14:04:04Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
