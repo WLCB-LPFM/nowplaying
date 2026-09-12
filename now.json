@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T18:07:28-05:00",
-  "source": "autopost",
+  "generated": "2026-09-12T18:10:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Boombastic (Sting Remix)",
-    "artist": "Shaggy",
-    "album": "Mr. Lover Lover: The Best of Shaggy, Pt. 1",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shaggy_-_Boombastic_(Sting_Remix).jpg",
-    "started_at": "2026-09-12T23:07:18Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
