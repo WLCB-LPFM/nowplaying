@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-13T08:02:19-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-13T08:04:34-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Johnny Private",
-    "artist": "Happy Jim Parsons and the Boys of Company B",
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-13T13:02:10.2412181Z",
-    "duration_seconds": 149,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-09-13T13:02:05Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
