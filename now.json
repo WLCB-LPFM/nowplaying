@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T21:54:25-05:00",
-  "source": "fallback",
+  "generated": "2026-09-12T21:54:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Stroke You Up",
+    "artist": "Changing Faces",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Changing_Faces_-_Stroke_You_Up.jpg",
+    "started_at": "2026-09-13T02:54:35Z",
+    "duration_seconds": 352
+  },
   "next_poll_seconds": 10
 }
