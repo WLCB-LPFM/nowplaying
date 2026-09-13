@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T17:45:25-05:00",
-  "source": "autopost",
+  "generated": "2026-09-13T17:49:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "There'll Never Be",
-    "artist": "Switch",
-    "album": "20th Century Masters - The Millennium Collection: The Best of Switch",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Switch_-_There'll_Never_Be.jpg",
-    "started_at": "2026-09-13T22:45:14Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
