@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-13T08:35:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-13T08:37:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Whistlin' Blues (1940)",
-    "artist": "The Ramblers",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-13T13:35:09.3722713Z",
-    "duration_seconds": 141,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
