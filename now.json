@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T18:46:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T18:47:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Romanticist",
+    "artist": "Yves Tumor",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yves_Tumor_-_Romanticist.jpg",
+    "started_at": "2026-09-13T23:47:25Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
