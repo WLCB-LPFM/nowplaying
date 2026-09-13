@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-13T14:43:09-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-13T14:45:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Swamp Fire",
-    "artist": "Lou Breese and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-13T19:43:09.5278958Z",
-    "duration_seconds": 141,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
