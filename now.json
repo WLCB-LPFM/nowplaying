@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-13T15:32:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T15:32:45-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Think You're Absolutely Wonderful (What Do You Think of Me) (1940)",
+    "artist": "Johnny McGee and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-13T20:32:35.8364013Z",
+    "duration_seconds": 146,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
