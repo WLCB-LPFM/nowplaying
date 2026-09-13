@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T16:21:44-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T16:22:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Still In Love With You",
+    "artist": "New Edition",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Edition_-_I'm_Still_In_Love_With_You.jpg",
+    "started_at": "2026-09-13T21:22:47Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
