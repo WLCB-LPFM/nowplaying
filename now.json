@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-13T06:37:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-13T06:39:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Tic Tac Toe (1940)",
-    "artist": "Johnny McGee and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-13T11:37:34.6259351Z",
-    "duration_seconds": 159,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
