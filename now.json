@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-13T14:15:50-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T14:16:03-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Wishing Well",
+    "artist": "The Good-Fellow; Harold Grant & his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-13T19:15:55.5195692Z",
+    "duration_seconds": 183,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
