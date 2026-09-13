@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T18:11:01-05:00",
-  "source": "autopost",
+  "generated": "2026-09-13T18:16:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Wait",
-    "artist": "Huffamoose",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Huffamoose_-_Wait.jpg",
-    "started_at": "2026-09-13T23:10:55Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
