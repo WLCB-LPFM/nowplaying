@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-13T15:30:06-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-13T15:32:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Grandma",
-    "artist": "The Ramblers; Susan Lee; Dawson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-13T20:30:04.5276884Z",
-    "duration_seconds": 151,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
