@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T19:05:50-05:00",
-  "source": "fallback",
+  "generated": "2026-09-12T19:06:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Stop the Rock",
+    "artist": "Freestyle",
+    "album": "Don't Stop the Rock (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Freestyle_-_Don't_Stop_The_Rock.jpg",
+    "started_at": "2026-09-13T00:06:43Z",
+    "duration_seconds": 293
+  },
   "next_poll_seconds": 10
 }
