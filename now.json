@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-13T15:48:49-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T15:49:35-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sleep Song",
+    "artist": "Glenn Miller and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-13T20:49:25.990517Z",
+    "duration_seconds": 184,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
