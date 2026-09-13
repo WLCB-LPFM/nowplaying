@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T21:44:11-05:00",
-  "source": "fallback",
+  "generated": "2026-09-12T21:44:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Here I Go Again",
+    "artist": "Force M.D.'s",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Force_M.d.'s_-_Here_I_Go_Again.jpg",
+    "started_at": "2026-09-13T02:44:28Z",
+    "duration_seconds": 390
+  },
   "next_poll_seconds": 10
 }
