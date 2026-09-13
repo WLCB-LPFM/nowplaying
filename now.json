@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-13T06:19:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-13T06:22:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "This is No Laughing Matter",
-    "artist": "Glenn Miller and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-13T11:19:22.8576076Z",
-    "duration_seconds": 187,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
