@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-13T07:40:25-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-13T07:43:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "This is No Laughing Matter",
-    "artist": "Anne Shelton",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-13T12:40:23.5397819Z",
-    "duration_seconds": 192,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
