@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T17:49:42-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T17:50:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Throw Some D's (feat. Polow Da Don)",
+    "artist": "Rich Boy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/r/Rich_Boy.jpg",
+    "started_at": "2026-09-13T22:49:55Z",
+    "duration_seconds": 264
+  },
   "next_poll_seconds": 10
 }
