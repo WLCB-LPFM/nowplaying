@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T20:18:47-05:00",
-  "source": "autopost",
+  "generated": "2026-09-12T20:22:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Need Love",
-    "artist": "LL COOL J",
-    "album": "Def Jam 25: DJ Bring That Back",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Ll_Cool_J_-_I_Need_Love.jpg",
-    "started_at": "2026-09-13T01:18:34Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
