@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T21:39:22-05:00",
-  "source": "autopost",
+  "generated": "2026-09-12T21:44:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "When Will I See You Smile Again?",
-    "artist": "Bell Biv DeVoe",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bell_Biv_Devoe_-_When_Will_I_See_You_Smile_Again?.jpg",
-    "started_at": "2026-09-13T02:39:07Z",
-    "duration_seconds": 319
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
