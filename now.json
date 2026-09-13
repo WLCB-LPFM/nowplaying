@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T17:23:54-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T17:27:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Be Without You (Kendu Mix)",
+    "artist": "Mary J. Blige",
+    "album": "Love Song Best 25",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mary_J._Blige_-_Be_Without_You_(Kendu_Mix).jpg",
+    "started_at": "2026-09-13T22:27:02Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
