@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-13T07:56:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-13T07:59:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Woodpecker Song (1940)",
-    "artist": "The Three Suns",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-13T12:56:46.8741403Z",
-    "duration_seconds": 193,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
