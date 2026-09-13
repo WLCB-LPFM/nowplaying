@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-13T07:34:45-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T07:35:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Would'ja For A Big Red Apple (1940)",
+    "artist": "Happy Felton and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-13T12:35:00.1949056Z",
+    "duration_seconds": 157,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
