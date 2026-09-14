@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-13T23:52:18-05:00",
-  "source": "autopost",
+  "generated": "2026-09-13T23:52:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "West End Blues",
-    "artist": "Louis Armstrong",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_West_End_Blues.jpg",
-    "started_at": "2026-09-14T04:49:30Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
