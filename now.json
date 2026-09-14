@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T19:50:38-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T19:52:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Sinful Love",
+    "artist": "Blue \u00d6yster Cult",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blue_\u00d6yster_Cult_-_Sinful_Love.jpg",
+    "started_at": "2026-09-14T00:52:17Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
