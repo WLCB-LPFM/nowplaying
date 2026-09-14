@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T17:31:22-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T17:33:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Fireflies",
-    "artist": "Noire",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Noire.jpg",
-    "started_at": "2026-09-14T22:30:50Z",
-    "duration_seconds": 147
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
