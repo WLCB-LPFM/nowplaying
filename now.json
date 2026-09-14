@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T19:17:52-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T19:18:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Everybody's Trying",
+    "artist": "Poi Dog Pondering",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Poi_Dog_Pondering_-_Everybody's_Trying.jpg",
+    "started_at": "2026-09-14T00:18:31Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
