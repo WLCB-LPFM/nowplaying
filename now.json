@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-14T18:09:06-05:00",
-  "source": "fallback",
+  "generated": "2026-09-14T18:09:30-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "It Wasn\u2019t Me",
+    "artist": "Shaggy \u29f8 Ricardo Ducent",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-14T23:09:18.2029887Z",
+    "duration_seconds": 215,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
