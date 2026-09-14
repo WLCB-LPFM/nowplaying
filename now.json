@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T19:55:41-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T19:56:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Woodcutter",
+    "artist": "Green Desert Water",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Green_Desert_Water_-_Woodcutter.jpg",
+    "started_at": "2026-09-14T00:56:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
