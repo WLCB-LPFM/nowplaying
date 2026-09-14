@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T20:31:34-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T20:33:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Bo Diddley Medley (Live In Detroit feat. 1975)",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bob_Seger_&_The_Silver_Bullet_Band.jpg",
+    "started_at": "2026-09-14T01:32:59Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
