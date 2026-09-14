@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-14T00:07:26-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T00:07:50-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "La vie en rose",
-    "artist": "Paris Jazz & Awa Ly",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Paris_Jazz_&_Awa_Ly.jpg",
-    "started_at": "2026-09-14T05:02:21Z",
-    "duration_seconds": 336
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
