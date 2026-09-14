@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T16:35:48-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T16:38:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Just Around the Corner",
-    "artist": "Beach Bunny",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beach_Bunny_-_Just_Around_The_Corner.jpg",
-    "started_at": "2026-09-14T21:35:38Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
