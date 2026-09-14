@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T17:45:54-05:00",
-  "source": "fallback",
+  "generated": "2026-09-14T17:55:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Grow - A COLORS ENCORE",
+    "artist": "FACESOUL",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Facesoul_-_Grow_-_A_Colors_Encore.jpg",
+    "started_at": "2026-09-14T22:55:28Z",
+    "duration_seconds": 207
+  },
   "next_poll_seconds": 10
 }
