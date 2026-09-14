@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T19:44:52-05:00",
-  "source": "autopost",
+  "generated": "2026-09-13T19:50:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Willie Dixon's Gone",
-    "artist": "Tom Hambridge",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Hambridge_-_Willie_Dixon's_Gone.jpg",
-    "started_at": "2026-09-14T00:44:45Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
