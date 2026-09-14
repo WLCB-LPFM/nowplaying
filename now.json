@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-13T23:27:47-05:00",
-  "source": "autopost",
+  "generated": "2026-09-13T23:28:10-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Mariage D'amour",
-    "artist": "Richard Clayderman",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Richard_Clayderman_-_Mariage_D'amour.jpg",
-    "started_at": "2026-09-14T04:25:35Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
