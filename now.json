@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T20:05:48-05:00",
-  "source": "fallback",
+  "generated": "2026-09-13T20:06:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "B-Side",
+    "artist": "Khruangbin & Leon Bridges",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Khruangbin_&_Leon_Bridges.jpg",
+    "started_at": "2026-09-14T01:06:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
