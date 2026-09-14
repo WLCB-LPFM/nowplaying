@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T20:02:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-13T20:05:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Humility (feat. George Benson)",
-    "artist": "Gorillaz",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gorillaz_-_Humility_(Feat._George_Benson).jpg",
-    "started_at": "2026-09-14T01:02:44Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
