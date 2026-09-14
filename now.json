@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T19:26:39-05:00",
-  "source": "autopost",
+  "generated": "2026-09-13T19:32:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Travelin' Light",
-    "artist": "Widespread Panic",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_Travelin'_Light.jpg",
-    "started_at": "2026-09-14T00:26:37Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
