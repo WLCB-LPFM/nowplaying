@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T20:39:02-05:00",
-  "source": "autopost",
+  "generated": "2026-09-13T20:45:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Golden Country",
-    "artist": "REO Speedwagon",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Reo_Speedwagon_-_Golden_Country.jpg",
-    "started_at": "2026-09-14T01:38:50Z",
-    "duration_seconds": 393
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
