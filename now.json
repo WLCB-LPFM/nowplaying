@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-14T04:20:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-14T04:22:18-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Evidence",
-    "artist": "Thelonius Monk Quartet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-09-14T09:20:03.2587504Z",
-    "duration_seconds": 147,
-    "year": "1997"
+    "artist": "Thelonious Monk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_Evidence.jpg",
+    "started_at": "2026-09-14T09:20:29Z",
+    "duration_seconds": 528
   },
   "next_poll_seconds": 10
 }
