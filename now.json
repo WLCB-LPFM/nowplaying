@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T23:55:09-05:00",
-  "source": "fallback",
+  "generated": "2026-09-14T23:55:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Floating",
+    "artist": "Eternell",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eternell_-_Floating.jpg",
+    "started_at": "2026-09-15T04:54:59Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
