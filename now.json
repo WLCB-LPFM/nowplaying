@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T21:53:33-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T21:58:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Nice Pants",
-    "artist": "Benny Green",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benny_Green_-_Nice_Pants.jpg",
-    "started_at": "2026-09-15T02:53:11Z",
-    "duration_seconds": 359
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
