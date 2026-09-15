@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-15T00:00:11-05:00",
+  "generated": "2026-09-15T00:00:34-05:00",
   "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "All Night Jazz",
-    "hosts": [],
-    "automated": true,
-    "starts": "00:00",
-    "ends": "06:00",
-    "genre": "Jazz"
-  },
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
   "track": {
     "title": "Stranded",
     "artist": "Tangier",
