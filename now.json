@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-14T19:10:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-14T19:13:12-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "...Baby One More Time",
-    "artist": "Britney Spears",
-    "album": "...Baby One More Time (Deluxe Version)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Britney_Spears_-_...baby_One_More_Time.jpg",
-    "started_at": "2026-09-15T00:10:00.680362Z",
-    "duration_seconds": 202,
-    "year": "2023"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
