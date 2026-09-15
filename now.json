@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-15T00:00:34-05:00",
-  "source": "autopost",
+  "generated": "2026-09-15T00:02:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Stranded",
-    "artist": "Tangier",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tangier_-_Stranded.jpg",
-    "started_at": "2026-09-15T04:56:38Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
