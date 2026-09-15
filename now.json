@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T22:40:57-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T22:43:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "No Time to Lose",
-    "artist": "Tarney feat. Spencer Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tarney_Feat._Spencer_Band.jpg",
-    "started_at": "2026-09-15T03:40:44Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
