@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-14T19:24:39-05:00",
-  "source": "fallback",
+  "generated": "2026-09-14T19:25:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Come On Over Baby (All I Want Is You)",
+    "artist": "Christina Aguilera",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-15T00:24:52.567739Z",
+    "duration_seconds": 194,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
