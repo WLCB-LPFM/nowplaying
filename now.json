@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T22:34:59-05:00",
-  "source": "fallback",
+  "generated": "2026-09-14T22:35:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Where Have All the Good Times Gone!",
+    "artist": "Van Halen",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Where_Have_All_The_Good_Times_Gone!.jpg",
+    "started_at": "2026-09-15T03:35:01Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
