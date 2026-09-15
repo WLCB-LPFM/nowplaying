@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T22:00:04-05:00",
-  "source": "fallback",
+  "generated": "2026-09-14T22:00:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Misty",
+    "artist": "Erroll Garner",
+    "album": "The Original Misty",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_Misty.jpg",
+    "started_at": "2026-09-15T03:00:04Z",
+    "duration_seconds": 144
+  },
   "next_poll_seconds": 10
 }
