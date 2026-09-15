@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T23:35:24-05:00",
-  "source": "fallback",
+  "generated": "2026-09-14T23:39:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Zombie",
+    "artist": "YUNGBLUD",
+    "album": "Idols",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yungblud_-_Zombie.jpg",
+    "started_at": "2026-09-15T04:39:38Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
