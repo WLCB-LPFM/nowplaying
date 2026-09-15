@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-15T15:55:37-05:00",
-  "source": "autopost",
+  "generated": "2026-09-15T15:58:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Dont You Want Me Baby",
-    "artist": "The Human League",
-    "album": "Dare",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Human_League.jpg",
-    "started_at": "2026-09-15T20:55:18Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
