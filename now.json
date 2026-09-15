@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T22:14:44-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T22:20:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Holiday",
-    "artist": "Nazareth",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nazareth_-_Holiday.jpg",
-    "started_at": "2026-09-15T03:14:37Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
