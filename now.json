@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T20:16:44-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T20:23:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Ahmad's Blues",
-    "artist": "Miles Davis Quintet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_Quintet_-_Ahmad's_Blues.jpg",
-    "started_at": "2026-09-15T01:16:42Z",
-    "duration_seconds": 449
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
