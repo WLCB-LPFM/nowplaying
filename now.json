@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T23:53:24-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T23:55:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Let It Ride",
-    "artist": "Bachman-Turner Overdrive",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bachman-turner_Overdrive_-_Let_It_Ride.jpg",
-    "started_at": "2026-09-15T04:53:17Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
