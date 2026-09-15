@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T22:31:38-05:00",
-  "source": "autopost",
+  "generated": "2026-09-14T22:34:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fool for the City (Single Version)",
-    "artist": "Foghat",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foghat_-_Fool_For_The_City_(Single_Version).jpg",
-    "started_at": "2026-09-15T03:31:35Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
