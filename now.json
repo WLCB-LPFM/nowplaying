@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-15T20:53:00-05:00",
-  "source": "autopost",
+  "generated": "2026-09-15T20:58:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Sugaree",
-    "artist": "Jerry Garcia",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jerry_Garcia_-_Sugaree.jpg",
-    "started_at": "2026-09-16T01:52:46Z",
-    "duration_seconds": 355
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
