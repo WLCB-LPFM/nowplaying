@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-16T00:07:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-16T00:12:44-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "The Man I Love",
-    "artist": "Coleman Hawkins Quartet",
-    "album": "The Smithsonian Collection of Classic Jazz",
-    "artwork_url": "",
-    "started_at": "2026-09-16T05:07:51.3867968Z",
-    "duration_seconds": 303,
-    "year": "1973"
+    "artist": "Coleman Hawkins",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Coleman_Hawkins_-_The_Man_I_Love.jpg",
+    "started_at": "2026-09-16T05:08:09Z",
+    "duration_seconds": 308
   },
   "next_poll_seconds": 10
 }
