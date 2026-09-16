@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-16T05:02:33-05:00",
-  "source": "fallback",
+  "generated": "2026-09-16T05:04:59-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Organ Grinder\u2019s Swing",
+    "artist": "Jimmie Lunceford and His Orchestra",
+    "album": "The Big Band Era",
+    "artwork_url": "",
+    "started_at": "2026-09-16T10:04:55.5751547Z",
+    "duration_seconds": 149,
+    "year": "1995"
+  },
   "next_poll_seconds": 10
 }
