@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-15T21:16:04-05:00",
-  "source": "autopost",
+  "generated": "2026-09-15T21:19:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Up On Cripple Creek",
-    "artist": "The Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Band_-_Up_On_Cripple_Creek.jpg",
-    "started_at": "2026-09-16T02:15:57Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
