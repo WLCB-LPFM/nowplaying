@@ -1,16 +1,17 @@
 {
-  "generated": "2026-09-16T04:37:20-05:00",
-  "source": "autopost",
+  "generated": "2026-09-16T04:37:54-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Blue Serge",
-    "artist": "Duke Ellington",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Blue_Serge.jpg",
-    "started_at": "2026-09-16T09:35:03Z",
-    "duration_seconds": 235
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Take Five, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-09-16T09:37:54.3776641Z",
+    "duration_seconds": 309,
+    "year": "1990"
   },
   "next_poll_seconds": 10
 }
