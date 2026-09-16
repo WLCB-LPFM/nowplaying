@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-16T12:41:46-05:00",
-  "source": "autopost",
+  "generated": "2026-09-16T12:47:24-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Gill Groove",
-    "artist": "Sir Newton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sir_Newton.jpg",
-    "started_at": "2026-09-16T17:41:34Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
