@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-16T01:49:15-05:00",
-  "source": "fallback",
+  "generated": "2026-09-16T01:49:28-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Dinah",
+    "artist": "Red Nichols And His Five Pennies",
+    "album": "A Jazz Holiday: The Early Benny Goodman 1926-1931",
+    "artwork_url": "",
+    "started_at": "2026-09-16T06:49:20.6309116Z",
+    "duration_seconds": 190,
+    "year": "1998"
+  },
   "next_poll_seconds": 10
 }
