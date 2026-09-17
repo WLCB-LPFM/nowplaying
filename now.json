@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-17T11:05:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-17T11:09:28-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Runnin' Down A Dream",
-    "artist": "Tom Petty & The Heartbreakers",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-17T16:05:24.2382841Z",
-    "duration_seconds": 256,
-    "year": "2009"
+    "title": "Runnin' Down a Dream",
+    "artist": "Tom Petty",
+    "album": "Full Moon Fever",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_-_Runnin'_Down_A_Dream.jpg",
+    "started_at": "2026-09-17T16:05:55Z",
+    "duration_seconds": 251
   },
   "next_poll_seconds": 10
 }
