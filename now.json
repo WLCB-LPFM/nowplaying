@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-16T21:25:23-05:00",
-  "source": "autopost",
+  "generated": "2026-09-16T21:31:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Pagan Poetry",
-    "artist": "Bj\u00f6rk",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bj\u00f6rk_-_Pagan_Poetry.jpg",
-    "started_at": "2026-09-17T02:25:19Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
