@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T17:50:23-05:00",
-  "source": "fallback",
+  "generated": "2026-09-17T17:54:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Wind of Change",
+    "artist": "Scorpions",
+    "album": "20th Century Masters - The Millennium Collection: The Best of Scorpions",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Scorpions_-_Wind_Of_Change.jpg",
+    "started_at": "2026-09-17T22:53:59Z",
+    "duration_seconds": 279
+  },
   "next_poll_seconds": 10
 }
