@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-16T21:44:56-05:00",
-  "source": "fallback",
+  "generated": "2026-09-16T21:47:10-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "L'Ange du Foyer",
+    "artist": "Walter Holland",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Walter_Holland_-_L'ange_Du_Foyer.jpg",
+    "started_at": "2026-09-17T02:46:58Z",
+    "duration_seconds": 672
+  },
   "next_poll_seconds": 10
 }
