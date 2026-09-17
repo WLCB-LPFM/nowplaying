@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T17:32:58-05:00",
-  "source": "autopost",
+  "generated": "2026-09-17T17:38:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Steve's Song",
-    "artist": "The Blues Project",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Blues_Project_-_Steve's_Song.jpg",
-    "started_at": "2026-09-17T22:32:53Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
