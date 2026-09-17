@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T17:01:18-05:00",
-  "source": "fallback",
+  "generated": "2026-09-17T17:02:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Send Me an Angel",
+    "artist": "Real Life",
+    "album": "Heartland",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Real_Life_-_Send_Me_An_Angel.jpg",
+    "started_at": "2026-09-17T22:02:37Z",
+    "duration_seconds": 233
+  },
   "next_poll_seconds": 10
 }
