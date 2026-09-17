@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-16T19:43:38-05:00",
-  "source": "fallback",
+  "generated": "2026-09-16T19:49:06-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Fight Song",
+    "artist": "Rachel Platten",
+    "album": "Wildfire",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rachel_Platten_-_Fight_Song.jpg",
+    "started_at": "2026-09-17T00:48:54Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
