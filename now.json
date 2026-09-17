@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-16T22:59:46-05:00",
-  "source": "fallback",
+  "generated": "2026-09-16T23:02:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When Lights Are Low",
+    "artist": "Lionel Hampton and His Orchestra",
+    "album": "The Chronological Classics: Lionel Hampton and His Orchestra 1939-1940",
+    "artwork_url": "",
+    "started_at": "2026-09-17T04:02:09.5724145Z",
+    "duration_seconds": 128,
+    "year": "1991"
+  },
   "next_poll_seconds": 10
 }
