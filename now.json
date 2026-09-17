@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-16T19:24:47-05:00",
-  "source": "autopost",
+  "generated": "2026-09-16T19:29:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It's All Coming Back to Me Now (feat. Marion Raven)",
-    "artist": "Meat Loaf",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Meat_Loaf_-_It's_All_Coming_Back_To_Me_Now_(Feat._Marion_Raven).jpg",
-    "started_at": "2026-09-17T00:24:34Z",
-    "duration_seconds": 300
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
