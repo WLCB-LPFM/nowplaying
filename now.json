@@ -1,19 +1,9 @@
 {
-  "generated": "2026-09-16T21:56:52-05:00",
+  "generated": "2026-09-16T22:00:02-05:00",
   "source": "autopost",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The Mix",
-    "hosts": [
-      "Tony Young",
-      "Carolyn Carmody"
-    ],
-    "automated": false,
-    "starts": "19:00",
-    "ends": "22:00",
-    "genre": "Variety"
-  },
+  "show": null,
   "track": {
     "title": "Don\u2019t Worry I\u2019ll Make You Worry",
     "artist": "Sabrina Carpenter",
