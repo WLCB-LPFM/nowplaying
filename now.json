@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T17:26:25-05:00",
-  "source": "autopost",
+  "generated": "2026-09-17T17:30:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Forever Autumn",
-    "artist": "Justin Hayward",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Justin_Hayward_-_Forever_Autumn.jpg",
-    "started_at": "2026-09-17T22:26:13Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
