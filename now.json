@@ -1,9 +1,19 @@
 {
-  "generated": "2026-09-16T18:56:49-05:00",
+  "generated": "2026-09-16T19:00:01-05:00",
   "source": "autopost",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The Mix",
+    "hosts": [
+      "Tony Young",
+      "Carolyn Carmody"
+    ],
+    "automated": false,
+    "starts": "19:00",
+    "ends": "22:00",
+    "genre": "Variety"
+  },
   "track": {
     "title": "Here We Go, Let's Rock & Roll (feat. Freedom Williams & Zelma Davis)",
     "artist": "C+C Music Factory",
