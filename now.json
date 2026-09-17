@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T17:14:18-05:00",
-  "source": "fallback",
+  "generated": "2026-09-17T17:16:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Everywhere I Go",
+    "artist": "The Call",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Call_-_Everywhere_I_Go.jpg",
+    "started_at": "2026-09-17T22:16:22Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
