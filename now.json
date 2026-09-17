@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T17:05:21-05:00",
-  "source": "autopost",
+  "generated": "2026-09-17T17:09:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "You Don't Know",
-    "artist": "Berlin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Berlin_-_You_Don't_Know.jpg",
-    "started_at": "2026-09-17T22:05:11Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
