@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-16T21:41:34-05:00",
-  "source": "autopost",
+  "generated": "2026-09-16T21:44:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "We Are Young (feat. Janelle Mon\u00e1e)",
-    "artist": "Fun.",
-    "album": "Some Nights",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fun._-_We_Are_Young_(Feat._Janelle_Mon\u00e1e).jpg",
-    "started_at": "2026-09-17T02:41:28Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
