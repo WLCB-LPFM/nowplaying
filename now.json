@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-17T12:23:22-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-17T12:25:49-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Black Or White",
-    "artist": "Michael Jackson",
-    "album": "The Essential Michael Jackson",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Black_Or_White.jpg",
-    "started_at": "2026-09-17T17:22:42.1661458Z",
-    "duration_seconds": 191,
-    "year": "1991"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
