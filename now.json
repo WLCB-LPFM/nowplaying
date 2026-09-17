@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T17:11:28-05:00",
-  "source": "autopost",
+  "generated": "2026-09-17T17:14:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Go Back",
-    "artist": "Crabby Appleton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Crabby_Appleton_-_Go_Back.jpg",
-    "started_at": "2026-09-17T22:11:19Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
