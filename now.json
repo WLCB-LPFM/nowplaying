@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-18T03:07:23-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T03:08:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Nature Boy",
+    "artist": "Rony Verbiest",
+    "album": "The Best Jazz Audiophile Recommended, Volume 4",
+    "artwork_url": "",
+    "started_at": "2026-09-18T08:08:12.1931517Z",
+    "duration_seconds": 282,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
