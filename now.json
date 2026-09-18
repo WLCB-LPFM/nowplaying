@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-17T23:12:17-05:00",
-  "source": "fallback",
+  "generated": "2026-09-17T23:12:41-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Body And Soul",
+    "artist": "Coleman Hawkins And His Orchestra",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
+    "artwork_url": "",
+    "started_at": "2026-09-18T04:12:30.3368585Z",
+    "duration_seconds": 177,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
