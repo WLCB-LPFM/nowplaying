@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T14:14:13-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T14:33:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Start Your Engines",
+    "artist": "Colin Hennerz",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Colin_Hennerz.jpg",
+    "started_at": "2026-09-18T19:33:33Z",
+    "duration_seconds": 270
+  },
   "next_poll_seconds": 10
 }
