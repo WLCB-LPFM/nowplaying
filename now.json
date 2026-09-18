@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T18:36:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T18:40:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Pusherman",
-    "artist": "Curtis Mayfield",
-    "album": "Crooklyn",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Curtis_Mayfield_-_Pusherman.jpg",
-    "started_at": "2026-09-18T23:35:55Z",
-    "duration_seconds": 304
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
