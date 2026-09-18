@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-18T02:30:08-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-18T02:34:39-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blame It on My Youth",
-    "artist": "Sidsel Storm",
-    "album": "Sidsel Storm",
-    "artwork_url": "",
-    "started_at": "2026-09-18T07:30:04.2345281Z",
-    "duration_seconds": 288,
-    "year": "2008"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
