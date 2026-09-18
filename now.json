@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T16:37:42-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T16:42:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Good Lovin'",
-    "artist": "Grateful Dead",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grateful_Dead_-_Good_Lovin'.jpg",
-    "started_at": "2026-09-18T21:37:37Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
