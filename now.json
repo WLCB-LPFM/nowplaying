@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T21:37:59-05:00",
-  "source": "autopost",
+  "generated": "2026-09-17T21:40:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Send Her My Love",
-    "artist": "Journey",
-    "album": "Greatest Hits (2024 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Send_Her_My_Love.jpg",
-    "started_at": "2026-09-18T02:37:50Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
