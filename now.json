@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-17T23:17:58-05:00",
-  "source": "fallback",
+  "generated": "2026-09-17T23:18:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ballad for Trane",
+    "artist": "George Garzone",
+    "album": "One Two Three Four",
+    "artwork_url": "",
+    "started_at": "2026-09-18T04:18:03.1485087Z",
+    "duration_seconds": 267,
+    "year": "2006"
+  },
   "next_poll_seconds": 10
 }
