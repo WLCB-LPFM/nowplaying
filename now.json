@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T17:18:13-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T17:18:37-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Green_Day_-_Boulevard_Of_Broken_Dreams.jpg",
+    "started_at": "2026-09-18T22:18:23Z",
+    "duration_seconds": 261
+  },
   "next_poll_seconds": 10
 }
