@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T15:54:44-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T15:55:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Tell Mama",
+    "artist": "Savoy Brown",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Savoy_Brown_-_Tell_Mama.jpg",
+    "started_at": "2026-09-18T20:55:05Z",
+    "duration_seconds": 276
+  },
   "next_poll_seconds": 10
 }
