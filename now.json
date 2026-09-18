@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T13:10:30-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T13:16:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "My Way Down",
-    "artist": "Chris Duarte",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Duarte_-_My_Way_Down.jpg",
-    "started_at": "2026-09-18T18:10:25Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
