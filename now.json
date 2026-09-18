@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T17:14:51-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T17:18:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "(Don't Fear) The Reaper",
-    "artist": "Blue \u00d6yster Cult",
-    "album": "Don't Fear the Reaper: The Best of Blue \u00d6yster Cult",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blue_\u00d6yster_Cult_-_(Don't_Fear)_The_Reaper.jpg",
-    "started_at": "2026-09-18T22:14:46Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
