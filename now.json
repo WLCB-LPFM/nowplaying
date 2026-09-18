@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T13:24:22-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T13:29:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Blues In My DNA",
-    "artist": "Ronnie Baker Brooks",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ronnie_Baker_Brooks_-_Blues_In_My_Dna.jpg",
-    "started_at": "2026-09-18T18:24:09Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
