@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T16:12:44-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T16:16:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Rock and Roll, Hoochie Koo",
-    "artist": "Rick Derringer",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_Derringer_-_Rock_And_Roll,_Hoochie_Koo.jpg",
-    "started_at": "2026-09-18T21:12:37Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
