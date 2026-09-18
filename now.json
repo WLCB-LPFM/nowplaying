@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T12:58:27-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T12:59:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Sneakin' Out the Front Door",
+    "artist": "Chris Standring",
+    "album": "Don't Talk, Dance!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Standring_-_Sneakin'_Out_The_Front_Door.jpg",
+    "started_at": "2026-09-18T17:59:23Z",
+    "duration_seconds": 235
+  },
   "next_poll_seconds": 10
 }
