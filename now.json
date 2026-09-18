@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T14:07:28-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T14:14:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "One Way Street",
-    "artist": "Aerosmith",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_One_Way_Street.jpg",
-    "started_at": "2026-09-18T19:07:17Z",
-    "duration_seconds": 423
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
