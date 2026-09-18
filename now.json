@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T16:42:23-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T16:49:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "After Midnight",
+    "artist": "Merl Saunders & Jerry Garcia",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-18T21:48:47Z",
+    "duration_seconds": 469
+  },
   "next_poll_seconds": 10
 }
