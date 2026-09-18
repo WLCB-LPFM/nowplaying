@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T15:30:58-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T15:37:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I Should Have Never Started Lovin' You",
-    "artist": "The Marshall Tucker Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Marshall_Tucker_Band_-_I_Should_Have_Never_Started_Lovin'_You.jpg",
-    "started_at": "2026-09-18T20:30:54Z",
-    "duration_seconds": 428
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
