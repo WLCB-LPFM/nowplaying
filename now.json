@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-18T02:49:19-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T02:49:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Your Smiling Face",
+    "artist": "Christina Gustafsson",
+    "album": "My Move",
+    "artwork_url": "",
+    "started_at": "2026-09-18T07:49:29.8290021Z",
+    "duration_seconds": 180,
+    "year": "2009"
+  },
   "next_poll_seconds": 10
 }
