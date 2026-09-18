@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T12:06:27-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T12:06:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Should've Never Gotten Out Of Bed",
+    "artist": "Selwyn Birchwood",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Selwyn_Birchwood_-_Should've_Never_Gotten_Out_Of_Bed.jpg",
+    "started_at": "2026-09-18T17:05:55Z",
+    "duration_seconds": 222
+  },
   "next_poll_seconds": 10
 }
