@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T16:16:07-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T16:20:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Saturday Night Special (Live At The Fox Theater feat. 1976)",
+    "artist": "Lynyrd Skynyrd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lynyrd_Skynyrd.jpg",
+    "started_at": "2026-09-18T21:20:17Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
