@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T17:53:08-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T17:56:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Black Magic Woman",
-    "artist": "Santana",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_Black_Magic_Woman.jpg",
-    "started_at": "2026-09-18T22:53:02Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
