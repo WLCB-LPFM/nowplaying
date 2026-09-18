@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T16:31:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T16:32:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Eyes of the World",
+    "artist": "Grateful Dead",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grateful_Dead_-_Eyes_Of_The_World.jpg",
+    "started_at": "2026-09-18T21:32:43Z",
+    "duration_seconds": 319
+  },
   "next_poll_seconds": 10
 }
