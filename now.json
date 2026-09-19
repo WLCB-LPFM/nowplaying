@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T20:03:01-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T20:06:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "When the Levee Breaks",
-    "artist": "Led Zeppelin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_When_The_Levee_Breaks.jpg",
-    "started_at": "2026-09-19T01:02:54Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
