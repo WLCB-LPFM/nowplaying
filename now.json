@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-19T14:11:56-05:00",
-  "source": "fallback",
+  "generated": "2026-09-19T14:12:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "Michael Jackson 707 songs Remixes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Billie_Jean.jpg",
+    "started_at": "2026-09-19T19:12:08.6468756Z",
+    "duration_seconds": 287,
+    "year": "1983"
+  },
   "next_poll_seconds": 10
 }
