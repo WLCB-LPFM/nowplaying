@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T19:37:45-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T19:41:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Love Removal Machine",
-    "artist": "The Cult",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cult_-_Love_Removal_Machine.jpg",
-    "started_at": "2026-09-19T00:37:34Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
