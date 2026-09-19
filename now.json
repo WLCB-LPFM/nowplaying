@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T19:05:55-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T19:08:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Natural Blues",
-    "artist": "Moby",
-    "album": "Go - The Very Best of Moby",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Moby_-_Natural_Blues.jpg",
-    "started_at": "2026-09-19T00:05:46Z",
-    "duration_seconds": 161
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
