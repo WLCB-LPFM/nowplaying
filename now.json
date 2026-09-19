@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T11:27:34-05:00",
-  "source": "fallback",
+  "generated": "2026-09-19T11:27:57-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Shoot 'Em Up Movies",
+    "artist": "The Deele",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Deele_-_Shoot_'em_Up_Movies.jpg",
+    "started_at": "2026-09-19T16:27:47Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
