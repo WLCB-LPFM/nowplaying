@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-19T02:02:21-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-19T02:07:22-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Over the Rainbow",
-    "artist": "Carsten Dahl",
-    "album": "Solo Piano",
-    "artwork_url": "",
-    "started_at": "2026-09-19T07:02:11.2855279Z",
-    "duration_seconds": 323,
-    "year": "2003"
+    "title": "Rock Me",
+    "artist": "Great White",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Great_White_-_Rock_Me.jpg",
+    "started_at": "2026-09-19T07:02:02Z",
+    "duration_seconds": 438
   },
   "next_poll_seconds": 10
 }
