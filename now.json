@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T19:48:47-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T19:49:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Starfish and Coffee",
+    "artist": "Prince",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_Starfish_And_Coffee.jpg",
+    "started_at": "2026-09-19T00:48:58Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
