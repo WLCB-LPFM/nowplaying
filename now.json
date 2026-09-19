@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T20:53:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-18T20:53:44-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Day Or Night",
+    "artist": "Little Feat",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Feat_-_Day_Or_Night.jpg",
+    "started_at": "2026-09-19T01:53:32Z",
+    "duration_seconds": 384
+  },
   "next_poll_seconds": 10
 }
