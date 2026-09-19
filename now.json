@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-19T13:55:45-05:00",
-  "source": "fallback",
+  "generated": "2026-09-19T14:02:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Magic Number",
+    "artist": "De La Soul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-19T19:02:12.6302293Z",
+    "duration_seconds": 192,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
