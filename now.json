@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T19:23:11-05:00",
-  "source": "autopost",
+  "generated": "2026-09-18T19:28:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "All Time Low",
-    "artist": "Widespread Panic",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Widespread_Panic_-_All_Time_Low.jpg",
-    "started_at": "2026-09-19T00:22:59Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
