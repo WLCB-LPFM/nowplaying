@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T20:57:18-05:00",
-  "source": "autopost",
+  "generated": "2026-09-19T21:00:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Letter 2 My Unborn",
-    "artist": "2Pac",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/2/2pac_-_Letter_2_My_Unborn.jpg",
-    "started_at": "2026-09-20T01:56:43Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
