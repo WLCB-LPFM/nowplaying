@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-20T07:32:34-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T07:32:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Joe Rines - Budweiser (1940)",
+    "artist": "Joe Rines with Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-20T12:32:46.5649795Z",
+    "duration_seconds": 164,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
