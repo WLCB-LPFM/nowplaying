@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T22:52:04-05:00",
-  "source": "fallback",
+  "generated": "2026-09-19T22:53:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "These Foolish Things",
+    "artist": "Art Pepper",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Art_Pepper_-_These_Foolish_Things.jpg",
+    "started_at": "2026-09-20T03:53:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
