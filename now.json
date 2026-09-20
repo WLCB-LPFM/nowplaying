@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-20T15:57:12-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T15:57:25-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Lords of the Air (1940)",
+    "artist": "The Organ, The Dance Band & Me",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-20T20:57:24.0171912Z",
+    "duration_seconds": 175,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
