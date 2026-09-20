@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T22:12:18-05:00",
-  "source": "fallback",
+  "generated": "2026-09-19T22:16:35-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "\u4eba\u5fc3\u4f24\u4e86\u53ea\u6709\u75bc (\u4f34\u594f\u7248)",
+    "artist": "Yanyan Qiao",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-20T03:16:22Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
