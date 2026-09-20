@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T21:37:10-05:00",
-  "source": "autopost",
+  "generated": "2026-09-19T21:40:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Run to You",
-    "artist": "Whitney Houston",
-    "album": "The Bodyguard (Original Soundtrack Album)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitney_Houston_-_Run_To_You.jpg",
-    "started_at": "2026-09-20T02:37:02Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
