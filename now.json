@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T17:55:46-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T17:59:51-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Love's Train",
-    "artist": "Con Funk Shun",
-    "album": "To The Max (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Con_Funk_Shun_-_Love's_Train.jpg",
-    "started_at": "2026-09-20T22:55:38Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
