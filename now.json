@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-20T14:10:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-20T14:12:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Concerto for Trumpet",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-20T19:10:12.9388327Z",
-    "duration_seconds": 167,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
