@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-19T23:00:05-05:00",
-  "source": "autopost",
+  "generated": "2026-09-19T23:02:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Elise (Alle Farben Remix)",
-    "artist": "Drauf & Dran",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Drauf_&_Dran.jpg",
-    "started_at": "2026-09-20T03:59:15Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
