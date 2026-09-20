@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T20:33:30-05:00",
-  "source": "autopost",
+  "generated": "2026-09-19T20:36:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Paper Planes",
-    "artist": "M.I.A.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/M.i.a._-_Paper_Planes.jpg",
-    "started_at": "2026-09-20T01:33:20Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
