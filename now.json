@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T16:26:17-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T16:26:30-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Tender Love",
+    "artist": "Force M.D.'s",
+    "album": "Let Me Love You: The Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Force_M.d.'s_-_Tender_Love.jpg",
+    "started_at": "2026-09-20T21:26:21Z",
+    "duration_seconds": 209
+  },
   "next_poll_seconds": 10
 }
