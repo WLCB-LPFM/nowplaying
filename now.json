@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T18:42:50-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T18:44:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Cadillac Walk",
+    "artist": "Boz Scaggs",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boz_Scaggs_-_Cadillac_Walk.jpg",
+    "started_at": "2026-09-20T23:44:33Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
