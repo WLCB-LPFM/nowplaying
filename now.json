@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T16:08:25-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T16:17:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "It Never Rains (In Southern California)",
+    "artist": "Tony! Toni! Ton\u00e9!",
+    "album": "The Revival",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony!_Toni!_Ton\u00e9!_-_It_Never_Rains_(In_Southern_California).jpg",
+    "started_at": "2026-09-20T21:16:56Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
