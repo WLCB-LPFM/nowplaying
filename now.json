@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-20T06:57:57-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T06:58:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tap the Barrel Dry",
+    "artist": "REN\u00c9 MUSETTE ORCHESTRA",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-20T11:58:10.0989894Z",
+    "duration_seconds": 162,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
