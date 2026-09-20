@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T09:36:24-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T09:42:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Cow Cow Boogie (feat. The Ink Spots)",
-    "artist": "Ella Fitzgerald",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ella_Fitzgerald_-_Cow_Cow_Boogie_(Feat._The_Ink_Spots).jpg",
-    "started_at": "2026-09-20T14:36:13Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
