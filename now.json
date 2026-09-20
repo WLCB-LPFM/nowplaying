@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T22:36:41-05:00",
-  "source": "fallback",
+  "generated": "2026-09-19T22:40:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "What A Difference A Day Made",
+    "artist": "Dinah Washington",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dinah_Washington_-_What_A_Difference_A_Day_Made.jpg",
+    "started_at": "2026-09-20T03:40:40Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
