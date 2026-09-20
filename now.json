@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-20T06:26:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T06:26:43-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Hope They Draft Me Soon (1940)",
+    "artist": "Benny Bell",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-20T11:26:34.3166271Z",
+    "duration_seconds": 151,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
