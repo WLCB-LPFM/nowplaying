@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T18:17:44-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T18:23:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Dog In the Yard",
-    "artist": "Jamey Johnson",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/792bb288c55a64d2ae5a85f86f2b87a7.png",
-    "started_at": "2026-09-20T23:17:30Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
