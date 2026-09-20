@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-20T15:37:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-20T15:40:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Riverboat Shuffle",
-    "artist": "Muggsy Spanier and his Ragtime Band",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-20T20:37:40.9708467Z",
-    "duration_seconds": 160,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
