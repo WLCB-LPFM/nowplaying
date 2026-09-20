@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-20T14:43:24-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T14:43:37-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Be Careful, It's My Heart",
+    "artist": "Mal Hallett and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-20T19:43:34.2912465Z",
+    "duration_seconds": 187,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
