@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-20T06:36:07-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T06:36:30-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mrs. Worthington (Don't Put Your Daughter on the Stage) (1940)",
+    "artist": "Happy Felton and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-20T11:36:20.205012Z",
+    "duration_seconds": 139,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
