@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-20T15:43:26-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-20T15:46:15-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Humpty Dumpty Heart",
-    "artist": "Glenn Miller and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-20T20:43:16.9743106Z",
-    "duration_seconds": 192,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
