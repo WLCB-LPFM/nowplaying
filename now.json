@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T21:20:16-05:00",
-  "source": "autopost",
+  "generated": "2026-09-19T21:25:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Big Riders (feat. Shawty Lo)",
-    "artist": "Paper Chase",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Paper_Chase.jpg",
-    "started_at": "2026-09-20T02:20:00Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
