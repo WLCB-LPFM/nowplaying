@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T21:37:35-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T21:38:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Fanfare for the Common Man",
+    "artist": "Emerson, Lake & Palmer",
+    "album": "The Anthology (Special Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Emerson,_Lake_&_Palmer_-_Fanfare_For_The_Common_Man.jpg",
+    "started_at": "2026-09-21T02:38:17Z",
+    "duration_seconds": 179
+  },
   "next_poll_seconds": 10
 }
