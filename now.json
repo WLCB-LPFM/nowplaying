@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T19:04:01-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T19:09:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It's All The Same",
-    "artist": "Spirit",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spirit_-_It's_All_The_Same.jpg",
-    "started_at": "2026-09-21T00:03:50Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
