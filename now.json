@@ -1,17 +1,25 @@
 {
-  "generated": "2026-09-21T06:59:21-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-09-21T07:00:07-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
     "title": "Kokomo",
     "artist": "The Beach Boys",
     "album": "The Very Best of The Beach Boys: Sounds of Summer",
     "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beach_Boys_-_Kokomo.jpg",
-    "started_at": "2026-09-21T11:58:47.9869112Z",
-    "duration_seconds": 207,
-    "year": "1988"
+    "started_at": "2026-09-21T11:59:16Z",
+    "duration_seconds": 186
   },
   "next_poll_seconds": 10
 }
