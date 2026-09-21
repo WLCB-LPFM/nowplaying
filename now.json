@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T21:47:48-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T21:50:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Floyd's Hotel",
-    "artist": "The J. Geils Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_J._Geils_Band_-_Floyd's_Hotel.jpg",
-    "started_at": "2026-09-21T02:47:34Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
