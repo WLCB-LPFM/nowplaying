@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-20T23:42:58-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T23:43:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "These Foolish Things",
+    "artist": "Billie Holiday",
+    "album": "Blue Moon",
+    "artwork_url": "",
+    "started_at": "2026-09-21T04:43:03.3011278Z",
+    "duration_seconds": 207,
+    "year": "2003"
+  },
   "next_poll_seconds": 10
 }
