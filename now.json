@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T21:56:24-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T22:00:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I'm Lonely (But I Ain't That Lonely Yet)",
-    "artist": "The White Stripes",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_White_Stripes_-_I'm_Lonely_(But_I_Ain't_That_Lonely_Yet).jpg",
-    "started_at": "2026-09-21T02:56:15Z",
-    "duration_seconds": 260
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
