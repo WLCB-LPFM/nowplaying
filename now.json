@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T21:22:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T21:26:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Left Of Center",
-    "artist": "Suzanne Vega",
-    "album": "Pretty In Pink (Original Motion Picture Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Suzanne_Vega_-_Left_Of_Center.jpg",
-    "started_at": "2026-09-21T02:22:42Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
