@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T21:09:46-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T21:11:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Just Jammin'",
+    "artist": "Gramatik",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gramatik_-_Just_Jammin'.jpg",
+    "started_at": "2026-09-21T02:11:00Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
