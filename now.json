@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T20:37:40-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T20:38:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Rigor Mortis Radio",
+    "artist": "The Hives",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Hives_-_Rigor_Mortis_Radio.jpg",
+    "started_at": "2026-09-21T01:38:18Z",
+    "duration_seconds": 149
+  },
   "next_poll_seconds": 10
 }
