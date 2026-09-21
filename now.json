@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T20:46:51-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T20:50:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Good Times  feat.  feat.  End Times",
-    "artist": "Goose",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Goose.jpg",
-    "started_at": "2026-09-21T01:46:38Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
