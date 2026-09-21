@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-21T00:40:13-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-21T00:43:01-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Klactoveedsedstene",
-    "artist": "Charlie Parker Quintet",
-    "album": "The Absolutely Essential 3 CD Collection",
-    "artwork_url": "",
-    "started_at": "2026-09-21T05:40:06.059027Z",
-    "duration_seconds": 180,
-    "year": "2018"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
