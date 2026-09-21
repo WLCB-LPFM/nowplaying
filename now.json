@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T21:18:20-05:00",
-  "source": "autopost",
+  "generated": "2026-09-20T21:22:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Bloody Well Right",
-    "artist": "Supertramp",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Supertramp_-_Bloody_Well_Right.jpg",
-    "started_at": "2026-09-21T02:18:12Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
