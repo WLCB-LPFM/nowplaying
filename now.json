@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T21:26:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-20T21:26:57-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Fire In The Hole",
+    "artist": "Steely Dan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_Fire_In_The_Hole.jpg",
+    "started_at": "2026-09-21T02:26:53Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
