@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-21T06:24:16-05:00",
-  "source": "fallback",
+  "generated": "2026-09-21T06:24:29-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Power Of Love",
+    "artist": "Huey Lewis And The News",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-21T11:24:19.6300139Z",
+    "duration_seconds": 221,
+    "year": "1985"
+  },
   "next_poll_seconds": 10
 }
