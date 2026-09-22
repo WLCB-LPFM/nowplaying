@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T08:14:05-05:00",
-  "source": "fallback",
+  "generated": "2026-09-22T08:15:48-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Father Figure",
+    "artist": "George Michael",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Michael_-_Father_Figure.jpg",
+    "started_at": "2026-09-22T13:15:35Z",
+    "duration_seconds": 340
+  },
   "next_poll_seconds": 10
 }
