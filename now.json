@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-21T21:50:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-21T21:55:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Our Love Is Here To Stay",
-    "artist": "Billie Holiday",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billie_Holiday_-_Our_Love_Is_Here_To_Stay.jpg",
-    "started_at": "2026-09-22T02:49:59Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
