@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-22T11:38:16-05:00",
-  "source": "fallback",
+  "generated": "2026-09-22T11:38:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Yeah!",
+    "artist": "Usher feat. Lil Jon, Ludacris",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-22T16:38:30.4469155Z",
+    "duration_seconds": 248,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
