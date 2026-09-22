@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-21T20:47:45-05:00",
-  "source": "fallback",
+  "generated": "2026-09-21T20:55:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Preludes for Piano (1926)",
+    "artist": "Michael Tilson Thomas",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Tilson_Thomas.jpg",
+    "started_at": "2026-09-22T01:54:57Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
