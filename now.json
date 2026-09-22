@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-21T22:17:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-21T22:22:49-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Soldier (Luke Bond Remix)",
-    "artist": "Gareth Emery & Roxanne Emery",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-09-22T03:17:00Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
