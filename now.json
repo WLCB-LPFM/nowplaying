@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-21T20:46:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-21T20:47:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "They Can't Take That Away from Me",
-    "artist": "Frank Sinatra",
-    "album": "Classic Sinatra: His Great Performances 1953-1960",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Sinatra_-_They_Can't_Take_That_Away_From_Me.jpg",
-    "started_at": "2026-09-22T01:46:04Z",
-    "duration_seconds": 112
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
