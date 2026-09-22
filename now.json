@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-22T12:17:55-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-22T12:21:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Uptown Funk",
-    "artist": "Mark Ronson ft. Bruno Mars",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-22T17:17:50.9262285Z",
-    "duration_seconds": 231,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
