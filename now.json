@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-21T21:11:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-21T21:16:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Bess, You Is My Woman Now",
-    "artist": "Miles Davis",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Bess,_You_Is_My_Woman_Now.jpg",
-    "started_at": "2026-09-22T02:11:05Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
