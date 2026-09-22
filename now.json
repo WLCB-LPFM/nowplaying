@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T15:33:06-05:00",
-  "source": "fallback",
+  "generated": "2026-09-22T15:33:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Another Night",
+    "artist": "Real McCoy",
+    "album": "Platinum & Gold Collection: Real McCoy",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Real_Mccoy_-_Another_Night.jpg",
+    "started_at": "2026-09-22T20:33:34Z",
+    "duration_seconds": 415
+  },
   "next_poll_seconds": 10
 }
