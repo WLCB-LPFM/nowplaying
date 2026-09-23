@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-23T15:28:35-05:00",
-  "source": "fallback",
+  "generated": "2026-09-23T15:30:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Urgent",
+    "artist": "Foreigner",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-23T20:30:07.6020813Z",
+    "duration_seconds": 261,
+    "year": "2014"
+  },
   "next_poll_seconds": 10
 }
