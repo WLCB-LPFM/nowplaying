@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T20:18:43-05:00",
-  "source": "fallback",
+  "generated": "2026-09-22T20:19:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Digital Man",
+    "artist": "Rush",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rush_-_Digital_Man.jpg",
+    "started_at": "2026-09-23T01:19:02Z",
+    "duration_seconds": 385
+  },
   "next_poll_seconds": 10
 }
