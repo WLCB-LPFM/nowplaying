@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-23T03:57:26-05:00",
-  "source": "fallback",
+  "generated": "2026-09-23T03:57:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Dinah",
+    "artist": "Quintette du Hot Club de France",
+    "album": "Django Reinhardt on Vogue \u2013 Complete Edition (1934\u20131951)",
+    "artwork_url": "",
+    "started_at": "2026-09-23T08:57:30.516867Z",
+    "duration_seconds": 149,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
