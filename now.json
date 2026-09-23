@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-23T02:39:02-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-23T02:43:52-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Deep Ground",
-    "artist": "Marilyn Mazur",
-    "album": "Daylight Stories",
-    "artwork_url": "",
-    "started_at": "2026-09-23T07:38:52.562398Z",
-    "duration_seconds": 310,
-    "year": "2004"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
