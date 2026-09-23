@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T20:41:30-05:00",
-  "source": "fallback",
+  "generated": "2026-09-22T20:46:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Sadali (feat. D Voice & Malume)",
+    "artist": "Goodmaster255",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-23T01:46:44Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
