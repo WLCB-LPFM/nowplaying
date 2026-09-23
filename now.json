@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-23T03:07:37-05:00",
-  "source": "fallback",
+  "generated": "2026-09-23T03:08:23-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Of Smiles Remembered",
+    "artist": "Nadja Stoller Group",
+    "album": "The Best Jazz Audiophile Recommended, Volume 3",
+    "artwork_url": "",
+    "started_at": "2026-09-23T08:08:14.794416Z",
+    "duration_seconds": 200,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
