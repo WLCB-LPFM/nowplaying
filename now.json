@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-23T00:16:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-23T00:18:42-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Weather Bird",
-    "artist": "Louis Armstrong And Earl Hines",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-09-23T05:16:12.0112254Z",
-    "duration_seconds": 159,
-    "year": "1997"
+    "artist": "Louis Armstrong & Earl 'Fatha' Hines",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Louis_Armstrong_&_Earl_'fatha'_Hines.jpg",
+    "started_at": "2026-09-23T05:16:19Z",
+    "duration_seconds": 165
   },
   "next_poll_seconds": 10
 }
