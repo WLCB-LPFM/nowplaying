@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-23T16:58:44-05:00",
-  "source": "fallback",
+  "generated": "2026-09-23T17:01:34-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Need Never Get Old",
+    "artist": "Nathaniel Rateliff & The Night Sweats",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nathaniel_Rateliff_&_The_Night_Sweats_-_I_Need_Never_Get_Old.jpg",
+    "started_at": "2026-09-23T22:01:27Z",
+    "duration_seconds": 254
+  },
   "next_poll_seconds": 10
 }
