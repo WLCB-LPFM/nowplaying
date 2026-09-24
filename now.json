@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-24T13:23:49-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T13:24:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Photograph",
+    "artist": "Def Leppard",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-24T18:23:57.9160322Z",
+    "duration_seconds": 243,
+    "year": "2016"
+  },
   "next_poll_seconds": 10
 }
