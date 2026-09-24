@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T17:22:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T17:23:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Bend Me, Shape Me",
-    "artist": "The American Breed",
-    "album": "Wild Rockers - 24 Smash Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_American_Breed_-_Bend_Me,_Shape_Me.jpg",
-    "started_at": "2026-09-24T22:21:56Z",
-    "duration_seconds": 131
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
