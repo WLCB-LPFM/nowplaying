@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-24T03:10:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-24T03:11:39-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Maple Leaf Rag",
-    "artist": "Scott Joplin",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-09-24T08:08:36.4811152Z",
-    "duration_seconds": 192,
-    "year": "1997"
+    "title": "The Girl From Ipanema",
+    "artist": "Stan Getz & Astrud Gilberto",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stan_Getz_&_Astrud_Gilberto_-_The_Girl_From_Ipanema.jpg",
+    "started_at": "2026-09-24T08:10:49Z",
+    "duration_seconds": 194
   },
   "next_poll_seconds": 10
 }
