@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-23T19:03:28-05:00",
-  "source": "autopost",
+  "generated": "2026-09-23T19:06:40-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Doctorin' The Tardis",
-    "artist": "The Timelords (The Jams)",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Timelords_(the_Jams)_-_Doctorin'_The_Tardis.jpg",
-    "started_at": "2026-09-24T00:03:19Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
