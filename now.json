@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T16:06:16-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T16:07:01-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "No Diggity (feat. Dr. Dre & Queen Pen)",
+    "artist": "Blackstreet",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blackstreet.jpg",
+    "started_at": "2026-09-24T21:06:44Z",
+    "duration_seconds": 279
+  },
   "next_poll_seconds": 10
 }
