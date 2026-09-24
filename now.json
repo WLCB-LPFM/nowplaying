@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T17:32:25-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T17:34:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Here, There and Everywhere (2022 Mix)",
-    "artist": "The Beatles",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_Here,_There_And_Everywhere_(2022_Mix).jpg",
-    "started_at": "2026-09-24T22:32:16Z",
-    "duration_seconds": 143
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
