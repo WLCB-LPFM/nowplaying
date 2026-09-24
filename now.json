@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-23T20:10:02-05:00",
-  "source": "autopost",
+  "generated": "2026-09-23T20:11:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Miami Vice Theme",
-    "artist": "Jan Hammer",
-    "album": "Miami Vice: The Complete Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jan_Hammer_-_Miami_Vice_Theme.jpg",
-    "started_at": "2026-09-24T01:09:53Z",
-    "duration_seconds": 123
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
