@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T17:23:56-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T17:24:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I Keep Forgettin (Every Time You're Near)",
+    "artist": "Michael McDonald",
+    "album": "If That's What It Takes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Mcdonald_-_I_Keep_Forgettin_(Every_Time_You're_Near).jpg",
+    "started_at": "2026-09-24T22:24:02Z",
+    "duration_seconds": 176
+  },
   "next_poll_seconds": 10
 }
