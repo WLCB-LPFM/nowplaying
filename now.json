@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T17:14:33-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T17:15:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Already Gone",
+    "artist": "Eagles",
+    "album": "Legacy",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_Already_Gone.jpg",
+    "started_at": "2026-09-24T22:15:21Z",
+    "duration_seconds": 255
+  },
   "next_poll_seconds": 10
 }
