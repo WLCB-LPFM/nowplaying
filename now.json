@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T17:34:30-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T17:35:27-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Enjoy the Silence",
+    "artist": "Depeche Mode",
+    "album": "Violator  The 12' Singles",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Depeche_Mode_-_Enjoy_The_Silence.jpg",
+    "started_at": "2026-09-24T22:35:15Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
