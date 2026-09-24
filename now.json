@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-23T21:12:05-05:00",
-  "source": "autopost",
+  "generated": "2026-09-23T21:13:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Mah Na Mah Na",
-    "artist": "Mahna Mahna and The Two Snowths",
-    "album": "The Muppets (Original Motion Picture Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mahna_Mahna_And_The_Two_Snowths_-_Mah_Na_Mah_Na.jpg",
-    "started_at": "2026-09-24T02:11:52Z",
-    "duration_seconds": 109
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
