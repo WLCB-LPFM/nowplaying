@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-23T20:11:57-05:00",
-  "source": "autopost",
+  "generated": "2026-09-23T20:17:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Downton Abbey - The Suite",
-    "artist": "The Chamber Orchestra of London",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Chamber_Orchestra_Of_London_-_Downton_Abbey_-_The_Suite.jpg",
-    "started_at": "2026-09-24T01:11:55Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
