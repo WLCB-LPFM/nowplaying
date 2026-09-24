@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T17:42:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T17:45:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Show And Tell",
-    "artist": "Al Wilson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Wilson_-_Show_And_Tell.jpg",
-    "started_at": "2026-09-24T22:42:08Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
