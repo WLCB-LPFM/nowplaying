@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-24T12:57:43-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T13:02:15-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Glamorous",
+    "artist": "Fergie \u29f8 Ludacris",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-24T18:02:10.4241296Z",
+    "duration_seconds": 237,
+    "year": "2025"
+  },
   "next_poll_seconds": 10
 }
