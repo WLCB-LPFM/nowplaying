@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T18:36:25-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T18:39:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "(Do The) Push And Pull (Part 1)",
-    "artist": "Rufus Thomas",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rufus_Thomas_-_(Do_The)_Push_And_Pull_(Part_1).jpg",
-    "started_at": "2026-09-25T23:36:15Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
