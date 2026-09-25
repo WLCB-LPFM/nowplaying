@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T12:04:52-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T12:06:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Spoonful",
-    "artist": "Howlin' Wolf",
-    "album": "The Definitive Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Howlin'_Wolf_-_Spoonful.jpg",
-    "started_at": "2026-09-25T17:04:48Z",
-    "duration_seconds": 93
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
