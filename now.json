@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T17:37:15-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T17:40:39-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "White Rabbit",
-    "artist": "Jefferson Airplane",
-    "album": "Surrealistic Pillow (2003 Bonus Track Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jefferson_Airplane_-_White_Rabbit.jpg",
-    "started_at": "2026-09-25T22:37:10Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
