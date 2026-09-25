@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T20:51:44-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T20:55:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Tryin' to Throw Your Arms Around the World",
-    "artist": "U2",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_Tryin'_To_Throw_Your_Arms_Around_The_World.jpg",
-    "started_at": "2026-09-25T01:51:41Z",
-    "duration_seconds": 233
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
