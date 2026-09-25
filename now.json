@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T17:47:26-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T17:50:37-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Outlaw Man",
-    "artist": "Eagles",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_Outlaw_Man.jpg",
-    "started_at": "2026-09-25T22:47:10Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
