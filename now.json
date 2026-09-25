@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T15:19:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T15:20:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Feels Like Rain",
+    "artist": "Buddy Guy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_Feels_Like_Rain.jpg",
+    "started_at": "2026-09-25T20:20:04Z",
+    "duration_seconds": 275
+  },
   "next_poll_seconds": 10
 }
