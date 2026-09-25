@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T18:06:43-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T18:10:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Give Me the Night",
-    "artist": "Steve Oliver",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Oliver_-_Give_Me_The_Night.jpg",
-    "started_at": "2026-09-25T23:06:15Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
