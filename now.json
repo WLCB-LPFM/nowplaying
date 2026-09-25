@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T21:43:00-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T21:45:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Springsteen",
-    "artist": "Eric Church",
-    "album": "Chief",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Church_-_Springsteen.jpg",
-    "started_at": "2026-09-25T02:42:57Z",
-    "duration_seconds": 136
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
