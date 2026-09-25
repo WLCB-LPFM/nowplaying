@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T18:43:11-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T18:46:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "California Dreamin'",
+    "artist": "Bobby Womack",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Womack_-_California_Dreamin'.jpg",
+    "started_at": "2026-09-25T23:45:49Z",
+    "duration_seconds": 203
+  },
   "next_poll_seconds": 10
 }
