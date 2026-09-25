@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T19:56:43-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T19:59:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Love Will Tear Us Apart",
-    "artist": "Joy Division",
-    "album": "Total",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joy_Division_-_Love_Will_Tear_Us_Apart.jpg",
-    "started_at": "2026-09-25T00:56:35Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
