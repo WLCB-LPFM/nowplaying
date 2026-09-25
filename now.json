@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T15:10:43-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T15:11:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Train To Nowhere (feat. Don White and Mark Knopfler)",
+    "artist": "Eric Clapton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eric_Clapton.jpg",
+    "started_at": "2026-09-25T20:11:32Z",
+    "duration_seconds": 291
+  },
   "next_poll_seconds": 10
 }
