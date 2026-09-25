@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T18:04:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T18:05:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Ain't No Sunshine",
-    "artist": "Bill Withers",
-    "album": "Just As I Am",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Withers_-_Ain't_No_Sunshine.jpg",
-    "started_at": "2026-09-25T23:03:40Z",
-    "duration_seconds": 103
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
