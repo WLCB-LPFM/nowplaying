@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T21:38:30-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T21:38:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "We've Got Tonight",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "album": "Stranger In Town",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_&_The_Silver_Bullet_Band_-_We've_Got_Tonight.jpg",
+    "started_at": "2026-09-25T02:38:36Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
