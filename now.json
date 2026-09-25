@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T20:04:58-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T20:08:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Regret",
-    "artist": "New Order",
-    "album": "Republic",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Order_-_Regret.jpg",
-    "started_at": "2026-09-25T01:04:52Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
