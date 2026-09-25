@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T08:47:56-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T08:50:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Rush Me",
-    "artist": "Taylor Dayne",
-    "album": "Tell It to My Heart (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Taylor_Dayne_-_Don't_Rush_Me.jpg",
-    "started_at": "2026-09-25T13:47:33Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
