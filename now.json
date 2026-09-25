@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T17:50:37-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T17:50:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Rock Is My Life, and This Is My Song",
+    "artist": "Bachman-Turner Overdrive",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bachman-turner_Overdrive_-_Rock_Is_My_Life,_And_This_Is_My_Song.jpg",
+    "started_at": "2026-09-25T22:50:44Z",
+    "duration_seconds": 302
+  },
   "next_poll_seconds": 10
 }
