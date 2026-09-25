@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T14:06:44-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T14:08:03-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Beck's Bolero",
+    "artist": "Jeff Beck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeff_Beck_-_Beck's_Bolero.jpg",
+    "started_at": "2026-09-25T19:07:50Z",
+    "duration_seconds": 171
+  },
   "next_poll_seconds": 10
 }
