@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T15:38:48-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T15:43:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Chasin' That Neon Rainbow",
+    "artist": "Alan Jackson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alan_Jackson_-_Chasin'_That_Neon_Rainbow.jpg",
+    "started_at": "2026-09-25T20:43:30Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
