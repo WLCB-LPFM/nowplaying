@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T16:35:50-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T16:36:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Holding All the Roses",
+    "artist": "Blackberry Smoke",
+    "album": "Holding All the Roses (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackberry_Smoke_-_Holding_All_The_Roses.jpg",
+    "started_at": "2026-09-25T21:36:35Z",
+    "duration_seconds": 147
+  },
   "next_poll_seconds": 10
 }
