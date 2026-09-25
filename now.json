@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T20:44:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T20:47:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Never Tear Us Apart",
-    "artist": "INXS",
-    "album": "The Best of INXS",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inxs_-_Never_Tear_Us_Apart.jpg",
-    "started_at": "2026-09-25T01:44:46Z",
-    "duration_seconds": 155
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
