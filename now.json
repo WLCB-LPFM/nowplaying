@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T19:09:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T19:12:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Oye Como Va",
+    "artist": "Santana",
+    "album": "Abraxas",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_Oye_Como_Va.jpg",
+    "started_at": "2026-09-25T00:12:27Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
