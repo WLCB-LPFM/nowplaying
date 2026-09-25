@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T16:47:37-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T16:53:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Cold, Cold Ground",
-    "artist": "Walter Trout",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Walter_Trout_-_Cold,_Cold_Ground.jpg",
-    "started_at": "2026-09-25T21:47:30Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
