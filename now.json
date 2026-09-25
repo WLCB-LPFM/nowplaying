@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-25T05:55:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-25T06:01:55-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Caravan",
-    "artist": "Kasper Villaume Trio",
-    "album": "The Best Jazz Audiophile Recommended, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-09-25T10:55:20.7414194Z",
-    "duration_seconds": 403,
-    "year": "2012"
+    "title": "Ginza Samba",
+    "artist": "Stan Getz & Cal Tjader",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Stan_Getz_&_Cal_Tjader.jpg",
+    "started_at": "2026-09-25T10:59:21Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
