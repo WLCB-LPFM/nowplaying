@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T18:10:05-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T18:11:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Funky Music Sho Nuff Turns Me On",
+    "artist": "The Temptations",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Temptations_-_Funky_Music_Sho_Nuff_Turns_Me_On.jpg",
+    "started_at": "2026-09-25T23:11:23Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
