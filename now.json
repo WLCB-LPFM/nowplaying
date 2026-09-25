@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T21:49:45-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T21:50:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "What Are You Listening To?",
+    "artist": "Chris Stapleton",
+    "album": "What Are You Listening To? - Single",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Stapleton_-_What_Are_You_Listening_To?.jpg",
+    "started_at": "2026-09-25T02:50:29Z",
+    "duration_seconds": 191
+  },
   "next_poll_seconds": 10
 }
