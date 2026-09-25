@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T20:56:03-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T21:00:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Stay (Faraway, So Close!)",
-    "artist": "U2",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_Stay_(Faraway,_So_Close!).jpg",
-    "started_at": "2026-09-25T01:55:56Z",
-    "duration_seconds": 298
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
