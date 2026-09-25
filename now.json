@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T20:11:09-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T20:13:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Everyday Is Like Sunday",
-    "artist": "Morrissey",
-    "album": "Viva Hate (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Morrissey_-_Everyday_Is_Like_Sunday.jpg",
-    "started_at": "2026-09-25T01:10:59Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
