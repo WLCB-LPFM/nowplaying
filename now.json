@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T20:13:57-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T20:14:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Blasphemous Rumours",
+    "artist": "Depeche Mode",
+    "album": "Some Great Reward (Deluxe)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Depeche_Mode_-_Blasphemous_Rumours.jpg",
+    "started_at": "2026-09-25T01:14:50Z",
+    "duration_seconds": 290
+  },
   "next_poll_seconds": 10
 }
