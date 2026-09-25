@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T12:30:38-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T12:38:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Stop Breakin' Down",
+    "artist": "The Jeff Healey Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jeff_Healey_Band_-_Stop_Breakin'_Down.jpg",
+    "started_at": "2026-09-25T17:37:59Z",
+    "duration_seconds": 262
+  },
   "next_poll_seconds": 10
 }
