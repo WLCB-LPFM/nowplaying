@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T21:33:17-05:00",
-  "source": "autopost",
+  "generated": "2026-09-24T21:38:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Night Moves",
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_&_The_Silver_Bullet_Band_-_Night_Moves.jpg",
-    "started_at": "2026-09-25T02:33:11Z",
-    "duration_seconds": 325
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
