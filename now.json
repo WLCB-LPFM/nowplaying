@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-25T00:59:54-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T01:00:51-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "London Township",
-    "artist": "SHA MAN",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sha_Man.jpg",
-    "started_at": "2026-09-25T05:59:06Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
