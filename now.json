@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T16:05:45-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T16:10:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Scratches",
+    "artist": "Debbie Davies",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Debbie_Davies_-_Scratches.jpg",
+    "started_at": "2026-09-25T21:10:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
