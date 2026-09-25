@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T14:31:30-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T14:33:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Smokestack Lightnin'",
-    "artist": "Howlin' Wolf",
-    "album": "Moanin' in the Moonlight",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Howlin'_Wolf_-_Smokestack_Lightnin'.jpg",
-    "started_at": "2026-09-25T19:31:20Z",
-    "duration_seconds": 142
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
