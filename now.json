@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T19:59:20-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T20:00:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Love Vigilantes",
+    "artist": "New Order",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Order_-_Love_Vigilantes.jpg",
+    "started_at": "2026-09-25T01:00:17Z",
+    "duration_seconds": 259
+  },
   "next_poll_seconds": 10
 }
