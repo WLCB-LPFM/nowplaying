@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T18:21:35-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T18:25:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "album": "Love Songs",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marvin_Gaye_-_What's_Going_On.jpg",
+    "started_at": "2026-09-25T23:25:12Z",
+    "duration_seconds": 237
+  },
   "next_poll_seconds": 10
 }
