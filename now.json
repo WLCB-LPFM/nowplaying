@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T19:20:59-05:00",
-  "source": "fallback",
+  "generated": "2026-09-24T19:21:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Tequila Sunrise",
+    "artist": "Eagles",
+    "album": "Their Greatest Hits 1971-1975",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_Tequila_Sunrise.jpg",
+    "started_at": "2026-09-25T00:21:38Z",
+    "duration_seconds": 147
+  },
   "next_poll_seconds": 10
 }
