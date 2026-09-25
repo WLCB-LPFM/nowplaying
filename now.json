@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T14:47:42-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T14:48:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Can't Fix The World",
+    "artist": "Toronzo Cannon",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toronzo_Cannon_-_Can't_Fix_The_World.jpg",
+    "started_at": "2026-09-25T19:48:22Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
