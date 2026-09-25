@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T12:14:17-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T12:14:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Good Morning Little School Girl (Live)",
+    "artist": "Johnny Winter",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Johnny_Winter.jpg",
+    "started_at": "2026-09-25T17:14:31Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
