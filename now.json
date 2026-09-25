@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T18:14:26-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T18:17:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "When She Was My Girl",
-    "artist": "Four Tops",
-    "album": "Essential Collection: Four Tops",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Four_Tops_-_When_She_Was_My_Girl.jpg",
-    "started_at": "2026-09-25T23:14:19Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
