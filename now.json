@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T19:20:31-05:00",
-  "source": "autopost",
+  "generated": "2026-09-25T19:25:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Let It Bleed",
-    "artist": "The Rolling Stones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Let_It_Bleed.jpg",
-    "started_at": "2026-09-26T00:20:26Z",
-    "duration_seconds": 332
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
