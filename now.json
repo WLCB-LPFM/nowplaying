@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T08:35:36-05:00",
-  "source": "fallback",
+  "generated": "2026-09-26T09:33:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Stop! In The Name Of Love",
+    "artist": "The Supremes",
+    "album": "Diana Ross & The Supremes: The No. 1's",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Supremes_-_Stop!_In_The_Name_Of_Love.jpg",
+    "started_at": "2026-09-26T14:33:16Z",
+    "duration_seconds": 121
+  },
   "next_poll_seconds": 10
 }
