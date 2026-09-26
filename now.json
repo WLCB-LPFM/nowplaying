@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T10:03:44-05:00",
-  "source": "autopost",
+  "generated": "2026-09-26T10:07:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Solitare",
-    "artist": "Laura Branigan",
-    "album": "The Best of Branigan",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Laura_Branigan_-_Solitare.jpg",
-    "started_at": "2026-09-26T15:03:42Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
