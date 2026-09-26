@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T19:16:56-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T19:17:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "\u7802\u306e\u304a\u57ce",
+    "artist": "\u30b8\u30df\u30fb\u30d8\u30f3\u30c9\u30ea\u30c3\u30af\u30b9",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-09-26T00:17:40Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
