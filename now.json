@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T11:54:30-05:00",
-  "source": "autopost",
+  "generated": "2026-09-26T11:57:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Vision of Love",
-    "artist": "Mariah Carey",
-    "album": "Mariah Carey",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mariah_Carey_-_Vision_Of_Love.jpg",
-    "started_at": "2026-09-26T16:54:17Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
