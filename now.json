@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T20:26:34-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T20:27:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wild Child",
+    "artist": "The Black Keys",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Keys_-_Wild_Child.jpg",
+    "started_at": "2026-09-26T01:27:24Z",
+    "duration_seconds": 164
+  },
   "next_poll_seconds": 10
 }
