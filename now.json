@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-26T06:39:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-26T06:39:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rock The Casbah",
+    "artist": "The Clash",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-26T11:39:35.5006206Z",
+    "duration_seconds": 207,
+    "year": "1982"
+  },
   "next_poll_seconds": 10
 }
