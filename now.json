@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-26T03:53:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-26T03:55:30-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Dippermouth Blues",
-    "artist": "King Oliver and His Creole Jazz Band",
-    "album": "Midnite Jazz & Blues: That's Jazz, Volume 2",
-    "artwork_url": "",
-    "started_at": "2026-09-26T08:53:11.739772Z",
-    "duration_seconds": 143,
-    "year": "2000"
+    "artist": "King Oliver",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/King_Oliver.jpg",
+    "started_at": "2026-09-26T08:53:44Z",
+    "duration_seconds": 148
   },
   "next_poll_seconds": 10
 }
