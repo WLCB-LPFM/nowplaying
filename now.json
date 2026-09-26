@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-25T19:11:37-05:00",
-  "source": "fallback",
+  "generated": "2026-09-25T19:12:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Nut Rocker",
+    "artist": "B. Bumble & The Stingers",
+    "album": "The Piano Stylings of B. Bumble",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/B._Bumble_&_The_Stingers_-_Nut_Rocker.jpg",
+    "started_at": "2026-09-26T00:12:06Z",
+    "duration_seconds": 126
+  },
   "next_poll_seconds": 10
 }
