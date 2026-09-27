@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-27T08:46:30-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T08:46:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When Manuel Shakes His Maracas",
+    "artist": "The Good-Fellows",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-27T13:46:37.4816796Z",
+    "duration_seconds": 165,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
