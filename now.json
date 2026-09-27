@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T17:49:04-05:00",
-  "source": "autopost",
+  "generated": "2026-09-27T17:53:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Forever My Lady",
-    "artist": "Jodeci",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jodeci_-_Forever_My_Lady.jpg",
-    "started_at": "2026-09-27T22:48:25Z",
-    "duration_seconds": 320
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
