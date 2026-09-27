@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T20:22:35-05:00",
-  "source": "fallback",
+  "generated": "2026-09-26T20:22:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Work (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q) [Remix] [Mixed]",
+    "artist": "A$AP Ferg",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/A$ap_Ferg.jpg",
+    "started_at": "2026-09-27T01:22:29Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
