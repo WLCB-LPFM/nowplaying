@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-27T04:42:36-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T04:43:22-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Free Jazz, Pt. IV",
+    "artist": "The Ornette Coleman Double Quartet",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Ornette_Coleman_Double_Quartet.jpg",
+    "started_at": "2026-09-27T09:43:08Z",
+    "duration_seconds": 364
+  },
   "next_poll_seconds": 10
 }
