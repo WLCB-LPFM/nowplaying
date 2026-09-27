@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T20:45:13-05:00",
-  "source": "fallback",
+  "generated": "2026-09-26T20:47:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Microphone Fiend",
+    "artist": "Eric B. & Rakim",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_B._&_Rakim_-_Microphone_Fiend.jpg",
+    "started_at": "2026-09-27T01:47:16Z",
+    "duration_seconds": 315
+  },
   "next_poll_seconds": 10
 }
