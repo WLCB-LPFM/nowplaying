@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T20:35:40-05:00",
-  "source": "autopost",
+  "generated": "2026-09-26T20:40:30-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Passin' Me By",
-    "artist": "The Pharcyde",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Pharcyde_-_Passin'_Me_By.jpg",
-    "started_at": "2026-09-27T01:35:36Z",
-    "duration_seconds": 303
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
