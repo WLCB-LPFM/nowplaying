@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-27T07:37:31-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T07:37:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My Love For You (Ideale)",
+    "artist": "Richard Tauber",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-27T12:37:40.8929688Z",
+    "duration_seconds": 168,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
