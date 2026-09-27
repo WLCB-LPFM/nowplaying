@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T18:00:02-05:00",
-  "source": "autopost",
+  "generated": "2026-09-27T18:03:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Want to Be Your Man",
-    "artist": "Roger",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roger_-_I_Want_To_Be_Your_Man.jpg",
-    "started_at": "2026-09-27T22:58:56Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
