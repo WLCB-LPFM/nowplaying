@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-27T00:42:50-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T00:43:14-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Take Five, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-09-27T05:43:05.1769585Z",
+    "duration_seconds": 318,
+    "year": "1990"
+  },
   "next_poll_seconds": 10
 }
