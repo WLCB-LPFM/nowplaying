@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T17:21:05-05:00",
-  "source": "autopost",
+  "generated": "2026-09-27T17:26:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Juicy Fruit",
-    "artist": "Mtume",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mtume_-_Juicy_Fruit.jpg",
-    "started_at": "2026-09-27T22:20:14Z",
-    "duration_seconds": 358
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
