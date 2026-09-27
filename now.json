@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T17:28:21-05:00",
-  "source": "autopost",
+  "generated": "2026-09-27T17:35:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Fire and Desire",
-    "artist": "Rick James",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_James_-_Fire_And_Desire.jpg",
-    "started_at": "2026-09-27T22:27:57Z",
-    "duration_seconds": 440
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
