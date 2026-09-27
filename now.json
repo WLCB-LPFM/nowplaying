@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T18:15:16-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T18:40:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Read",
+    "artist": "Brian BM",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Brian_Bm.jpg",
+    "started_at": "2026-09-27T23:40:12Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
