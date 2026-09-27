@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-27T08:22:39-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-27T08:25:38-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "St. Louis Blues-Part 2",
-    "artist": "F. Weir; Billy Munn",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-27T13:22:30.5286903Z",
-    "duration_seconds": 195,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
