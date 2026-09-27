@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-27T15:07:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-27T15:10:27-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Put a Light in the Window",
-    "artist": "The Good-Fellows",
+    "title": "Put a Light in the Window (with Harold Grant and His Orchestra)",
+    "artist": "The Good Fellows",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-27T20:07:38.4897651Z",
-    "duration_seconds": 176,
-    "year": "1942"
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Good_Fellows.jpg",
+    "started_at": "2026-09-27T20:08:30Z",
+    "duration_seconds": 180
   },
   "next_poll_seconds": 10
 }
