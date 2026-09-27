@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T20:44:06-05:00",
-  "source": "autopost",
+  "generated": "2026-09-26T20:45:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Ambitionz Az A Ridah",
-    "artist": "2Pac",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/2/2pac_-_Ambitionz_Az_A_Ridah.jpg",
-    "started_at": "2026-09-27T01:44:01Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
