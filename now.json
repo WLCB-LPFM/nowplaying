@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-27T15:02:29-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-27T15:04:55-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "The Laziest Gal in Town (1940)",
-    "artist": "Frankie Trumbauer and his Orchestra",
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-09-27T20:02:23.7092197Z",
-    "duration_seconds": 157,
-    "year": "1940"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-09-27T20:00:41Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
