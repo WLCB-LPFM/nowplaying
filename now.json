@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T09:00:07-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T09:04:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Bei mir bist du Sch\u00f6n (Means That You're Grand)",
+    "artist": "The Andrews Sisters",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Andrews_Sisters_-_Bei_Mir_Bist_Du_Sch\u00f6n_(Means_That_You're_Grand).jpg",
+    "started_at": "2026-09-27T14:04:16Z",
+    "duration_seconds": 184
+  },
   "next_poll_seconds": 10
 }
