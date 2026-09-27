@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T17:26:05-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T17:26:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Fire And Desire (feat. Teena Marie)",
+    "artist": "Rick James",
+    "album": "Street Songs",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_James_-_Fire_And_Desire_(Feat._Teena_Marie).jpg",
+    "started_at": "2026-09-27T22:26:01Z",
+    "duration_seconds": 394
+  },
   "next_poll_seconds": 10
 }
