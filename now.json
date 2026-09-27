@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-27T06:43:26-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T06:43:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Moonlight Cocktail",
+    "artist": "Dolly Dawn and her Dawn Patrol Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-27T11:43:29.5651377Z",
+    "duration_seconds": 157,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
