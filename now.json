@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T16:03:45-05:00",
-  "source": "autopost",
+  "generated": "2026-09-27T16:10:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Wake Up Everybody",
-    "artist": "Harold Melvin & The Blue Notes, Teddy Pendergrass",
-    "album": "PIR - Black History Month",
-    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harold_Melvin_&_The_Blue_Notes,_Teddy_Pendergrass.jpg",
-    "started_at": "2026-09-27T21:03:08Z",
-    "duration_seconds": 444
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
