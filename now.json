@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T21:15:15-05:00",
-  "source": "fallback",
+  "generated": "2026-09-27T21:34:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Sun Is Shining Down",
+    "artist": "JJ Grey & Mofro",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jj_Grey_&_Mofro.jpg",
+    "started_at": "2026-09-28T02:34:14Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
