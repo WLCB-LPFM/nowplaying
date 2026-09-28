@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-28T12:30:02-05:00",
-  "source": "fallback",
+  "generated": "2026-09-28T12:30:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Uptown Girl",
+    "artist": "Billy Joel",
+    "album": "The Essential Billy Joel",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_Uptown_Girl.jpg",
+    "started_at": "2026-09-28T17:30:28.5095964Z",
+    "duration_seconds": 189,
+    "year": "2013"
+  },
   "next_poll_seconds": 10
 }
