@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-28T05:59:56-05:00",
-  "source": "autopost",
+  "generated": "2026-09-28T06:00:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Shaw 'Nuff",
-    "artist": "Dizzy Gillespie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dizzy_Gillespie_-_Shaw_'nuff.jpg",
-    "started_at": "2026-09-28T10:57:32Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
