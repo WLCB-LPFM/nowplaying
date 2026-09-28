@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-28T18:49:48-05:00",
-  "source": "fallback",
+  "generated": "2026-09-28T18:50:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cold Hearted",
+    "artist": "Paula Abdul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-28T23:49:53.5631398Z",
+    "duration_seconds": 208,
+    "year": "1989"
+  },
   "next_poll_seconds": 10
 }
