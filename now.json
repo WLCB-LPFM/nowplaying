@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-28T15:50:08-05:00",
-  "source": "autopost",
+  "generated": "2026-09-28T15:50:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "When Doves Cry",
-    "artist": "Prince",
-    "album": "When Doves Cry",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_When_Doves_Cry.jpg",
-    "started_at": "2026-09-28T20:46:46Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
