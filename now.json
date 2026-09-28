@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-28T18:33:09-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-28T18:36:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Venus",
-    "artist": "Bananarama",
-    "album": "True Confessions (Collector's Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bananarama_-_Venus.jpg",
-    "started_at": "2026-09-28T23:32:53.5525122Z",
-    "duration_seconds": 221,
-    "year": "1986"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
