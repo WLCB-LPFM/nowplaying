@@ -1,23 +1,9 @@
 {
-  "generated": "2026-09-27T21:57:39-05:00",
-  "source": "autopost",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "All Night Jazz",
-    "hosts": [],
-    "automated": true,
-    "starts": "21:00",
-    "ends": "24:00",
-    "genre": "Jazz"
-  },
-  "track": {
-    "title": "Summertime Blues (Live At Leeds)",
-    "artist": "The Who",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Who_-_Summertime_Blues_(Live_At_Leeds).jpg",
-    "started_at": "2026-09-28T02:57:31Z",
-    "duration_seconds": 215
-  },
+  "generated": "2026-09-27T22:01:00-05:00",
+  "source": "fallback",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
+  "track": null,
   "next_poll_seconds": 10
 }
