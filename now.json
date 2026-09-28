@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T19:08:09-05:00",
-  "source": "autopost",
+  "generated": "2026-09-27T19:11:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sirius (Extended Mix)",
-    "artist": "Hjafri",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hjafri_-_Sirius_(Extended_Mix).jpg",
-    "started_at": "2026-09-28T00:07:55Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
