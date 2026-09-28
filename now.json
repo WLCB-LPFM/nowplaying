@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-28T01:52:15-05:00",
-  "source": "fallback",
+  "generated": "2026-09-28T01:53:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tie a Yellow Ribbon Round the Ole Oak Tree",
+    "artist": "Dawn",
+    "album": "1973: The Best Year of My Life",
+    "artwork_url": "",
+    "started_at": "2026-09-28T06:52:51.7053619Z",
+    "duration_seconds": 245,
+    "year": "2011"
+  },
   "next_poll_seconds": 10
 }
