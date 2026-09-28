@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T21:05:00-05:00",
-  "source": "autopost",
+  "generated": "2026-09-27T21:08:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Rain In the Summertime",
-    "artist": "The Alarm",
-    "album": "The Best of the Alarm",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Alarm_-_Rain_In_The_Summertime.jpg",
-    "started_at": "2026-09-28T02:04:09Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
