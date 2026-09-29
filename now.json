@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-28T21:18:05-05:00",
-  "source": "fallback",
+  "generated": "2026-09-28T21:33:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Norwegian Wood",
+    "artist": "Buddy Rich Big Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buddy_Rich_Big_Band.jpg",
+    "started_at": "2026-09-29T02:33:33Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
