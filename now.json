@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-29T04:24:46-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-29T04:27:23-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Boplicity",
-    "artist": "Miles Davis And His Orchestra",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-09-29T09:24:36.7013494Z",
-    "duration_seconds": 171,
-    "year": "1997"
+    "artist": "Miles Davis",
+    "album": "Its Father's Day!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Boplicity.jpg",
+    "started_at": "2026-09-29T09:24:57Z",
+    "duration_seconds": 181
   },
   "next_poll_seconds": 10
 }
