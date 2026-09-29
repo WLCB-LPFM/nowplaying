@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T16:31:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-29T16:35:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Beat It",
-    "artist": "Michael Jackson",
-    "album": "Thriller",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Beat_It.jpg",
-    "started_at": "2026-09-29T21:31:43Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
