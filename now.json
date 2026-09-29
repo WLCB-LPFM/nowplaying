@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-29T14:24:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-29T14:27:57-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Burning Down the House",
-    "artist": "Talking Heads",
-    "album": "Speaking In Tongues",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Talking_Heads_-_Burning_Down_The_House.jpg",
-    "started_at": "2026-09-29T19:24:14.766025Z",
-    "duration_seconds": 229,
-    "year": "1983"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
