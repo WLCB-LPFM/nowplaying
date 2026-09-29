@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-29T18:51:32-05:00",
-  "source": "fallback",
+  "generated": "2026-09-29T18:51:56-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "My Prerogative",
+    "artist": "Bobby Brown",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-29T23:51:47.2049413Z",
+    "duration_seconds": 205,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
