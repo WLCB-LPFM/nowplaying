@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T16:04:51-05:00",
-  "source": "fallback",
+  "generated": "2026-09-29T16:05:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "I Go To Work (Re-Recorded  feat.  Remastered)",
+    "artist": "Kool Moe Dee",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kool_Moe_Dee.jpg",
+    "started_at": "2026-09-29T21:05:14Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
