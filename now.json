@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-28T20:21:34-05:00",
-  "source": "fallback",
+  "generated": "2026-09-28T20:59:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Time Check",
+    "artist": "Buddy Rich Big Band",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d5b19a210a183d15008824f5ae773b43.png",
+    "started_at": "2026-09-29T01:58:59Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
