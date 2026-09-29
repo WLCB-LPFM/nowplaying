@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-29T11:16:21-05:00",
-  "source": "fallback",
+  "generated": "2026-09-29T11:16:34-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ruffneck",
+    "artist": "MC Lyte",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-29T16:16:27.7067277Z",
+    "duration_seconds": 180,
+    "year": "2024"
+  },
   "next_poll_seconds": 10
 }
