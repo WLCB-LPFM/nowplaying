@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-29T06:41:51-05:00",
-  "source": "fallback",
+  "generated": "2026-09-29T06:42:04-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jump On It",
+    "artist": "Sir Mix-a-Lot",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-09-29T11:41:54.3187337Z",
+    "duration_seconds": 290,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
