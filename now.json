@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-28T20:11:29-05:00",
-  "source": "autopost",
+  "generated": "2026-09-28T20:21:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "West Side Story Medley: Overture  feat.  Cool  feat.  Something's Coming  feat.  Somewhere",
-    "artist": "Buddy Rich",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buddy_Rich.jpg",
-    "started_at": "2026-09-29T01:10:54Z",
-    "duration_seconds": 649
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
