@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T20:57:49-05:00",
-  "source": "autopost",
+  "generated": "2026-09-29T21:01:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Laguna Beach",
-    "artist": "Marc Antoine",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marc_Antoine_-_Laguna_Beach.jpg",
-    "started_at": "2026-09-30T01:57:34Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
