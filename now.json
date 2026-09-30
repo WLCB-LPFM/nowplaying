@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T12:31:06-05:00",
-  "source": "fallback",
+  "generated": "2026-09-30T12:39:30-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Liszt: Liebestraum No.3",
+    "artist": "Jim Paterson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jim_Paterson.jpg",
+    "started_at": "2026-09-30T17:39:13Z",
+    "duration_seconds": 263
+  },
   "next_poll_seconds": 10
 }
