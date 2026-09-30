@@ -1,17 +1,16 @@
 {
-  "generated": "2026-09-30T02:02:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-30T02:04:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Singin' the Blues",
-    "artist": "Frankie Trumbauer and His Orchestra",
-    "album": "Swing Kings",
-    "artwork_url": "",
-    "started_at": "2026-09-30T07:02:09.2930066Z",
-    "duration_seconds": 174,
-    "year": "1994"
+    "artist": "Bix Beiderbecke",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bix_Beiderbecke_-_Singin'_The_Blues.jpg",
+    "started_at": "2026-09-30T07:03:05Z",
+    "duration_seconds": 180
   },
   "next_poll_seconds": 10
 }
