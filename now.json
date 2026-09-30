@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-30T01:37:18-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T01:37:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hotter Than That",
-    "artist": "Louis Armstrong",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Hotter_Than_That.jpg",
-    "started_at": "2026-09-30T06:35:05Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
