@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T13:11:30-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T13:16:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Mercy, Mercy, Mercy",
-    "artist": "The Buddy Rich Big Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Buddy_Rich_Big_Band_-_Mercy,_Mercy,_Mercy.jpg",
-    "started_at": "2026-09-30T18:11:25Z",
-    "duration_seconds": 335
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
