@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T21:01:15-05:00",
-  "source": "fallback",
+  "generated": "2026-09-29T21:03:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Suzie Q",
+    "artist": "Creedence Clearwater Revival",
+    "album": "It's Coffee O'Clock",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Creedence_Clearwater_Revival_-_Suzie_Q.jpg",
+    "started_at": "2026-09-30T02:02:56Z",
+    "duration_seconds": 521
+  },
   "next_poll_seconds": 10
 }
