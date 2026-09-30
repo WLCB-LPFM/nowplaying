@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T20:53:17-05:00",
-  "source": "autopost",
+  "generated": "2026-09-29T20:57:14-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "You Keep Me Hangin' On (Single Version; 2006 Remaster)",
-    "artist": "Wilson Pickett",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/w/Wilson_Pickett.jpg",
-    "started_at": "2026-09-30T01:52:30Z",
-    "duration_seconds": 296
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
