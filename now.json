@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T20:14:31-05:00",
-  "source": "autopost",
+  "generated": "2026-09-29T20:19:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "(I Know) I'm Losing You",
-    "artist": "Rod Stewart",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rod_Stewart_-_(I_Know)_I'm_Losing_You.jpg",
-    "started_at": "2026-09-30T01:14:27Z",
-    "duration_seconds": 323
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
