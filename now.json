@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-30T17:25:56-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T17:26:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Shake Your Bon-Bon",
-    "artist": "Ricky Martin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ricky_Martin_-_Shake_Your_Bon-bon.jpg",
-    "started_at": "2026-09-30T22:23:54Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
