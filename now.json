@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T22:14:36-05:00",
-  "source": "autopost",
+  "generated": "2026-09-29T22:17:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Baby Loves to Rock",
-    "artist": "Cheap Trick",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cheap_Trick_-_Baby_Loves_To_Rock.jpg",
-    "started_at": "2026-09-30T03:14:31Z",
-    "duration_seconds": 197
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
