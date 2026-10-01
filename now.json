@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-01T13:09:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T13:10:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Back In Time",
+    "artist": "Huey Lewis & The News",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-01T18:10:08.4298971Z",
+    "duration_seconds": 250,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
