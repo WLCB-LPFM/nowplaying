@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-01T11:51:38-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T11:51:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Let\u2019s Go Crazy",
+    "artist": "Prince and the Revolution",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-01T16:51:47.5470854Z",
+    "duration_seconds": 276,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
