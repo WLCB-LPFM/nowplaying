@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-01T12:27:56-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T12:28:20-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Survivor",
-    "artist": "Destiny's Child",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Destiny's_Child_-_Survivor.jpg",
-    "started_at": "2026-10-01T17:24:33Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
