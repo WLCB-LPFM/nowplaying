@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T17:12:39-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T17:15:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The Turn of a Friendly Card Part 2",
-    "artist": "The Alan Parsons Project",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Alan_Parsons_Project_-_The_Turn_Of_A_Friendly_Card_Part_2.jpg",
-    "started_at": "2026-10-01T22:12:27Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
