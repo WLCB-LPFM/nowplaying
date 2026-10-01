@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-01T18:11:11-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-01T18:15:00-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Macarena (Bayside Boys Remix)",
+    "title": "Macarena",
     "artist": "Los Del Rio",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-01T23:11:03.7517086Z",
-    "duration_seconds": 250,
-    "year": "2017"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Los_Del_Rio_-_Macarena.jpg",
+    "started_at": "2026-10-01T23:12:08Z",
+    "duration_seconds": 225
   },
   "next_poll_seconds": 10
 }
