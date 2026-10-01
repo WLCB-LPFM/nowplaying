@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T21:39:11-05:00",
-  "source": "fallback",
+  "generated": "2026-09-30T21:40:53-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Rainbow Connection",
+    "artist": "Kermit",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kermit_-_Rainbow_Connection.jpg",
+    "started_at": "2026-10-01T02:40:39Z",
+    "duration_seconds": 139
+  },
   "next_poll_seconds": 10
 }
