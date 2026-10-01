@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-01T03:40:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T03:40:22-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Parker's Mood",
+    "artist": "Charlie Parker All Stars",
+    "album": "Les Triomphes du jazz",
+    "artwork_url": "",
+    "started_at": "2026-10-01T08:40:14.570533Z",
+    "duration_seconds": 176,
+    "year": "2000"
+  },
   "next_poll_seconds": 10
 }
