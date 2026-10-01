@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T21:56:40-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T21:59:29-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Strangers Like Me",
-    "artist": "Phil Collins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Phil_Collins_-_Strangers_Like_Me.jpg",
-    "started_at": "2026-10-01T02:56:34Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
