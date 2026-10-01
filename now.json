@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T16:34:22-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T16:35:30-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Temperature",
+    "artist": "Sean Paul",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sean_Paul_-_Temperature.jpg",
+    "started_at": "2026-10-01T21:35:23Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
