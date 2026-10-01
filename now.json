@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T20:13:10-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T20:15:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Live And Let Die",
-    "artist": "Paul McCartney & Wings",
-    "album": "Pure McCartney (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Mccartney_&_Wings_-_Live_And_Let_Die.jpg",
-    "started_at": "2026-10-01T01:13:02Z",
-    "duration_seconds": 161
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
