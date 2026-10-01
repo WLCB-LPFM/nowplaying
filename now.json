@@ -1,16 +1,9 @@
 {
-  "generated": "2026-09-30T23:38:36-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T23:39:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue In Green (Take 3)",
-    "artist": "Bill Evans Trio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Evans_Trio_-_Blue_In_Green_(Take_3).jpg",
-    "started_at": "2026-10-01T04:34:09Z",
-    "duration_seconds": 325
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
