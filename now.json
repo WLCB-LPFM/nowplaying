@@ -1,9 +1,17 @@
 {
-  "generated": "2026-09-30T22:07:25-05:00",
-  "source": "fallback",
+  "generated": "2026-09-30T22:08:00-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Perhaps Perhaps Perhaps",
+    "artist": "Doris Day",
+    "album": "Something for Everybody",
+    "artwork_url": "",
+    "started_at": "2026-10-01T03:07:52.6300254Z",
+    "duration_seconds": 185,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
