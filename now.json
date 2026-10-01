@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T21:33:25-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T21:39:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Rainbow Connection",
-    "artist": "Willie Nelson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Willie_Nelson_-_Rainbow_Connection.jpg",
-    "started_at": "2026-10-01T02:33:16Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
