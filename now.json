@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-01T13:47:59-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-01T13:50:37-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Love Rock N Roll",
-    "artist": "Joan Jett and the Blackhearts",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-01T18:47:56.221437Z",
-    "duration_seconds": 173,
-    "year": "1981"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
