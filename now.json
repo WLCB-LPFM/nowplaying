@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T21:48:14-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T21:54:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "the rainbow connection",
-    "artist": "Christina Perri",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Christina_Perri_-_The_Rainbow_Connection.jpg",
-    "started_at": "2026-10-01T02:48:06Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
