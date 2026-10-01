@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-01T09:33:48-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T09:34:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "(Keep Feeling) Fascination",
+    "artist": "The Human League",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-01T14:33:56.0085222Z",
+    "duration_seconds": 219,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
