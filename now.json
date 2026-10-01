@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T20:10:32-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T20:12:36-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Won't Say (I'm In Love) [From 'Hercules'  feat.  Soundtrack Version]",
-    "artist": "Susan Egan, Cheryl Freeman, LaChanze, Vaneese Thomas, Lillias White & Disney",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-10-01T01:10:24Z",
-    "duration_seconds": 140
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
