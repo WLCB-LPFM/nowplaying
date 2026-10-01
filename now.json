@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-01T09:00:09-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T09:00:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Good Thing",
-    "artist": "Fine Young Cannibals",
-    "album": "The Raw & the Cooked",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fine_Young_Cannibals_-_Good_Thing.jpg",
-    "started_at": "2026-10-01T13:57:42Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
