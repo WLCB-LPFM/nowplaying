@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T20:50:12-05:00",
-  "source": "fallback",
+  "generated": "2026-09-30T20:50:24-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Raiders March",
+    "artist": "John Williams",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Williams_-_Raiders_March.jpg",
+    "started_at": "2026-10-01T01:50:09Z",
+    "duration_seconds": 351
+  },
   "next_poll_seconds": 10
 }
