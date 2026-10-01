@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-01T18:36:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T18:37:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "It's Tricky",
+    "artist": "Run D.M.C.",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Run-dmc_-_It's_Tricky.jpg",
+    "started_at": "2026-10-01T23:36:59.0716634Z",
+    "duration_seconds": 177,
+    "year": "2021"
+  },
   "next_poll_seconds": 10
 }
