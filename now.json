@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T19:56:19-05:00",
-  "source": "autopost",
+  "generated": "2026-09-30T19:58:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "March from the River Kwai and Colonel Bogey",
-    "artist": "Mitch Miller",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mitch_Miller_-_March_From_The_River_Kwai_And_Colonel_Bogey.jpg",
-    "started_at": "2026-10-01T00:56:10Z",
-    "duration_seconds": 149
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
