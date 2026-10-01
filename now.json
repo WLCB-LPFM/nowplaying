@@ -1,17 +1,9 @@
 {
-  "generated": "2026-09-30T23:14:54-05:00",
-  "source": "playitlive",
+  "generated": "2026-09-30T23:17:21-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Potato Head Blues",
-    "artist": "Louis Armstrong And His Hot Seven",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-10-01T04:14:41.8434466Z",
-    "duration_seconds": 167,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
