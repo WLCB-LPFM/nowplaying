@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-01T00:02:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-01T00:07:25-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Over the Rainbow",
-    "artist": "Jutta Glaser & Bernhard Sperrfechter",
-    "album": "The Best Jazz Audiophile Recommended, Volume 2",
-    "artwork_url": "",
-    "started_at": "2026-10-01T05:02:23.2270164Z",
-    "duration_seconds": 314,
-    "year": "2012"
+    "title": "Into The Night",
+    "artist": "Tonic Walter",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tonic_Walter_-_Into_The_Night.jpg",
+    "started_at": "2026-10-01T05:05:36Z",
+    "duration_seconds": 167
   },
   "next_poll_seconds": 10
 }
