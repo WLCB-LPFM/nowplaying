@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-01T11:18:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-01T11:21:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Nasty",
-    "artist": "Janet Jackson",
-    "album": "Control",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Janet_Jackson_-_Nasty.jpg",
-    "started_at": "2026-10-01T16:17:41.3286052Z",
-    "duration_seconds": 237,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
