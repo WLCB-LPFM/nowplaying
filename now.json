@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T17:52:34-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T17:52:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Only Time Will Tell",
+    "artist": "Asia",
+    "album": "Asia",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Asia_-_Only_Time_Will_Tell.jpg",
+    "started_at": "2026-10-02T22:52:31Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
