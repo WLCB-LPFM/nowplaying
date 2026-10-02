@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T09:40:25-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T09:41:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hollywood",
+    "artist": "Shooting Star",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shooting_Star_-_Hollywood.jpg",
+    "started_at": "2026-10-02T14:40:50Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
