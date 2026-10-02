@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T10:31:53-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T10:35:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fantasy Girl",
-    "artist": "38 Special",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/3/38_Special_-_Fantasy_Girl.jpg",
-    "started_at": "2026-10-02T15:31:48Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
