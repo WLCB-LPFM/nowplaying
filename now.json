@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T11:50:05-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T11:51:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Listen to the Music",
+    "artist": "The Doobie Brothers",
+    "album": "Best of the Doobies (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_Listen_To_The_Music.jpg",
+    "started_at": "2026-10-02T16:51:10Z",
+    "duration_seconds": 176
+  },
   "next_poll_seconds": 10
 }
