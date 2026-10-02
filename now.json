@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T12:45:53-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T12:50:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "I'm Leaving My No Good Woman",
-    "artist": "Omar Coleman & Igor Prado",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-10-02T17:45:40Z",
-    "duration_seconds": 327
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
