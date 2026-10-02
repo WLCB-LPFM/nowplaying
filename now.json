@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T14:17:36-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T14:19:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Whole Lotta Love",
+    "artist": "Beth Hart",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Beth_Hart_-_Whole_Lotta_Love.jpg",
+    "started_at": "2026-10-02T19:19:09Z",
+    "duration_seconds": 414
+  },
   "next_poll_seconds": 10
 }
