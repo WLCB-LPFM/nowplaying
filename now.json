@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T16:50:41-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T16:50:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "All Fired Up",
+    "artist": "Johnny Hiland",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7560953a7ae04f24aeee894b19ee3dcb.png",
+    "started_at": "2026-10-02T21:50:37Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
