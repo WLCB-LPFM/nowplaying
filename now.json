@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T20:13:11-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T20:13:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Takin' It to the Streets",
+    "artist": "The Doobie Brothers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_Takin'_It_To_The_Streets.jpg",
+    "started_at": "2026-10-02T01:13:13Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
