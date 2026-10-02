@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T09:05:52-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T09:06:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Gator Country",
+    "artist": "Molly Hatchet",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Molly_Hatchet_-_Gator_Country.jpg",
+    "started_at": "2026-10-02T14:06:31Z",
+    "duration_seconds": 377
+  },
   "next_poll_seconds": 10
 }
