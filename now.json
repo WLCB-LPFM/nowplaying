@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T19:37:13-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T19:39:05-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dance Hall Days",
+    "artist": "Wang Chung",
+    "album": "20th Century Masters - The Millennium Collection: The Best of Wang Chung",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wang_Chung_-_Dance_Hall_Days.jpg",
+    "started_at": "2026-10-02T00:38:57Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
