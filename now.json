@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-02T04:21:50-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T04:22:14-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rockin' Chair",
-    "artist": "Gene Krupa",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/Gene_Krupa.jpg",
-    "started_at": "2026-10-02T09:19:27Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
