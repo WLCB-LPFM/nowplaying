@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T09:25:13-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T09:25:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Lacuna",
+    "artist": "Mike Ault",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e7c9043f6b9f302baff568196ccda1f.png",
+    "started_at": "2026-10-02T14:25:39Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
