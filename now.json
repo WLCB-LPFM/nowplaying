@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T13:50:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T13:56:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Creepin' (Remastered 2002)",
-    "artist": "Grand Funk Railroad",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grand_Funk_Railroad_-_Creepin'_(Remastered_2002).jpg",
-    "started_at": "2026-10-02T18:50:45Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
