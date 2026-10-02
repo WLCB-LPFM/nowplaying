@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T11:37:24-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T11:41:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fooled Around and Fell In Love (Live)",
-    "artist": "The Winery Dogs",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Winery_Dogs.jpg",
-    "started_at": "2026-10-02T16:37:06Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
