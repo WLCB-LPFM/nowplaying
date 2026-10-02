@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-02T00:51:45-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T00:52:30-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dinah",
-    "artist": "Jack Teagarden",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jack_Teagarden_-_Dinah.jpg",
-    "started_at": "2026-10-02T05:49:25Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
