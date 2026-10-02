@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T21:31:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T21:32:09-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Lazy Eye",
+    "artist": "Silversun Pickups",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Silversun_Pickups_-_Lazy_Eye.jpg",
+    "started_at": "2026-10-02T02:32:00Z",
+    "duration_seconds": 354
+  },
   "next_poll_seconds": 10
 }
