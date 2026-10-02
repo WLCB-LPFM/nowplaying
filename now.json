@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T21:37:43-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T21:39:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Jolene",
+    "artist": "Ray LaMontagne",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Lamontagne_-_Jolene.jpg",
+    "started_at": "2026-10-02T02:39:42Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
