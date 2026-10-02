@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T10:50:11-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T10:56:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Stay Awhile",
+    "artist": "Journey",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Stay_Awhile.jpg",
+    "started_at": "2026-10-02T15:56:37Z",
+    "duration_seconds": 167
+  },
   "next_poll_seconds": 10
 }
