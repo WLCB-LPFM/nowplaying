@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T20:37:10-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T20:37:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Movin' Out (Anthony's Song)",
+    "artist": "Billy Joel",
+    "album": "Greatest Hits Volume I & Volume II",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_Movin'_Out_(Anthony's_Song).jpg",
+    "started_at": "2026-10-02T01:37:44Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
