@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T21:15:29-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T21:20:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Way It Is",
-    "artist": "Bruce Hornsby & The Range",
-    "album": "The Way It Is",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bruce_Hornsby_&_The_Range_-_The_Way_It_Is.jpg",
-    "started_at": "2026-10-02T02:15:19Z",
-    "duration_seconds": 296
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
