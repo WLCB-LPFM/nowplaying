@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T19:34:35-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T19:37:13-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Shattered Dreams",
-    "artist": "Johnny Hates Jazz",
-    "album": "Turn Back the Clock (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Hates_Jazz_-_Shattered_Dreams.jpg",
-    "started_at": "2026-10-02T00:34:32Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
