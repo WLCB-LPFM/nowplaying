@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T19:47:09-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T19:49:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Promise",
-    "artist": "When In Rome",
-    "album": "When in Rome",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/When_In_Rome_-_The_Promise.jpg",
-    "started_at": "2026-10-02T00:46:58Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
