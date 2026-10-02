@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T13:42:44-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T13:46:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Condition Blue",
-    "artist": "Dennis Jones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dennis_Jones.jpg",
-    "started_at": "2026-10-02T18:42:29Z",
-    "duration_seconds": 247
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
