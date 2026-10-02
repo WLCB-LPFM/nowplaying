@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T11:54:01-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T11:54:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Mountain Time (Live)",
+    "artist": "Joe Bonamassa",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_Mountain_Time_(Live).jpg",
+    "started_at": "2026-10-02T16:54:54Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
