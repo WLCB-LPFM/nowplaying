@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T17:23:00-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T17:25:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "All Strung Out Over You",
+    "artist": "The Chambers Brothers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Chambers_Brothers_-_All_Strung_Out_Over_You.jpg",
+    "started_at": "2026-10-02T22:24:57Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
