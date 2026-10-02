@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T10:13:53-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T10:14:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Hello Heaven, Hello",
+    "artist": "YUNGBLUD",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yungblud_-_Hello_Heaven,_Hello.jpg",
+    "started_at": "2026-10-02T15:14:37Z",
+    "duration_seconds": 546
+  },
   "next_poll_seconds": 10
 }
