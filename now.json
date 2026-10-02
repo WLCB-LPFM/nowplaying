@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T18:48:50-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T18:49:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Love Will Work It Out",
+    "artist": "Durand Jones & The Indications & Aaron Frazer",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Durand_Jones_&_The_Indications_&_Aaron_Frazer.jpg",
+    "started_at": "2026-10-02T23:49:06Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
