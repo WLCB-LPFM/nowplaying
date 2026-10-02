@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T12:07:55-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T12:13:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Black Hole (Blake Jarrell Remix)",
-    "artist": "Craig Connelly & Christina Novelli",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Craig_Connelly_&_Christina_Novelli.jpg",
-    "started_at": "2026-10-02T17:07:44Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
