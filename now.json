@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T17:50:07-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T17:52:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Shake It Up",
-    "artist": "The Cars",
-    "album": "Shake It Up",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cars_-_Shake_It_Up.jpg",
-    "started_at": "2026-10-02T22:49:54Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
