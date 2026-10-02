@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T20:03:50-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T20:07:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Boys of Summer",
-    "artist": "Don Henley",
-    "album": "Building The Perfect Beast (Remastered 2024)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Don_Henley_-_The_Boys_Of_Summer.jpg",
-    "started_at": "2026-10-02T01:03:39Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
