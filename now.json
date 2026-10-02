@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T15:35:11-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T15:47:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Mud On the Tires",
+    "artist": "Brad Paisley",
+    "album": "Mud On the Tires",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brad_Paisley_-_Mud_On_The_Tires.jpg",
+    "started_at": "2026-10-02T20:47:19Z",
+    "duration_seconds": 154
+  },
   "next_poll_seconds": 10
 }
