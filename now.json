@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T12:50:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T12:54:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Who You Gonna Hoodoo Now?",
+    "artist": "Tony Joe White",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tony_Joe_White_-_Who_You_Gonna_Hoodoo_Now?.jpg",
+    "started_at": "2026-10-02T17:54:43Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
