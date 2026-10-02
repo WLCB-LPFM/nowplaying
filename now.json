@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T09:12:40-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T09:12:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Slow Ride",
+    "artist": "Foghat",
+    "album": "Slow Ride / Save Your Loving (For Me)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Foghat_-_Slow_Ride.jpg",
+    "started_at": "2026-10-02T14:12:42Z",
+    "duration_seconds": 232
+  },
   "next_poll_seconds": 10
 }
