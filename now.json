@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T20:26:43-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T20:30:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Orange Crush",
-    "artist": "R.E.M.",
-    "album": "Green (25th Anniversary Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R.e.m._-_Orange_Crush.jpg",
-    "started_at": "2026-10-02T01:26:37Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
