@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T16:05:12-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T16:09:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "There Ain't No Good Chain Gang (Live at Nassau Coliseum, Uniondale, NY - March 1990)",
+    "artist": "The Highwaymen",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Highwaymen.jpg",
+    "started_at": "2026-10-02T21:08:58Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
