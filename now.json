@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T20:07:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T20:08:42-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Everybody Knows",
+    "artist": "Concrete Blonde",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Concrete_Blonde_-_Everybody_Knows.jpg",
+    "started_at": "2026-10-02T01:08:37Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
