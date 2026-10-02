@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T20:34:11-05:00",
-  "source": "autopost",
+  "generated": "2026-10-01T20:37:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Heroes",
-    "artist": "David Bowie",
-    "album": "'Heroes' (2017 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Bowie_-_Heroes.jpg",
-    "started_at": "2026-10-02T01:34:03Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
