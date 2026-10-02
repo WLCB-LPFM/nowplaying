@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T14:53:48-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T14:59:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Into Money (feat. Jack Bruce) [2012 Remaster]",
-    "artist": "Robin Trower",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Robin_Trower.jpg",
-    "started_at": "2026-10-02T19:53:38Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
