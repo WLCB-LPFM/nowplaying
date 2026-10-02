@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T14:41:58-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T14:42:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "In My America",
+    "artist": "Albert Castiglia",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Albert_Castiglia_-_In_My_America.jpg",
+    "started_at": "2026-10-02T19:42:40Z",
+    "duration_seconds": 322
+  },
   "next_poll_seconds": 10
 }
