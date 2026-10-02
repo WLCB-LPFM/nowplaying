@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T19:27:14-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T19:28:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "King of Pain",
+    "artist": "The Police",
+    "album": "The Police",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Police_-_King_Of_Pain.jpg",
+    "started_at": "2026-10-02T00:28:02Z",
+    "duration_seconds": 299
+  },
   "next_poll_seconds": 10
 }
