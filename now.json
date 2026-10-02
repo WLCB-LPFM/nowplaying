@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T19:10:15-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T19:19:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Season of the Witch (From the Motion Picture 'Scary Stories to Tell in the Dark')",
+    "artist": "Lana Del Rey",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lana_Del_Rey.jpg",
+    "started_at": "2026-10-02T00:19:38Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
