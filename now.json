@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T19:49:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-01T19:50:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bad",
+    "artist": "U2",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_Bad.jpg",
+    "started_at": "2026-10-02T00:50:44Z",
+    "duration_seconds": 351
+  },
   "next_poll_seconds": 10
 }
