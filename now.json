@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T08:36:50-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T09:00:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Let's Go",
+    "artist": "The Cars",
+    "album": "Candy-O",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cars_-_Let's_Go.jpg",
+    "started_at": "2026-10-03T14:00:08Z",
+    "duration_seconds": 196
+  },
   "next_poll_seconds": 10
 }
