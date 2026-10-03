@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-02T23:16:50-05:00",
-  "source": "autopost",
+  "generated": "2026-10-02T23:21:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": {
-    "title": "Blue Sky",
-    "artist": "The Allman Brothers Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_Blue_Sky.jpg",
-    "started_at": "2026-10-03T04:16:41Z",
-    "duration_seconds": 309
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
