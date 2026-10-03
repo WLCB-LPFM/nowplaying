@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T10:06:16-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T10:32:23-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Walk - Don't Run (Mono Single Version Remastered)",
+    "artist": "The Ventures",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Ventures.jpg",
+    "started_at": "2026-10-03T15:32:10Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
