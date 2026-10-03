@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T17:53:04-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T17:53:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Young, Wild & Crafty (MobMix)",
+    "artist": "The Mix Mobster & DJ Rocky Jr",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-03T22:53:04Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
