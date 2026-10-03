@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T09:31:30-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T09:34:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Russians",
-    "artist": "Sting",
-    "album": "The Dream of the Blue Turtles",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sting_-_Russians.jpg",
-    "started_at": "2026-10-03T14:31:23Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
