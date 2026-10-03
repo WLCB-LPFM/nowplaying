@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-02T23:12:42-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T23:13:28-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Trouble No More",
+    "artist": "The Allman Brothers Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_Trouble_No_More.jpg",
+    "started_at": "2026-10-03T04:13:19Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
