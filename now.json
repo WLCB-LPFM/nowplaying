@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-02T23:51:25-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T23:52:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Stink-Foot",
+    "artist": "Frank Zappa",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Frank_Zappa_-_Stink-foot.jpg",
+    "started_at": "2026-10-03T04:51:55Z",
+    "duration_seconds": 400
+  },
   "next_poll_seconds": 10
 }
