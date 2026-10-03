@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T08:33:30-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T08:36:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Fields Of Gold",
-    "artist": "Sting",
-    "album": "So Beautiful 1",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sting_-_Fields_Of_Gold.jpg",
-    "started_at": "2026-10-03T13:33:18Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
