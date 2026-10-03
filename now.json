@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T09:03:04-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T09:06:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "If You Love Somebody Set Them Free",
-    "artist": "Sting",
-    "album": "The Dream of the Blue Turtles",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sting_-_If_You_Love_Somebody_Set_Them_Free.jpg",
-    "started_at": "2026-10-03T14:02:57Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
