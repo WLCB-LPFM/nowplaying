@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T12:00:10-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T12:00:44-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "13:00",
     "genre": null
   },
-  "track": {
-    "title": "Nobody Does It Better (Instrumental Version)",
-    "artist": "The Hit Co.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Hit_Co..jpg",
-    "started_at": "2026-10-03T16:58:44Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
