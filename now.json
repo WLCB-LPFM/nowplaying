@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T18:51:20-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T18:53:58-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Ghetto Sisters",
+    "artist": "Warson & DJ Noz",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Warson_&_Dj_Noz.jpg",
+    "started_at": "2026-10-03T23:53:48Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
