@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-03T15:14:08-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T15:14:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hot Stuff",
+    "artist": "Donna Summer",
+    "album": "Bad Girls",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Donna_Summer_-_Hot_Stuff.jpg",
+    "started_at": "2026-10-03T20:14:22.594312Z",
+    "duration_seconds": 309,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
