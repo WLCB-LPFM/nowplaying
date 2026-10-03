@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-03T06:34:21-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T06:34:33-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "So Emotional",
-    "artist": "Whitney Houston",
-    "album": "Whitney",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitney_Houston_-_So_Emotional.jpg",
-    "started_at": "2026-10-03T11:30:40Z",
-    "duration_seconds": 242
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
