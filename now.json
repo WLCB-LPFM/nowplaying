@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-03T04:57:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-03T04:59:45-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "I Found A New Baby",
-    "artist": "Benny Goodman Sextet Featuring Charlie Christian And Count Basie",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 2",
-    "artwork_url": "",
-    "started_at": "2026-10-03T09:57:09.9577302Z",
-    "duration_seconds": 170,
-    "year": "1997"
+    "title": "Les Anges",
+    "artist": "Charlie Christian",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Charlie_Christian.jpg",
+    "started_at": "2026-10-03T09:57:20Z",
+    "duration_seconds": 373
   },
   "next_poll_seconds": 10
 }
