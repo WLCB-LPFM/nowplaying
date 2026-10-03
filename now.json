@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-03T06:41:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-03T06:45:40-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Funky Cold Medina",
-    "artist": "Tone-Loc",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-03T11:41:45.7393006Z",
-    "duration_seconds": 247,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
