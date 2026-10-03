@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T18:09:23-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T18:09:36-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Survivor",
+    "artist": "Destiny's Child",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Destiny's_Child_-_Survivor.jpg",
+    "started_at": "2026-10-03T23:09:32Z",
+    "duration_seconds": 240
+  },
   "next_poll_seconds": 10
 }
