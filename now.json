@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T22:53:58-05:00",
-  "source": "fallback",
+  "generated": "2026-10-02T22:54:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Sabbra Cadabra",
+    "artist": "Black Sabbath",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Sabbath_-_Sabbra_Cadabra.jpg",
+    "started_at": "2026-10-03T03:54:34Z",
+    "duration_seconds": 361
+  },
   "next_poll_seconds": 10
 }
