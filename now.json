@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T10:04:22-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T10:06:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "The Loco-Motion",
-    "artist": "Little Eva",
-    "album": "Jukebox Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Eva_-_The_Loco-motion.jpg",
-    "started_at": "2026-10-03T15:04:15Z",
-    "duration_seconds": 128
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
