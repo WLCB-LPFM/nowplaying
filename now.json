@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-03T07:32:50-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T07:33:25-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Stayin' Alive",
-    "artist": "Bee Gees",
-    "album": "Staying Alive (Original Motion Picture Soundtrack)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bee_Gees_-_Stayin'_Alive.jpg",
-    "started_at": "2026-10-03T12:29:14Z",
-    "duration_seconds": 262
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
