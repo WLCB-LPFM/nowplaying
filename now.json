@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-03T13:09:03-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T13:09:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hold On",
+    "artist": "Wilson Phillips",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-03T18:09:09.8322101Z",
+    "duration_seconds": 211,
+    "year": "2019"
+  },
   "next_poll_seconds": 10
 }
