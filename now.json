@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T16:23:57-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T16:27:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Don't Stop The Music",
-    "artist": "Yarbrough & Peoples",
-    "album": "True Funk [3 CD Set]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yarbrough_&_Peoples_-_Don't_Stop_The_Music.jpg",
-    "started_at": "2026-10-04T21:23:46Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
