@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T10:46:32-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T10:48:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Choo Choo Ch'Boogie",
-    "artist": "Louis Jordan",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Jordan_-_Choo_Choo_Ch'boogie.jpg",
-    "started_at": "2026-10-04T15:46:23Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
