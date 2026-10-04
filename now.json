@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-04T14:57:18-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T14:57:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "All in Fun",
+    "artist": "Artie Shaw and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-04T19:57:32.4455008Z",
+    "duration_seconds": 147,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
