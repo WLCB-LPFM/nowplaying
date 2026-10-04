@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T17:06:38-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T17:10:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Freek'n You",
-    "artist": "Jodeci",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jodeci_-_Freek'n_You.jpg",
-    "started_at": "2026-10-04T22:06:30Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
