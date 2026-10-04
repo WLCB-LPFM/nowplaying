@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T18:20:44-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T18:28:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Roll Me Up",
+    "artist": "Willie Nelson, Snoop Dogg, Kris Kristofferson & Jamey Johnson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Willie_Nelson,_Snoop_Dogg,_Kris_Kristofferson_&_Jamey_Johnson.jpg",
+    "started_at": "2026-10-04T23:28:21Z",
+    "duration_seconds": 207
+  },
   "next_poll_seconds": 10
 }
