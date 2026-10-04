@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-04T07:25:25-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-04T07:27:50-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cheep! Cheep!",
-    "artist": "The Ramblers; Susan Lee",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-04T12:25:20.7552244Z",
-    "duration_seconds": 160,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
