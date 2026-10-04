@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T16:18:21-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T16:22:04-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Lean on Me",
-    "artist": "Club Nouveau",
-    "album": "Life, Love & Pain",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Club_Nouveau_-_Lean_On_Me.jpg",
-    "started_at": "2026-10-04T21:18:15Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
