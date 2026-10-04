@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-04T07:40:52-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-04T07:42:56-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "One Look At You (1940)",
-    "artist": "Harry James and his Orchestra; Dick Haymes; Washington; Carroll; Young",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-04T12:40:43.9997127Z",
-    "duration_seconds": 144,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
