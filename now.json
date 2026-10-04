@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-04T08:12:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-04T08:15:22-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Humming Bird",
-    "artist": "The Marshalls and their Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-04T13:12:49.2509673Z",
-    "duration_seconds": 158,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
