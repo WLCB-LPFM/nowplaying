@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T22:53:36-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T22:58:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "You Call It Madness (But I Call It Love)",
+    "artist": "Billy Eckstine",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Eckstine_-_You_Call_It_Madness_(But_I_Call_It_Love).jpg",
+    "started_at": "2026-10-04T03:58:14Z",
+    "duration_seconds": 183
+  },
   "next_poll_seconds": 10
 }
