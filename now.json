@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T16:07:10-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T16:10:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "I Like It",
-    "artist": "DeBarge",
-    "album": "All This Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Debarge_-_I_Like_It.jpg",
-    "started_at": "2026-10-04T21:07:01Z",
-    "duration_seconds": 234
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
