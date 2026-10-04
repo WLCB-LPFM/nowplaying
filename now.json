@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-03T23:00:09-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T23:01:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Blue Moon",
-    "artist": "Billy Eckstine",
-    "album": "Everything I Have Is Yours: The Best of the MGM Years",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Eckstine_-_Blue_Moon.jpg",
-    "started_at": "2026-10-04T03:59:00Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
