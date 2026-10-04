@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-04T07:42:56-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T07:43:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Darktown Strutters' Ball (1940)",
+    "artist": "Korn Kobblers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-04T12:43:08.3004154Z",
+    "duration_seconds": 158,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
