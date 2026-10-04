@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-04T15:05:14-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-04T15:07:18-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Two in Love",
-    "artist": "Bunny Berigan and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-04T20:05:03.7690691Z",
-    "duration_seconds": 146,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
