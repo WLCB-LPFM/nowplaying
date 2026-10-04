@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T22:45:21-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T22:45:56-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Endless Summer (The Generik Vocal Cut Mix)",
+    "artist": "Bringols",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bringols_-_Endless_Summer_(The_Generik_Vocal_Cut_Mix).jpg",
+    "started_at": "2026-10-04T03:45:42Z",
+    "duration_seconds": 298
+  },
   "next_poll_seconds": 10
 }
