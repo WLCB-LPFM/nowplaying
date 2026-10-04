@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T17:10:20-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T17:10:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "I Want'a Do Something Freaky To You",
+    "artist": "Leon Haywood",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Leon_Haywood_-_I_Want'a_Do_Something_Freaky_To_You.jpg",
+    "started_at": "2026-10-04T22:10:42Z",
+    "duration_seconds": 95
+  },
   "next_poll_seconds": 10
 }
