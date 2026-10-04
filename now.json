@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T17:29:55-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T17:33:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Hercules",
-    "artist": "Aaron Neville",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aaron_Neville_-_Hercules.jpg",
-    "started_at": "2026-10-04T22:29:43Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
