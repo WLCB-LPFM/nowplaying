@@ -1,17 +1,18 @@
 {
-  "generated": "2026-10-04T15:57:57-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-10-04T16:00:01-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "In Case of an Air Raid",
-    "artist": "Harold Grant and His Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-04T20:57:49.2644881Z",
-    "duration_seconds": 143,
-    "year": "1942"
+  "show": {
+    "name": "Old School Throwbacks",
+    "hosts": [
+      "J. Cornelius"
+    ],
+    "automated": false,
+    "starts": "16:00",
+    "ends": "18:00",
+    "genre": "Hip-Hop"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
