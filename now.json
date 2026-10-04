@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T20:05:19-05:00",
-  "source": "fallback",
+  "generated": "2026-10-03T20:07:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Go DJ",
+    "artist": "Lil Wayne",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lil_Wayne_-_Go_Dj.jpg",
+    "started_at": "2026-10-04T01:07:30Z",
+    "duration_seconds": 240
+  },
   "next_poll_seconds": 10
 }
