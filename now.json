@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T16:38:38-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T16:41:59-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Shout",
-    "artist": "Tears for Fears",
-    "album": "Songs from the Big Chair",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tears_For_Fears_-_Shout.jpg",
-    "started_at": "2026-10-04T21:38:33Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
