@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T09:00:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T09:04:36-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Juke Box Saturday Night",
+    "artist": "Glenn Miller",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_Juke_Box_Saturday_Night.jpg",
+    "started_at": "2026-10-04T14:04:24Z",
+    "duration_seconds": 198
+  },
   "next_poll_seconds": 10
 }
