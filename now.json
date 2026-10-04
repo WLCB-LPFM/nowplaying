@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T20:47:17-05:00",
-  "source": "autopost",
+  "generated": "2026-10-03T20:50:16-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Pop Life",
-    "artist": "Prince & The Revolution",
-    "album": "Around The World In A Day",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_Revolution_-_Pop_Life.jpg",
-    "started_at": "2026-10-04T01:47:08Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
