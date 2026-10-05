@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T20:43:35-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T20:44:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Little Dreamer",
+    "artist": "Van Halen",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Little_Dreamer.jpg",
+    "started_at": "2026-10-05T01:44:13Z",
+    "duration_seconds": 202
+  },
   "next_poll_seconds": 10
 }
