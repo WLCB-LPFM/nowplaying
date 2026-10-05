@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-05T13:20:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-05T13:25:24-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rosanna",
-    "artist": "Toto",
-    "album": "80's Pop Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toto_-_Rosanna.jpg",
-    "started_at": "2026-10-05T18:20:19.8596602Z",
-    "duration_seconds": 313,
-    "year": "1982"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
