@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T20:03:46-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T20:06:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Traveller In Time (Live)",
-    "artist": "Uriah Heep",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Uriah_Heep_-_Traveller_In_Time_(Live).jpg",
-    "started_at": "2026-10-05T01:03:33Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
