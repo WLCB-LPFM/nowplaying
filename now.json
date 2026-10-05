@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T20:39:52-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T20:43:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Bring Me To Life",
-    "artist": "Evanescence",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Evanescence_-_Bring_Me_To_Life.jpg",
-    "started_at": "2026-10-05T01:39:44Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
