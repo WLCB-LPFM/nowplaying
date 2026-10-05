@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T20:25:52-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T20:26:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Deep House Sensual Club Playlist",
+    "artist": "Johnny Holiday",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Johnny_Holiday.jpg",
+    "started_at": "2026-10-05T01:26:30Z",
+    "duration_seconds": 3570
+  },
   "next_poll_seconds": 10
 }
