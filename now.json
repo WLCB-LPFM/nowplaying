@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-05T06:25:50-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-05T06:27:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "It's Still Rock And Roll To Me",
-    "artist": "Billy Joel",
-    "album": "The Essential Billy Joel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_It's_Still_Rock_And_Roll_To_Me.jpg",
-    "started_at": "2026-10-05T11:25:16.8375641Z",
-    "duration_seconds": 167,
-    "year": "2013"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
