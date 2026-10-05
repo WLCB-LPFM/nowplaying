@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T20:06:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T20:07:20-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Killing Yourself to Live",
+    "artist": "Black Sabbath",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Sabbath_-_Killing_Yourself_To_Live.jpg",
+    "started_at": "2026-10-05T01:07:12Z",
+    "duration_seconds": 341
+  },
   "next_poll_seconds": 10
 }
