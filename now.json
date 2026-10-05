@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T20:13:54-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T20:18:11-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Might Just Take Your Life",
-    "artist": "Deep Purple",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_Might_Just_Take_Your_Life.jpg",
-    "started_at": "2026-10-05T01:13:45Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
