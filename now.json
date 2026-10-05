@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T19:34:11-05:00",
-  "source": "autopost",
+  "generated": "2026-10-04T19:37:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Are You Ready (Live)",
-    "artist": "Grand Funk Railroad",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grand_Funk_Railroad_-_Are_You_Ready_(Live).jpg",
-    "started_at": "2026-10-05T00:34:06Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
