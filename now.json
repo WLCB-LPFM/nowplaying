@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-05T02:27:52-05:00",
-  "source": "fallback",
+  "generated": "2026-10-05T02:29:22-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Brother",
+    "artist": "NEEDTOBREATHE",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Needtobreathe_-_Brother.jpg",
+    "started_at": "2026-10-05T07:29:08Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
