@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T20:35:23-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T20:36:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Against The Wind",
+    "artist": "Lo Mejor Del Rock De Los 80",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Lo_Mejor_Del_Rock_De_Los_80.jpg",
+    "started_at": "2026-10-05T01:36:42Z",
+    "duration_seconds": 295
+  },
   "next_poll_seconds": 10
 }
