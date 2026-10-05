@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-05T06:12:50-05:00",
-  "source": "fallback",
+  "generated": "2026-10-05T06:13:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Into The Groove",
+    "artist": "Madonna",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-05T11:13:03.5314764Z",
+    "duration_seconds": 265,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
