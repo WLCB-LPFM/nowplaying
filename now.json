@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T20:53:31-05:00",
-  "source": "fallback",
+  "generated": "2026-10-04T20:58:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Are U Still Down?",
+    "artist": "Jon B.",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jon_B._-_Are_U_Still_Down?.jpg",
+    "started_at": "2026-10-05T01:57:22Z",
+    "duration_seconds": 267
+  },
   "next_poll_seconds": 10
 }
