@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T21:09:21-05:00",
-  "source": "fallback",
+  "generated": "2026-10-05T21:10:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Maria",
+    "artist": "Oscar Peterson Trio",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b65af8f04688447e8918ef1cd06b5234.png",
+    "started_at": "2026-10-06T02:10:47Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
