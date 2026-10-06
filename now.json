@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T21:33:33-05:00",
-  "source": "autopost",
+  "generated": "2026-10-05T21:39:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Blues March",
-    "artist": "Art Blakey",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Art_Blakey_-_Blues_March.jpg",
-    "started_at": "2026-10-06T02:33:19Z",
-    "duration_seconds": 360
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
