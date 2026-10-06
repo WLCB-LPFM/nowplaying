@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-06T18:21:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-06T18:25:00-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Livin\u2019 on a Prayer",
-    "artist": "Bon Jovi",
-    "album": "Slippery When Wet",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_Livin'_On_A_Prayer.jpg",
-    "started_at": "2026-10-06T23:21:13.0213365Z",
-    "duration_seconds": 231,
-    "year": "1986"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
