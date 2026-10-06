@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-06T14:06:15-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-06T14:09:26-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "My Humps",
-    "artist": "The Black Eyed Peas",
+    "artist": "Black Eyed Peas",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-06T19:06:07.806019Z",
-    "duration_seconds": 212,
-    "year": "2022"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Eyed_Peas_-_My_Humps.jpg",
+    "started_at": "2026-10-06T19:06:20Z",
+    "duration_seconds": 327
   },
   "next_poll_seconds": 10
 }
