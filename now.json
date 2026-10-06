@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T20:09:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-05T20:13:44-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Desafinado",
-    "artist": "Ant\u00f4nio Carlos Jobim",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ant\u00f4nio_Carlos_Jobim_-_Desafinado.jpg",
-    "started_at": "2026-10-06T01:09:46Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
