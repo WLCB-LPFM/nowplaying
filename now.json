@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T21:46:38-05:00",
-  "source": "fallback",
+  "generated": "2026-10-05T21:58:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Eine kleine Nachtmusik, Serenade No. 13 for Strings in G Major, K. 525: I. Allegro",
+    "artist": "Papernik + Wu Piano Duo",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-06T02:58:34Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
