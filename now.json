@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-06T11:41:35-05:00",
-  "source": "fallback",
+  "generated": "2026-10-06T11:41:47-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Opposites Attract",
+    "artist": "Paula Abdul",
+    "album": "Forever Your Girl",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paula_Abdul_-_Opposites_Attract.jpg",
+    "started_at": "2026-10-06T16:41:36.1197604Z",
+    "duration_seconds": 252,
+    "year": "1989"
+  },
   "next_poll_seconds": 10
 }
