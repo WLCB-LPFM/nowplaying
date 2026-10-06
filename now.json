@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-06T14:16:41-05:00",
-  "source": "fallback",
+  "generated": "2026-10-06T14:16:53-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Crazy In Love",
+    "artist": "Beyonc\u00e8",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-06T19:16:42.2322181Z",
+    "duration_seconds": 225,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
