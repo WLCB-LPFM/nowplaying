@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-06T13:55:23-05:00",
-  "source": "autopost",
+  "generated": "2026-10-06T13:55:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Me Myself and I",
-    "artist": "De La Soul",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/De_La_Soul_-_Me_Myself_And_I.jpg",
-    "started_at": "2026-10-06T18:52:20Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
