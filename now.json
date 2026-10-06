@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T16:03:06-05:00",
-  "source": "autopost",
+  "generated": "2026-10-06T16:06:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Bizarre Love Triangle (Extended Dance Mix)",
-    "artist": "New Order",
-    "album": "Bizarre Love Triangle - EP",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/New_Order_-_Bizarre_Love_Triangle_(Extended_Dance_Mix).jpg",
-    "started_at": "2026-10-06T21:02:57Z",
-    "duration_seconds": 214
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
