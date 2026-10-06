@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T20:58:26-05:00",
-  "source": "fallback",
+  "generated": "2026-10-05T20:58:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Can't Take My Eyes off You (Original Extended Version)",
+    "artist": "Boys Town Gang",
+    "album": "Disc Charge",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boys_Town_Gang_-_Can't_Take_My_Eyes_Off_You_(Original_Extended_Version).jpg",
+    "started_at": "2026-10-06T01:58:41Z",
+    "duration_seconds": 171
+  },
   "next_poll_seconds": 10
 }
