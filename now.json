@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T07:48:02-05:00",
-  "source": "fallback",
+  "generated": "2026-10-06T07:53:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "She Drives Me Crazy",
+    "artist": "Fine Young Cannibals",
+    "album": "The Raw & the Cooked",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fine_Young_Cannibals_-_She_Drives_Me_Crazy.jpg",
+    "started_at": "2026-10-06T12:53:17Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
