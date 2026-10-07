@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-07T15:24:31-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T15:24:55-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "TiK ToK",
+    "artist": "Kesha",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-07T20:24:44.5017757Z",
+    "duration_seconds": 196,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
