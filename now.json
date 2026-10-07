@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T10:21:28-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T10:25:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "After The Love Is Gone",
-    "artist": "Earth, Wind & Fire",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Earth,_Wind_&_Fire_-_After_The_Love_Is_Gone.jpg",
-    "started_at": "2026-10-07T15:21:23Z",
-    "duration_seconds": 280
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
