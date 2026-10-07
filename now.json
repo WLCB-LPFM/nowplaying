@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T11:40:24-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T11:43:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Rock Music",
-    "artist": "Jefferson Starship",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jefferson_Starship_-_Rock_Music.jpg",
-    "started_at": "2026-10-07T16:40:10Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
