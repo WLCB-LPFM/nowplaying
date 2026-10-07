@@ -1,17 +1,25 @@
 {
-  "generated": "2026-10-07T06:58:52-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-10-07T07:00:01-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
     "title": "I'm So Excited",
     "artist": "The Pointer Sisters",
     "album": "100 Hits Of The '80s",
     "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Pointer_Sisters_-_I'm_So_Excited.jpg",
-    "started_at": "2026-10-07T11:58:28.6491703Z",
-    "duration_seconds": 276,
-    "year": "1982"
+    "started_at": "2026-10-07T11:58:50Z",
+    "duration_seconds": 230
   },
   "next_poll_seconds": 10
 }
