@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-07T06:48:04-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T06:48:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rhythm Nation",
+    "artist": "Janet Jackson",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-07T11:48:02.7426214Z",
+    "duration_seconds": 320,
+    "year": "1989"
+  },
   "next_poll_seconds": 10
 }
