@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T10:38:11-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T10:42:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Sequencer",
+    "artist": "Mike Myers",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/92897b460c83435089cb745675779c07.png",
+    "started_at": "2026-10-07T15:41:59Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
