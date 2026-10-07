@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T12:41:35-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T12:46:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Milestones",
-    "artist": "Miles Davis",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Milestones.jpg",
-    "started_at": "2026-10-07T17:41:29Z",
-    "duration_seconds": 342
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
