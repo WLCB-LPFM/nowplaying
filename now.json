@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-07T00:02:17-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-07T00:05:28-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Don't Be That Way",
-    "artist": "Delicatessen",
-    "album": "My Baby Just Cares for Me",
-    "artwork_url": "",
-    "started_at": "2026-10-07T05:02:08.9403634Z",
-    "duration_seconds": 212,
-    "year": "2008"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-10-07T05:01:57Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
