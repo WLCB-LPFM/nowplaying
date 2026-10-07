@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-07T16:47:20-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T16:47:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Black Or White",
+    "artist": "Michael Jackson",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-07T21:47:29.0905743Z",
+    "duration_seconds": 196,
+    "year": "1991"
+  },
   "next_poll_seconds": 10
 }
