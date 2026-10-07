@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T11:24:30-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T11:28:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Angel Eyes",
-    "artist": "The Jeff Healey Band",
-    "album": "Master Hits: The Jeff Healey Band",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Jeff_Healey_Band_-_Angel_Eyes.jpg",
-    "started_at": "2026-10-07T16:24:25Z",
-    "duration_seconds": 269
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
