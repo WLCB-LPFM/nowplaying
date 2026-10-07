@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T22:23:48-05:00",
-  "source": "autopost",
+  "generated": "2026-10-06T22:29:33-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Boogie No More",
-    "artist": "Molly Hatchet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Molly_Hatchet_-_Boogie_No_More.jpg",
-    "started_at": "2026-10-07T03:23:37Z",
-    "duration_seconds": 369
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
