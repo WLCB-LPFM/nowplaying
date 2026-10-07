@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T09:48:00-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T09:48:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "A Woman In Love (It's Not Me)",
+    "artist": "Tom Petty & The Heartbreakers",
+    "album": "Hard Promises",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_&_The_Heartbreakers_-_A_Woman_In_Love_(It's_Not_Me).jpg",
+    "started_at": "2026-10-07T14:48:15Z",
+    "duration_seconds": 97
+  },
   "next_poll_seconds": 10
 }
