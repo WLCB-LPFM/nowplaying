@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-07T01:07:34-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-07T01:09:59-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Crazy",
-    "artist": "Lils Mackintosh",
-    "album": "About Crazy",
-    "artwork_url": "",
-    "started_at": "2026-10-07T06:07:23.6294138Z",
-    "duration_seconds": 161,
-    "year": "2008"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
