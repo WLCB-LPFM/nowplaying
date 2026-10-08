@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T19:48:42-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T19:51:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Right Here (Human Nature Radio Mix)",
-    "artist": "SWV",
-    "album": "It's About Time",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Swv_-_Right_Here_(Human_Nature_Radio_Mix).jpg",
-    "started_at": "2026-10-08T00:48:33Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
