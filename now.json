@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T19:32:31-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T19:38:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Know Him So Well (feat. Emma Bunton)",
-    "artist": "Melanie C",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fa8224b0bf4a6ec14c514bfb5e9201a1.png",
-    "started_at": "2026-10-08T00:32:20Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
