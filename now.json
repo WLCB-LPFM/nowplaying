@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-08T03:38:25-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T03:38:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "These Foolish Things",
-    "artist": "Billie Holiday",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billie_Holiday_-_These_Foolish_Things.jpg",
-    "started_at": "2026-10-08T08:35:24Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
