@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-08T01:27:47-05:00",
-  "source": "fallback",
+  "generated": "2026-10-08T01:28:55-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "New Arrival",
+    "artist": "Rod Tate",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rod_Tate_-_New_Arrival.jpg",
+    "started_at": "2026-10-08T06:28:44Z",
+    "duration_seconds": 365
+  },
   "next_poll_seconds": 10
 }
