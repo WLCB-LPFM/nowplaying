@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T21:54:00-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T21:59:57-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "How Soon Is Now? (2011 Remaster)",
-    "artist": "The Smiths",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Smiths_-_How_Soon_Is_Now?_(2011_Remaster).jpg",
-    "started_at": "2026-10-08T02:53:21Z",
-    "duration_seconds": 408
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
