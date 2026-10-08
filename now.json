@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-08T18:28:38-05:00",
-  "source": "fallback",
+  "generated": "2026-10-08T18:31:05-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Holiday",
+    "artist": "Madonna",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-08T23:31:01.0834028Z",
+    "duration_seconds": 228,
+    "year": "2021"
+  },
   "next_poll_seconds": 10
 }
