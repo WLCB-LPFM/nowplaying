@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-07T23:59:51-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T00:00:26-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Parker's Mood",
-    "artist": "Charlie Parker",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Parker's_Mood.jpg",
-    "started_at": "2026-10-08T04:57:27Z",
-    "duration_seconds": 184
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
