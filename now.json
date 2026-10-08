@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T20:26:42-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T20:30:15-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Dum Dum Girl",
-    "artist": "Talk Talk",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Talk_Talk_-_Dum_Dum_Girl.jpg",
-    "started_at": "2026-10-08T01:26:34Z",
-    "duration_seconds": 230
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
