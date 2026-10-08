@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T19:44:43-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T19:47:11-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Shallow",
-    "artist": "Lady Gaga & Bradley Cooper",
-    "album": "A Star Is Born Soundtrack",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lady_Gaga_&_Bradley_Cooper_-_Shallow.jpg",
-    "started_at": "2026-10-08T00:44:32Z",
-    "duration_seconds": 164
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
