@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-08T09:24:08-05:00",
-  "source": "fallback",
+  "generated": "2026-10-08T09:24:32-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "So What",
+    "artist": "P!NK",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/P!nk_-_So_What.jpg",
+    "started_at": "2026-10-08T14:24:21.8390757Z",
+    "duration_seconds": 213,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
