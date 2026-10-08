@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-08T04:00:28-05:00",
-  "source": "fallback",
+  "generated": "2026-10-08T04:00:41-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tom's Diner",
+    "artist": "Klisch\u00e9e",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/894bc9e0e1d776a1e01e267299814e86.png",
+    "started_at": "2026-10-08T09:00:29Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
