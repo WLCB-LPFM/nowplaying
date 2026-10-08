@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T20:12:26-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T20:14:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Black Waters",
+    "artist": "Poets of the Fall",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e08cf2639c909d96920bb924147e087a.png",
+    "started_at": "2026-10-08T01:13:57Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
