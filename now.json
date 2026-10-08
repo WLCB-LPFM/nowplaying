@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T19:27:36-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T19:30:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Annie's Song",
-    "artist": "John Denver",
-    "album": "John Denver's Greatest Hits, Vol. 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Denver_-_Annie's_Song.jpg",
-    "started_at": "2026-10-08T00:27:24Z",
-    "duration_seconds": 181
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
