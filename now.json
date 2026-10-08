@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-08T09:27:44-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T09:28:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "So What",
-    "artist": "The Pink Flamingo Club",
-    "album": "The Pink Flamingo Club, Vol. 5",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Pink_Flamingo_Club.jpg",
-    "started_at": "2026-10-08T14:25:02Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
