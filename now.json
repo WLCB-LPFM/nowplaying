@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T17:27:40-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T17:30:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Love Will Find A Way (featuring Ty Taylor)",
-    "artist": "Pablo Cruise",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pablo_Cruise_-_Love_Will_Find_A_Way_(Featuring_Ty_Taylor).jpg",
-    "started_at": "2026-10-08T22:27:26Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
