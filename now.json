@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-08T02:01:24-05:00",
-  "source": "fallback",
+  "generated": "2026-10-08T02:02:10-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Friend's First",
+    "artist": "Ben Black",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Ben_Black.jpg",
+    "started_at": "2026-10-08T07:01:55Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
