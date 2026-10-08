@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T17:54:56-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T17:58:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Showdown",
-    "artist": "Electric Light Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Electric_Light_Orchestra_-_Showdown.jpg",
-    "started_at": "2026-10-08T22:54:41Z",
-    "duration_seconds": 252
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
