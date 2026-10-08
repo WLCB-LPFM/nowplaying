@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T21:37:19-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T21:37:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Ain't No Sunshine",
+    "artist": "Geoff Castellucci",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ef2a35b71b168dc406dbc47d4e26fda7.png",
+    "started_at": "2026-10-08T02:37:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
