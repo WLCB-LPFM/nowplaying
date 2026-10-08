@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T20:39:49-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T20:43:33-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Need a Dollar",
-    "artist": "Aloe Blacc",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aloe_Blacc_-_I_Need_A_Dollar.jpg",
-    "started_at": "2026-10-08T01:39:40Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
