@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T19:38:06-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T19:38:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Against The Wind",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "album": "Against the Wind",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_&_The_Silver_Bullet_Band_-_Against_The_Wind.jpg",
+    "started_at": "2026-10-08T00:38:38Z",
+    "duration_seconds": 309
+  },
   "next_poll_seconds": 10
 }
