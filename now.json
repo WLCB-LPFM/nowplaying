@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T20:34:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-07T20:37:23-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Za3im W Zawali (feat. Allaa Mazari)",
+    "artist": "Cheb zemouri",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-08T01:37:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
