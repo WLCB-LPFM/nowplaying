@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T07:23:00-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T07:27:06-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "You Keep Me Hangin' On (feat. Nena)",
-    "artist": "Kim Wilde",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kim_Wilde_-_You_Keep_Me_Hangin'_On_(Feat._Nena).jpg",
-    "started_at": "2026-10-08T12:22:52Z",
-    "duration_seconds": 258
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
