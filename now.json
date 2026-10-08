@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T20:44:08-05:00",
-  "source": "autopost",
+  "generated": "2026-10-07T20:46:01-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Shoop Shoop Song (It's In His Kiss)",
-    "artist": "Cher",
-    "album": "Love Hurts",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cher_-_The_Shoop_Shoop_Song_(It's_In_His_Kiss).jpg",
-    "started_at": "2026-10-08T01:44:02Z",
-    "duration_seconds": 126
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
