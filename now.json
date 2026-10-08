@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T17:58:40-05:00",
-  "source": "fallback",
+  "generated": "2026-10-08T17:59:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Shades of Time",
+    "artist": "Santana",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_Shades_Of_Time.jpg",
+    "started_at": "2026-10-08T22:59:35Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
