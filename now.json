@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T18:43:04-05:00",
-  "source": "autopost",
+  "generated": "2026-10-09T18:45:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "I'll Turn To Stone",
-    "artist": "Four Tops",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Four_Tops_-_I'll_Turn_To_Stone.jpg",
-    "started_at": "2026-10-09T23:42:51Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
