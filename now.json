@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T20:56:22-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T20:59:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Press Corpse",
-    "artist": "Anti-Flag",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anti-flag_-_The_Press_Corpse.jpg",
-    "started_at": "2026-10-09T01:56:08Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
