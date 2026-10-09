@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T12:33:30-05:00",
-  "source": "autopost",
+  "generated": "2026-10-09T12:37:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Mississippi Phone Booth",
-    "artist": "Peter Parcek",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9b2e8b91842ce9f1c06ef807a781fc3a.png",
-    "started_at": "2026-10-09T17:33:03Z",
-    "duration_seconds": 298
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
