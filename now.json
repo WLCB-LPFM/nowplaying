@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T19:44:27-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T19:48:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Renegades of Funk",
-    "artist": "Rage Against the Machine",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rage_Against_The_Machine_-_Renegades_Of_Funk.jpg",
-    "started_at": "2026-10-09T00:44:15Z",
-    "duration_seconds": 275
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
