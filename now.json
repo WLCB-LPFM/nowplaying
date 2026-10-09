@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T18:54:47-05:00",
-  "source": "fallback",
+  "generated": "2026-10-09T18:57:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Way It Goes",
+    "artist": "Leon Bridges",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/15559a213570ad3a39ec8d928481991f.png",
+    "started_at": "2026-10-09T23:56:54Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
