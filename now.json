@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T14:07:45-05:00",
-  "source": "autopost",
+  "generated": "2026-10-09T14:12:02-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Wall of Denial",
-    "artist": "Stevie Ray Vaughan & Double Trouble",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_Wall_Of_Denial.jpg",
-    "started_at": "2026-10-09T19:06:34Z",
-    "duration_seconds": 337
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
