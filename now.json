@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-09T03:48:38-05:00",
-  "source": "fallback",
+  "generated": "2026-10-09T03:48:50-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Got Rhythm",
+    "artist": "Don Byas and Slam Stewart",
+    "album": "The Don Byas Collection 1938-61",
+    "artwork_url": "",
+    "started_at": "2026-10-09T08:48:44.4718531Z",
+    "duration_seconds": 291,
+    "year": "1987"
+  },
   "next_poll_seconds": 10
 }
