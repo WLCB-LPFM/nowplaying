@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T18:45:18-05:00",
-  "source": "fallback",
+  "generated": "2026-10-09T18:47:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Say It Loud (I'm Black and I'm Proud), Pts. 1 & 2",
+    "artist": "James Brown",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/James_Brown.jpg",
+    "started_at": "2026-10-09T23:47:12Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
