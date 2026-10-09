@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T12:07:02-05:00",
-  "source": "autopost",
+  "generated": "2026-10-09T12:13:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Sweet Home Chicago",
-    "artist": "The Blues Brothers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Blues_Brothers_-_Sweet_Home_Chicago.jpg",
-    "started_at": "2026-10-09T17:05:46Z",
-    "duration_seconds": 472
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
