@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T19:19:16-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T19:22:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Dust In the Wind",
-    "artist": "Kansas",
-    "album": "The Best Of Kansas",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kansas_-_Dust_In_The_Wind.jpg",
-    "started_at": "2026-10-09T00:19:05Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
