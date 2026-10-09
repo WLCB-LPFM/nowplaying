@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T19:00:47-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T19:01:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't You (Forget About Me) (12' Version)",
-    "artist": "Simple Minds",
-    "album": "Once Upon a Time (Super Deluxe)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Simple_Minds.jpg",
-    "started_at": "2026-10-08T23:55:12Z",
-    "duration_seconds": 379
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
