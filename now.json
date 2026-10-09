@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T19:29:04-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T19:33:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Everything In Its Right Place",
-    "artist": "Radiohead",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Radiohead_-_Everything_In_Its_Right_Place.jpg",
-    "started_at": "2026-10-09T00:28:57Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
