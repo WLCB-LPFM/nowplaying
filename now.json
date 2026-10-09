@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T19:58:28-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T20:02:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Freak On a Leash",
-    "artist": "Korn",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Korn_-_Freak_On_A_Leash.jpg",
-    "started_at": "2026-10-09T00:58:24Z",
-    "duration_seconds": 256
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
