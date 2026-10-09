@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T21:36:32-05:00",
-  "source": "fallback",
+  "generated": "2026-10-08T21:36:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Open Arms",
+    "artist": "Journey",
+    "album": "Time3",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Open_Arms.jpg",
+    "started_at": "2026-10-09T02:36:42Z",
+    "duration_seconds": 199
+  },
   "next_poll_seconds": 10
 }
