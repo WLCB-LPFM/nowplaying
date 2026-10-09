@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T20:35:28-05:00",
-  "source": "autopost",
+  "generated": "2026-10-08T20:40:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "(Rock) Superstar (Live)",
-    "artist": "Cypress Hill",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cypress_Hill.jpg",
-    "started_at": "2026-10-09T01:35:16Z",
-    "duration_seconds": 333
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
