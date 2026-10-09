@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T17:00:17-05:00",
-  "source": "fallback",
+  "generated": "2026-10-09T17:38:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Brothers In Arms",
+    "artist": "Dire Straits",
+    "album": "Brothers In Arms",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dire_Straits_-_Brothers_In_Arms.jpg",
+    "started_at": "2026-10-09T22:38:37Z",
+    "duration_seconds": 280
+  },
   "next_poll_seconds": 10
 }
