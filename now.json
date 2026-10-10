@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T20:12:18-05:00",
-  "source": "autopost",
+  "generated": "2026-10-09T20:18:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "St. Stephen",
-    "artist": "Grateful Dead",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grateful_Dead_-_St._Stephen.jpg",
-    "started_at": "2026-10-10T01:12:09Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
