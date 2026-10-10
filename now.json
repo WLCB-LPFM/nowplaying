@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-10T00:55:00-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T00:59:38-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Ain't Got Nobody (06-11-37)",
+    "artist": "Fats Waller",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fats_Waller_-_I_Ain't_Got_Nobody_(06-11-37).jpg",
+    "started_at": "2026-10-10T05:59:27Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
