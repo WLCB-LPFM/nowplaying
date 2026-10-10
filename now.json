@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T18:50:02-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T18:51:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Maniac (Flashdance Version) (Re-Recorded  feat.  Remastered)",
+    "artist": "Michael Sembello",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Sembello.jpg",
+    "started_at": "2026-10-10T23:50:59Z",
+    "duration_seconds": 259
+  },
   "next_poll_seconds": 10
 }
