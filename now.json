@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T10:03:06-05:00",
-  "source": "autopost",
+  "generated": "2026-10-10T10:06:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Power to the People",
-    "artist": "John Lennon & The Plastic Ono Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/John_Lennon_&_The_Plastic_Ono_Band.jpg",
-    "started_at": "2026-10-10T15:02:48Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
