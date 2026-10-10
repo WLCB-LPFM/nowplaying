@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T10:06:05-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T10:32:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "(Just Like) Starting Over (2010 Remix)",
+    "artist": "John Lennon",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Lennon_-_(Just_Like)_Starting_Over_(2010_Remix).jpg",
+    "started_at": "2026-10-10T15:32:50Z",
+    "duration_seconds": 237
+  },
   "next_poll_seconds": 10
 }
