@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T11:48:29-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T11:52:11-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "I Like the Way (The Kissing Game)",
+    "artist": "Hi-Five",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Hi-five_-_I_Like_The_Way_(The_Kissing_Game).jpg",
+    "started_at": "2026-10-10T16:52:07Z",
+    "duration_seconds": 228
+  },
   "next_poll_seconds": 10
 }
