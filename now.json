@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-10T04:40:33-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-10T04:45:33-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Cherokee",
-    "artist": "Peter Cincotti",
-    "album": "On the Moon",
-    "artwork_url": "",
-    "started_at": "2026-10-10T09:40:27.8025068Z",
-    "duration_seconds": 313,
-    "year": "2004"
+    "title": "Evidence",
+    "artist": "Thelonious Monk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_Evidence.jpg",
+    "started_at": "2026-10-10T09:38:50Z",
+    "duration_seconds": 528
   },
   "next_poll_seconds": 10
 }
