@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-10T05:41:23-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T05:42:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blue 7 (feat. Tommy Flanagan, Doug Watkins & Max Roach)",
+    "artist": "Sonny Rollins",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sonny_Rollins.jpg",
+    "started_at": "2026-10-10T10:42:39Z",
+    "duration_seconds": 673
+  },
   "next_poll_seconds": 10
 }
