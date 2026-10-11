@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T20:05:39-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T20:21:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Pass Me Da Green",
+    "artist": "Master P",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Master_P_-_Pass_Me_Da_Green.jpg",
+    "started_at": "2026-10-11T01:21:40Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
