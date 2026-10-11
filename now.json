@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T09:09:13-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T09:10:20-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Beginning To See The Light",
+    "artist": "Harry James and His Orchestra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harry_James_And_His_Orchestra_-_I'm_Beginning_To_See_The_Light.jpg",
+    "started_at": "2026-10-11T14:10:05Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
