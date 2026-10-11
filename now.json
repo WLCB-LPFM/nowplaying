@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T21:19:33-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T21:20:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Right Here",
+    "artist": "Jess Glynne",
+    "album": "Right Here - Single",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jess_Glynne_-_Right_Here.jpg",
+    "started_at": "2026-10-11T02:19:44Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
