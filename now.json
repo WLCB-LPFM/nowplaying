@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-11T00:17:39-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T00:18:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Send in the Clowns",
+    "artist": "Svante Thuresson & Katrine Madsen",
+    "album": "The Best Jazz Audiophile Recommended, Volume 2",
+    "artwork_url": "",
+    "started_at": "2026-10-11T05:17:54.2415896Z",
+    "duration_seconds": 276,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
