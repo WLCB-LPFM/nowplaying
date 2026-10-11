@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-11T06:12:32-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T06:12:44-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Just a Little Cottage",
+    "artist": "Denny Dennis; Mason",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-11T11:12:40.9310663Z",
+    "duration_seconds": 187,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
