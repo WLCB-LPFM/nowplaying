@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T22:41:18-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T22:55:13-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Solitude",
+    "artist": "Billie Holiday",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billie_Holiday_-_Solitude.jpg",
+    "started_at": "2026-10-11T03:55:05Z",
+    "duration_seconds": 208
+  },
   "next_poll_seconds": 10
 }
