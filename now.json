@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T20:54:10-05:00",
-  "source": "autopost",
+  "generated": "2026-10-10T20:59:00-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Be Afraid (Jazz You Up Version)",
-    "artist": "Aaron Hall",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aaron_Hall_-_Don't_Be_Afraid_(Jazz_You_Up_Version).jpg",
-    "started_at": "2026-10-11T01:53:59Z",
-    "duration_seconds": 315
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
