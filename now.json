@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-11T08:46:32-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T08:46:43-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hallie-Hallie-Hallow",
+    "artist": "The Good-Fellow; Harold Grant & his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-11T13:46:40.1310358Z",
+    "duration_seconds": 138,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
