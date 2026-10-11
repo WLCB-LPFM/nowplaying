@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-11T15:05:08-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-11T15:07:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Oh, Promise Me (1940)",
-    "artist": "Paul Robeson; Scott; Da Koven",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-11T20:05:04.2055989Z",
-    "duration_seconds": 145,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
