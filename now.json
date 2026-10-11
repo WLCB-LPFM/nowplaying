@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-11T06:40:22-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T06:40:33-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Gee But It's Great to Meet a Friend (From Your Home Town)",
+    "artist": "Arthur Fields",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-11T11:40:26.4896899Z",
+    "duration_seconds": 148,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
