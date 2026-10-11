@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T21:27:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T21:33:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Sign Your Name",
+    "artist": "The Nylons",
+    "album": "Because...",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Nylons_-_Sign_Your_Name.jpg",
+    "started_at": "2026-10-11T02:33:27Z",
+    "duration_seconds": 295
+  },
   "next_poll_seconds": 10
 }
