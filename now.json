@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T20:30:37-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T20:33:35-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Can't Wait (To Rock the Mike) [feat. DJ Doc] [7' Single Version]",
+    "artist": "Spyder-D",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Spyder-d.jpg",
+    "started_at": "2026-10-11T01:33:18Z",
+    "duration_seconds": 244
+  },
   "next_poll_seconds": 10
 }
