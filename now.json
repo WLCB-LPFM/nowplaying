@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T20:39:20-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T20:39:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "A Fly Girl",
+    "artist": "Boogie Boys",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boogie_Boys_-_A_Fly_Girl.jpg",
+    "started_at": "2026-10-11T01:39:18Z",
+    "duration_seconds": 354
+  },
   "next_poll_seconds": 10
 }
