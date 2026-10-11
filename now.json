@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T16:30:18-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T16:32:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "In the Air Tonight",
+    "artist": "Phil Collins",
+    "album": "Face Value (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Phil_Collins_-_In_The_Air_Tonight.jpg",
+    "started_at": "2026-10-11T21:32:46Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
