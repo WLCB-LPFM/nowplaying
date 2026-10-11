@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T18:55:36-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T18:55:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Rasputin",
+    "artist": "Boney M.",
+    "album": "The Essential Boney M.",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boney_M._-_Rasputin.jpg",
+    "started_at": "2026-10-11T23:55:49Z",
+    "duration_seconds": 260
+  },
   "next_poll_seconds": 10
 }
