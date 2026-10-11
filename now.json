@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-11T15:37:30-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T15:37:41-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "And So Do I (1940)",
+    "artist": "Jack Teagarden and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-11T20:37:40.4204944Z",
+    "duration_seconds": 201,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
