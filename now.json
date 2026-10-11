@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-11T05:38:32-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-11T05:41:30-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Summertime",
-    "artist": "Miles Davis With Gil Evans' Orchestra",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-10-11T10:38:27.9517144Z",
-    "duration_seconds": 186,
-    "year": "1997"
+    "artist": "Miles Davis",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Summertime.jpg",
+    "started_at": "2026-10-11T10:39:09Z",
+    "duration_seconds": 197
   },
   "next_poll_seconds": 10
 }
