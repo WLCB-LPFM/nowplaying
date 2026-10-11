@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T21:06:02-05:00",
-  "source": "autopost",
+  "generated": "2026-10-10T21:09:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Oui",
-    "artist": "Jeremih",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeremih_-_Oui.jpg",
-    "started_at": "2026-10-11T02:05:21Z",
-    "duration_seconds": 240
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
