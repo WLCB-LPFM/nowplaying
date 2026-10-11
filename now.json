@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T09:25:21-05:00",
-  "source": "autopost",
+  "generated": "2026-10-11T09:31:04-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Gotta Be This or That",
-    "artist": "Benny Goodman",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benny_Goodman_-_Gotta_Be_This_Or_That.jpg",
-    "started_at": "2026-10-11T14:25:13Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
