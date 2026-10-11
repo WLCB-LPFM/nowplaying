@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T18:17:28-05:00",
-  "source": "autopost",
+  "generated": "2026-10-11T18:21:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Can't Quit You Baby",
-    "artist": "Led Zeppelin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_I_Can't_Quit_You_Baby.jpg",
-    "started_at": "2026-10-11T23:17:26Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
