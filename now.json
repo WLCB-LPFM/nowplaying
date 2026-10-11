@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-11T08:57:11-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T08:57:23-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Deep in the Heart of Texas",
+    "artist": "B\u00f8rge Roger Henrichsens Sekstet",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-11T13:57:20.9268175Z",
+    "duration_seconds": 159,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
