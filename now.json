@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-11T06:24:58-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T06:25:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Sheik of Araby (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-11T11:25:08.6937129Z",
+    "duration_seconds": 171,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
