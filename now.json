@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-11T06:18:40-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T06:19:36-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "All This and Heaven Too (1940)",
+    "artist": "Johnny Messner and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-11T11:19:25.1878169Z",
+    "duration_seconds": 185,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
