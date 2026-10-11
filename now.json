@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T21:09:10-05:00",
-  "source": "fallback",
+  "generated": "2026-10-10T21:10:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Self Love (Spider-Man: Across the Spider-Verse)",
+    "artist": "Metro Boomin & Coi Leray",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Metro_Boomin_&_Coi_Leray.jpg",
+    "started_at": "2026-10-11T02:10:26Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
