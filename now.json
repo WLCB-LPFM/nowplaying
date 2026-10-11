@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T22:24:08-05:00",
-  "source": "autopost",
+  "generated": "2026-10-10T22:26:56-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "As Time Goes By",
-    "artist": "Teddy Wilson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Teddy_Wilson_-_As_Time_Goes_By.jpg",
-    "started_at": "2026-10-11T03:23:56Z",
-    "duration_seconds": 190
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
