@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T09:00:10-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T09:04:03-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Swingin' The Blues",
+    "artist": "Count Basie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_Swingin'_The_Blues.jpg",
+    "started_at": "2026-10-11T14:03:59Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
