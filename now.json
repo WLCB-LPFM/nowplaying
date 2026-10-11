@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-11T08:07:47-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-11T08:10:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Said No",
-    "artist": "Clyde Lucas and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-11T13:07:35.5914692Z",
-    "duration_seconds": 175,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
