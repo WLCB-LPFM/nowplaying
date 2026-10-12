@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T19:36:52-05:00",
-  "source": "autopost",
+  "generated": "2026-10-11T19:42:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Mosquito",
-    "artist": "PinkPantheress",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pinkpantheress_-_Mosquito.jpg",
-    "started_at": "2026-10-12T00:36:41Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
