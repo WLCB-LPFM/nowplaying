@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T19:23:59-05:00",
-  "source": "autopost",
+  "generated": "2026-10-11T19:29:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Goin' Crazy",
-    "artist": "Natalie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Natalie_-_Goin'_Crazy.jpg",
-    "started_at": "2026-10-12T00:23:46Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
