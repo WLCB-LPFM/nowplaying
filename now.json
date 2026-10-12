@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T19:51:59-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T20:05:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Footsteps In the Dark (The Isley Brothers & Gabriel Rene) [Gabriel Rene Remix]",
+    "artist": "The Isley Brothers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Isley_Brothers.jpg",
+    "started_at": "2026-10-12T01:05:20Z",
+    "duration_seconds": 285
+  },
   "next_poll_seconds": 10
 }
