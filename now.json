@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T21:00:05-05:00",
-  "source": "autopost",
+  "generated": "2026-10-11T21:00:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Show Some Emotion",
-    "artist": "Joan Armatrading",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joan_Armatrading_-_Show_Some_Emotion.jpg",
-    "started_at": "2026-10-12T01:57:22Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
