@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T19:42:28-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T19:46:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Till It's Gone",
+    "artist": "Yelawolf",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yelawolf_-_Till_It's_Gone.jpg",
+    "started_at": "2026-10-12T00:46:14Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
