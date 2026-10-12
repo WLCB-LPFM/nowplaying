@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-12T15:05:35-05:00",
-  "source": "fallback",
+  "generated": "2026-10-12T15:05:47-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Wreck Me",
+    "artist": "Tom Petty",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-12T20:05:43.7968134Z",
+    "duration_seconds": 197,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
