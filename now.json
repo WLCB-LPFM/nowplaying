@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T19:08:29-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T19:10:10-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Too Good at Goodbyes",
+    "artist": "Sam Smith",
+    "album": "The Thrill Of It All (Special Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_Smith_-_Too_Good_At_Goodbyes.jpg",
+    "started_at": "2026-10-12T00:10:03Z",
+    "duration_seconds": 201
+  },
   "next_poll_seconds": 10
 }
