@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-12T12:26:49-05:00",
-  "source": "autopost",
+  "generated": "2026-10-12T12:28:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Kiss",
-    "artist": "Prince & The Revolution",
-    "album": "The Very Best of Prince",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_Revolution_-_Kiss.jpg",
-    "started_at": "2026-10-12T17:25:20Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
