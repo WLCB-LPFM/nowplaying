@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-12T03:27:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-12T03:30:38-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Alabama",
     "artist": "John Coltrane",
-    "album": "Live at Birdland",
+    "album": "",
     "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Coltrane_-_Alabama.jpg",
-    "started_at": "2026-10-12T08:25:58.7315029Z",
-    "duration_seconds": 291,
-    "year": "1964"
+    "started_at": "2026-10-12T08:27:44Z",
+    "duration_seconds": 309
   },
   "next_poll_seconds": 10
 }
