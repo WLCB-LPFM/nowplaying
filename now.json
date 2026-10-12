@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T20:23:22-05:00",
-  "source": "fallback",
+  "generated": "2026-10-11T20:26:21-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Joy And Pain (Live feat. Remastered 2004)",
+    "artist": "Maze",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Maze.jpg",
+    "started_at": "2026-10-12T01:25:57Z",
+    "duration_seconds": 361
+  },
   "next_poll_seconds": 10
 }
