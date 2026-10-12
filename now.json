@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-12T12:56:56-05:00",
-  "source": "autopost",
+  "generated": "2026-10-12T12:57:19-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Roll With It",
-    "artist": "Steve Winwood",
-    "album": "Roll With It",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Winwood_-_Roll_With_It.jpg",
-    "started_at": "2026-10-12T17:52:44Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
