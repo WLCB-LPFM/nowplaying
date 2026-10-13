@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-13T02:27:52-05:00",
-  "source": "autopost",
+  "generated": "2026-10-13T02:29:33-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "\u591c\u7684\u94a2\u7434\u66f2",
-    "artist": "\u77f3\u8fdb",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-10-13T07:26:35Z",
-    "duration_seconds": 795
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
