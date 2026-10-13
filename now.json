@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-12T21:08:08-05:00",
-  "source": "fallback",
+  "generated": "2026-10-12T21:20:13-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Peel Me A Grape",
+    "artist": "Diana Krall",
+    "album": "Love Scenes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Diana_Krall_-_Peel_Me_A_Grape.jpg",
+    "started_at": "2026-10-13T02:20:01Z",
+    "duration_seconds": 353
+  },
   "next_poll_seconds": 10
 }
