@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-12T22:01:23-05:00",
-  "source": "autopost",
+  "generated": "2026-10-12T22:01:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Autumn Leaves (Remastered 2020)",
-    "artist": "Erroll Garner",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/59f37861bcf73be90dd413bd49a8d26f.png",
-    "started_at": "2026-10-13T02:58:21Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
