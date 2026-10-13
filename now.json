@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-13T01:49:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-13T01:52:30-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Parker's Mood",
-    "artist": "Charlie Parker All Stars",
-    "album": "Les Triomphes du jazz",
-    "artwork_url": "",
-    "started_at": "2026-10-13T06:49:42.8901672Z",
-    "duration_seconds": 171,
-    "year": "2000"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-10-13T06:49:38Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
