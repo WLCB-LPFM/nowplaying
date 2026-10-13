@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-13T07:08:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-13T07:09:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rag Doll",
+    "artist": "Aerosmith",
+    "album": "Permanent Vacation",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Rag_Doll.jpg",
+    "started_at": "2026-10-13T12:09:10Z",
+    "duration_seconds": 220
+  },
   "next_poll_seconds": 10
 }
