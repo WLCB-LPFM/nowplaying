@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-14T06:03:38-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-14T06:06:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You Give Love A Bad Name",
-    "artist": "Bon Jovi",
-    "album": "Slippery When Wet",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_You_Give_Love_A_Bad_Name.jpg",
-    "started_at": "2026-10-14T11:03:25.9372323Z",
-    "duration_seconds": 209,
-    "year": "2019"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
