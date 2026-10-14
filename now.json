@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T13:54:04-05:00",
-  "source": "fallback",
+  "generated": "2026-10-14T13:57:26-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Autumn Leaves (Remastered 2020)",
+    "artist": "Erroll Garner",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_Autumn_Leaves_(Remastered_2020).jpg",
+    "started_at": "2026-10-14T18:57:11Z",
+    "duration_seconds": 205
+  },
   "next_poll_seconds": 10
 }
