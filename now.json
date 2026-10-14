@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-14T01:38:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-14T01:39:19-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "King Porter Stomp",
+    "artist": "Jelly Roll Morton",
+    "album": "Miller's Crossing",
+    "artwork_url": "",
+    "started_at": "2026-10-14T06:39:12.2256114Z",
+    "duration_seconds": 166,
+    "year": "1990"
+  },
   "next_poll_seconds": 10
 }
