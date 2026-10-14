@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-14T18:43:01-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-14T18:45:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Get Up! (Before the Night is Over)",
-    "artist": "Technotronic",
-    "album": "Pump Up the Jam",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Technotronic_-_Get_Up_(Before_The_Night_Is_Over).jpg",
-    "started_at": "2026-10-14T23:42:20.9584677Z",
-    "duration_seconds": 190,
-    "year": "2020"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
