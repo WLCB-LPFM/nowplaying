@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T12:08:44-05:00",
-  "source": "fallback",
+  "generated": "2026-10-14T12:26:27-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Children",
+    "artist": "Raphael Roan",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-14T17:26:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
