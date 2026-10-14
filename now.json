@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-14T15:58:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-14T16:00:49-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cabezasso",
+    "artist": "Potenciometro",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-14T21:00:37Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
