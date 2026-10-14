@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-14T02:41:07-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-14T02:45:55-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Blue in Green",
+    "title": "Blue In Green (Take 3)",
     "artist": "Bill Evans Trio",
-    "album": "Classic Jazz: the Fifties",
-    "artwork_url": "",
-    "started_at": "2026-10-14T07:40:54.0164341Z",
-    "duration_seconds": 315,
-    "year": "2001"
+    "album": "The Best Of Bill Evans",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Evans_Trio_-_Blue_In_Green_(Take_3).jpg",
+    "started_at": "2026-10-14T07:41:32Z",
+    "duration_seconds": 325
   },
   "next_poll_seconds": 10
 }
