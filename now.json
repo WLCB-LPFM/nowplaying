@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T13:05:23-05:00",
-  "source": "autopost",
+  "generated": "2026-10-14T13:10:58-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Pretzel Logic",
-    "artist": "Dave Stryker",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8cc4b147ec0d411f31fe2f68d5a02b9b.png",
-    "started_at": "2026-10-14T18:05:08Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
