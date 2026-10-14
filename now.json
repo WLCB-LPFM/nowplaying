@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-13T20:20:12-05:00",
-  "source": "autopost",
+  "generated": "2026-10-13T20:23:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "My Wife (Original Version)",
-    "artist": "The Who",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Who.jpg",
-    "started_at": "2026-10-14T01:19:51Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
