@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-14T14:00:02-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "generated": "2026-10-14T14:00:25-05:00",
+  "source": "fallback",
+  "mode": "live",
+  "automation_on": false,
   "show": {
     "name": "Now and Then Talk Radio",
     "hosts": [
@@ -14,13 +14,6 @@
     "ends": "15:00",
     "genre": null
   },
-  "track": {
-    "title": "Autumn Leaves (Remastered 2020)",
-    "artist": "Erroll Garner",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erroll_Garner_-_Autumn_Leaves_(Remastered_2020).jpg",
-    "started_at": "2026-10-14T18:57:11Z",
-    "duration_seconds": 205
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
