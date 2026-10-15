@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-15T16:03:26-05:00",
-  "source": "fallback",
+  "generated": "2026-10-15T16:06:14-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Don't You (Forget About Me)",
+    "artist": "Simple Minds",
+    "album": "Don't You Forget About Me (The Covers) - EP",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Simple_Minds_-_Don't_You_(Forget_About_Me).jpg",
+    "started_at": "2026-10-15T21:05:59Z",
+    "duration_seconds": 239
+  },
   "next_poll_seconds": 10
 }
