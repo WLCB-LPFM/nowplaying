@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-15T18:13:44-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-15T18:15:36-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Call Me",
-    "artist": "Blondie",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-15T23:13:40.5421523Z",
-    "duration_seconds": 130,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
