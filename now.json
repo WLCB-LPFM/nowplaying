@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-15T18:40:31-05:00",
-  "source": "autopost",
+  "generated": "2026-10-15T18:40:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Wanna Be Startin' Somethin'",
-    "artist": "Michael Jackson",
-    "album": "Thriller",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Wanna_Be_Startin'_Somethin'.jpg",
-    "started_at": "2026-10-15T23:37:27Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
