@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T19:26:47-05:00",
-  "source": "fallback",
+  "generated": "2026-10-14T19:33:41-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "maker",
+    "artist": "paris jackson",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/15b5d29fafae373b35f07fb3d9bbef8e.png",
+    "started_at": "2026-10-15T00:33:34Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
