@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-15T17:17:16-05:00",
-  "source": "fallback",
+  "generated": "2026-10-15T17:17:50-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "So You Want To Be a Rock 'N' Roll Star",
+    "artist": "The Byrds",
+    "album": "Younger Than Yesterday (Reissue Edition with Bonus Tracks)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Byrds_-_So_You_Want_To_Be_A_Rock_'n'_Roll_Star.jpg",
+    "started_at": "2026-10-15T22:17:37Z",
+    "duration_seconds": 115
+  },
   "next_poll_seconds": 10
 }
