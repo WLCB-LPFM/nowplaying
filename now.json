@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-15T17:47:36-05:00",
-  "source": "autopost",
+  "generated": "2026-10-15T17:50:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Gimme Some Lovin'",
-    "artist": "The Spencer Davis Group",
-    "album": "101 Classic Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Spencer_Davis_Group_-_Gimme_Some_Lovin'.jpg",
-    "started_at": "2026-10-15T22:47:27Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
