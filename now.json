@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-15T18:00:26-05:00",
-  "source": "autopost",
+  "generated": "2026-10-15T18:00:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Vehicle",
-    "artist": "The Ides of March",
-    "album": "Vehicle",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Ides_Of_March_-_Vehicle.jpg",
-    "started_at": "2026-10-15T22:58:09Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
