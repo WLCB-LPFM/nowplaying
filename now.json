@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T19:02:26-05:00",
-  "source": "autopost",
+  "generated": "2026-10-14T19:04:52-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Shiny Happy People",
-    "artist": "R.E.M.",
-    "album": "Out of Time (2016 Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R.e.m._-_Shiny_Happy_People.jpg",
-    "started_at": "2026-10-15T00:02:17Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
