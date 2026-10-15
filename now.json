@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T19:35:55-05:00",
-  "source": "autopost",
+  "generated": "2026-10-14T19:38:54-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Isn't She Lovely",
-    "artist": "Stevie Wonder",
-    "album": "Motown Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Isn't_She_Lovely.jpg",
-    "started_at": "2026-10-15T00:35:43Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
