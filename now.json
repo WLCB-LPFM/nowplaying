@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-15T17:54:06-05:00",
-  "source": "autopost",
+  "generated": "2026-10-15T17:55:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Drive My Car",
-    "artist": "The Beatles",
-    "album": "Rubber Soul",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_Drive_My_Car.jpg",
-    "started_at": "2026-10-15T22:53:55Z",
-    "duration_seconds": 113
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
