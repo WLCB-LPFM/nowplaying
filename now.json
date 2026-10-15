@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-15T17:23:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-15T17:25:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "She's A Fool",
-    "artist": "Lesley Gore",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lesley_Gore_-_She's_A_Fool.jpg",
-    "started_at": "2026-10-15T22:23:52Z",
-    "duration_seconds": 132
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
