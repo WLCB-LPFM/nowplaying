@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T17:46:13-05:00",
-  "source": "autopost",
+  "generated": "2026-10-16T17:49:10-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Paint It, Black",
-    "artist": "The Rolling Stones",
-    "album": "Big Hits (High Tide and Green Grass)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Paint_It,_Black.jpg",
-    "started_at": "2026-10-16T22:46:00Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
