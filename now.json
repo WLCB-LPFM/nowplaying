@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T13:00:07-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T13:02:54-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Rock With Me",
+    "artist": "John Lee Hooker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Lee_Hooker_-_Rock_With_Me.jpg",
+    "started_at": "2026-10-16T18:02:42Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
