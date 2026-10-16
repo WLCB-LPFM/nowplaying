@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T16:24:05-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T16:24:16-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "A Quitter Never Wins",
+    "artist": "Tinsley Ellis",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tinsley_Ellis_-_A_Quitter_Never_Wins.jpg",
+    "started_at": "2026-10-16T21:24:07Z",
+    "duration_seconds": 371
+  },
   "next_poll_seconds": 10
 }
