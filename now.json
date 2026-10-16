@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T13:33:01-05:00",
-  "source": "autopost",
+  "generated": "2026-10-16T13:37:37-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Dangerous Mood (feat. Joe Cocker)",
-    "artist": "B.B. King",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/B.b._King.jpg",
-    "started_at": "2026-10-16T18:32:50Z",
-    "duration_seconds": 294
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
