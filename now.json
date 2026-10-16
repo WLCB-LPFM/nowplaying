@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-16T18:57:16-05:00",
-  "source": "fallback",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "generated": "2026-10-16T18:57:50-05:00",
+  "source": "autopost",
+  "mode": "live",
+  "automation_on": false,
   "show": {
     "name": "Soul of Music",
     "hosts": [
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "There Before the Sun",
+    "artist": "Menahan Street Band",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/081f7c46b197848df8c726b247561f5d.png",
+    "started_at": "2026-10-16T23:57:33Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
