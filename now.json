@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T18:48:23-05:00",
-  "source": "autopost",
+  "generated": "2026-10-16T18:50:25-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Three Time Loser",
-    "artist": "Wilson Pickett",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wilson_Pickett_-_Three_Time_Loser.jpg",
-    "started_at": "2026-10-16T23:48:19Z",
-    "duration_seconds": 141
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
