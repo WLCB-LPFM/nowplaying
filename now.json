@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T17:54:11-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T17:54:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Rockin' In the Free World",
+    "artist": "Neil Young",
+    "album": "Rockin' in the Free World",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Neil_Young_-_Rockin'_In_The_Free_World.jpg",
+    "started_at": "2026-10-16T22:54:15Z",
+    "duration_seconds": 282
+  },
   "next_poll_seconds": 10
 }
