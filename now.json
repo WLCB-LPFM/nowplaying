@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-16T00:03:01-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-16T00:08:02-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Deep Ground",
-    "artist": "Marilyn Mazur",
-    "album": "Daylight Stories",
-    "artwork_url": "",
-    "started_at": "2026-10-16T05:03:00.942171Z",
-    "duration_seconds": 310,
-    "year": "2004"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-10-16T05:02:55Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
