@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T17:14:50-05:00",
-  "source": "autopost",
+  "generated": "2026-10-16T17:16:42-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "70's Samples & Breaks 4 Turntablism",
-    "artist": "DJ Tools 4 Turntablism",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Dj_Tools_4_Turntablism.jpg",
-    "started_at": "2026-10-16T22:14:34Z",
-    "duration_seconds": 140
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
