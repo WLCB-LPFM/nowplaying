@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T07:28:03-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T07:30:50-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Y que Pas\u00f3",
+    "artist": "Eimy MUSICA",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eimy_Musica.jpg",
+    "started_at": "2026-10-16T12:30:31Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
