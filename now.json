@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T17:16:42-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T17:17:04-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I'm a Man",
+    "artist": "The Spencer Davis Group",
+    "album": "Music For The Soul Vol 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Spencer_Davis_Group_-_I'm_A_Man.jpg",
+    "started_at": "2026-10-16T22:16:48Z",
+    "duration_seconds": 151
+  },
   "next_poll_seconds": 10
 }
