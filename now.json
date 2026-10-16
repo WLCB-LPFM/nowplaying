@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T17:13:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T17:13:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Take Me for a Little While  feat.  Ryfi (Illusions of My Childhood-Part Three)",
+    "artist": "Vanilla Fudge",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vanilla_Fudge.jpg",
+    "started_at": "2026-10-16T22:13:31Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
