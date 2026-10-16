@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-16T06:22:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-16T06:25:23-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Barbie Girl",
-    "artist": "Aqua",
-    "album": "Barbie Girl - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aqua_-_Barbie_Girl.jpg",
-    "started_at": "2026-10-16T11:22:31.252292Z",
-    "duration_seconds": 186,
-    "year": "2018"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
