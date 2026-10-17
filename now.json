@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T17:34:28-05:00",
-  "source": "fallback",
+  "generated": "2026-10-17T17:34:40-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Push It",
+    "artist": "Salt-N-Pepa",
+    "album": "NOW That's What I Call 80s Hits & Remixes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Salt-n-pepa_-_Push_It.jpg",
+    "started_at": "2026-10-17T22:34:26Z",
+    "duration_seconds": 257
+  },
   "next_poll_seconds": 10
 }
