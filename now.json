@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-17T04:14:55-05:00",
-  "source": "fallback",
+  "generated": "2026-10-17T04:15:18-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Carolina Shout",
+    "artist": "James P. Johnson",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-10-17T09:15:08.0943087Z",
+    "duration_seconds": 158,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
