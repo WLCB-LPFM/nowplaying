@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T11:26:54-05:00",
-  "source": "fallback",
+  "generated": "2026-10-17T11:28:22-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Giving You the Benefit",
+    "artist": "Pebbles",
+    "album": "Always",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pebbles_-_Giving_You_The_Benefit.jpg",
+    "started_at": "2026-10-17T16:27:49Z",
+    "duration_seconds": 301
+  },
   "next_poll_seconds": 10
 }
