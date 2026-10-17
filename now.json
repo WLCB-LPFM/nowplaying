@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T19:00:04-05:00",
-  "source": "autopost",
+  "generated": "2026-10-16T19:03:25-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "There Before the Sun",
-    "artist": "Menahan Street Band",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/081f7c46b197848df8c726b247561f5d.png",
-    "started_at": "2026-10-16T23:57:33Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
