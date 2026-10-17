@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-17T14:17:00-05:00",
-  "source": "fallback",
+  "generated": "2026-10-17T14:17:23-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "No Diggity",
+    "artist": "Blackstreet Ft Dr Dre",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-17T19:17:13.9409346Z",
+    "duration_seconds": 233,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
