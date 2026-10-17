@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-17T01:27:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-17T01:28:10-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sorry",
+    "artist": "Jay Dynamic",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-17T06:27:56Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
