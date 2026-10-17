@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-16T23:54:37-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T23:55:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "\u60c5\u592a\u75db\u7231\u592a\u4f24 (DJ\u4e5d\u96f6\u7248\u4f34\u594f)",
+    "artist": "\u8096\u96e8\u8499",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-17T04:55:16Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
