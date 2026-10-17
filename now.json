@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T11:36:52-05:00",
-  "source": "fallback",
+  "generated": "2026-10-17T11:40:34-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Whip Appeal (12-inch Version)",
+    "artist": "Babyface",
+    "album": "The Essential Babyface",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Babyface_-_Whip_Appeal_(12-inch_Version).jpg",
+    "started_at": "2026-10-17T16:40:26Z",
+    "duration_seconds": 348
+  },
   "next_poll_seconds": 10
 }
