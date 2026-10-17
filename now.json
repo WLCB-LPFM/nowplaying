@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T21:48:58-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T21:54:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Road Never Ends",
+    "artist": "Mike Zito",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike_Zito_-_The_Road_Never_Ends.jpg",
+    "started_at": "2026-10-17T02:54:02Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
