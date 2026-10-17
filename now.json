@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T11:49:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-17T11:54:02-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Alright (feat. Heavy D) [7' R&B Mix]",
-    "artist": "Janet Jackson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Janet_Jackson.jpg",
-    "started_at": "2026-10-17T16:49:16Z",
-    "duration_seconds": 294
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
