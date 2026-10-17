@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-17T03:38:53-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-17T03:44:15-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Cobra",
-    "artist": "Acoustic Affaire",
-    "album": "Mira",
-    "artwork_url": "",
-    "started_at": "2026-10-17T08:38:49.1810643Z",
-    "duration_seconds": 340,
-    "year": "2003"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
