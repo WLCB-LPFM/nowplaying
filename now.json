@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-17T15:24:15-05:00",
-  "source": "autopost",
+  "generated": "2026-10-17T15:24:27-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Whenever, Wherever",
-    "artist": "Shakira",
-    "album": "Laundry Service",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shakira_-_Whenever,_Wherever.jpg",
-    "started_at": "2026-10-17T20:21:44Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
