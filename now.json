@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-17T01:07:21-05:00",
-  "source": "autopost",
+  "generated": "2026-10-17T01:07:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Summertime",
-    "artist": "Miles Davis",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Summertime.jpg",
-    "started_at": "2026-10-17T06:04:39Z",
-    "duration_seconds": 197
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
