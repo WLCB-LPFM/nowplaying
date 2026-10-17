@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T22:02:29-05:00",
-  "source": "fallback",
+  "generated": "2026-10-16T22:19:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Synthwave Dance Loop",
+    "artist": "Sandy Khippal",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sandy_Khippal.jpg",
+    "started_at": "2026-10-17T03:18:50Z",
+    "duration_seconds": 3024
+  },
   "next_poll_seconds": 10
 }
