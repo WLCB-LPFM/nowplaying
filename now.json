@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T18:45:13-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T18:46:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Love So Big It Hurts",
+    "artist": "Troye Sivan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Troye_Sivan.jpg",
+    "started_at": "2026-10-18T23:46:17Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
