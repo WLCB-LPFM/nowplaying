@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T09:07:45-05:00",
-  "source": "autopost",
+  "generated": "2026-10-18T09:13:20-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "I'll Get By",
-    "artist": "Dick Haymes",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dick_Haymes_-_I'll_Get_By.jpg",
-    "started_at": "2026-10-18T14:07:33Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
