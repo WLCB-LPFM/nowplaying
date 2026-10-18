@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T08:57:29-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T08:57:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Don't You Leave Me Here",
+    "artist": "Jelly-Roll Morton's New Orleans Jazzmen",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T13:57:43.2126573Z",
+    "duration_seconds": 145,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
