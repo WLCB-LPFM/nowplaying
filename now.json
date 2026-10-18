@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-18T02:22:23-05:00",
-  "source": "autopost",
+  "generated": "2026-10-18T02:22:35-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Maple Leaf Rag",
-    "artist": "Jelly Roll Morton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jelly_Roll_Morton_-_Maple_Leaf_Rag.jpg",
-    "started_at": "2026-10-18T07:20:02Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
