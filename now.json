@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T10:18:30-05:00",
-  "source": "autopost",
+  "generated": "2026-10-18T10:24:05-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "My Reverie",
-    "artist": "Bea Wain",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bea_Wain_-_My_Reverie.jpg",
-    "started_at": "2026-10-18T15:18:15Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
