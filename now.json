@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T07:39:59-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T07:40:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Come, Josephine, in My Flying Machine",
+    "artist": "Spike Jones and his City Slickers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T12:40:07.7359216Z",
+    "duration_seconds": 166,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
