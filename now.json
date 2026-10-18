@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T09:13:20-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T09:20:47-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Woodchopper's Ball",
+    "artist": "Woody Herman",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Woody_Herman_-_Woodchopper's_Ball.jpg",
+    "started_at": "2026-10-18T14:20:36Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
