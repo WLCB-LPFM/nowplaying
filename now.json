@@ -1,16 +1,17 @@
 {
-  "generated": "2026-10-18T01:07:27-05:00",
-  "source": "autopost",
+  "generated": "2026-10-18T01:08:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "West Coast Blues",
-    "artist": "Wes Montgomery",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wes_Montgomery_-_West_Coast_Blues.jpg",
-    "started_at": "2026-10-18T06:03:00Z",
-    "duration_seconds": 446
+    "title": "Alabama",
+    "artist": "John Coltrane",
+    "album": "Live at Birdland",
+    "artwork_url": "",
+    "started_at": "2026-10-18T06:07:57.7524607Z",
+    "duration_seconds": 298,
+    "year": "1964"
   },
   "next_poll_seconds": 10
 }
