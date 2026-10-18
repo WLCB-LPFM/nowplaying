@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T17:49:07-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T17:54:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "The Closer I Get to You",
+    "artist": "Roberta Flack & Donny Hathaway",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roberta_Flack_&_Donny_Hathaway_-_The_Closer_I_Get_To_You.jpg",
+    "started_at": "2026-10-18T22:54:31Z",
+    "duration_seconds": 279
+  },
   "next_poll_seconds": 10
 }
