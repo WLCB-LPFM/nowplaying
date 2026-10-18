@@ -1,18 +1,17 @@
 {
-  "generated": "2026-10-18T12:36:07-05:00",
-  "source": "fallback",
-  "mode": "rebroadcast",
+  "generated": "2026-10-18T14:00:02-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Radio Roots",
-    "hosts": [
-      "Rick Hagerty"
-    ],
-    "automated": false,
-    "starts": "11:00",
-    "ends": "14:00",
-    "genre": "OTR"
+  "show": null,
+  "track": {
+    "title": "The Alimony Blues (1940)",
+    "artist": "Benny Bell; Ben Samberg",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T18:58:26.5333525Z",
+    "duration_seconds": 120,
+    "year": "1940"
   },
-  "track": null,
   "next_poll_seconds": 10
 }
