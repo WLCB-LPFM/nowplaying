@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T21:43:28-05:00",
-  "source": "fallback",
+  "generated": "2026-10-17T21:43:40-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Insatiable",
+    "artist": "Prince & The New Power Generation",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_New_Power_Generation_-_Insatiable.jpg",
+    "started_at": "2026-10-18T02:43:31Z",
+    "duration_seconds": 400
+  },
   "next_poll_seconds": 10
 }
