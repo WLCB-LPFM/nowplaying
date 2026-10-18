@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T14:34:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T14:35:09-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Oh Darlin' (1940)",
+    "artist": "Johnny Messner and his Music Box Band",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T19:35:04.6849384Z",
+    "duration_seconds": 145,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
