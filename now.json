@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T06:15:54-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T06:16:06-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sadie Hawkins' Day (1940)",
+    "artist": "Johnny Messner and his Music Box Band",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T11:15:59.4124293Z",
+    "duration_seconds": 179,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
