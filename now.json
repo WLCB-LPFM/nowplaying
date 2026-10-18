@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T21:21:59-05:00",
-  "source": "autopost",
+  "generated": "2026-10-17T21:25:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Call Me D-Nice",
-    "artist": "D-Nice",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/D-nice_-_Call_Me_D-nice.jpg",
-    "started_at": "2026-10-18T02:21:51Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
