@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T21:10:06-05:00",
-  "source": "fallback",
+  "generated": "2026-10-17T21:11:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Too Close (Radio Edit)",
+    "artist": "Next",
+    "album": "Platinum & Gold Collection: Next",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Next_-_Too_Close_(Radio_Edit).jpg",
+    "started_at": "2026-10-18T02:10:48Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
