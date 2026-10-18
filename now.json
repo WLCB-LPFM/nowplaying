@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T16:44:54-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T16:45:06-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Tasty Love",
+    "artist": "Freddie Jackson",
+    "album": "Just Like the First Time",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Freddie_Jackson_-_Tasty_Love.jpg",
+    "started_at": "2026-10-18T21:44:26Z",
+    "duration_seconds": 226
+  },
   "next_poll_seconds": 10
 }
