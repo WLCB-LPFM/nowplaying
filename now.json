@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-17T23:11:20-05:00",
-  "source": "autopost",
+  "generated": "2026-10-17T23:11:54-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hush",
-    "artist": "Michael Palermo",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Palermo.jpg",
-    "started_at": "2026-10-18T04:06:28Z",
-    "duration_seconds": 340
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
