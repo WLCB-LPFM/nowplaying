@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-18T15:02:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-18T15:04:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Half and Half",
-    "artist": "B\u00f8rge Roger-Henrichsens Orkester",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-18T20:02:15.1969769Z",
-    "duration_seconds": 164,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
