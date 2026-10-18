@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T06:10:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T06:10:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "A Good Man Is Hard to Find (1940)",
+    "artist": "Jess Stacy and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T11:10:14.8645406Z",
+    "duration_seconds": 180,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
