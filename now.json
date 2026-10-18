@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T21:06:46-05:00",
-  "source": "autopost",
+  "generated": "2026-10-17T21:10:06-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Man In the Mirror",
-    "artist": "Michael Jackson",
-    "album": "Number Ones",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Man_In_The_Mirror.jpg",
-    "started_at": "2026-10-18T02:06:40Z",
-    "duration_seconds": 324
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
