@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-18T08:16:33-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-18T08:19:09-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Au Revoir (But Not Goodbye) (1940)",
-    "artist": "Al Bowlly; Gilbert",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-18T13:16:23.2100591Z",
-    "duration_seconds": 173,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
