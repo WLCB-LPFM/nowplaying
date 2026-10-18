@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T18:50:47-05:00",
-  "source": "autopost",
+  "generated": "2026-10-18T18:54:17-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Moon So High",
-    "artist": "Remi Wolf & John Mayer",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-10-18T23:50:37Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
