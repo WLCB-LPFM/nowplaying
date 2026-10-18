@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T18:07:50-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T18:10:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "(What's So Funny 'Bout) Peace, Love And Understanding",
+    "artist": "Elvis Costello & The Attractions",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elvis_Costello_&_The_Attractions_-_(What's_So_Funny_'bout)_Peace,_Love_And_Understanding.jpg",
+    "started_at": "2026-10-18T23:10:11Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
