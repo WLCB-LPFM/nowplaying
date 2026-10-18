@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T15:45:49-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T15:46:01-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Hilo Hattie (1940)",
+    "artist": "Joe Rines; Adamson; Noble; McDiarmid",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T20:45:56.6077041Z",
+    "duration_seconds": 188,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
