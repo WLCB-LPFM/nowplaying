@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T15:25:04-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T15:25:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Shaving Cream",
+    "artist": "Benny Bell",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T20:25:18.6087129Z",
+    "duration_seconds": 161,
+    "year": "1946"
+  },
   "next_poll_seconds": 10
 }
