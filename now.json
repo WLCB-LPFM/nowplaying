@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T08:43:17-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T08:43:40-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Last Night On The Back Porch (1940)",
+    "artist": "Lang Thompson and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-18T13:43:32.1628705Z",
+    "duration_seconds": 168,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
