@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-18T01:38:07-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T01:38:52-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "In My Livingroom",
+    "artist": "Paper Tiger",
+    "album": "Everyone Here",
+    "artwork_url": "",
+    "started_at": "2026-10-18T06:38:41.2061072Z",
+    "duration_seconds": 328,
+    "year": "2007"
+  },
   "next_poll_seconds": 10
 }
