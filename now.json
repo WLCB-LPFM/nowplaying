@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T21:50:31-05:00",
-  "source": "autopost",
+  "generated": "2026-10-17T21:55:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "One More Try (Remastered)",
-    "artist": "George Michael",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Michael_-_One_More_Try_(Remastered).jpg",
-    "started_at": "2026-10-18T02:49:37Z",
-    "duration_seconds": 351
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
