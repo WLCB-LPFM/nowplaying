@@ -1,17 +1,25 @@
 {
-  "generated": "2026-10-19T06:59:24-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-10-19T07:00:09-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
     "title": "Thunderstruck",
-    "artist": "AC/DC",
+    "artist": "AC feat. DC",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-19T11:59:21.8151009Z",
-    "duration_seconds": 289,
-    "year": "1990"
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-10-19T11:59:34Z",
+    "duration_seconds": 292
   },
   "next_poll_seconds": 10
 }
