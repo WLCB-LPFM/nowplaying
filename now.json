@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-19T14:47:30-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-19T14:47:41-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "U Can't Touch This",
-    "artist": "MC Hammer",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-19T19:43:37.3169126Z",
-    "duration_seconds": 249,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
