@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T20:08:48-05:00",
-  "source": "autopost",
+  "generated": "2026-10-18T20:14:22-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Tomahawk",
-    "artist": "Marty Stuart & Marty Stuart and His Fabulous Superlatives",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Marty_Stuart_&_Marty_Stuart_And_His_Fabulous_Superlatives.jpg",
-    "started_at": "2026-10-19T01:08:27Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
