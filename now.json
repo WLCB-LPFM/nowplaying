@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T19:05:35-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T19:07:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Looking At You",
+    "artist": "MC5",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mc5_-_Looking_At_You.jpg",
+    "started_at": "2026-10-19T00:07:13Z",
+    "duration_seconds": 181
+  },
   "next_poll_seconds": 10
 }
