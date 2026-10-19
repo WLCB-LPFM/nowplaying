@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T21:19:21-05:00",
-  "source": "autopost",
+  "generated": "2026-10-18T21:22:54-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Harmony",
-    "artist": "Music Body and Spirit",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Music_Body_And_Spirit.jpg",
-    "started_at": "2026-10-19T02:19:06Z",
-    "duration_seconds": 233
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
