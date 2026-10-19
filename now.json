@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T21:37:02-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T21:59:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Paint It Black (triple j Like A Version)",
+    "artist": "Genesis Owusu",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/477dd51472956308279d79ea57a1afef.png",
+    "started_at": "2026-10-19T02:59:03Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
