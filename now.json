@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T18:57:15-05:00",
-  "source": "autopost",
+  "generated": "2026-10-18T19:00:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Flower In A Hurricane [from GTAVI]",
-    "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-10-18T23:57:00Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
