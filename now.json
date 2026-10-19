@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-19T03:25:39-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-19T03:27:53-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ko-Ko",
-    "artist": "Duke Ellington And His Famous Orchestra",
-    "album": "Ko-Ko / Conga Brava",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_And_His_Famous_Orchestra_-_Ko_Ko.jpg",
-    "started_at": "2026-10-19T08:25:22.9115761Z",
-    "duration_seconds": 157,
-    "year": "1941"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
