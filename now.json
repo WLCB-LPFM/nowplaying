@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T19:33:39-05:00",
-  "source": "fallback",
+  "generated": "2026-10-18T19:33:51-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Poison",
+    "artist": "MC5",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mc5_-_Poison.jpg",
+    "started_at": "2026-10-19T00:33:39Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
