@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T20:07:36-05:00",
-  "source": "fallback",
+  "generated": "2026-10-19T20:17:25-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Seymour Reads the Constitution",
+    "artist": "Brad Mehldau Trio",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brad_Mehldau_Trio_-_Seymour_Reads_The_Constitution.jpg",
+    "started_at": "2026-10-20T01:17:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
