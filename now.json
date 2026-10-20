@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T21:50:07-05:00",
-  "source": "fallback",
+  "generated": "2026-10-19T21:50:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Unsquare Dance",
+    "artist": "The Dave Brubeck Quartet",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dave_Brubeck_Quartet_-_Unsquare_Dance.jpg",
+    "started_at": "2026-10-20T02:50:28Z",
+    "duration_seconds": 121
+  },
   "next_poll_seconds": 10
 }
