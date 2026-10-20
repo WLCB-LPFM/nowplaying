@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-20T01:07:27-05:00",
-  "source": "fallback",
+  "generated": "2026-10-20T01:13:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Mend (To Fix, to Repair)",
+    "artist": "Elsiane",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elsiane_-_Mend_(To_Fix,_To_Repair).jpg",
+    "started_at": "2026-10-20T06:13:46Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
