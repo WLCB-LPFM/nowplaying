@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-20T01:27:55-05:00",
-  "source": "fallback",
+  "generated": "2026-10-20T01:29:05-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Encourage Yourself",
+    "artist": "The Tri-City Singers",
+    "album": "Encourage Yourself: The Music, The Ministry, The Message",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Tri-city_Singers_-_Encourage_Yourself.jpg",
+    "started_at": "2026-10-20T06:28:47Z",
+    "duration_seconds": 358
+  },
   "next_poll_seconds": 10
 }
