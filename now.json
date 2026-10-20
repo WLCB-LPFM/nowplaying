@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T21:32:36-05:00",
-  "source": "autopost",
+  "generated": "2026-10-19T21:39:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Open Sesame",
-    "artist": "Freddie Hubbard",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Freddie_Hubbard_-_Open_Sesame.jpg",
-    "started_at": "2026-10-20T02:32:28Z",
-    "duration_seconds": 432
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
