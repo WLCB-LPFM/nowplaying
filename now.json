@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-20T16:15:25-05:00",
-  "source": "fallback",
+  "generated": "2026-10-20T16:16:32-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Medley: Let Me Talk to You  feat.  My Love (feat. T.I.)",
+    "artist": "Justin Timberlake",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Justin_Timberlake.jpg",
+    "started_at": "2026-10-20T21:16:15Z",
+    "duration_seconds": 370
+  },
   "next_poll_seconds": 10
 }
