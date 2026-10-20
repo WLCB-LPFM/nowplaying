@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-19T19:38:36-05:00",
-  "source": "fallback",
+  "generated": "2026-10-19T19:38:48-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Low",
+    "artist": "Flo Rida ft. T-pain",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-20T00:38:41.7821096Z",
+    "duration_seconds": 227,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
