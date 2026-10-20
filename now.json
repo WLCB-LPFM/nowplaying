@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T21:47:30-05:00",
-  "source": "autopost",
+  "generated": "2026-10-19T21:50:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Sister Sadie (Live at RCA Victor Studios, Hollywood, CA feat. Remixed & Remastered feat. 1995)",
-    "artist": "Buddy Rich",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Buddy_Rich.jpg",
-    "started_at": "2026-10-20T02:46:59Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
