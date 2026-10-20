@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T22:51:10-05:00",
-  "source": "fallback",
+  "generated": "2026-10-19T22:51:35-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "24:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Sun Saiyan",
+    "artist": "Masroor Fateh Ali Khan",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-20T03:51:21Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
