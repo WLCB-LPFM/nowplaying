@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-20T00:49:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-20T00:52:21-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Your Smiling Face",
-    "artist": "Christina Gustafsson",
-    "album": "My Move",
-    "artwork_url": "",
-    "started_at": "2026-10-20T05:49:25.8197729Z",
-    "duration_seconds": 184,
-    "year": "2009"
+    "title": "Noite Triste",
+    "artist": "Stan Getz",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stan_Getz_-_Noite_Triste.jpg",
+    "started_at": "2026-10-20T05:48:53Z",
+    "duration_seconds": 299
   },
   "next_poll_seconds": 10
 }
