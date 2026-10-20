@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-20T17:37:40-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-20T17:41:39-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Without Me",
-    "artist": "Eminem",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eminem_-_Without_Me.jpg",
-    "started_at": "2026-10-20T22:37:05.4051792Z",
-    "duration_seconds": 286,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
