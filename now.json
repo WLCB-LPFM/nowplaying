@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T21:16:23-05:00",
-  "source": "fallback",
+  "generated": "2026-10-19T21:16:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Jeep's Blues",
+    "artist": "Duke Ellington",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_Jeep's_Blues.jpg",
+    "started_at": "2026-10-20T02:12:54Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
