@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T13:38:18-05:00",
-  "source": "fallback",
+  "generated": "2026-10-21T13:40:33-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Lady Is A Tramp",
+    "artist": "Buddy Greco",
+    "album": "The Lady Is a Tramp (Remastered) - Single",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Greco_-_The_Lady_Is_A_Tramp.jpg",
+    "started_at": "2026-10-21T18:40:21Z",
+    "duration_seconds": 210
+  },
   "next_poll_seconds": 10
 }
