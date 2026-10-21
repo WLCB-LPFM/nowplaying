@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T07:35:45-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T07:40:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Everybody Have Fun Tonight",
-    "artist": "Wang Chung",
-    "album": "Body By Jake: Randy Couture Workout Mix (BPM 104-144)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wang_Chung_-_Everybody_Have_Fun_Tonight.jpg",
-    "started_at": "2026-10-21T12:35:41Z",
-    "duration_seconds": 287
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
