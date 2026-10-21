@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T13:03:15-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T13:10:33-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Gingerbread Boy",
-    "artist": "Miles Davis",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Miles_Davis_-_Gingerbread_Boy.jpg",
-    "started_at": "2026-10-21T18:03:04Z",
-    "duration_seconds": 464
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
