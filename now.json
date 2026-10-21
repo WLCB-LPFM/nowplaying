@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T09:39:20-05:00",
-  "source": "fallback",
+  "generated": "2026-10-21T09:47:43-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Arrogant Boy",
+    "artist": "Deep Purple",
+    "album": "SPLAT!",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_Arrogant_Boy.jpg",
+    "started_at": "2026-10-21T14:47:29Z",
+    "duration_seconds": 175
+  },
   "next_poll_seconds": 10
 }
