@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T09:35:48-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T09:39:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Take the Highway",
-    "artist": "Blackberry Smoke",
-    "album": "Live From Capricorn Sound Studios - EP",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackberry_Smoke_-_Take_The_Highway.jpg",
-    "started_at": "2026-10-21T14:35:42Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
