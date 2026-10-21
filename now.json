@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T10:17:04-05:00",
-  "source": "fallback",
+  "generated": "2026-10-21T10:19:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Fire",
+    "artist": "Jimi Hendrix",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimi_Hendrix_-_Fire.jpg",
+    "started_at": "2026-10-21T15:19:04Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
