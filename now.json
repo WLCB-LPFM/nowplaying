@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T08:57:17-05:00",
-  "source": "fallback",
+  "generated": "2026-10-21T08:58:46-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "A Kind Of Magic (Live At Wembley Stadium  feat.  July 1986)",
+    "artist": "Queen",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/q/Queen.jpg",
+    "started_at": "2026-10-21T13:58:38Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
