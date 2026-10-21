@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-20T22:13:59-05:00",
-  "source": "fallback",
+  "generated": "2026-10-20T22:15:17-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Electricland",
+    "artist": "Bad Company",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bad_Company_-_Electricland.jpg",
+    "started_at": "2026-10-21T03:15:05Z",
+    "duration_seconds": 327
+  },
   "next_poll_seconds": 10
 }
