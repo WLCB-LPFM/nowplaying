@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T09:28:08-05:00",
-  "source": "fallback",
+  "generated": "2026-10-21T09:29:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Kind Of A Drag",
+    "artist": "The Buckinghams",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Buckinghams_-_Kind_Of_A_Drag.jpg",
+    "started_at": "2026-10-21T14:29:37Z",
+    "duration_seconds": 132
+  },
   "next_poll_seconds": 10
 }
