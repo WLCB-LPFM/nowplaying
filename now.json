@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T11:03:28-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T11:07:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Stranger",
-    "artist": "Jefferson Starship",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jefferson_Starship_-_Stranger.jpg",
-    "started_at": "2026-10-21T16:03:20Z",
-    "duration_seconds": 283
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
