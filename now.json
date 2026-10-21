@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T13:43:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-21T13:47:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "So Dan So",
+    "artist": "Doull",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-21T18:46:55Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
