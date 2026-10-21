@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T09:24:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T09:28:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Young Lust",
-    "artist": "Pink Floyd",
-    "album": "The Wall [2011 - Remaster] (2011 - Remaster)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_Young_Lust.jpg",
-    "started_at": "2026-10-21T14:24:49Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
