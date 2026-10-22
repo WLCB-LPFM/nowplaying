@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T20:45:04-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T20:53:35-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Forrest Gump Suite",
-    "artist": "Alan Silvestri",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alan_Silvestri_-_Forrest_Gump_Suite.jpg",
-    "started_at": "2026-10-22T01:44:58Z",
-    "duration_seconds": 530
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
