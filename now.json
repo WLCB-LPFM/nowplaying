@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-22T02:07:20-05:00",
-  "source": "autopost",
+  "generated": "2026-10-22T02:07:43-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dawo Dawo",
-    "artist": "Nura M. Inuwa",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Nura_M._Inuwa.jpg",
-    "started_at": "2026-10-22T07:03:36Z",
-    "duration_seconds": 253
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
