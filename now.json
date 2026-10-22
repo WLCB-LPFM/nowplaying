@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T17:02:47-05:00",
-  "source": "autopost",
+  "generated": "2026-10-22T17:05:57-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Into the Night",
-    "artist": "Benny Mardones",
-    "album": "Never Run Never Hide",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benny_Mardones_-_Into_The_Night.jpg",
-    "started_at": "2026-10-22T22:02:41Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
