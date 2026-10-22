@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-22T06:47:17-05:00",
-  "source": "fallback",
+  "generated": "2026-10-22T06:47:29-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Barbie Girl",
+    "artist": "Aqua",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-22T11:47:23.0555176Z",
+    "duration_seconds": 187,
+    "year": "2018"
+  },
   "next_poll_seconds": 10
 }
