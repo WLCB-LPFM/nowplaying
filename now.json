@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T20:20:44-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T20:26:31-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Humbling River",
-    "artist": "Puscifer",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Puscifer_-_The_Humbling_River.jpg",
-    "started_at": "2026-10-22T01:20:39Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
