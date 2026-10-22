@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T21:19:37-05:00",
-  "source": "fallback",
+  "generated": "2026-10-21T21:21:39-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Tous les Gar\u00e7ons et Les Filles",
+    "artist": "Fran\u00e7oise Hardy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fran\u00e7oise_Hardy_-_Tous_Les_Gar\u00e7ons_Et_Les_Filles.jpg",
+    "started_at": "2026-10-22T02:21:26Z",
+    "duration_seconds": 189
+  },
   "next_poll_seconds": 10
 }
