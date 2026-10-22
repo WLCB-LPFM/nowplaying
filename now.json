@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T19:06:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T19:09:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Why'd You Come In Here Lookin' Like That",
-    "artist": "Dolly Parton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_Why'd_You_Come_In_Here_Lookin'_Like_That.jpg",
-    "started_at": "2026-10-22T00:06:47Z",
-    "duration_seconds": 153
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
