@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T17:25:08-05:00",
-  "source": "autopost",
+  "generated": "2026-10-22T17:27:55-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Please Don't Go",
-    "artist": "KC and the Sunshine Band",
-    "album": "The Very Best of KC & the Sunshine Band",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kc_And_The_Sunshine_Band_-_Please_Don't_Go.jpg",
-    "started_at": "2026-10-22T22:24:56Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
