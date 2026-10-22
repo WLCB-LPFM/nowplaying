@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T15:25:29-05:00",
-  "source": "autopost",
+  "generated": "2026-10-22T15:28:28-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Bye Bye Bye",
-    "artist": "*NSYNC",
-    "album": "Crave Vol. 10: The Diamond Edition",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/deb9b622b145486817958fa69884541c.png",
-    "started_at": "2026-10-22T20:25:16Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
