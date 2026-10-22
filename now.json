@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-22T03:30:22-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-22T03:32:58-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "I Gotta Right to Sing the Blues",
-    "artist": "Louis Armstrong & His Orchestra",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-10-22T08:30:08.8675421Z",
-    "duration_seconds": 179,
-    "year": "1937"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-10-22T08:29:25Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
