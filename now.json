@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T21:05:29-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T21:10:08-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Laura Palmer's Theme",
-    "artist": "Angelo Badalamenti",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Angelo_Badalamenti_-_Laura_Palmer's_Theme.jpg",
-    "started_at": "2026-10-22T02:05:22Z",
-    "duration_seconds": 292
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
