@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-22T18:00:29-05:00",
-  "source": "autopost",
+  "generated": "2026-10-22T18:00:51-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "More Today Than Yesterday",
-    "artist": "Spiral Starecase",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spiral_Starecase_-_More_Today_Than_Yesterday.jpg",
-    "started_at": "2026-10-22T22:57:53Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
