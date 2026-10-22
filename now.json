@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T21:30:16-05:00",
-  "source": "fallback",
+  "generated": "2026-10-21T21:33:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Blackbird",
+    "artist": "Sarah McLachlan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sarah_Mclachlan_-_Blackbird.jpg",
+    "started_at": "2026-10-22T02:33:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
