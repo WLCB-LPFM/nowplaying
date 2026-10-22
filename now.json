@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T17:27:55-05:00",
-  "source": "fallback",
+  "generated": "2026-10-22T17:28:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Since You've Asked",
+    "artist": "Judy Collins",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Judy_Collins.jpg",
+    "started_at": "2026-10-22T22:28:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
