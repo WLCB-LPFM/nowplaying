@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-22T09:00:02-05:00",
-  "source": "autopost",
+  "generated": "2026-10-22T09:00:47-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Gin and Juice",
-    "artist": "Snoop Dogg",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snoop_Dogg_-_Gin_And_Juice.jpg",
-    "started_at": "2026-10-22T13:57:20Z",
-    "duration_seconds": 212
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
