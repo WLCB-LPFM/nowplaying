@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T17:05:57-05:00",
-  "source": "fallback",
+  "generated": "2026-10-22T17:06:19-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Lady Blue",
+    "artist": "Leon Russell",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Leon_Russell_-_Lady_Blue.jpg",
+    "started_at": "2026-10-22T22:06:14Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
