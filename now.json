@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T19:09:36-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T19:12:13-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Beat Goes On (LP Version)",
-    "artist": "Sonny & Cher",
-    "album": "In Case You're In Love",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sonny_&_Cher.jpg",
-    "started_at": "2026-10-22T00:09:20Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
