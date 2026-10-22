@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T20:53:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-21T20:59:43-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "A Real Indication",
-    "artist": "Angelo Badalamenti",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Angelo_Badalamenti_-_A_Real_Indication.jpg",
-    "started_at": "2026-10-22T01:53:51Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
