@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T15:06:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T15:06:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Shake, Rattle and Roll",
+    "artist": "Big Joe Turner",
+    "album": "Shake, Rattle and Roll",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Big_Joe_Turner_-_Shake,_Rattle_And_Roll.jpg",
+    "started_at": "2026-10-23T20:06:45Z",
+    "duration_seconds": 170
+  },
   "next_poll_seconds": 10
 }
