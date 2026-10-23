@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T15:38:49-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T15:39:12-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "I Wish I Could Have Been There",
+    "artist": "John Anderson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Anderson_-_I_Wish_I_Could_Have_Been_There.jpg",
+    "started_at": "2026-10-23T20:39:07Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
