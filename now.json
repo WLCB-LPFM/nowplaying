@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T12:41:26-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T12:44:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Giving Me the Blues",
-    "artist": "Harrell 'Young Rell' Davenport",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/h/Harrell_'young_Rell'_Davenport.jpg",
-    "started_at": "2026-10-23T17:41:12Z",
-    "duration_seconds": 229
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
