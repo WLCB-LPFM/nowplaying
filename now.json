@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T18:44:53-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T18:45:49-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Trouble Man",
+    "artist": "Buddy Guy",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_Trouble_Man.jpg",
+    "started_at": "2026-10-23T23:45:41Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
