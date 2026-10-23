@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T16:21:11-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T16:23:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "It Sure Is Monday",
-    "artist": "Mark Chesnutt",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mark_Chesnutt_-_It_Sure_Is_Monday.jpg",
-    "started_at": "2026-10-23T21:21:03Z",
-    "duration_seconds": 177
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
