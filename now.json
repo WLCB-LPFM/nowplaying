@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T16:36:37-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T16:37:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Lock 'N' Load (feat. Slash)",
+    "artist": "The Dead Daisies",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dead_Daisies_-_Lock_'n'_Load_(Feat._Slash).jpg",
+    "started_at": "2026-10-23T21:36:59Z",
+    "duration_seconds": 279
+  },
   "next_poll_seconds": 10
 }
