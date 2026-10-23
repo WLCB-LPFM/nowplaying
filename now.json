@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T16:06:29-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T16:06:52-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Free Ride",
+    "artist": "The Edgar Winter Group",
+    "album": "They Only Come Out at Night",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Edgar_Winter_Group_-_Free_Ride.jpg",
+    "started_at": "2026-10-23T21:06:38Z",
+    "duration_seconds": 163
+  },
   "next_poll_seconds": 10
 }
