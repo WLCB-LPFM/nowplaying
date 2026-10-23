@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T15:22:43-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T15:24:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Oh Boy!",
-    "artist": "Buddy Holly",
-    "album": "Not Fade Away: The Complete Studio Recordings And More",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Holly_-_Oh_Boy!.jpg",
-    "started_at": "2026-10-23T20:22:31Z",
-    "duration_seconds": 100
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
