@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T13:07:04-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T13:08:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "The Red Rooster",
+    "artist": "Howlin' Wolf",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Howlin'_Wolf_-_The_Red_Rooster.jpg",
+    "started_at": "2026-10-23T18:07:53Z",
+    "duration_seconds": 147
+  },
   "next_poll_seconds": 10
 }
