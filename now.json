@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T15:53:43-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T15:56:08-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Chicken Truck",
-    "artist": "John Anderson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Anderson_-_Chicken_Truck.jpg",
-    "started_at": "2026-10-23T20:53:32Z",
-    "duration_seconds": 163
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
