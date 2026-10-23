@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T15:19:54-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T15:22:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Ain't That A Shame",
-    "artist": "Fats Domino",
-    "album": "The Fats Domino Jukebox: 20 Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fats_Domino_-_Ain't_That_A_Shame.jpg",
-    "started_at": "2026-10-23T20:19:49Z",
-    "duration_seconds": 152
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
