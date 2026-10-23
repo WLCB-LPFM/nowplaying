@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-23T03:03:03-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-23T03:07:52-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Django",
-    "artist": "Modern Jazz Quartet",
-    "album": "Milestones Of A Legend",
-    "artwork_url": "",
-    "started_at": "2026-10-23T08:02:52.395624Z",
-    "duration_seconds": 313,
-    "year": "2016"
+    "title": "DJango",
+    "artist": "The Modern Jazz Quartet",
+    "album": "Classic Concepts",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Modern_Jazz_Quartet_-_Django.jpg",
+    "started_at": "2026-10-23T08:03:10Z",
+    "duration_seconds": 421
   },
   "next_poll_seconds": 10
 }
