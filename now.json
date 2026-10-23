@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T12:50:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T12:52:14-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Lie To Me (Live)",
+    "artist": "Albert King & Stevie Ray Vaughan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Albert_King_&_Stevie_Ray_Vaughan.jpg",
+    "started_at": "2026-10-23T17:52:00Z",
+    "duration_seconds": 538
+  },
   "next_poll_seconds": 10
 }
