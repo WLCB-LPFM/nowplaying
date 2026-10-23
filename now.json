@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T18:12:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T18:13:30-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Reach Out And Touch (Somebody's Hand)",
+    "artist": "Diana Ross",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Diana_Ross_-_Reach_Out_And_Touch_(Somebody's_Hand).jpg",
+    "started_at": "2026-10-23T23:13:19Z",
+    "duration_seconds": 180
+  },
   "next_poll_seconds": 10
 }
