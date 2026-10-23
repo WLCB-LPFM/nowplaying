@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T16:02:47-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T16:06:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Black Betty",
-    "artist": "Ram Jam",
-    "album": "Black Betty",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ram_Jam_-_Black_Betty.jpg",
-    "started_at": "2026-10-23T21:02:38Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
