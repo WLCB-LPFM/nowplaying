@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T15:49:59-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T15:53:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Some Day)",
-    "artist": "John Anderson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Anderson_-_I'm_Just_An_Old_Chunk_Of_Coal_(But_I'm_Gonna_Be_A_Diamond_Some_Day).jpg",
-    "started_at": "2026-10-23T20:49:54Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
