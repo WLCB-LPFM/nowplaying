@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T15:27:49-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T15:30:26-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Silhoettes",
-    "artist": "Get A Job",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Get_A_Job_-_The_Silhoettes.jpg",
-    "started_at": "2026-10-23T20:27:42Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
