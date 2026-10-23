@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T14:36:39-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T14:37:02-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Derecho Demonico",
+    "artist": "Jack White",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jack_White_-_Derecho_Demonico.jpg",
+    "started_at": "2026-10-23T19:36:59Z",
+    "duration_seconds": 233
+  },
   "next_poll_seconds": 10
 }
