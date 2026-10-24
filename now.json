@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:18:10-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T20:20:14-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Tarantino (feat. Garnica)",
-    "artist": "Mike Diaz",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mike_Diaz.jpg",
-    "started_at": "2026-10-24T01:17:49Z",
-    "duration_seconds": 151
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
