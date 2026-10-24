@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-24T03:26:36-05:00",
-  "source": "autopost",
+  "generated": "2026-10-24T03:26:48-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dippermouth Blues",
-    "artist": "King Oliver",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/k/King_Oliver.jpg",
-    "started_at": "2026-10-24T08:24:31Z",
-    "duration_seconds": 148
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
