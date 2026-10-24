@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T08:33:20-05:00",
-  "source": "autopost",
+  "generated": "2026-10-24T08:36:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Who Will You Run To",
-    "artist": "Heart",
-    "album": "Greatest Hits 1985-1995",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Heart_-_Who_Will_You_Run_To.jpg",
-    "started_at": "2026-10-24T13:33:10Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
