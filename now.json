@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T19:40:02-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T19:42:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Bones",
-    "artist": "Imagine Dragons",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Imagine_Dragons_-_Bones.jpg",
-    "started_at": "2026-10-24T00:39:51Z",
-    "duration_seconds": 165
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
