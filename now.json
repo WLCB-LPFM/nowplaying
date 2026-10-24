@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-24T16:05:56-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-24T16:07:49-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Don't Stop 'Til You Get Enough",
-    "artist": "Michael Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-24T21:02:10.9248587Z",
-    "duration_seconds": 351,
-    "year": "2021"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
