@@ -1,16 +1,17 @@
 {
-  "generated": "2026-10-24T15:02:08-05:00",
-  "source": "autopost",
+  "generated": "2026-10-24T15:02:20-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Rock Me",
-    "artist": "Great White",
+    "title": "You Shook Me All Night Long",
+    "artist": "AC DC",
     "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Great_White_-_Rock_Me.jpg",
-    "started_at": "2026-10-24T20:02:02Z",
-    "duration_seconds": 438
+    "artwork_url": "",
+    "started_at": "2026-10-24T20:02:09.1546989Z",
+    "duration_seconds": 200,
+    "year": "1980"
   },
   "next_poll_seconds": 10
 }
