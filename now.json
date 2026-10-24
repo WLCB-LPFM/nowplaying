@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T22:38:08-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T22:42:45-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Lines On My Face",
-    "artist": "Peter Frampton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Frampton_-_Lines_On_My_Face.jpg",
-    "started_at": "2026-10-24T03:38:00Z",
-    "duration_seconds": 291
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
