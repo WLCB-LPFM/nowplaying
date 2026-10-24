@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T22:42:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T22:45:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Wanna Go To The Sun",
+    "artist": "Peter Frampton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Frampton_-_I_Wanna_Go_To_The_Sun.jpg",
+    "started_at": "2026-10-24T03:45:41Z",
+    "duration_seconds": 436
+  },
   "next_poll_seconds": 10
 }
