@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:49:15-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T20:52:35-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Come As You Are",
-    "artist": "Nirvana",
-    "album": "Nevermind",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nirvana_-_Come_As_You_Are.jpg",
-    "started_at": "2026-10-24T01:49:05Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
