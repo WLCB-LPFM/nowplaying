@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T22:52:23-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T22:57:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Doobie Wah (Live)",
-    "artist": "Peter Frampton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Frampton_-_Doobie_Wah_(Live).jpg",
-    "started_at": "2026-10-24T03:52:07Z",
-    "duration_seconds": 326
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
