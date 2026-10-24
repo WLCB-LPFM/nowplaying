@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:00:04-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T20:04:34-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Memphis",
+    "artist": "Lonnie Mack",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lonnie_Mack_-_Memphis.jpg",
+    "started_at": "2026-10-24T01:04:20Z",
+    "duration_seconds": 153
+  },
   "next_poll_seconds": 10
 }
