@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T19:46:05-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T19:46:18-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "We Don't Know What Tomorrow Brings",
+    "artist": "The Smile",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Smile_-_We_Don't_Know_What_Tomorrow_Brings.jpg",
+    "started_at": "2026-10-24T00:46:03Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
