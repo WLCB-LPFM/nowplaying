@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-24T06:33:23-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-24T06:36:54-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Billie Jean",
-    "artist": "Michael Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-24T11:32:12.7931611Z",
-    "duration_seconds": 287,
-    "year": "1983"
+    "artist": "Michael J Thomas",
+    "album": "City Beat",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_J_Thomas_-_Billie_Jean.jpg",
+    "started_at": "2026-10-24T11:33:15Z",
+    "duration_seconds": 317
   },
   "next_poll_seconds": 10
 }
