@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-24T16:14:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-24T16:14:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Automatic",
+    "artist": "The Pointer Sisters",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-24T21:14:16.7654995Z",
+    "duration_seconds": 276,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
