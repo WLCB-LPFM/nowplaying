@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:09:14-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T20:11:28-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "I Only Want To Be With You",
-    "artist": "Dusty Springfield",
-    "album": "'60s Pop Number 1's",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dusty_Springfield_-_I_Only_Want_To_Be_With_You.jpg",
-    "started_at": "2026-10-24T01:09:02Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
