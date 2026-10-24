@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T19:42:32-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T19:43:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "How Cold Love Is",
+    "artist": "Fontaines D.C.",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fontaines_D.c._-_How_Cold_Love_Is.jpg",
+    "started_at": "2026-10-24T00:42:50Z",
+    "duration_seconds": 204
+  },
   "next_poll_seconds": 10
 }
