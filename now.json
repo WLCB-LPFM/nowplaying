@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T21:02:48-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T21:08:23-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Up in Smoke",
-    "artist": "Blackberry Smoke",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackberry_Smoke_-_Up_In_Smoke.jpg",
-    "started_at": "2026-10-24T02:02:35Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
