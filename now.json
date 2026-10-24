@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:34:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T20:40:43-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Rooster",
-    "artist": "Alice In Chains",
-    "album": "Dirt (Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_In_Chains_-_Rooster.jpg",
-    "started_at": "2026-10-24T01:34:43Z",
-    "duration_seconds": 375
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
