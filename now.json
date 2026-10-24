@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:06:26-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T20:08:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Don't Set Me Free (Live (2026 Remaster))",
-    "artist": "Ray Charles",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Ray_Charles.jpg",
-    "started_at": "2026-10-24T01:06:14Z",
-    "duration_seconds": 159
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
