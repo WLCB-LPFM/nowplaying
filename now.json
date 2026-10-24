@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T21:18:23-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T21:21:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Whiskey Man",
-    "artist": "Molly Hatchet",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Molly_Hatchet_-_Whiskey_Man.jpg",
-    "started_at": "2026-10-24T02:17:58Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
