@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T19:09:28-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T19:10:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Breakfast In America",
+    "artist": "Supertramp",
+    "album": "Breakfast In America (Remastered 2026)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Supertramp_-_Breakfast_In_America.jpg",
+    "started_at": "2026-10-24T00:10:30Z",
+    "duration_seconds": 132
+  },
   "next_poll_seconds": 10
 }
