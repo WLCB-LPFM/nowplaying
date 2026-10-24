@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T19:07:47-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T19:07:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Do Me Like That",
+    "artist": "Tom Petty & The Heartbreakers",
+    "album": "Damn the Torpedoes",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_&_The_Heartbreakers_-_Don't_Do_Me_Like_That.jpg",
+    "started_at": "2026-10-24T00:07:52Z",
+    "duration_seconds": 105
+  },
   "next_poll_seconds": 10
 }
