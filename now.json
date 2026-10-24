@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T21:47:50-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T21:50:26-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Carry On Wayward Son",
+    "artist": "Kansas",
+    "album": "Miracles Out of Nowhere",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kansas_-_Carry_On_Wayward_Son.jpg",
+    "started_at": "2026-10-24T02:50:13Z",
+    "duration_seconds": 300
+  },
   "next_poll_seconds": 10
 }
