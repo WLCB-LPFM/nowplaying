@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-24T15:02:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-24T15:05:19-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "You Shook Me All Night Long",
-    "artist": "AC DC",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-24T20:02:09.1546989Z",
-    "duration_seconds": 200,
-    "year": "1980"
+    "artist": "AC feat. DC",
+    "album": "Bonfire",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-10-24T20:02:57Z",
+    "duration_seconds": 187
   },
   "next_poll_seconds": 10
 }
