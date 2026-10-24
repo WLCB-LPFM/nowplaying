@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T19:10:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T19:13:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "My Kickass Life",
-    "artist": "Supersuckers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Supersuckers_-_My_Kickass_Life.jpg",
-    "started_at": "2026-10-24T00:10:33Z",
-    "duration_seconds": 161
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
