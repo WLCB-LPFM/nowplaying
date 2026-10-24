@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:20:14-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T20:20:36-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Crazy (feat. The Jordanaires)",
+    "artist": "Patsy Cline",
+    "album": "Patsy Cline's Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Patsy_Cline_-_Crazy_(Feat._The_Jordanaires).jpg",
+    "started_at": "2026-10-24T01:20:28Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
