@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-24T07:41:54-05:00",
-  "source": "fallback",
+  "generated": "2026-10-24T07:42:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Macarena (Bayside Boys Remix)",
+    "artist": "Los Del Rio",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-24T12:42:05.7375101Z",
+    "duration_seconds": 250,
+    "year": "2017"
+  },
   "next_poll_seconds": 10
 }
