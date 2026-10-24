@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:52:47-05:00",
-  "source": "autopost",
+  "generated": "2026-10-23T20:58:21-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Dead & Bloated",
-    "artist": "Stone Temple Pilots",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stone_Temple_Pilots_-_Dead_&_Bloated.jpg",
-    "started_at": "2026-10-24T01:52:35Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
