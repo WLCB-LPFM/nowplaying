@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-24T15:15:41-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-24T15:18:18-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "That's The Way (I Like It)",
-    "artist": "KC & The Sunshine Band",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-24T20:15:31.1161506Z",
-    "duration_seconds": 173,
-    "year": "2010"
+    "title": "That's the Way (I Like It)",
+    "artist": "KC and the Sunshine Band",
+    "album": "The TK Years",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kc_And_The_Sunshine_Band_-_That's_The_Way_(I_Like_It).jpg",
+    "started_at": "2026-10-24T20:15:50Z",
+    "duration_seconds": 306
   },
   "next_poll_seconds": 10
 }
