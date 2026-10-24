@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T21:21:33-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T21:35:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Opus Insert",
+    "artist": "Kansas",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kansas_-_Opus_Insert.jpg",
+    "started_at": "2026-10-24T02:35:01Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
