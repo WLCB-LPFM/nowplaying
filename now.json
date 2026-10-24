@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T20:22:40-05:00",
-  "source": "fallback",
+  "generated": "2026-10-23T20:23:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dead Man's Curve",
+    "artist": "Jan & Dean",
+    "album": "Filet of Soul",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jan_&_Dean_-_Dead_Man's_Curve.jpg",
+    "started_at": "2026-10-24T01:23:33Z",
+    "duration_seconds": 123
+  },
   "next_poll_seconds": 10
 }
