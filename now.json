@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T08:55:05-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T08:55:16-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Can't Dance",
+    "artist": "Harry Parry and his Radio Sextet",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T13:55:12.1331903Z",
+    "duration_seconds": 123,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
