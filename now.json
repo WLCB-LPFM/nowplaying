@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T16:53:33-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T16:58:34-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Love Me Down",
-    "artist": "Freddie Jackson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Freddie_Jackson_-_Love_Me_Down.jpg",
-    "started_at": "2026-10-25T21:53:18Z",
-    "duration_seconds": 322
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
