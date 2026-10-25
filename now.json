@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-25T05:27:20-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-25T05:29:11-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Embraceable You (Take #1)",
-    "artist": "Charlie Parker Quintet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-10-25T10:27:13.4981847Z",
-    "duration_seconds": 122,
-    "year": "1987"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
