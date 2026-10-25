@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T10:04:18-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T10:09:52-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Perfidia",
-    "artist": "Glenn Miller and His Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_And_His_Orchestra_-_Perfidia.jpg",
-    "started_at": "2026-10-25T15:04:05Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
