@@ -1,16 +1,17 @@
 {
-  "generated": "2026-10-25T02:04:58-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T02:05:21-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "St. Louis Blues",
-    "artist": "Bessie Smith",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bessie_Smith_-_St._Louis_Blues.jpg",
-    "started_at": "2026-10-25T07:02:34Z",
-    "duration_seconds": 190
+    "title": "Maple Leaf Rag",
+    "artist": "Scott Joplin",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-10-25T07:05:11.9993061Z",
+    "duration_seconds": 192,
+    "year": "1997"
   },
   "next_poll_seconds": 10
 }
