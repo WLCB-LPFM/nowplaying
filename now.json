@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T21:00:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-24T21:13:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Untittled #15",
+    "artist": "PBT",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Pbt.jpg",
+    "started_at": "2026-10-25T02:13:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
