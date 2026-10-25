@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T21:37:28-05:00",
-  "source": "autopost",
+  "generated": "2026-10-24T21:42:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "What About Us",
-    "artist": "Jodeci",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jodeci_-_What_About_Us.jpg",
-    "started_at": "2026-10-25T02:37:18Z",
-    "duration_seconds": 321
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
