@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T21:50:40-05:00",
-  "source": "autopost",
+  "generated": "2026-10-24T21:53:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "If I Ever Fall In Love",
-    "artist": "Shai",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shai_-_If_I_Ever_Fall_In_Love.jpg",
-    "started_at": "2026-10-25T02:50:35Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
