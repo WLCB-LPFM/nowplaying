@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-25T14:43:31-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-25T14:45:56-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "White Wings",
-    "artist": "Richard Tauber; Henry Geehl",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-25T19:43:26.0190222Z",
-    "duration_seconds": 163,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
