@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T05:55:43-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T06:02:12-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Wolverine Blues (1940)",
+    "artist": "Jack Teagarden and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T11:02:09.8635701Z",
+    "duration_seconds": 160,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
