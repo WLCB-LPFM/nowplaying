@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T18:31:50-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T18:36:39-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Let the Good Times Roll",
+    "artist": "JD McPherson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jd_Mcpherson_-_Let_The_Good_Times_Roll.jpg",
+    "started_at": "2026-10-25T23:36:27Z",
+    "duration_seconds": 184
+  },
   "next_poll_seconds": 10
 }
