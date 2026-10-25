@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T21:53:38-05:00",
-  "source": "fallback",
+  "generated": "2026-10-24T21:54:00-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Alone With You",
+    "artist": "Tevin Campbell",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tevin_Campbell_-_Alone_With_You.jpg",
+    "started_at": "2026-10-25T02:53:54Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
