@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T10:51:07-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T10:54:05-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Pistol Packin' Mama",
+    "artist": "Al Dexter",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Dexter_-_Pistol_Packin'_Mama.jpg",
+    "started_at": "2026-10-25T15:53:51Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
