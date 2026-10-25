@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T20:32:58-05:00",
-  "source": "fallback",
+  "generated": "2026-10-24T20:34:16-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Down By Law",
+    "artist": "MC Shan",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mc_Shan_-_Down_By_Law.jpg",
+    "started_at": "2026-10-25T01:34:10Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
