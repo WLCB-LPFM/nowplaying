@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T16:48:52-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T16:51:07-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Do Me Again",
+    "artist": "Freddie Jackson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Freddie_Jackson_-_Do_Me_Again.jpg",
+    "started_at": "2026-10-25T21:51:00Z",
+    "duration_seconds": 304
+  },
   "next_poll_seconds": 10
 }
