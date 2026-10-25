@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T15:04:59-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T15:05:10-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sometimes",
+    "artist": "Vincent Lopez and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T20:05:03.4717362Z",
+    "duration_seconds": 152,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
