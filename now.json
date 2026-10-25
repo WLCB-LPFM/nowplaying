@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T08:19:10-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T08:20:06-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Let's Do It (Let's Fall In Love) (1940)",
+    "artist": "John Ryan",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T13:19:57.3826335Z",
+    "duration_seconds": 152,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
