@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T08:34:59-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T08:35:11-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "St. Louis Blues-Part 1",
+    "artist": "F. Weir; Billy Munn",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T13:35:06.9410654Z",
+    "duration_seconds": 148,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
