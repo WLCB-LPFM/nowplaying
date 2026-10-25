@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T22:38:36-05:00",
-  "source": "fallback",
+  "generated": "2026-10-24T22:49:09-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Nh\u00e2n Duy\u00ean Vi\u00ean M\u00e3n (Tropical House 2026)",
+    "artist": "Tr\u01b0\u01a1ng T\u1ea5n T\u00e0i",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-10-25T03:48:50Z",
+    "duration_seconds": 240
+  },
   "next_poll_seconds": 10
 }
