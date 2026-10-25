@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T17:18:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T17:18:31-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Turn Your Love Around",
+    "artist": "George Benson",
+    "album": "The George Benson Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Benson_-_Turn_Your_Love_Around.jpg",
+    "started_at": "2026-10-25T22:18:27Z",
+    "duration_seconds": 230
+  },
   "next_poll_seconds": 10
 }
