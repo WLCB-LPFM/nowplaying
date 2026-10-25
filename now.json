@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T20:55:31-05:00",
-  "source": "autopost",
+  "generated": "2026-10-24T21:00:09-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Going Way Back",
-    "artist": "Just-Ice",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Just-ice_-_Going_Way_Back.jpg",
-    "started_at": "2026-10-25T01:55:18Z",
-    "duration_seconds": 304
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
