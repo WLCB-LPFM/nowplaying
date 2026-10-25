@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T22:05:12-05:00",
-  "source": "autopost",
+  "generated": "2026-10-24T22:10:47-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Tangerine",
-    "artist": "Coleman Hawkins & Ben Webster",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Coleman_Hawkins_&_Ben_Webster.jpg",
-    "started_at": "2026-10-25T03:04:56Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
