@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-25T14:25:37-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-25T14:27:51-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Indiana Blues",
-    "artist": "Van Alexander; Jerry Wayne",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-25T19:25:26.4227615Z",
-    "duration_seconds": 154,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
