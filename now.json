@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T08:40:35-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T08:40:57-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Ma Curly Headed Baby (1940)",
+    "artist": "Paul Robeson; Clutsam",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T13:40:46.5115084Z",
+    "duration_seconds": 176,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
