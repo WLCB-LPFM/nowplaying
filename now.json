@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T14:22:26-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T14:22:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Lady And The Melody (1940)",
+    "artist": "Ceelle Burke and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T19:22:30.589946Z",
+    "duration_seconds": 175,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
