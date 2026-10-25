@@ -1,17 +1,18 @@
 {
-  "generated": "2026-10-25T15:58:08-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-10-25T16:00:00-05:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Flight of the Bumble Bee (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-25T20:57:59.039308Z",
-    "duration_seconds": 136,
-    "year": "1940"
+  "show": {
+    "name": "Old School Throwbacks",
+    "hosts": [
+      "J. Cornelius"
+    ],
+    "automated": false,
+    "starts": "16:00",
+    "ends": "18:00",
+    "genre": "Hip-Hop"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
