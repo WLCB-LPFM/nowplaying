@@ -1,16 +1,17 @@
 {
-  "generated": "2026-10-25T06:22:15-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T06:22:38-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Take Five",
-    "artist": "Dave Brubeck",
+    "title": "The Wave Song (1940)",
+    "artist": "John Ryan",
     "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
-    "started_at": "2026-10-25T11:19:18Z",
-    "duration_seconds": 324
+    "artwork_url": "",
+    "started_at": "2026-10-25T11:22:30.7363679Z",
+    "duration_seconds": 150,
+    "year": "1940"
   },
   "next_poll_seconds": 10
 }
