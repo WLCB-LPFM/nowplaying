@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T07:35:05-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T07:35:27-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rose O'Day",
+    "artist": "Vincent Lopez and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T12:35:16.8144072Z",
+    "duration_seconds": 136,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
