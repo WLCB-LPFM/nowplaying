@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T21:19:06-05:00",
-  "source": "fallback",
+  "generated": "2026-10-24T21:33:46-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "(No Matter How High I Get) I'll Still Be Looking Up to You [feat. Bobby Womack & Alltrinna Grayson]",
+    "artist": "Wilton Felder",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Wilton_Felder.jpg",
+    "started_at": "2026-10-25T02:33:28Z",
+    "duration_seconds": 424
+  },
   "next_poll_seconds": 10
 }
