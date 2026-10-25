@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-25T14:10:41-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T14:11:03-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Threw a Kiss in the Ocean",
+    "artist": "Lang Thompson and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-25T19:10:53.4515156Z",
+    "duration_seconds": 171,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
