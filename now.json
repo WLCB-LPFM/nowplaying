@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:26:38-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T21:29:24-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Mars For The Rich",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/King_Gizzard_&_The_Lizard_Wizard.jpg",
+    "started_at": "2026-10-26T02:29:05Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
