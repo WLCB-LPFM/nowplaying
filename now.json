@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T19:24:06-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T19:29:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ants In the Kitchen",
-    "artist": "Masters of Reality",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Masters_Of_Reality_-_Ants_In_The_Kitchen.jpg",
-    "started_at": "2026-10-26T00:23:54Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
