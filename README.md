@@ -75,6 +75,14 @@ sudo systemctl daemon-reload
 sudo systemctl enable --now nowplaying
 ```
 
+## Known issue (2026-10-26)
+
+**The deploy key on LXC 161 no longer works** (`Permission denied (publickey)`): pushes have failed since about
+2026-10-09, so this repo's `now.json` is stale (R2, the primary, is current) and LXC 161's local `main` is thousands
+of auto-commits ahead. Until the key is fixed, `git pull` doesn't work there: deploy by copying files in. The Icecast
+title change (commit 3b94240) was deployed that way on 2026-10-26 (backups `~/nowplaying.py.before-icecast`,
+`~/.env.before-icecast`).
+
 ## Updating the script
 
 The processor pulls itself from this repo. To deploy a change:
@@ -83,6 +91,12 @@ The processor pulls itself from this repo. To deploy a change:
 sudo -u nowplaying bash -lc 'cd ~/nowplaying && git pull'
 sudo systemctl restart nowplaying
 ```
+
+## Icecast stream title
+
+Set `ICECAST_URL`, `ICECAST_MOUNTS` (comma-separated, default `/stream`), `ICECAST_USER` and `ICECAST_PASSWORD` in
+`.env` (see `env.example`). The password is WLCB's Icecast admin password: in the panel, WLCB -> Admin login ->
+Reveal. Players, TuneIn and directory listings show this title. Empty URL or password turns it off.
 
 ## PlayIt Live notes
 
