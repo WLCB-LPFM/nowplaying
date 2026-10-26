@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:56:58-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T21:57:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "River's Gonna Rise",
+    "artist": "Warren Haynes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Warren_Haynes_-_River's_Gonna_Rise.jpg",
+    "started_at": "2026-10-26T02:57:26Z",
+    "duration_seconds": 411
+  },
   "next_poll_seconds": 10
 }
