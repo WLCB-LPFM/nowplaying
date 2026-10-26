@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-26T14:44:49-05:00",
-  "source": "fallback",
+  "generated": "2026-10-26T14:45:02-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "...Baby One More Time",
+    "artist": "Britney Spears",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-26T19:44:58.7428442Z",
+    "duration_seconds": 208,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
