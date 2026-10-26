@@ -81,6 +81,15 @@ R2_SECRET_KEY    = os.environ.get("R2_SECRET_KEY", "")
 R2_BUCKET_NAME   = os.environ.get("R2_BUCKET_NAME", "wlcb-nowplaying")
 R2_OBJECT_KEY    = os.environ.get("R2_OBJECT_KEY", "now.json")
 
+# Icecast stream title (what players, TuneIn and directory listings show). Uses the station's Icecast admin login
+# (the panel's "Admin login" card). Off when ICECAST_URL or ICECAST_PASSWORD is empty.
+ICECAST_URL       = os.environ.get("ICECAST_URL", "")             # https://seahorse.juststreamwith.us:8006
+ICECAST_MOUNTS    = [m.strip() for m in os.environ.get("ICECAST_MOUNTS", "/stream").split(",") if m.strip()]
+ICECAST_USER      = os.environ.get("ICECAST_USER", "admin")
+ICECAST_PASSWORD  = os.environ.get("ICECAST_PASSWORD", "")
+# Resend an unchanged title this often, so a reconnected encoder or restarted server gets it back.
+ICECAST_REFRESH_S = int(os.environ.get("ICECAST_REFRESH_S", "300"))
+
 # Build the R2 client once at startup (None if config is missing)
 _r2_client = None
 if R2_ENDPOINT_URL and R2_ACCESS_KEY_ID and R2_SECRET_KEY:
@@ -390,6 +399,38 @@ def build_now_txt(payload) -> str:
     return "WLCB 101.5FM - https://lakesradio.org"
 
 
+# ---------- Icecast title ----------
+_icecast_last = {"text": None, "at": 0.0}
+
+def update_icecast(text: str) -> None:
+    """Set the stream title on each mount (same text as the RDS now.txt). Sent when it changes and every
+    ICECAST_REFRESH_S; a failure is logged and retried on the next poll."""
+    if not (ICECAST_URL and ICECAST_PASSWORD):
+        return
+    now = time.monotonic()
+    if text == _icecast_last["text"] and now - _icecast_last["at"] < ICECAST_REFRESH_S:
+        return
+    ok = True
+    for mount in ICECAST_MOUNTS:
+        try:
+            r = requests.get(
+                urljoin(ICECAST_URL, "/admin/metadata"),
+                params={"mount": mount, "mode": "updinfo", "song": text, "charset": "UTF-8"},
+                auth=(ICECAST_USER, ICECAST_PASSWORD),
+                timeout=HTTP_TIMEOUT_S,
+            )
+            if r.status_code != 200:
+                ok = False
+                log(f"Icecast title on {mount}: HTTP {r.status_code}")
+        except requests.RequestException as e:
+            ok = False
+            log(f"Icecast title on {mount}: {e!r}")
+    if ok:
+        if text != _icecast_last["text"]:
+            log(f"Icecast title: {text}")
+        _icecast_last.update(text=text, at=now)
+
+
 # ---------- R2 publish ----------
 def write_to_r2(payload_json: str) -> bool:
     """Write now.json to R2. Returns True on success."""
@@ -439,6 +480,10 @@ def git_commit_and_push(message: str) -> bool:
 
 def write_and_publish(payload):
     payload_json = json.dumps(payload, indent=2) + "\n"
+    now_txt = build_now_txt(payload)
+
+    # 0. Icecast stream title (same text as RDS; only sent when it changes or is due for a refresh)
+    update_icecast(now_txt)
 
     # 1. Write to R2 (primary — every poll, no change detection needed)
     if _r2_client:
@@ -447,7 +492,6 @@ def write_and_publish(payload):
             log(f"R2: [{payload.get('mode')}] {payload.get('source')} | "
                 f"{track.get('title', '(no track)') if track else '(no track)'}")
             # Also write now.txt for RDS encoder
-            now_txt = build_now_txt(payload)
             try:
                 _r2_client.put_object(
                     Bucket=R2_BUCKET_NAME,

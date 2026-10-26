@@ -84,6 +84,12 @@ sudo -u nowplaying bash -lc 'cd ~/nowplaying && git pull'
 sudo systemctl restart nowplaying
 ```
 
+## Icecast stream title
+
+Set `ICECAST_URL`, `ICECAST_MOUNTS` (comma-separated, default `/stream`), `ICECAST_USER` and `ICECAST_PASSWORD` in
+`.env` (see `env.example`). The password is WLCB's Icecast admin password: in the panel, WLCB -> Admin login ->
+Reveal. Players, TuneIn and directory listings show this title. Empty URL or password turns it off.
+
 ## PlayIt Live notes
 
 PlayIt Live runs as VM 101 on proxmox1 (Windows). Its API listens on the LAN.
