@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:05:21-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T21:07:56-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Peace Frog",
-    "artist": "The Doors",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doors_-_Peace_Frog.jpg",
-    "started_at": "2026-10-26T02:05:16Z",
-    "duration_seconds": 175
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
