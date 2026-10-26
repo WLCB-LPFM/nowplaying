@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-25T23:27:47-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T23:29:51-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Unity",
-    "artist": "TheFatRat",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thefatrat_-_Unity.jpg",
-    "started_at": "2026-10-26T04:25:47Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
