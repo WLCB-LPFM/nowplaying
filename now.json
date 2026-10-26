@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:17:23-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T21:18:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Political Science",
-    "artist": "Randy Newman",
-    "album": "Sail Away (Bonus Tracks Version) [2002 Remaster]",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Randy_Newman_-_Political_Science.jpg",
-    "started_at": "2026-10-26T02:17:13Z",
-    "duration_seconds": 98
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
