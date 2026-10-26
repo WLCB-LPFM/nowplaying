@@ -97,6 +97,9 @@ Set `ICECAST_URL`, `ICECAST_MOUNTS` (comma-separated, default `/stream`), `ICECA
 `.env` (see `env.example`). The password is WLCB's Icecast admin password: in the panel, WLCB -> Admin login ->
 Reveal. Players, TuneIn and directory listings show this title. Empty URL or password turns it off.
 
+The Icecast title is "Artist - Title" (players, cover art and royalty reports expect that order); the RDS text in
+now.txt stays "Title - Artist". Shows and the fallback are the same in both.
+
 ## PlayIt Live notes
 
 PlayIt Live runs as VM 101 on proxmox1 (Windows). Its API listens on the LAN.

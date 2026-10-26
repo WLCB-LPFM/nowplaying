@@ -399,11 +399,24 @@ def build_now_txt(payload) -> str:
     return "WLCB 101.5FM - https://lakesradio.org"
 
 
+def build_icecast_txt(payload) -> str:
+    """
+    Stream title for Icecast. Players, TuneIn, cover-art lookups and royalty reports (SoundExchange) expect
+    "Artist - Title", so a known track goes the other way round from the RDS text; shows and the fallback match it.
+    """
+    track = payload.get("track")
+    if track and track.get("title"):
+        title  = (track.get("title")  or "").strip()
+        artist = (track.get("artist") or "").strip()
+        return f"{artist} - {title}" if artist else title
+    return build_now_txt(payload)
+
+
 # ---------- Icecast title ----------
 _icecast_last = {"text": None, "at": 0.0}
 
 def update_icecast(text: str) -> None:
-    """Set the stream title on each mount (same text as the RDS now.txt). Sent when it changes and every
+    """Set the stream title on each mount ("Artist - Title", see build_icecast_txt). Sent when it changes and every
     ICECAST_REFRESH_S; a failure is logged and retried on the next poll."""
     if not (ICECAST_URL and ICECAST_PASSWORD):
         return
@@ -482,8 +495,8 @@ def write_and_publish(payload):
     payload_json = json.dumps(payload, indent=2) + "\n"
     now_txt = build_now_txt(payload)
 
-    # 0. Icecast stream title (same text as RDS; only sent when it changes or is due for a refresh)
-    update_icecast(now_txt)
+    # 0. Icecast stream title ("Artist - Title"; only sent when it changes or is due for a refresh)
+    update_icecast(build_icecast_txt(payload))
 
     # 1. Write to R2 (primary — every poll, no change detection needed)
     if _r2_client:
