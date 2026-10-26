@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:39:36-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T21:41:38-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Danny Nedelko",
+    "artist": "IDLES",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Idles_-_Danny_Nedelko.jpg",
+    "started_at": "2026-10-26T02:41:26Z",
+    "duration_seconds": 205
+  },
   "next_poll_seconds": 10
 }
