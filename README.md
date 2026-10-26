@@ -75,13 +75,12 @@ sudo systemctl daemon-reload
 sudo systemctl enable --now nowplaying
 ```
 
-## Known issue (2026-10-26)
+## Deploy key
 
-**The deploy key on LXC 161 no longer works** (`Permission denied (publickey)`): pushes have failed since about
-2026-10-09, so this repo's `now.json` is stale (R2, the primary, is current) and LXC 161's local `main` is thousands
-of auto-commits ahead. Until the key is fixed, `git pull` doesn't work there: deploy by copying files in. The Icecast
-title change (commit 3b94240) was deployed that way on 2026-10-26 (backups `~/nowplaying.py.before-icecast`,
-`~/.env.before-icecast`).
+LXC 161 pushes with the ed25519 key in `/home/nowplaying/.ssh/id_ed25519`, registered on this repo as the
+**write** deploy key "nowplaying LXC 161 (10.101.0.161) - publishes now.json". It was missing from about 2026-10-09
+to 2026-10-26 (pushes failed with `Permission denied (publickey)`); re-added 2026-10-26, the 10,715-commit backlog
+merged with GitHub's main and pushed, and the service's own pushes work again.
 
 ## Updating the script
 
