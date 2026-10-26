@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:23:52-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T21:26:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Ball Of Confusion (That's What The World Is Today) [Single Version feat. Mono]",
-    "artist": "The Temptations",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Temptations.jpg",
-    "started_at": "2026-10-26T02:23:36Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
