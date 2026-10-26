@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:18:40-05:00",
-  "source": "fallback",
+  "generated": "2026-10-25T21:19:48-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Revolution Will Not Be Televised",
+    "artist": "Gil Scott-Heron",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gil_Scott-heron_-_The_Revolution_Will_Not_Be_Televised.jpg",
+    "started_at": "2026-10-26T02:19:03Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
