@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:12:56-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T21:16:38-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Move On Rider Riddim",
-    "artist": "Tenor Youthman & Warrior Dread",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-10-26T02:12:44Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
