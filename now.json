@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T21:08:30-05:00",
-  "source": "autopost",
+  "generated": "2026-10-25T21:11:05-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Chicago",
-    "artist": "Graham Nash",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Graham_Nash_-_Chicago.jpg",
-    "started_at": "2026-10-26T02:08:26Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
