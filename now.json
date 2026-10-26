@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-26T06:27:36-05:00",
-  "source": "fallback",
+  "generated": "2026-10-26T06:28:42-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Start Your Engines",
+    "artist": "Colin Hennerz",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Colin_Hennerz.jpg",
+    "started_at": "2026-10-26T11:28:32Z",
+    "duration_seconds": 270
+  },
   "next_poll_seconds": 10
 }
