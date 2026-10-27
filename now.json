@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-27T12:30:12-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-27T12:37:20-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Funkytown",
-    "artist": "Lipps Inc.",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-27T17:30:05.5076199Z",
-    "duration_seconds": 449,
-    "year": "1980"
+    "title": "Funkytown (Long Version)",
+    "artist": "Lipps, Inc.",
+    "album": "Movida Disco Dancing",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lipps,_Inc._-_Funkytown_(Long_Version).jpg",
+    "started_at": "2026-10-27T17:31:06Z",
+    "duration_seconds": 469
   },
   "next_poll_seconds": 10
 }
