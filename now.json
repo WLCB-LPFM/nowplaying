@@ -1,17 +1,25 @@
 {
-  "generated": "2026-10-27T14:58:01-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-10-27T15:00:06-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Roadhouse Radio",
+    "hosts": [
+      "Joe Powers"
+    ],
+    "automated": false,
+    "starts": "15:00",
+    "ends": "17:00",
+    "genre": "Country"
+  },
   "track": {
     "title": "Roll With It",
     "artist": "Steve Winwood",
     "album": "Roll With It",
     "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Winwood_-_Roll_With_It.jpg",
-    "started_at": "2026-10-27T19:57:22.7609992Z",
-    "duration_seconds": 298,
-    "year": "1988"
+    "started_at": "2026-10-27T19:57:49Z",
+    "duration_seconds": 289
   },
   "next_poll_seconds": 10
 }
