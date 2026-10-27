@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-26T20:39:42-05:00",
-  "source": "autopost",
+  "generated": "2026-10-26T20:46:24-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Bewitched, Bothered, And Bewildered",
-    "artist": "Ella Fitzgerald",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Ella_Fitzgerald_-_Bewitched,_Bothered,_And_Bewildered.jpg",
-    "started_at": "2026-10-27T01:39:34Z",
-    "duration_seconds": 425
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
