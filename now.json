@@ -1,25 +1,17 @@
 {
-  "generated": "2026-10-27T16:59:45-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-10-27T17:00:08-05:00",
+  "source": "playitlive",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Roadhouse Radio",
-    "hosts": [
-      "Joe Powers"
-    ],
-    "automated": false,
-    "starts": "15:00",
-    "ends": "17:00",
-    "genre": "Country"
-  },
+  "show": null,
   "track": {
     "title": "New Sensation",
     "artist": "INXS",
     "album": "Kick (30th Deluxe Edition)",
     "artwork_url": "https://cdn.autopo.st/images/coverart/i/Inxs_-_New_Sensation.jpg",
-    "started_at": "2026-10-27T21:59:34Z",
-    "duration_seconds": 196
+    "started_at": "2026-10-27T21:56:55.4530253Z",
+    "duration_seconds": 211,
+    "year": "1987"
   },
   "next_poll_seconds": 10
 }
