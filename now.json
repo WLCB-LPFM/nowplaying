@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-26T21:18:08-05:00",
-  "source": "autopost",
+  "generated": "2026-10-26T21:25:47-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Voodoo Child (Slight Return)",
-    "artist": "Stevie Ray Vaughan & Double Trouble",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_Voodoo_Child_(Slight_Return).jpg",
-    "started_at": "2026-10-27T02:17:52Z",
-    "duration_seconds": 479
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
