@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-26T20:24:13-05:00",
-  "source": "autopost",
+  "generated": "2026-10-26T20:29:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Blue Moon",
-    "artist": "Carmen McRae",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/66c0b87914994c019a90782e5447af80.png",
-    "started_at": "2026-10-27T01:23:58Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
