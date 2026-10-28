@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T22:05:42-05:00",
-  "source": "autopost",
+  "generated": "2026-10-27T22:10:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Moving In Stereo",
-    "artist": "The Cars",
-    "album": "Complete Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cars_-_Moving_In_Stereo.jpg",
-    "started_at": "2026-10-28T03:05:28Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
