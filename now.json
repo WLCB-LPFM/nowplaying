@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-28T02:44:47-05:00",
-  "source": "fallback",
+  "generated": "2026-10-28T02:45:00-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Take Five",
+    "artist": "Malene Mortensen",
+    "album": "Malene chante No\u00ebl",
+    "artwork_url": "",
+    "started_at": "2026-10-28T07:44:52.4290965Z",
+    "duration_seconds": 311,
+    "year": "2008"
+  },
   "next_poll_seconds": 10
 }
