@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-28T18:17:19-05:00",
-  "source": "fallback",
+  "generated": "2026-10-28T18:17:42-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Nuthin\u2019 But A G Thang",
+    "artist": "Dr. Dre",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-28T23:17:31.4644472Z",
+    "duration_seconds": 224,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
