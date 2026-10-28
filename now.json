@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T20:27:16-05:00",
-  "source": "fallback",
+  "generated": "2026-10-27T20:27:29-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Big Ten Inch Record",
+    "artist": "Aerosmith",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aerosmith_-_Big_Ten_Inch_Record.jpg",
+    "started_at": "2026-10-28T01:27:18Z",
+    "duration_seconds": 132
+  },
   "next_poll_seconds": 10
 }
