@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-28T17:16:54-05:00",
-  "source": "fallback",
+  "generated": "2026-10-28T17:17:17-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Same Song",
+    "artist": "Digital Underground",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-28T22:17:09.2540399Z",
+    "duration_seconds": 179,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
