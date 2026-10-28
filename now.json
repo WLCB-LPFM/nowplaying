@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T21:21:46-05:00",
-  "source": "autopost",
+  "generated": "2026-10-27T21:28:42-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Working Man",
-    "artist": "Rush",
-    "album": "Rush",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rush_-_Working_Man.jpg",
-    "started_at": "2026-10-28T02:21:36Z",
-    "duration_seconds": 432
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
