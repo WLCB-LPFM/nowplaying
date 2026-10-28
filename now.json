@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T21:49:49-05:00",
-  "source": "autopost",
+  "generated": "2026-10-27T21:59:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "\u2605",
-    "artist": "David Bowie",
-    "album": "\u2605",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/David_Bowie_-_\u2605.jpg",
-    "started_at": "2026-10-28T02:49:35Z",
-    "duration_seconds": 597
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
