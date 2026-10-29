@@ -1,25 +1,9 @@
 {
-  "generated": "2026-10-29T08:57:27-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
+  "generated": "2026-10-29T09:00:04-05:00",
+  "source": "fallback",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "The John and Heidi Show",
-    "hosts": [
-      "John and Heidi Small"
-    ],
-    "automated": false,
-    "starts": "07:00",
-    "ends": "09:00",
-    "genre": null
-  },
-  "track": {
-    "title": "Too Shy",
-    "artist": "Kajagoogoo",
-    "album": "White Feathers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kajagoogoo_-_Too_Shy.jpg",
-    "started_at": "2026-10-29T13:57:11Z",
-    "duration_seconds": 188
-  },
+  "show": null,
+  "track": null,
   "next_poll_seconds": 10
 }
