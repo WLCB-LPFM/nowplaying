@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:40:27-05:00",
-  "source": "autopost",
+  "generated": "2026-10-29T17:41:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Renaissance Fair",
-    "artist": "The Byrds",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Byrds_-_Renaissance_Fair.jpg",
-    "started_at": "2026-10-29T22:40:16Z",
-    "duration_seconds": 111
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
