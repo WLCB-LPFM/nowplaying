@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-29T00:27:45-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T00:28:09-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Strange Flowers",
+    "artist": "Sonarpilot",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Sonarpilot.jpg",
+    "started_at": "2026-10-29T05:27:52Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
