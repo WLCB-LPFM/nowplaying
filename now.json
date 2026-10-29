@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:27:02-05:00",
-  "source": "autopost",
+  "generated": "2026-10-29T17:29:29-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "It Don't Matter To Me",
-    "artist": "Bread",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bread_-_It_Don't_Matter_To_Me.jpg",
-    "started_at": "2026-10-29T22:26:51Z",
-    "duration_seconds": 173
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
