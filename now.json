@@ -1,17 +1,26 @@
 {
-  "generated": "2026-10-28T18:56:55-05:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-10-28T19:00:07-05:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The Mix",
+    "hosts": [
+      "Tony Young",
+      "Carolyn Carmody"
+    ],
+    "automated": false,
+    "starts": "19:00",
+    "ends": "22:00",
+    "genre": "Variety"
+  },
   "track": {
-    "title": "Let's Get It Started",
+    "title": "Let's Get It Started (Spike Mix)",
     "artist": "Black Eyed Peas",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-10-28T23:56:46.6633117Z",
-    "duration_seconds": 214,
-    "year": "2010"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Eyed_Peas_-_Let's_Get_It_Started_(Spike_Mix).jpg",
+    "started_at": "2026-10-28T23:57:06Z",
+    "duration_seconds": 222
   },
   "next_poll_seconds": 10
 }
