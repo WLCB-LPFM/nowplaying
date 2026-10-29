@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:41:58-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T17:42:55-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Don't You Care",
+    "artist": "The Buckinghams",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Buckinghams_-_Don't_You_Care.jpg",
+    "started_at": "2026-10-29T22:42:44Z",
+    "duration_seconds": 148
+  },
   "next_poll_seconds": 10
 }
