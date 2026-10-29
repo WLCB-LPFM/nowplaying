@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:37:26-05:00",
-  "source": "autopost",
+  "generated": "2026-10-29T17:39:30-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The Warmth Of The Sun",
-    "artist": "The Beach Boys",
-    "album": "Shut Down, Vol. 2 (Mono & Stereo)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beach_Boys_-_The_Warmth_Of_The_Sun.jpg",
-    "started_at": "2026-10-29T22:37:12Z",
-    "duration_seconds": 151
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
