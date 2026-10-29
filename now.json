@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:50:19-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T17:50:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Over You",
+    "artist": "Gary Puckett & The Union Gap",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Puckett_&_The_Union_Gap_-_Over_You.jpg",
+    "started_at": "2026-10-29T22:50:21Z",
+    "duration_seconds": 137
+  },
   "next_poll_seconds": 10
 }
