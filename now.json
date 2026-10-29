@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-29T06:00:56-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T06:03:22-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Might Think",
+    "artist": "The Cars",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-29T11:03:14.3293637Z",
+    "duration_seconds": 179,
+    "year": "1984"
+  },
   "next_poll_seconds": 10
 }
