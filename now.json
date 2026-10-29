@@ -1,16 +1,9 @@
 {
-  "generated": "2026-10-29T09:58:39-05:00",
-  "source": "autopost",
+  "generated": "2026-10-29T09:58:52-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You Give Love A Bad Name",
-    "artist": "Bon Jovi",
-    "album": "You give love a bad name",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bon_Jovi_-_You_Give_Love_A_Bad_Name.jpg",
-    "started_at": "2026-10-29T14:55:25Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
