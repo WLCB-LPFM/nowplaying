@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:52:24-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T17:53:32-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Ferry Cross the Mersey",
+    "artist": "Gerry & The Pacemakers",
+    "album": "Ferry Cross the Mersey (Mono & Stereo Versions)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gerry_&_The_Pacemakers_-_Ferry_Cross_The_Mersey.jpg",
+    "started_at": "2026-10-29T22:53:26Z",
+    "duration_seconds": 120
+  },
   "next_poll_seconds": 10
 }
