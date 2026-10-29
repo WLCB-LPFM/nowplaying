@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T19:19:49-05:00",
-  "source": "autopost",
+  "generated": "2026-10-28T19:23:12-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Midnight In Montgomery",
-    "artist": "Alan Jackson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alan_Jackson_-_Midnight_In_Montgomery.jpg",
-    "started_at": "2026-10-29T00:19:40Z",
-    "duration_seconds": 226
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
