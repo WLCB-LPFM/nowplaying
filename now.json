@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:30:27-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T17:34:45-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "The Crystal Ship",
+    "artist": "The Doors",
+    "album": "The Crystal Ship",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doors_-_The_Crystal_Ship.jpg",
+    "started_at": "2026-10-29T22:34:35Z",
+    "duration_seconds": 151
+  },
   "next_poll_seconds": 10
 }
