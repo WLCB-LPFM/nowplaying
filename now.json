@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-28T22:08:24-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-28T22:10:50-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Crazeology (Take #4)",
-    "artist": "Charlie Parker Sextet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-10-29T03:08:12.6643417Z",
-    "duration_seconds": 171,
-    "year": "1987"
+    "title": "Crazeology",
+    "artist": "Charlie Parker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Crazeology.jpg",
+    "started_at": "2026-10-29T03:08:35Z",
+    "duration_seconds": 182
   },
   "next_poll_seconds": 10
 }
