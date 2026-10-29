@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T08:14:20-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T08:16:02-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Big Time",
+    "artist": "Peter Gabriel",
+    "album": "So",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Gabriel_-_Big_Time.jpg",
+    "started_at": "2026-10-29T13:15:51Z",
+    "duration_seconds": 249
+  },
   "next_poll_seconds": 10
 }
