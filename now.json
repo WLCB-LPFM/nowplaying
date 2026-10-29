@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T21:35:16-05:00",
-  "source": "autopost",
+  "generated": "2026-10-28T21:41:03-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Skullcrusher Mountain",
-    "artist": "Jonathan Coulton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jonathan_Coulton_-_Skullcrusher_Mountain.jpg",
-    "started_at": "2026-10-29T02:35:09Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
