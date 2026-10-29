@@ -1,9 +1,17 @@
 {
-  "generated": "2026-10-29T10:58:41-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T11:02:13-05:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Out Of Touch",
+    "artist": "Hall & Oates",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-10-29T16:02:11.0157892Z",
+    "duration_seconds": 227,
+    "year": "2021"
+  },
   "next_poll_seconds": 10
 }
