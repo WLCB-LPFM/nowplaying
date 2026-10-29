@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T21:24:40-05:00",
-  "source": "autopost",
+  "generated": "2026-10-28T21:26:33-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
-    "artist": "Andrew Gold",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Andrew_Gold_-_Spooky,_Scary_Skeletons_(Undead_Tombstone_Remix).jpg",
-    "started_at": "2026-10-29T02:24:32Z",
-    "duration_seconds": 126
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
