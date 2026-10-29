@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:06:54-05:00",
-  "source": "autopost",
+  "generated": "2026-10-29T17:09:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Sara Smile",
-    "artist": "Daryl Hall & John Oates",
-    "album": "Playlist: The Very Best Of Daryl Hall & John Oates",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daryl_Hall_&_John_Oates_-_Sara_Smile.jpg",
-    "started_at": "2026-10-29T22:06:40Z",
-    "duration_seconds": 186
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
