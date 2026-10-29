@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:17:25-05:00",
-  "source": "autopost",
+  "generated": "2026-10-29T17:19:40-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Didn't Want To Have To Do It",
-    "artist": "The Lovin' Spoonful",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Lovin'_Spoonful_-_Didn't_Want_To_Have_To_Do_It.jpg",
-    "started_at": "2026-10-29T22:17:18Z",
-    "duration_seconds": 156
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
