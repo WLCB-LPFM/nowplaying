@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T19:48:18-05:00",
-  "source": "autopost",
+  "generated": "2026-10-28T19:51:18-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Main Title (The Shining)",
-    "artist": "Wendy Carlos & Rachel Elkind",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/w/Wendy_Carlos_&_Rachel_Elkind.jpg",
-    "started_at": "2026-10-29T00:48:00Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
