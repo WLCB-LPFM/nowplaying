@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T19:35:40-05:00",
-  "source": "autopost",
+  "generated": "2026-10-28T19:38:39-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Dream  feat.  The Nightmare  feat.  End Titles",
-    "artist": "Pino Donaggio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Pino_Donaggio.jpg",
-    "started_at": "2026-10-29T00:35:19Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
