@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T19:06:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-28T19:14:12-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Somebody's Watching Me",
+    "artist": "Rockwell",
+    "album": "Fama Classic",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rockwell_-_Somebody's_Watching_Me.jpg",
+    "started_at": "2026-10-29T00:14:03Z",
+    "duration_seconds": 238
+  },
   "next_poll_seconds": 10
 }
