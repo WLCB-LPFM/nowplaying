@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T17:09:32-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T17:09:56-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Breakdown",
+    "artist": "Tom Petty & The Heartbreakers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_&_The_Heartbreakers_-_Breakdown.jpg",
+    "started_at": "2026-10-29T22:09:51Z",
+    "duration_seconds": 162
+  },
   "next_poll_seconds": 10
 }
