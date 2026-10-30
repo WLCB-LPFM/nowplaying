@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T14:51:05-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T14:57:48-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Jessica",
-    "artist": "The Allman Brothers Band",
-    "album": "Absolute 70's",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_Jessica.jpg",
-    "started_at": "2026-10-30T19:50:53Z",
-    "duration_seconds": 425
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
