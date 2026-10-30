@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T18:40:26-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T18:44:55-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Never, Never Gonna Give Ya Up",
-    "artist": "Barry White",
-    "album": "Baby Driver (Music from the Motion Picture)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Barry_White_-_Never,_Never_Gonna_Give_Ya_Up.jpg",
-    "started_at": "2026-10-30T23:40:18Z",
-    "duration_seconds": 288
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
