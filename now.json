@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-29T19:00:08-05:00",
-  "source": "autopost",
-  "mode": "rebroadcast",
-  "automation_on": true,
+  "generated": "2026-10-29T19:00:32-05:00",
+  "source": "fallback",
+  "mode": "live",
+  "automation_on": false,
   "show": {
     "name": "Red-Pill",
     "hosts": [
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Want Your Sex, Pts. 1 & 2",
-    "artist": "George Michael",
-    "album": "Faith (2010 Remastered)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Michael_-_I_Want_Your_Sex,_Pts._1_&_2.jpg",
-    "started_at": "2026-10-29T23:56:58Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
