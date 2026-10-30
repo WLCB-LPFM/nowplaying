@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T13:50:33-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T13:51:08-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Frankenstein",
+    "artist": "The Edgar Winter Group",
+    "album": "The Number One's: Classic Rock",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Edgar_Winter_Group_-_Frankenstein.jpg",
+    "started_at": "2026-10-30T18:51:01Z",
+    "duration_seconds": 289
+  },
   "next_poll_seconds": 10
 }
