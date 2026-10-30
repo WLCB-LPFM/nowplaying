@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T16:51:05-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T16:53:53-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "This Is Halloween",
-    "artist": "The Citizens of Halloween",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Citizens_Of_Halloween_-_This_Is_Halloween.jpg",
-    "started_at": "2026-10-30T21:50:50Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
