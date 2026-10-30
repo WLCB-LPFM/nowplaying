@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T17:16:40-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T17:20:01-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "(Don't Fear) The Reaper",
-    "artist": "Blue \u00d6yster Cult",
-    "album": "Monster Halloween Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blue_\u00d6yster_Cult_-_(Don't_Fear)_The_Reaper.jpg",
-    "started_at": "2026-10-30T22:16:24Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
