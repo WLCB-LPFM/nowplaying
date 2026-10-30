@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T15:17:36-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T15:20:36-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Roadhouse Blues",
-    "artist": "The Doors",
-    "album": "The Very Best of The Doors",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doors_-_Roadhouse_Blues.jpg",
-    "started_at": "2026-10-30T20:17:28Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
