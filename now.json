@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T20:42:25-05:00",
-  "source": "autopost",
+  "generated": "2026-10-29T20:46:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Will Be There (Remastered)",
-    "artist": "The Escape Club",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Escape_Club.jpg",
-    "started_at": "2026-10-30T01:42:10Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
