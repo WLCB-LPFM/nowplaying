@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T17:30:53-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T17:33:41-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "It's My Life",
+    "artist": "No Doubt",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/No_Doubt_-_It's_My_Life.jpg",
+    "started_at": "2026-10-30T22:33:27Z",
+    "duration_seconds": 226
+  },
   "next_poll_seconds": 10
 }
