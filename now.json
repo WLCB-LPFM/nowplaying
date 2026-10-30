@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T18:21:08-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T18:21:43-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Give The People What They Want",
+    "artist": "The O'Jays",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_O'jays_-_Give_The_People_What_They_Want.jpg",
+    "started_at": "2026-10-30T23:20:58Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
