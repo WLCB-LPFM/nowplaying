@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T17:11:13-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T17:13:50-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Monster Mash",
-    "artist": "Bobby 'Boris' Pickett & The Crypt-Kickers",
-    "album": "Sixties Party Songs, Vol 4",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bobby_'boris'_Pickett_&_The_Crypt-kickers.jpg",
-    "started_at": "2026-10-30T22:10:55Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
