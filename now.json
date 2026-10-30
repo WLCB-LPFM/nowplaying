@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T16:08:31-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T16:08:44-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Witchy Woman",
+    "artist": "Eagles",
+    "album": "The Complete Greatest Hits (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_Witchy_Woman.jpg",
+    "started_at": "2026-10-30T21:08:30Z",
+    "duration_seconds": 253
+  },
   "next_poll_seconds": 10
 }
