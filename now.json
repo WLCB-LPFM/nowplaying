@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T20:33:12-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T20:34:31-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Got You (Where I Want You)",
+    "artist": "The Flys",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Flys_-_Got_You_(Where_I_Want_You).jpg",
+    "started_at": "2026-10-30T01:34:21Z",
+    "duration_seconds": 234
+  },
   "next_poll_seconds": 10
 }
