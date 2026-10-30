@@ -1,17 +1,16 @@
 {
-  "generated": "2026-10-30T03:53:22-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-30T03:56:32-05:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bikini",
-    "artist": "Dexter Gordon Quartet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-10-30T08:53:17.6178171Z",
-    "duration_seconds": 208,
-    "year": "1987"
+    "title": "Blues Bikini",
+    "artist": "Dexter Gordon",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dexter_Gordon_-_Blues_Bikini.jpg",
+    "started_at": "2026-10-30T08:53:35Z",
+    "duration_seconds": 217
   },
   "next_poll_seconds": 10
 }
