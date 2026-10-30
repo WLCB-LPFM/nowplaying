@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T20:27:10-05:00",
-  "source": "autopost",
+  "generated": "2026-10-29T20:31:51-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Want To Know What Love Is (Remastered)",
-    "artist": "Foreigner",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/f/Foreigner.jpg",
-    "started_at": "2026-10-30T01:26:53Z",
-    "duration_seconds": 304
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
