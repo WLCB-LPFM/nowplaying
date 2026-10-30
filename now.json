@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T17:40:46-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T17:41:54-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Somebody",
+    "artist": "Bryan Adams",
+    "album": "Reckless (30th Anniversary) [Deluxe Edition]",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bryan_Adams_-_Somebody.jpg",
+    "started_at": "2026-10-30T22:41:48Z",
+    "duration_seconds": 242
+  },
   "next_poll_seconds": 10
 }
