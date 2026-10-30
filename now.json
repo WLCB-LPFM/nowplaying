@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T18:10:32-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T18:13:09-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Let the Green Grass Fool You",
-    "artist": "Wilson Pickett",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wilson_Pickett_-_Don't_Let_The_Green_Grass_Fool_You.jpg",
-    "started_at": "2026-10-30T23:10:25Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
