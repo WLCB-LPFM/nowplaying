@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T14:36:40-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T14:38:11-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Green Grass & High Tides",
+    "artist": "The Outlaws",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Outlaws_-_Green_Grass_&_High_Tides.jpg",
+    "started_at": "2026-10-30T19:37:56Z",
+    "duration_seconds": 586
+  },
   "next_poll_seconds": 10
 }
