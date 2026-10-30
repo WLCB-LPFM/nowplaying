@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T13:44:01-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T13:50:33-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Green Eyed Lady",
-    "artist": "Pat Travers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pat_Travers_-_Green_Eyed_Lady.jpg",
-    "started_at": "2026-10-30T18:43:53Z",
-    "duration_seconds": 405
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
