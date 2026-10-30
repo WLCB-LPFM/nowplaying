@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T17:38:43-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T17:40:46-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Baby, Please Don't Go",
-    "artist": "Paul Revere & The Raiders",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Paul_Revere_&_The_Raiders.jpg",
-    "started_at": "2026-10-30T22:38:23Z",
-    "duration_seconds": 150
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
