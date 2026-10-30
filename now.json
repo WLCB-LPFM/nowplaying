@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T18:49:25-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T18:53:53-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "More Than a Love Song",
-    "artist": "Black Pumas",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Pumas_-_More_Than_A_Love_Song.jpg",
-    "started_at": "2026-10-30T23:49:20Z",
-    "duration_seconds": 287
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
