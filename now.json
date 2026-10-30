@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T18:25:05-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T18:25:28-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Let No One Get You Down",
+    "artist": "War",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/War_-_Don't_Let_No_One_Get_You_Down.jpg",
+    "started_at": "2026-10-30T23:25:21Z",
+    "duration_seconds": 241
+  },
   "next_poll_seconds": 10
 }
