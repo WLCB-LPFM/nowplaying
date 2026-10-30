@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T16:39:38-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T16:41:19-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Bad Moon Rising",
-    "artist": "Credence Clearwater Revival",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Credence_Clearwater_Revival_-_Bad_Moon_Rising.jpg",
-    "started_at": "2026-10-30T21:39:13Z",
-    "duration_seconds": 140
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
