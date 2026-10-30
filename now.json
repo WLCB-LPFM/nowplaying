@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T15:35:34-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T15:35:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "With You I Am",
+    "artist": "Cody Johnson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cody_Johnson_-_With_You_I_Am.jpg",
+    "started_at": "2026-10-30T20:35:49Z",
+    "duration_seconds": 276
+  },
   "next_poll_seconds": 10
 }
