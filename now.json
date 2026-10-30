@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T21:10:09-05:00",
-  "source": "fallback",
+  "generated": "2026-10-29T21:45:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Ghostbusters",
+    "artist": "Ray Parker Jr.",
+    "album": "Ghostbusters (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ray_Parker_Jr._-_Ghostbusters.jpg",
+    "started_at": "2026-10-30T02:45:03Z",
+    "duration_seconds": 213
+  },
   "next_poll_seconds": 10
 }
