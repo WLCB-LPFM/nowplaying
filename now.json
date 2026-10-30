@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T16:41:54-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T16:43:58-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "I Put a Spell On You",
-    "artist": "Screamin' Jay Hawkins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Screamin'_Jay_Hawkins_-_I_Put_A_Spell_On_You.jpg",
-    "started_at": "2026-10-30T21:41:40Z",
-    "duration_seconds": 145
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
