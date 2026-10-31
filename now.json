@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T21:03:30-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T21:09:27-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Black Sabbath",
-    "artist": "Black Sabbath",
-    "album": "The Ultimate Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Black_Sabbath_-_Black_Sabbath.jpg",
-    "started_at": "2026-10-31T02:03:24Z",
-    "duration_seconds": 377
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
