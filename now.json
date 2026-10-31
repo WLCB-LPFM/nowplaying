@@ -1,9 +1,16 @@
 {
-  "generated": "2026-10-30T23:45:16-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T23:46:24-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Crazeology",
+    "artist": "Charlie Parker",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charlie_Parker_-_Crazeology.jpg",
+    "started_at": "2026-10-31T04:46:19Z",
+    "duration_seconds": 182
+  },
   "next_poll_seconds": 10
 }
