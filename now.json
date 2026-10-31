@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T09:33:15-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T09:35:18-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Walk Don't Run",
-    "artist": "The Ventures",
-    "album": "Walk Don't Run",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Ventures_-_Walk_Don't_Run.jpg",
-    "started_at": "2026-10-31T14:33:04Z",
-    "duration_seconds": 143
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
