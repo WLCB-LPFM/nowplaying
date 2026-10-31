@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T11:34:56-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T11:38:17-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Touch Me Tease Me (feat. Foxy Brown)",
-    "artist": "Case",
-    "album": "Def Jam 25: Volume 3 - It Takes Two PT 1",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Case.jpg",
-    "started_at": "2026-10-31T16:34:35Z",
-    "duration_seconds": 229
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
