@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T21:31:47-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T21:33:07-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Helter Skelter (Live at Live 8, Hyde Park, London, 2nd July 2005)",
+    "artist": "Paul McCartney",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Mccartney_-_Helter_Skelter_(Live_At_Live_8,_Hyde_Park,_London,_2nd_July_2005).jpg",
+    "started_at": "2026-10-31T02:33:01Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
