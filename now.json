@@ -1,17 +1,9 @@
 {
-  "generated": "2026-10-31T16:10:01-05:00",
-  "source": "playitlive",
+  "generated": "2026-10-31T16:14:29-05:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Vogue",
-    "artist": "Madonna",
-    "album": "The Immaculate Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Vogue.jpg",
-    "started_at": "2026-10-31T21:09:25.0528482Z",
-    "duration_seconds": 313,
-    "year": "1990"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
