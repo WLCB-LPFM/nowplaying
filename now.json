@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T22:10:20-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T22:14:15-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Get Ready",
+    "artist": "Rare Earth",
+    "album": "The Best of Rare Earth",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rare_Earth_-_Get_Ready.jpg",
+    "started_at": "2026-10-31T03:14:08Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
