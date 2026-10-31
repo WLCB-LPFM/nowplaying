@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T17:58:58-05:00",
-  "source": "fallback",
+  "generated": "2026-10-31T18:02:08-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Karn Evil 9 1st Impression, Pt. 2",
+    "artist": "Emerson & Lake & Palmer",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Emerson_&_Lake_&_Palmer.jpg",
+    "started_at": "2026-10-31T23:01:51Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
