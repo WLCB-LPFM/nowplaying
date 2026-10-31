@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T11:09:29-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T11:13:23-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Down Low (Nobody Has to Know) [feat. Ernie Isley & Ronald Isley]",
-    "artist": "R. Kelly",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/R._Kelly.jpg",
-    "started_at": "2026-10-31T16:09:13Z",
-    "duration_seconds": 263
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
