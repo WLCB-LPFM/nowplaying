@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T20:23:56-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T20:28:03-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Space Truckin'",
-    "artist": "Deep Purple",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_Space_Truckin'.jpg",
-    "started_at": "2026-10-31T01:23:41Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
