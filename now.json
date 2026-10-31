@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T19:16:29-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T19:22:15-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Dance Along the Edge",
-    "artist": "Concrete Blonde",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Concrete_Blonde_-_Dance_Along_The_Edge.jpg",
-    "started_at": "2026-10-31T00:16:22Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
