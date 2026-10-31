@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T11:50:51-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T11:53:16-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Organ Grinder's Swing",
-    "artist": "Jimmie Lunceford",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jimmie_Lunceford_-_Organ_Grinder's_Swing.jpg",
-    "started_at": "2026-10-31T16:50:43Z",
-    "duration_seconds": 162
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
