@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T20:05:59-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T20:07:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Reelin' In The Years",
+    "artist": "Steely Dan",
+    "album": "Can't Buy A Thrill",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_Reelin'_In_The_Years.jpg",
+    "started_at": "2026-10-31T01:07:14Z",
+    "duration_seconds": 230
+  },
   "next_poll_seconds": 10
 }
