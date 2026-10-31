@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T20:16:50-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T20:20:12-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Stairway to the Stars",
-    "artist": "Blue \u00d6yster Cult",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blue_\u00d6yster_Cult_-_Stairway_To_The_Stars.jpg",
-    "started_at": "2026-10-31T01:16:36Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
