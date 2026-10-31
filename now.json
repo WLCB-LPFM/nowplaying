@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T20:49:07-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T20:49:53-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Begin The Begin",
+    "artist": "R.E.M.",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R.e.m._-_Begin_The_Begin.jpg",
+    "started_at": "2026-10-31T01:49:37Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
