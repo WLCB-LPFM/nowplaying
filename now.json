@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T20:45:24-05:00",
-  "source": "autopost",
+  "generated": "2026-10-30T20:49:07-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Marching On",
-    "artist": "IRONFLAME",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/i/Ironflame_-_Marching_On.jpg",
-    "started_at": "2026-10-31T01:44:11Z",
-    "duration_seconds": 311
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
