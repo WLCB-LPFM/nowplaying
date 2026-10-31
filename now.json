@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T08:07:33-05:00",
-  "source": "fallback",
+  "generated": "2026-10-31T08:33:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Surf City",
+    "artist": "Jan & Dean",
+    "album": "Original Hits - Rock 'N' Roll",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jan_&_Dean_-_Surf_City.jpg",
+    "started_at": "2026-10-31T13:33:54Z",
+    "duration_seconds": 147
+  },
   "next_poll_seconds": 10
 }
