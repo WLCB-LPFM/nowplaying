@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T11:25:38-05:00",
-  "source": "fallback",
+  "generated": "2026-10-31T11:26:25-05:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Count On Me (from 'Waiting to Exhale' - Original Soundtrack)",
+    "artist": "Whitney Houston & CeCe Winans",
+    "album": "Waiting To Exhale (Original Soundtrack Album)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/Whitney_Houston_&_Cece_Winans.jpg",
+    "started_at": "2026-10-31T16:26:15Z",
+    "duration_seconds": 241
+  },
   "next_poll_seconds": 10
 }
