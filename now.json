@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T19:53:52-05:00",
-  "source": "fallback",
+  "generated": "2026-10-30T19:57:47-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Throw Your Hatred Down",
+    "artist": "Neil Young",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Neil_Young_-_Throw_Your_Hatred_Down.jpg",
+    "started_at": "2026-10-31T00:57:35Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
