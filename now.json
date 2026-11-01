@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T21:23:02-05:00",
-  "source": "fallback",
+  "generated": "2026-10-31T21:23:59-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "So Ruff, So Tuff",
+    "artist": "Roger",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roger_-_So_Ruff,_So_Tuff.jpg",
+    "started_at": "2026-11-01T02:23:42Z",
+    "duration_seconds": 293
+  },
   "next_poll_seconds": 10
 }
