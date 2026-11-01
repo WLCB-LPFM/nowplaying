@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-01T08:16:16-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-01T08:18:43-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Alice Blue Gown (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-01T14:16:08.6310237Z",
-    "duration_seconds": 161,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
