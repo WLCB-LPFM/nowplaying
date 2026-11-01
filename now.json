@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-01T07:13:04-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T07:13:17-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Fools Rush In (Where Angels Fear To Tread) (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-01T13:13:15.5075872Z",
+    "duration_seconds": 182,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
