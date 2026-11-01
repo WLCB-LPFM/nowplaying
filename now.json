@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-01T08:13:27-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-01T08:15:53-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Trumpet Blues and Cantabile",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-01T14:13:18.510286Z",
-    "duration_seconds": 169,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
