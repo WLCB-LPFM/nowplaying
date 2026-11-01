@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-01T14:57:15-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T14:57:28-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Semper Fidelis (1940)",
+    "artist": "Frankie Trumbauer and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-01T20:57:23.0430748Z",
+    "duration_seconds": 158,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
