@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-01T15:27:45-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T15:30:13-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jumpin' Jive (1939)",
+    "artist": "Cab Calloway",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-01T21:30:04.8812946Z",
+    "duration_seconds": 217,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
