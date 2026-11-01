@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T21:45:12-05:00",
-  "source": "fallback",
+  "generated": "2026-10-31T21:45:58-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Suddenly",
+    "artist": "Billy Ocean",
+    "album": "Suddenly (Expanded Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Ocean_-_Suddenly.jpg",
+    "started_at": "2026-11-01T02:45:48Z",
+    "duration_seconds": 212
+  },
   "next_poll_seconds": 10
 }
