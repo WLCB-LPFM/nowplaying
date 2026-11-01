@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-01T07:46:28-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T07:46:41-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tommy's Mustache",
+    "artist": "Rene Musette Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-01T13:46:33.5227855Z",
+    "duration_seconds": 162,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
