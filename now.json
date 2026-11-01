@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T10:05:41-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T10:10:21-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Nevertheless (I'm In Love With You)",
+    "artist": "The Mills Brothers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Mills_Brothers_-_Nevertheless_(I'm_In_Love_With_You).jpg",
+    "started_at": "2026-11-01T16:10:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
