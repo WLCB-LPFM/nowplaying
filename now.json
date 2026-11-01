@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-01T07:02:23-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-01T07:04:59-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Stars Will Fade",
-    "artist": "Bill Darnell; Harold Grant & his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-01T13:02:13.8258468Z",
-    "duration_seconds": 172,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
