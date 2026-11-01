@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-01T14:32:16-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T14:32:40-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Imagine the Duchess's Feelings!",
+    "artist": "Noel Coward",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-01T20:32:27.8533088Z",
+    "duration_seconds": 138,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
