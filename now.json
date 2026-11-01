@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T22:00:41-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T22:01:59-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "The Land smooth",
-    "artist": "Party Marty Ent",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/p/Party_Marty_Ent.jpg",
-    "started_at": "2026-11-01T02:57:19Z",
-    "duration_seconds": 288
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
