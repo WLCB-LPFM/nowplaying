@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T21:38:41-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T21:40:32-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Sexual Interlude",
-    "artist": "Shai",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shai_-_Sexual_Interlude.jpg",
-    "started_at": "2026-11-01T02:38:29Z",
-    "duration_seconds": 136
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
