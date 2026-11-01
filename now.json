@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T20:33:27-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T20:35:41-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "My Adidas",
-    "artist": "Run-DMC",
-    "album": "The Essential Run DMC",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Run-dmc_-_My_Adidas.jpg",
-    "started_at": "2026-11-01T01:33:19Z",
-    "duration_seconds": 152
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
