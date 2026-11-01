@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-01T07:19:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T07:19:29-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Wings of Time",
-    "artist": "5D with Timothy",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-11-01T13:13:56Z",
-    "duration_seconds": 344
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
