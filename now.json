@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T17:22:20-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T17:25:09-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "We Both Deserve Each Other's Love",
-    "artist": "L.T.D.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/L.t.d._-_We_Both_Deserve_Each_Other's_Love.jpg",
-    "started_at": "2026-11-01T23:22:09Z",
-    "duration_seconds": 187
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
