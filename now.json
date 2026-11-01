@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T20:44:19-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T20:49:20-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Gangsta Gangsta",
-    "artist": "N.W.A.",
-    "album": "The Best Of N.W.A: The Strength Of Street Knowledge",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/N.w.a._-_Gangsta_Gangsta.jpg",
-    "started_at": "2026-11-01T01:43:55Z",
-    "duration_seconds": 337
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
