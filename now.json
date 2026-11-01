@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T17:08:48-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T17:12:55-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "You'll Never Find Another Love Like Mine",
-    "artist": "Lou Rawls",
-    "album": "Soul Love Vol. 1 - Soul Love Vol. 2 - Soul Love Vol. 3",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lou_Rawls_-_You'll_Never_Find_Another_Love_Like_Mine.jpg",
-    "started_at": "2026-11-01T23:08:33Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
