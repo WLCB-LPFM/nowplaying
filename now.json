@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T21:31:48-05:00",
-  "source": "fallback",
+  "generated": "2026-10-31T21:33:29-05:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Andando Com Cristo",
+    "artist": "Mensageiro Rhayadi",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-11-01T02:33:08Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
