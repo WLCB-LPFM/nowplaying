@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-01T15:16:32-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-01T15:19:22-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "When Irish Eyes are Smiling (1940)",
-    "artist": "Frank Connors",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-01T21:16:28.5044001Z",
-    "duration_seconds": 186,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
