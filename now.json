@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T20:00:15-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T20:01:34-05:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Around The Way Girl",
-    "artist": "LL COOL J",
-    "album": "All World",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Ll_Cool_J_-_Around_The_Way_Girl.jpg",
-    "started_at": "2026-11-01T00:57:41Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
