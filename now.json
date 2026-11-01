@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-01T08:05:42-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-01T08:07:35-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "One Dozen Roses",
-    "artist": "Les Hite and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-01T14:05:35.2730542Z",
-    "duration_seconds": 132,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
