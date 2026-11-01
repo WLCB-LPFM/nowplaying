@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-01T04:43:21-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T04:43:33-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "November Came",
+    "artist": "Malene Mortensen",
+    "album": "Malene",
+    "artwork_url": "",
+    "started_at": "2026-11-01T10:43:25.203251Z",
+    "duration_seconds": 212,
+    "year": "2006"
+  },
   "next_poll_seconds": 10
 }
