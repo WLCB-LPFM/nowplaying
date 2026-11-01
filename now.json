@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T17:49:31-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T17:53:50-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "The Closer I Get to You",
+    "artist": "John Fox",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Fox_-_The_Closer_I_Get_To_You.jpg",
+    "started_at": "2026-11-01T23:53:38Z",
+    "duration_seconds": 183
+  },
   "next_poll_seconds": 10
 }
