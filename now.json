@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T22:04:47-05:00",
-  "source": "autopost",
+  "generated": "2026-10-31T22:10:32-05:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "We've Got Tonight",
-    "artist": "TMC Singers",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/88a9f0170c534f75982200a2a049264b.png",
-    "started_at": "2026-11-01T03:04:39Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
