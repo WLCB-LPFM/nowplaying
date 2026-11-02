@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:28:37-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T20:29:46-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Grease Box",
+    "artist": "TAD",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tad_-_Grease_Box.jpg",
+    "started_at": "2026-11-02T02:29:37Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
