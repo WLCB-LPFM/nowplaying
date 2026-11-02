@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:54:21-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T20:57:43-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Little Head",
-    "artist": "John Hiatt",
-    "album": "Little Head",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Hiatt_-_Little_Head.jpg",
-    "started_at": "2026-11-02T02:54:08Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
