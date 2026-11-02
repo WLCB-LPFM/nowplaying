@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:03:47-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T20:08:17-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Nutshell (Unplugged)",
-    "artist": "Alice In Chains",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_In_Chains_-_Nutshell_(Unplugged).jpg",
-    "started_at": "2026-11-02T02:03:33Z",
-    "duration_seconds": 297
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
