@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T18:23:55-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T18:25:03-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Sing A Simple Song",
+    "artist": "Sly & The Family Stone",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sly_&_The_Family_Stone_-_Sing_A_Simple_Song.jpg",
+    "started_at": "2026-11-02T00:24:49Z",
+    "duration_seconds": 236
+  },
   "next_poll_seconds": 10
 }
