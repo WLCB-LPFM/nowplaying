@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-02T08:28:52-06:00",
-  "source": "fallback",
+  "generated": "2026-11-02T08:30:44-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Neon Haven",
+    "artist": "Pad Panda",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-11-02T14:30:25Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
