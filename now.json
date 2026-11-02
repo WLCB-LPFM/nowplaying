@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:45:09-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T20:49:28-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Perfectly Good Guitar",
-    "artist": "John Hiatt",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Hiatt_-_Perfectly_Good_Guitar.jpg",
-    "started_at": "2026-11-02T02:44:57Z",
-    "duration_seconds": 279
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
