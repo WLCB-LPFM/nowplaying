@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-02T16:58:12-06:00",
-  "source": "fallback",
+  "generated": "2026-11-02T17:06:59-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Past Is a Grotesque Animal",
+    "artist": "of Montreal",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Of_Montreal_-_The_Past_Is_A_Grotesque_Animal.jpg",
+    "started_at": "2026-11-02T23:06:50Z",
+    "duration_seconds": 713
+  },
   "next_poll_seconds": 10
 }
