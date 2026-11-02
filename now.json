@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-02T03:37:40-06:00",
-  "source": "autopost",
+  "generated": "2026-11-02T03:38:04-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Electric Lights",
-    "artist": "Khanekz",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-11-02T09:32:19Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
