@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T18:49:01-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T18:54:39-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "New Guru",
-    "artist": "Vulfpeck",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/v/Vulfpeck.jpg",
-    "started_at": "2026-11-02T00:48:48Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
