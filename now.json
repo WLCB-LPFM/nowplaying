@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-02T13:54:54-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-02T13:59:13-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "California Love",
-    "artist": "2Pac and Dr. Dre",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-02T19:54:42.8699135Z",
-    "duration_seconds": 275,
-    "year": ""
+    "title": "California Love (feat. Roger Troutman & Dr. Dre)",
+    "artist": "2pac",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/artists/2/2pac.jpg",
+    "started_at": "2026-11-02T19:57:53Z",
+    "duration_seconds": 247
   },
   "next_poll_seconds": 10
 }
