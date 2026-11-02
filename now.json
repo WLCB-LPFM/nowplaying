@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T19:52:29-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T19:57:44-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I Love the Dead",
+    "artist": "Alice Cooper",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_Cooper_-_I_Love_The_Dead.jpg",
+    "started_at": "2026-11-02T01:57:31Z",
+    "duration_seconds": 308
+  },
   "next_poll_seconds": 10
 }
