@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T19:36:55-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T19:47:12-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Experiment In Terror",
+    "artist": "Henry Mancini",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Henry_Mancini_-_Experiment_In_Terror.jpg",
+    "started_at": "2026-11-02T01:47:02Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
