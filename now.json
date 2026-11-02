@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:16:45-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T20:17:20-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Vasoline",
+    "artist": "Stone Temple Pilots",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stone_Temple_Pilots_-_Vasoline.jpg",
+    "started_at": "2026-11-02T02:16:44Z",
+    "duration_seconds": 177
+  },
   "next_poll_seconds": 10
 }
