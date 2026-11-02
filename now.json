@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:49:28-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T20:50:25-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Your Dad Did",
+    "artist": "John Hiatt",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Hiatt_-_Your_Dad_Did.jpg",
+    "started_at": "2026-11-02T02:50:12Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
