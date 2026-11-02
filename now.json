@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T18:13:10-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T18:15:14-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Immigrant Song",
-    "artist": "Led Zeppelin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Led_Zeppelin_-_Immigrant_Song.jpg",
-    "started_at": "2026-11-02T00:12:58Z",
-    "duration_seconds": 143
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
