@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:19:36-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T20:19:48-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Nearly Lost You",
+    "artist": "Screaming Trees",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Screaming_Trees_-_Nearly_Lost_You.jpg",
+    "started_at": "2026-11-02T02:19:40Z",
+    "duration_seconds": 247
+  },
   "next_poll_seconds": 10
 }
