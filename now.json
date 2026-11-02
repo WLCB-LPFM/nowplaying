@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:37:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T20:41:47-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Paper Thin",
+    "artist": "John Hiatt",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Hiatt_-_Paper_Thin.jpg",
+    "started_at": "2026-11-02T02:41:39Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
