@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-02T13:37:35-06:00",
-  "source": "fallback",
+  "generated": "2026-11-02T13:37:47-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "One Minute Man",
+    "artist": "Missy Elliott feat. Ludacris and Trina",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-02T19:37:42.3559217Z",
+    "duration_seconds": 241,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
