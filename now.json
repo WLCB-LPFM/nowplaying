@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T18:37:54-06:00",
-  "source": "autopost",
+  "generated": "2026-11-01T18:40:33-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Bug",
-    "artist": "Fontaines D.C.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fontaines_D.c._-_Bug.jpg",
-    "started_at": "2026-11-02T00:37:45Z",
-    "duration_seconds": 182
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
