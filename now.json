@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T20:23:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-01T20:24:31-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Fell On Black Days",
+    "artist": "Soundgarden",
+    "album": "El Traje Del Muerto",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Soundgarden_-_Fell_On_Black_Days.jpg",
+    "started_at": "2026-11-02T02:24:14Z",
+    "duration_seconds": 277
+  },
   "next_poll_seconds": 10
 }
