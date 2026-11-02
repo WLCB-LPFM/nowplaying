@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-02T03:42:11-06:00",
-  "source": "fallback",
+  "generated": "2026-11-02T03:42:23-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Gotta Right to Sing the Blues",
+    "artist": "Louis Armstrong & His Orchestra",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-11-02T09:42:18.6465524Z",
+    "duration_seconds": 175,
+    "year": "1937"
+  },
   "next_poll_seconds": 10
 }
