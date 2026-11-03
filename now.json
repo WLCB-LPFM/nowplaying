@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-02T19:30:52-06:00",
-  "source": "autopost",
+  "generated": "2026-11-02T19:31:16-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rock Your Body",
-    "artist": "Justin Timberlake",
-    "album": "Touch My Soul",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Justin_Timberlake_-_Rock_Your_Body.jpg",
-    "started_at": "2026-11-03T01:26:56Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
