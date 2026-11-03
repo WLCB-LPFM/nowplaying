@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T08:23:06-06:00",
-  "source": "fallback",
+  "generated": "2026-11-03T08:23:41-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Eminence Front",
+    "artist": "The Who",
+    "album": "It's Hard (Bonus Track Version)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Who_-_Eminence_Front.jpg",
+    "started_at": "2026-11-03T14:23:26Z",
+    "duration_seconds": 565
+  },
   "next_poll_seconds": 10
 }
