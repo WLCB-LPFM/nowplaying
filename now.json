@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-03T17:02:33-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-03T17:05:56-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Obsession",
-    "artist": "Animotion",
-    "album": "Obsession",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Animotion_-_Obsession.jpg",
-    "started_at": "2026-11-03T23:02:16.5735395Z",
-    "duration_seconds": 228,
-    "year": "2017"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
