@@ -1,25 +1,25 @@
 {
-  "generated": "2026-11-02T21:57:53-06:00",
+  "generated": "2026-11-02T22:00:08-06:00",
   "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "Jazz Lives!",
+    "name": "Rock of Ages",
     "hosts": [
-      "Bob Dauber"
+      "Mark Ricky"
     ],
     "automated": false,
-    "starts": "20:00",
-    "ends": "22:00",
-    "genre": "Jazz"
+    "starts": "22:00",
+    "ends": "24:00",
+    "genre": "Rock and Roll"
   },
   "track": {
-    "title": "Renew Your Mind",
-    "artist": "Kyle Lovett",
+    "title": "Grunfeld: Konzert Paraphrase Uber Johann Strauss Jr.-'soiree De Vienne' Op.56",
+    "artist": "\uc120\uc6b0\uc608\uad8c",
     "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kyle_Lovett.jpg",
-    "started_at": "2026-11-03T03:57:34Z",
-    "duration_seconds": 3694
+    "artwork_url": "null",
+    "started_at": "2026-11-03T03:59:52Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
