@@ -1,18 +1,9 @@
 {
-  "generated": "2026-11-03T16:59:28-06:00",
+  "generated": "2026-11-03T17:00:03-06:00",
   "source": "fallback",
-  "mode": "rebroadcast",
+  "mode": "music_block",
   "automation_on": true,
-  "show": {
-    "name": "Roadhouse Radio",
-    "hosts": [
-      "Joe Powers"
-    ],
-    "automated": false,
-    "starts": "15:00",
-    "ends": "17:00",
-    "genre": "Country"
-  },
+  "show": null,
   "track": null,
   "next_poll_seconds": 10
 }
