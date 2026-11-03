@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T08:19:00-06:00",
-  "source": "autopost",
+  "generated": "2026-11-03T08:23:06-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "How Will I Know",
-    "artist": "Whitney Houston",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Whitney_Houston_-_How_Will_I_Know.jpg",
-    "started_at": "2026-11-03T14:18:44Z",
-    "duration_seconds": 272
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
