@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-02T19:37:20-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-02T19:39:47-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "You Make My Dreams (Come True)",
+    "title": "You Make My Dreams",
     "artist": "Daryl Hall & John Oates",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-03T01:37:07.7355629Z",
-    "duration_seconds": 173,
-    "year": "1980"
+    "album": "Voices",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daryl_Hall_&_John_Oates_-_You_Make_My_Dreams.jpg",
+    "started_at": "2026-11-03T01:37:37Z",
+    "duration_seconds": 156
   },
   "next_poll_seconds": 10
 }
