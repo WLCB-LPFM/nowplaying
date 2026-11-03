@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T15:53:10-06:00",
-  "source": "autopost",
+  "generated": "2026-11-03T15:56:34-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Take On Me",
-    "artist": "a-ha",
-    "album": "Take on Me",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/A-ha_-_Take_On_Me.jpg",
-    "started_at": "2026-11-03T21:53:00Z",
-    "duration_seconds": 219
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
