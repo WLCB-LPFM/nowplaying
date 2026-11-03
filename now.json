@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-03T04:23:35-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-03T04:28:03-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "My Foolish Heart",
-    "artist": "Delicatessen",
-    "album": "My Baby Just Cares for Me",
-    "artwork_url": "",
-    "started_at": "2026-11-03T10:23:32.0244023Z",
-    "duration_seconds": 284,
-    "year": "2008"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
