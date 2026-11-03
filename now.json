@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-03T03:57:54-06:00",
-  "source": "fallback",
+  "generated": "2026-11-03T03:58:06-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Taxi War Dance",
+    "artist": "Count Basie & His Orchestra",
+    "album": "Essential: Masters of Jazz",
+    "artwork_url": "",
+    "started_at": "2026-11-03T09:58:03.108638Z",
+    "duration_seconds": 162,
+    "year": "1998"
+  },
   "next_poll_seconds": 10
 }
