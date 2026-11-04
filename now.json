@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-04T15:28:30-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T15:30:18-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Roll With It",
+    "artist": "Steve Winwood",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-04T21:30:05.5952996Z",
+    "duration_seconds": 299,
+    "year": "1988"
+  },
   "next_poll_seconds": 10
 }
