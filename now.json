@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T11:29:13-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T11:31:24-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "One Foot On the Path",
+    "artist": "Kenny Wayne Shepherd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Wayne_Shepherd_-_One_Foot_On_The_Path.jpg",
+    "started_at": "2026-11-04T17:31:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
