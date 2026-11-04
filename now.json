@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T10:05:47-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T10:08:36-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "When the Levee Breaks",
-    "artist": "Memphis Minnie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Memphis_Minnie_-_When_The_Levee_Breaks.jpg",
-    "started_at": "2026-11-04T16:05:37Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
