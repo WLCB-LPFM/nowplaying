@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T09:18:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T09:18:30-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Love Will Find a Way",
+    "artist": "Yes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yes_-_Love_Will_Find_A_Way.jpg",
+    "started_at": "2026-11-04T15:18:24Z",
+    "duration_seconds": 290
+  },
   "next_poll_seconds": 10
 }
