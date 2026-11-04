@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-04T06:00:25-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T06:02:30-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "She Bop",
+    "artist": "Cyndi Lauper",
+    "album": "She's So Unusual",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cyndi_Lauper_-_She_Bop.jpg",
+    "started_at": "2026-11-04T12:02:16.1339954Z",
+    "duration_seconds": 221,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
