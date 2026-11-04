@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T08:49:13-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T08:57:49-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "808 (Remix - She Ain't Got That)",
+    "artist": "Blaque",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Blaque.jpg",
+    "started_at": "2026-11-04T14:57:34Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
