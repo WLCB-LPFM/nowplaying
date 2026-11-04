@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T10:47:10-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T10:50:00-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Rock 'N' Roll Fantasy",
-    "artist": "Bad Company",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bad_Company_-_Rock_'n'_Roll_Fantasy.jpg",
-    "started_at": "2026-11-04T16:46:57Z",
-    "duration_seconds": 197
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
