@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T20:29:10-06:00",
-  "source": "fallback",
+  "generated": "2026-11-03T20:29:23-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "Speakeasy",
+    "artist": "Jeff Ryan",
+    "album": "Into Focus",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jeff_Ryan_-_Speakeasy.jpg",
+    "started_at": "2026-11-04T02:29:06Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
