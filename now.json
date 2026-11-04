@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T22:05:59-06:00",
-  "source": "autopost",
+  "generated": "2026-11-03T22:11:23-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Let Love Rule",
-    "artist": "Lenny Kravitz",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lenny_Kravitz_-_Let_Love_Rule.jpg",
-    "started_at": "2026-11-04T04:05:53Z",
-    "duration_seconds": 343
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
