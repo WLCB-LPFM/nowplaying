@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-04T15:56:31-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-04T15:59:49-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Kiss",
-    "artist": "Prince and the Revolution",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-04T21:56:25.2985926Z",
-    "duration_seconds": 215,
-    "year": "1986"
+    "artist": "Prince & The Revolution",
+    "album": "The Very Best of Prince",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_&_The_Revolution_-_Kiss.jpg",
+    "started_at": "2026-11-04T21:56:49Z",
+    "duration_seconds": 200
   },
   "next_poll_seconds": 10
 }
