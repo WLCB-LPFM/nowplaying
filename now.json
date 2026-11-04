@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T11:25:32-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T11:29:13-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "A Girl Like You",
-    "artist": "The Smithereens",
-    "album": "11",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Smithereens_-_A_Girl_Like_You.jpg",
-    "started_at": "2026-11-04T17:25:16Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
