@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-04T17:32:24-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-04T17:32:36-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Our Lips Are Sealed",
-    "artist": "The Go-Go's",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-04T23:30:05.5786535Z",
-    "duration_seconds": 161,
-    "year": "2017"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
