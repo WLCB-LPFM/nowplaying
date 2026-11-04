@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T12:00:03-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T12:03:26-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "(Let Me Up) I've Had Enough",
-    "artist": "Kenny Wayne Shepherd",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Wayne_Shepherd_-_(Let_Me_Up)_I've_Had_Enough.jpg",
-    "started_at": "2026-11-04T17:57:32Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
