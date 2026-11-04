@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T10:31:30-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T10:34:13-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Never Gonna Please 'Em All",
-    "artist": "Joanne Shaw Taylor",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Joanne_Shaw_Taylor.jpg",
-    "started_at": "2026-11-04T16:31:18Z",
-    "duration_seconds": 185
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
