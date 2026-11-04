@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T20:37:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-03T20:42:58-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Gypsy Man",
-    "artist": "War",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/War_-_Gypsy_Man.jpg",
-    "started_at": "2026-11-04T02:37:40Z",
-    "duration_seconds": 324
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
