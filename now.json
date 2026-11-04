@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T11:52:40-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T11:53:04-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I'm Leaving You (Commit a Crime)",
+    "artist": "Kenny Wayne Shepherd",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Wayne_Shepherd_-_I'm_Leaving_You_(Commit_A_Crime).jpg",
+    "started_at": "2026-11-04T17:52:48Z",
+    "duration_seconds": 331
+  },
   "next_poll_seconds": 10
 }
