@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-04T00:46:56-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T00:47:08-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Wrappin' It Up",
-    "artist": "Fletcher Henderson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fletcher_Henderson_-_Wrappin'_It_Up.jpg",
-    "started_at": "2026-11-04T06:44:36Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
