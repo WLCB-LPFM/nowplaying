@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T20:17:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-03T20:18:03-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "It's Money That I Love",
+    "artist": "Randy Newman",
+    "album": "It's Money That I Love",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Randy_Newman_-_It's_Money_That_I_Love.jpg",
+    "started_at": "2026-11-04T02:17:58Z",
+    "duration_seconds": 218
+  },
   "next_poll_seconds": 10
 }
