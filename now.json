@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T20:14:06-06:00",
-  "source": "autopost",
+  "generated": "2026-11-03T20:17:50-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "It's Money That Matters",
-    "artist": "Randy Newman",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Randy_Newman_-_It's_Money_That_Matters.jpg",
-    "started_at": "2026-11-04T02:13:48Z",
-    "duration_seconds": 248
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
