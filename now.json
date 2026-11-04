@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T09:35:08-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T09:39:05-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Never Made It to Memphis",
-    "artist": "Kenny Wayne Shepherd",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Wayne_Shepherd_-_Never_Made_It_To_Memphis.jpg",
-    "started_at": "2026-11-04T15:34:56Z",
-    "duration_seconds": 260
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
