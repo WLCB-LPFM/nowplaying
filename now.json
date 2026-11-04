@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T09:46:14-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T09:46:37-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Last Train Home",
+    "artist": "John Mayer",
+    "album": "Last Train Home",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Mayer_-_Last_Train_Home.jpg",
+    "started_at": "2026-11-04T15:46:23Z",
+    "duration_seconds": 187
+  },
   "next_poll_seconds": 10
 }
