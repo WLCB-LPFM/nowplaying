@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T20:53:43-06:00",
-  "source": "autopost",
+  "generated": "2026-11-03T20:57:17-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Inner City Blues",
-    "artist": "Paul Jackson Jr.",
-    "album": "The Power of the String",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Jackson_Jr._-_Inner_City_Blues.jpg",
-    "started_at": "2026-11-04T02:53:16Z",
-    "duration_seconds": 249
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
