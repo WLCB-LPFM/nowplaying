@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T09:54:10-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T09:59:13-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Push Through",
-    "artist": "Robert Cray & The Robert Cray Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/r/Robert_Cray_&_The_Robert_Cray_Band.jpg",
-    "started_at": "2026-11-04T15:53:49Z",
-    "duration_seconds": 332
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
