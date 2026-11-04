@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T10:15:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T10:20:38-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "South City Midnight Lady",
+    "artist": "The Doobie Brothers",
+    "album": "South City Midnight Lady (2006 Remaster)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_South_City_Midnight_Lady.jpg",
+    "started_at": "2026-11-04T16:20:21Z",
+    "duration_seconds": 324
+  },
   "next_poll_seconds": 10
 }
