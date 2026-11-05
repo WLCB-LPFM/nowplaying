@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T20:21:56-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T20:24:44-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Everything's Beautiful (In It's Own Way)",
-    "artist": "Willie Nelson & Dolly Parton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/w/Willie_Nelson_&_Dolly_Parton.jpg",
-    "started_at": "2026-11-05T02:21:40Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
