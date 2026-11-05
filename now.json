@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T19:32:33-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T19:38:20-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Hellraiser - Hellraiser",
-    "artist": "Christopher Young",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b04a29c2d992bd1407900575715371fd.png",
-    "started_at": "2026-11-05T01:32:28Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
