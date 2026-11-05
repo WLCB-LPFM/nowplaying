@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T17:42:00-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T17:44:48-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "The Long and Winding Road",
-    "artist": "The Beatles",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Beatles_-_The_Long_And_Winding_Road.jpg",
-    "started_at": "2026-11-05T23:41:53Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
