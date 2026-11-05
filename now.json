@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T21:06:27-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T21:09:27-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Law & Order",
-    "artist": "Mike Post",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike_Post_-_Law_&_Order.jpg",
-    "started_at": "2026-11-05T03:06:17Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
