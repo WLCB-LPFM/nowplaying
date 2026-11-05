@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T20:28:03-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T20:30:18-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Put It Off Until Tomorrow (Single Version)",
-    "artist": "Bill Phillips",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bill_Phillips.jpg",
-    "started_at": "2026-11-05T02:27:49Z",
-    "duration_seconds": 155
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
