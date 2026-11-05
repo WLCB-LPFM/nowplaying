@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T21:21:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T21:22:41-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Paradise Garage",
+    "artist": "Tim Curry",
+    "album": "Fearless",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tim_Curry_-_Paradise_Garage.jpg",
+    "started_at": "2026-11-05T03:22:34Z",
+    "duration_seconds": 372
+  },
   "next_poll_seconds": 10
 }
