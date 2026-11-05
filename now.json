@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T21:09:27-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T21:17:16-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Runaway",
+    "artist": "The Corrs",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Corrs_-_Runaway.jpg",
+    "started_at": "2026-11-05T03:17:04Z",
+    "duration_seconds": 277
+  },
   "next_poll_seconds": 10
 }
