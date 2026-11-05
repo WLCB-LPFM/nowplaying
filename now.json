@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-05T03:20:30-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T03:20:43-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cake Walking Babies (From Home)",
+    "artist": "Louis Armstrong, Josephine Beatty & The Red Onion Jazz Babies",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-11-05T09:20:22Z",
+    "duration_seconds": 90
+  },
   "next_poll_seconds": 10
 }
