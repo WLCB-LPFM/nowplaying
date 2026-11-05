@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T19:41:10-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T19:43:14-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Out of My Mind",
-    "artist": "Duran Duran",
-    "album": "Medazzaland",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duran_Duran_-_Out_Of_My_Mind.jpg",
-    "started_at": "2026-11-05T01:41:07Z",
-    "duration_seconds": 133
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
