@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T19:43:14-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T19:45:40-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Don\u2019t Make Me Have To Come Down There",
+    "artist": "Dolly Parton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_Don\u2019t_Make_Me_Have_To_Come_Down_There.jpg",
+    "started_at": "2026-11-05T01:45:32Z",
+    "duration_seconds": 223
+  },
   "next_poll_seconds": 10
 }
