@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T19:24:18-06:00",
-  "source": "autopost",
+  "generated": "2026-11-04T19:25:49-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Tales from the Crypt",
-    "artist": "Danny Elfman",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Danny_Elfman_-_Tales_From_The_Crypt.jpg",
-    "started_at": "2026-11-05T01:24:07Z",
-    "duration_seconds": 148
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
