@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T17:30:00-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T17:32:59-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Nights In White Satin",
+    "artist": "The Moody Blues",
+    "album": "Days Of Future Passed",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Moody_Blues_-_Nights_In_White_Satin.jpg",
+    "started_at": "2026-11-05T23:32:46Z",
+    "duration_seconds": 460
+  },
   "next_poll_seconds": 10
 }
