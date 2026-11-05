@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T17:16:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T17:17:58-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Sara (Re-Record)",
+    "artist": "Starship",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Starship.jpg",
+    "started_at": "2026-11-05T23:17:38Z",
+    "duration_seconds": 288
+  },
   "next_poll_seconds": 10
 }
