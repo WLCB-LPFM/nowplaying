@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T20:06:43-06:00",
-  "source": "fallback",
+  "generated": "2026-11-04T20:08:25-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Tubular Bells (From 'The Exorcist')",
+    "artist": "Mark Ayres",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mark_Ayres.jpg",
+    "started_at": "2026-11-05T02:08:13Z",
+    "duration_seconds": 366
+  },
   "next_poll_seconds": 10
 }
