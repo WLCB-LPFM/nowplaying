@@ -1,25 +1,16 @@
 {
-  "generated": "2026-11-05T17:57:33-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T18:00:10-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Brick's Rockheads",
-    "hosts": [
-      "Brick Brecker"
-    ],
-    "automated": false,
-    "starts": "17:00",
-    "ends": "18:00",
-    "genre": "Rock and Roll"
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "18:00",
+    "ends": "19:00",
+    "genre": null
   },
-  "track": {
-    "title": "Incense and Peppermints",
-    "artist": "Strawberry Alarm Clock",
-    "album": "Gold - Summer Of Love",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Strawberry_Alarm_Clock_-_Incense_And_Peppermints.jpg",
-    "started_at": "2026-11-05T23:57:26Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
