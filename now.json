@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-05T22:05:43-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-05T22:07:58-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Wrappin\u2019 It Up",
-    "artist": "Fletcher Henderson and His Orchestra",
-    "album": "The Smithsonian Collection of Classic Jazz",
-    "artwork_url": "",
-    "started_at": "2026-11-06T04:05:36.3847246Z",
-    "duration_seconds": 152,
-    "year": "1973"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-11-06T04:05:31Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
