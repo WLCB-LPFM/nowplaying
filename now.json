@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T16:24:22-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T16:26:25-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "She Ain't Hooked On Me No More",
+    "artist": "Toby Keith & Merle Haggard",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Toby_Keith_&_Merle_Haggard.jpg",
+    "started_at": "2026-11-06T22:26:03Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
