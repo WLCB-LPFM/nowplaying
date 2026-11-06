@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T17:30:12-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T17:33:00-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Journey to the Centre of the Mind",
+    "artist": "Ted Nugent & The Amboy Dukes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Ted_Nugent_&_The_Amboy_Dukes.jpg",
+    "started_at": "2026-11-06T23:32:51Z",
+    "duration_seconds": 214
+  },
   "next_poll_seconds": 10
 }
