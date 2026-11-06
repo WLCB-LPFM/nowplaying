@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T16:13:39-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T16:16:50-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "She's Everything",
-    "artist": "Brad Paisley",
-    "album": "Time Well Wasted",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Brad_Paisley_-_She's_Everything.jpg",
-    "started_at": "2026-11-06T22:13:30Z",
-    "duration_seconds": 210
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
