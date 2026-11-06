@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-05T18:34:43-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T18:34:55-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Whatta Man",
+    "artist": "Salt-N-Pepa",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-06T00:34:52.4754065Z",
+    "duration_seconds": 306,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
