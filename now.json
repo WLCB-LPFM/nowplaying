@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T20:09:22-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T20:12:33-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Just Don't Want You (To Say Goodbye)",
-    "artist": "The Womack Sisters",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Womack_Sisters_-_I_Just_Don't_Want_You_(To_Say_Goodbye).jpg",
-    "started_at": "2026-11-06T02:09:09Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
