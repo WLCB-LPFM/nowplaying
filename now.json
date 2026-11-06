@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T15:17:18-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T15:19:46-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "See Emily Play",
-    "artist": "Pink Floyd",
-    "album": "Relics",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pink_Floyd_-_See_Emily_Play.jpg",
-    "started_at": "2026-11-06T21:17:07Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
