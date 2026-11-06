@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T16:16:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T16:18:43-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Came Here to Forget",
+    "artist": "Blake Shelton",
+    "album": "If I'm Honest",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blake_Shelton_-_Came_Here_To_Forget.jpg",
+    "started_at": "2026-11-06T22:18:27Z",
+    "duration_seconds": 182
+  },
   "next_poll_seconds": 10
 }
