@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T14:17:44-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T14:18:19-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Tell The Truth (feat. Trey Anastasio) [Live at LOCKN'  feat.  2019]",
+    "artist": "Tedeschi Trucks Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Tedeschi_Trucks_Band.jpg",
+    "started_at": "2026-11-06T20:17:34Z",
+    "duration_seconds": 427
+  },
   "next_poll_seconds": 10
 }
