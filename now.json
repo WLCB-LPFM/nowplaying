@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T14:41:03-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T14:48:42-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "All Hail The Algorithm",
+    "artist": "Selwyn Birchwood",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Selwyn_Birchwood_-_All_Hail_The_Algorithm.jpg",
+    "started_at": "2026-11-06T20:48:25Z",
+    "duration_seconds": 297
+  },
   "next_poll_seconds": 10
 }
