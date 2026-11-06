@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T13:30:18-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T13:34:37-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Sky's the Limit (feat. 112) [Radio Edit] [2014 Remaster]",
-    "artist": "The Notorious B.I.G.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Notorious_B.i.g..jpg",
-    "started_at": "2026-11-06T19:29:56Z",
-    "duration_seconds": 292
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
