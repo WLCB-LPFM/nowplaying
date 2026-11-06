@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T17:06:50-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T17:09:39-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Fire and Ice",
-    "artist": "Pat Benatar",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pat_Benatar_-_Fire_And_Ice.jpg",
-    "started_at": "2026-11-06T23:06:33Z",
-    "duration_seconds": 200
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
