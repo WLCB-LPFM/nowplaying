@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T15:34:28-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T15:52:02-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Boy Named Sue",
+    "artist": "Shel Silverstein",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shel_Silverstein_-_Boy_Named_Sue.jpg",
+    "started_at": "2026-11-06T21:51:46Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
