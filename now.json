@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T21:26:10-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T21:29:42-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Iris",
-    "artist": "The Goo Goo Dolls",
-    "album": "Dizzy Up the Girl",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Goo_Goo_Dolls_-_Iris.jpg",
-    "started_at": "2026-11-06T03:26:04Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
