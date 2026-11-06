@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T19:38:11-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T19:43:58-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Cold Desert",
-    "artist": "Kings of Leon",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kings_Of_Leon_-_Cold_Desert.jpg",
-    "started_at": "2026-11-06T01:38:04Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
