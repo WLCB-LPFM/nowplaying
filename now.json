@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T20:21:15-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T20:22:46-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "only shallow",
+    "artist": "my bloody valentine",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/My_Bloody_Valentine_-_Only_Shallow.jpg",
+    "started_at": "2026-11-06T02:22:36Z",
+    "duration_seconds": 221
+  },
   "next_poll_seconds": 10
 }
