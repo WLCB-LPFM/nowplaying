@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T15:14:39-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T15:15:25-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Little Bit O' Soul",
+    "artist": "The Music Explosion",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Music_Explosion_-_Little_Bit_O'_Soul.jpg",
+    "started_at": "2026-11-06T21:15:15Z",
+    "duration_seconds": 142
+  },
   "next_poll_seconds": 10
 }
