@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-05T18:00:23-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T18:02:17-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Walking on Sunshine",
+    "artist": "Katrina and the Waves",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-06T00:02:12.6296597Z",
+    "duration_seconds": 227,
+    "year": "1985"
+  },
   "next_poll_seconds": 10
 }
