@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T12:16:59-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T12:21:18-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "20 Years of B.B. King (Live April 5 at The Triple Door, Seattle, WA)",
-    "artist": "Curtis Salgado",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Curtis_Salgado.jpg",
-    "started_at": "2026-11-06T18:16:25Z",
-    "duration_seconds": 302
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
