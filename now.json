@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T13:06:40-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T13:12:18-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Satisfy Susie (Remastered)",
-    "artist": "Lonnie Mack",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lonnie_Mack_-_Satisfy_Susie_(Remastered).jpg",
-    "started_at": "2026-11-06T19:06:23Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
