@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T20:46:26-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T20:47:01-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Blue Light",
+    "artist": "Mazzy Star",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mazzy_Star_-_Blue_Light.jpg",
+    "started_at": "2026-11-06T02:46:49Z",
+    "duration_seconds": 311
+  },
   "next_poll_seconds": 10
 }
