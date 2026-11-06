@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T21:01:16-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T21:02:36-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Althea",
+    "artist": "Grateful Dead",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grateful_Dead_-_Althea.jpg",
+    "started_at": "2026-11-06T03:02:21Z",
+    "duration_seconds": 415
+  },
   "next_poll_seconds": 10
 }
