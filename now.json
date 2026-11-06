@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-06T02:57:24-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-06T02:59:50-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Taxi War Dance",
-    "artist": "Count Basie & His Orchestra",
-    "album": "Essential: Masters of Jazz",
-    "artwork_url": "",
-    "started_at": "2026-11-06T08:57:21.577185Z",
-    "duration_seconds": 162,
-    "year": "1998"
+    "artist": "Count Basie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Count_Basie_-_Taxi_War_Dance.jpg",
+    "started_at": "2026-11-06T08:57:38Z",
+    "duration_seconds": 170
   },
   "next_poll_seconds": 10
 }
