@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T19:54:52-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T19:59:35-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Change (In the House of Flies)",
-    "artist": "Deftones",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deftones_-_Change_(In_The_House_Of_Flies).jpg",
-    "started_at": "2026-11-06T01:54:41Z",
-    "duration_seconds": 300
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
