@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T14:53:25-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T14:59:02-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Crossroads (feat. Gary Clark Jr.)",
-    "artist": "Slash",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Slash.jpg",
-    "started_at": "2026-11-06T20:53:11Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
