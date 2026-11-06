@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T19:44:33-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T19:45:09-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Strobe (Club Edit)",
-    "artist": "deadmau5",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deadmau5_-_Strobe_(Club_Edit).jpg",
-    "started_at": "2026-11-06T01:44:25Z",
-    "duration_seconds": 379
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
