@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T20:57:31-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T21:01:16-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Trouble",
-    "artist": "Coldplay",
-    "album": "Parachutes",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Coldplay_-_Trouble.jpg",
-    "started_at": "2026-11-06T02:57:22Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
