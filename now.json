@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T20:03:32-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T20:08:03-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Live to Tell",
-    "artist": "Madonna",
-    "album": "True Blue",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Madonna_-_Live_To_Tell.jpg",
-    "started_at": "2026-11-06T02:03:25Z",
-    "duration_seconds": 287
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
