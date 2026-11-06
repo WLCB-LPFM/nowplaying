@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T17:26:38-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T17:26:51-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "All I Ever Wanted",
+    "artist": "Santana",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_All_I_Ever_Wanted.jpg",
+    "started_at": "2026-11-06T23:26:41Z",
+    "duration_seconds": 216
+  },
   "next_poll_seconds": 10
 }
