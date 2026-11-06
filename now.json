@@ -1,16 +1,17 @@
 {
-  "generated": "2026-11-05T22:19:18-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T22:19:41-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Take Five",
-    "artist": "Malene Mortensen",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Malene_Mortensen_-_Take_Five.jpg",
-    "started_at": "2026-11-06T04:14:26Z",
-    "duration_seconds": 327
+    "title": "Maple Leaf Rag",
+    "artist": "Scott Joplin",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Scott_Joplin_-_Maple_Leaf_Rag.jpg",
+    "started_at": "2026-11-06T04:19:33.1658089Z",
+    "duration_seconds": 192,
+    "year": "1997"
   },
   "next_poll_seconds": 10
 }
