@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T21:55:46-06:00",
-  "source": "fallback",
+  "generated": "2026-11-05T21:57:04-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hysteria",
+    "artist": "Def Leppard",
+    "album": "Hysteria",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Hysteria.jpg",
+    "started_at": "2026-11-06T03:56:54Z",
+    "duration_seconds": 323
+  },
   "next_poll_seconds": 10
 }
