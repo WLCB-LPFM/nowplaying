@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T16:09:29-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T16:10:04-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Think I'm In Love With You",
+    "artist": "Chris Stapleton",
+    "album": "Think I\u2019m In Love With You",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Chris_Stapleton_-_Think_I'm_In_Love_With_You.jpg",
+    "started_at": "2026-11-06T22:09:56Z",
+    "duration_seconds": 223
+  },
   "next_poll_seconds": 10
 }
