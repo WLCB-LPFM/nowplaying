@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T15:24:08-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T15:29:01-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Baby Please Don't Go",
-    "artist": "Ted Nugent & The Amboy Dukes",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/Ted_Nugent_&_The_Amboy_Dukes.jpg",
-    "started_at": "2026-11-06T21:23:29Z",
-    "duration_seconds": 339
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
