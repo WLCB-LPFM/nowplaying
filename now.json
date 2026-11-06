@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T17:51:00-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T17:51:35-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "No Sugar Tonight feat. New Mother Nature",
+    "artist": "The Guess Who",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Guess_Who.jpg",
+    "started_at": "2026-11-06T23:51:21Z",
+    "duration_seconds": 294
+  },
   "next_poll_seconds": 10
 }
