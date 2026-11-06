@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T13:34:37-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T13:37:14-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Why I Sing the Blues",
+    "artist": "B.B. King",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/B.b._King_-_Why_I_Sing_The_Blues.jpg",
+    "started_at": "2026-11-06T19:37:06Z",
+    "duration_seconds": 274
+  },
   "next_poll_seconds": 10
 }
