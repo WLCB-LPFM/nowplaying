@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T20:16:56-06:00",
-  "source": "autopost",
+  "generated": "2026-11-05T20:21:15-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Remember You",
-    "artist": "Skid Row",
-    "album": "Skid Row",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Skid_Row_-_I_Remember_You.jpg",
-    "started_at": "2026-11-06T02:16:38Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
