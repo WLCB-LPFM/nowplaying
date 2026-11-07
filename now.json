@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T19:44:56-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T19:45:53-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You've Really Got A Hold On Me",
+    "artist": "The Miracles",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Miracles_-_You've_Really_Got_A_Hold_On_Me.jpg",
+    "started_at": "2026-11-07T01:45:40Z",
+    "duration_seconds": 178
+  },
   "next_poll_seconds": 10
 }
