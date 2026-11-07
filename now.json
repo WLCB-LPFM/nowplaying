@@ -1,25 +1,18 @@
 {
-  "generated": "2026-11-06T17:57:46-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T18:00:00-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
-    "name": "Brick's Rockheads",
+    "name": "Soul of Music",
     "hosts": [
-      "Brick Brecker"
+      "Pauly J."
     ],
     "automated": false,
-    "starts": "17:00",
-    "ends": "18:00",
-    "genre": "Rock and Roll"
+    "starts": "18:00",
+    "ends": "19:00",
+    "genre": null
   },
-  "track": {
-    "title": "Persuasion",
-    "artist": "Santana",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Santana_-_Persuasion.jpg",
-    "started_at": "2026-11-06T23:57:34Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
