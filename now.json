@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T10:04:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-07T10:06:21-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,13 +15,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Oh Sheila",
-    "artist": "Ready for the World",
-    "album": "Ready for the World",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Ready_For_The_World_-_Oh_Sheila.jpg",
-    "started_at": "2026-11-07T16:04:03Z",
-    "duration_seconds": 146
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
