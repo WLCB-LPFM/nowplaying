@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-07T06:59:20-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T07:02:19-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Get Busy",
+    "artist": "Sean Paul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-07T13:02:09.5633481Z",
+    "duration_seconds": 205,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
