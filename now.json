@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T18:12:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T18:12:52-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wah Wah Man",
+    "artist": "Young-Holt Unlimited",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young-holt_Unlimited_-_Wah_Wah_Man.jpg",
+    "started_at": "2026-11-07T00:12:36Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
