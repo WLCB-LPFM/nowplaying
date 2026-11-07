@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T08:07:25-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T08:33:17-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -15,6 +15,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Get Me Wrong",
+    "artist": "Pretenders",
+    "album": "Get Close (Expanded & Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pretenders_-_Don't_Get_Me_Wrong.jpg",
+    "started_at": "2026-11-07T14:33:06Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
