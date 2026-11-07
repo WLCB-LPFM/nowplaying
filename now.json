@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T18:24:28-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T18:24:51-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Golden Lady",
+    "artist": "Stevie Wonder",
+    "album": "Innervisions",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Golden_Lady.jpg",
+    "started_at": "2026-11-07T00:24:39Z",
+    "duration_seconds": 298
+  },
   "next_poll_seconds": 10
 }
