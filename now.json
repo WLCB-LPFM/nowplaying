@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-07T00:36:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T00:41:17-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Stampede",
+    "artist": "Fletcher Henderson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fletcher_Henderson_-_The_Stampede.jpg",
+    "started_at": "2026-11-07T06:41:11Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
