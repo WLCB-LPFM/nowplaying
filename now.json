@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T19:55:41-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T19:59:36-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Green Onions",
-    "artist": "Dual Drive",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dual_Drive_-_Green_Onions.jpg",
-    "started_at": "2026-11-07T01:55:24Z",
-    "duration_seconds": 264
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
