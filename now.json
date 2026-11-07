@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T18:45:30-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T18:50:55-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Don't Know You",
+    "artist": "The Mar\u00edas",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Mar\u00edas_-_I_Don't_Know_You.jpg",
+    "started_at": "2026-11-07T00:50:48Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
