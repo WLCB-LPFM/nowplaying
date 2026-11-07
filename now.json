@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T11:36:45-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T11:38:48-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Written All Over Your Face",
+    "artist": "Rude Boys",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rude_Boys_-_Written_All_Over_Your_Face.jpg",
+    "started_at": "2026-11-07T17:38:36Z",
+    "duration_seconds": 381
+  },
   "next_poll_seconds": 10
 }
