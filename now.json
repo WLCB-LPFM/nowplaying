@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T19:27:35-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T19:33:10-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Crooked Teeth",
-    "artist": "Death Cab for Cutie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Death_Cab_For_Cutie_-_Crooked_Teeth.jpg",
-    "started_at": "2026-11-07T01:27:24Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
