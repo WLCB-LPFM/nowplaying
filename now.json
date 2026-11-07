@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T22:25:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T22:29:11-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Rolling 7s",
-    "artist": "Dirty Honey",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dirty_Honey_-_Rolling_7s.jpg",
-    "started_at": "2026-11-07T04:25:03Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
