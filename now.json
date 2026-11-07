@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-07T00:44:15-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T00:55:42-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "We Hail You Most High",
+    "artist": "Emmanuel Nduaguba",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Emmanuel_Nduaguba.jpg",
+    "started_at": "2026-11-07T06:55:28Z",
+    "duration_seconds": 3590
+  },
   "next_poll_seconds": 10
 }
