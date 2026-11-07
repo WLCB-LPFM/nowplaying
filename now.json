@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T19:15:16-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T19:21:48-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Kimosabe",
+    "artist": "Rising Eagle",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-11-07T01:21:29Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
