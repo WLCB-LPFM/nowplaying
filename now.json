@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T18:38:35-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T18:43:03-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Just Won't Burn",
-    "artist": "Susan Tedeschi",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Susan_Tedeschi_-_Just_Won't_Burn.jpg",
-    "started_at": "2026-11-07T00:38:22Z",
-    "duration_seconds": 286
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
