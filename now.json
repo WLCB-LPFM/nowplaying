@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T18:17:53-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T18:19:58-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Soul Street",
-    "artist": "Eddie Floyd",
-    "album": "Soul Street",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eddie_Floyd_-_Soul_Street.jpg",
-    "started_at": "2026-11-07T00:17:21Z",
-    "duration_seconds": 170
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
