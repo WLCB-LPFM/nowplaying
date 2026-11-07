@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T19:49:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T19:52:39-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dream Baby (How Long Must I Dream)",
+    "artist": "Roy Orbison",
+    "album": "The Ultimate Collection",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Roy_Orbison_-_Dream_Baby_(How_Long_Must_I_Dream).jpg",
+    "started_at": "2026-11-07T01:52:26Z",
+    "duration_seconds": 249
+  },
   "next_poll_seconds": 10
 }
