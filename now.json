@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T19:42:42-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T19:44:56-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Twisting The Night Away",
-    "artist": "Sam Cooke",
-    "album": "Don't Stop, Twist",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sam_Cooke_-_Twisting_The_Night_Away.jpg",
-    "started_at": "2026-11-07T01:42:22Z",
-    "duration_seconds": 164
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
