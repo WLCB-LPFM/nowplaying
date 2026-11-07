@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T17:23:12-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T17:24:31-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Burning Heart",
+    "artist": "Survivor",
+    "album": "Rocky IV (Original Motion Picture Soundtrack)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Survivor_-_Burning_Heart.jpg",
+    "started_at": "2026-11-07T23:24:23Z",
+    "duration_seconds": 180
+  },
   "next_poll_seconds": 10
 }
