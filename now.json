@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-07T04:45:36-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-07T04:50:25-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Hush",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-11-07T10:45:27.5572534Z",
-    "duration_seconds": 311,
-    "year": "1996"
+    "title": "Sleepwalker",
+    "artist": "Wellenfeld",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Wellenfeld_-_Sleepwalker.jpg",
+    "started_at": "2026-11-07T10:49:47Z",
+    "duration_seconds": 90
   },
   "next_poll_seconds": 10
 }
