@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T21:30:20-06:00",
-  "source": "fallback",
+  "generated": "2026-11-06T21:34:15-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Ninety-Nine and a Half (Won\u2019t Do) [Live at The Woodstock Music & Art Fair  feat.  1969]",
+    "artist": "Creedence Clearwater Revival",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Creedence_Clearwater_Revival.jpg",
+    "started_at": "2026-11-07T03:33:55Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
