@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T20:34:26-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T20:38:32-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Whiskey, Beer & Wine",
-    "artist": "Buddy Guy",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Buddy_Guy_-_Whiskey,_Beer_&_Wine.jpg",
-    "started_at": "2026-11-07T02:34:16Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
