@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T18:06:50-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T18:09:05-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "I've Got Dreams To Remember",
-    "artist": "Otis Redding",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Otis_Redding_-_I've_Got_Dreams_To_Remember.jpg",
-    "started_at": "2026-11-07T00:06:02Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
