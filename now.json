@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T20:12:21-06:00",
-  "source": "autopost",
+  "generated": "2026-11-06T20:15:32-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Special",
-    "artist": "Garbage",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Garbage_-_Special.jpg",
-    "started_at": "2026-11-07T02:12:01Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
