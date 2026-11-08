@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-08T08:49:01-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T08:49:47-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Take Me",
+    "artist": "The Marshall and their Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-08T14:49:42.283939Z",
+    "duration_seconds": 167,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
