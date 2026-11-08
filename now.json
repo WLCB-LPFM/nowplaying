@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T16:20:43-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T16:23:31-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Rock With You",
-    "artist": "Michael Jackson",
-    "album": "Off the Wall",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Michael_Jackson_-_Rock_With_You.jpg",
-    "started_at": "2026-11-08T22:20:26Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
