@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T20:47:31-06:00",
-  "source": "autopost",
+  "generated": "2026-11-07T20:50:07-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "My Philosophy",
-    "artist": "Boogie Down Productions",
-    "album": "The Masters Series: Hip Hop",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boogie_Down_Productions_-_My_Philosophy.jpg",
-    "started_at": "2026-11-08T02:47:21Z",
-    "duration_seconds": 177
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
