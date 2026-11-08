@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-08T14:16:45-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T14:16:58-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "There's Won't Be a Shortage of Love",
+    "artist": "Dolly Dawn and her Dawn Patrol Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-08T20:16:53.8299621Z",
+    "duration_seconds": 163,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
