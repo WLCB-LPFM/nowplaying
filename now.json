@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T22:47:40-06:00",
-  "source": "autopost",
+  "generated": "2026-11-07T22:52:28-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Cut the Jazz",
-    "artist": "De-Phazz",
-    "album": "Detunized Gravity",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/De-phazz_-_Cut_The_Jazz.jpg",
-    "started_at": "2026-11-08T04:47:23Z",
-    "duration_seconds": 312
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
