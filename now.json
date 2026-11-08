@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-08T14:00:06-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T14:02:11-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Long Live Love (1940)",
+    "artist": "Antone-Gibbs Quartet; Don Coster",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-08T20:02:09.1668888Z",
+    "duration_seconds": 172,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
