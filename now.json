@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-08T06:49:02-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T06:49:48-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tennessee Fish Fry (1940)",
+    "artist": "Lou Breese and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-08T12:49:42.788572Z",
+    "duration_seconds": 167,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
