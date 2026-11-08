@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T22:34:41-06:00",
-  "source": "autopost",
+  "generated": "2026-11-07T22:39:08-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "You Look Good To Me",
-    "artist": "Oscar Peterson Trio",
-    "album": "We Get Requests",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Oscar_Peterson_Trio_-_You_Look_Good_To_Me.jpg",
-    "started_at": "2026-11-08T04:34:25Z",
-    "duration_seconds": 289
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
