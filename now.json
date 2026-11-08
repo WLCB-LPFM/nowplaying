@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-08T15:41:03-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-08T15:43:29-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "It's the Last Time I Fall in Love (1940)",
-    "artist": "Harry James and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-08T21:40:52.6558765Z",
-    "duration_seconds": 171,
-    "year": "1940"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
