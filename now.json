@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T20:09:30-06:00",
-  "source": "autopost",
+  "generated": "2026-11-07T20:12:41-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Throw This Money",
-    "artist": "U.S.D.A.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U.s.d.a._-_Throw_This_Money.jpg",
-    "started_at": "2026-11-08T02:09:14Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
