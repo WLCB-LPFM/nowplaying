@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T20:31:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T20:33:44-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Blasphemy",
+    "artist": "Makaveli",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Makaveli_-_Blasphemy.jpg",
+    "started_at": "2026-11-08T02:33:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
