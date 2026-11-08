@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T20:50:07-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T20:52:55-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Ain't Trippin'",
+    "artist": "Too $hort",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Too_$hort_-_I_Ain't_Trippin'.jpg",
+    "started_at": "2026-11-08T02:52:43Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
