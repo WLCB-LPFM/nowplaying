@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-08T08:19:18-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T08:20:04-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Make Way for John (1940)",
+    "artist": "Johnny McGee and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-08T14:19:57.8284672Z",
+    "duration_seconds": 152,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
