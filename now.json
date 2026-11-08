@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T09:11:06-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T09:16:40-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Together",
-    "artist": "Dick Haymes & Helen Forrest",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dick_Haymes_&_Helen_Forrest_-_Together.jpg",
-    "started_at": "2026-11-08T15:10:53Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
