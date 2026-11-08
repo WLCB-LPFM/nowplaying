@@ -1,16 +1,18 @@
 {
-  "generated": "2026-11-08T08:59:54-06:00",
-  "source": "autopost",
-  "mode": "music_block",
+  "generated": "2026-11-08T09:00:07-06:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "The Booglie Wooglie Piggy",
-    "artist": "Glenn Miller",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_The_Booglie_Wooglie_Piggy.jpg",
-    "started_at": "2026-11-08T14:57:40Z",
-    "duration_seconds": 162
+  "show": {
+    "name": "The Original Big Band Showcase",
+    "hosts": [
+      "Denny Farrell"
+    ],
+    "automated": false,
+    "starts": "09:00",
+    "ends": "11:00",
+    "genre": "Big Band"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
