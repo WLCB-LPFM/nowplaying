@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-08T14:57:15-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T14:57:39-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Love Lies (1940)",
+    "artist": "Swing and Sway with Sammy Kaye and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-08T20:57:27.3812485Z",
+    "duration_seconds": 161,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
