@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T17:00:21-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T17:10:58-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Roni",
+    "artist": "Bobby Brown",
+    "album": "Lost In Love: The Best Of Slow Jams",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Brown_-_Roni.jpg",
+    "started_at": "2026-11-08T23:10:50Z",
+    "duration_seconds": 361
+  },
   "next_poll_seconds": 10
 }
