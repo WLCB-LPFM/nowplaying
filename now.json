@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-08T08:34:09-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T08:34:32-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Sand In My Shoes",
+    "artist": "Geraldo and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-08T14:34:23.9092244Z",
+    "duration_seconds": 187,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
