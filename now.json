@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T22:08:59-06:00",
-  "source": "autopost",
+  "generated": "2026-11-07T22:14:35-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Concierto de Aranjuez",
-    "artist": "Jim Hall",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jim_Hall_-_Concierto_De_Aranjuez.jpg",
-    "started_at": "2026-11-08T04:08:50Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
