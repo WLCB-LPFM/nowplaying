@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T17:24:54-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T17:30:51-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Casanova",
-    "artist": "Levert",
-    "album": "Casanova",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Levert_-_Casanova.jpg",
-    "started_at": "2026-11-08T23:24:44Z",
-    "duration_seconds": 372
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
