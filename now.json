@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T21:39:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T21:39:54-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "You're My Latest, My Greatest Inspiration",
+    "artist": "Teddy Pendergrass",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Teddy_Pendergrass_-_You're_My_Latest,_My_Greatest_Inspiration.jpg",
+    "started_at": "2026-11-08T03:39:40Z",
+    "duration_seconds": 321
+  },
   "next_poll_seconds": 10
 }
