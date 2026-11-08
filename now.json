@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-08T15:13:01-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T15:13:13-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When I Get You Alone Tonight (1940)",
+    "artist": "John Ryan",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-08T21:13:09.3904262Z",
+    "duration_seconds": 181,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
