@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T16:05:27-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T16:11:03-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Wake Up Everybody",
-    "artist": "Harold Melvin & The Blue Notes",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Harold_Melvin_&_The_Blue_Notes_-_Wake_Up_Everybody.jpg",
-    "started_at": "2026-11-08T22:05:15Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
