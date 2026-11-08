@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T17:41:08-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T17:45:14-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "I Do Love You (7' Version)",
-    "artist": "G.Q.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/g/G.q..jpg",
-    "started_at": "2026-11-08T23:40:55Z",
-    "duration_seconds": 266
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
