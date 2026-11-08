@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T19:51:57-06:00",
-  "source": "autopost",
+  "generated": "2026-11-07T19:54:55-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Invisible Touch",
-    "artist": "Genesis",
-    "album": "Invisible Touch / The Last Domino",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Genesis_-_Invisible_Touch.jpg",
-    "started_at": "2026-11-08T01:51:42Z",
-    "duration_seconds": 208
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
