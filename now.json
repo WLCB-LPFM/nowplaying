@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T21:52:00-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T21:52:12-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "If I Was Your Girlfriend",
+    "artist": "Prince",
+    "album": "If I Was Your Girlfriend",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Prince_-_If_I_Was_Your_Girlfriend.jpg",
+    "started_at": "2026-11-08T03:52:04Z",
+    "duration_seconds": 302
+  },
   "next_poll_seconds": 10
 }
