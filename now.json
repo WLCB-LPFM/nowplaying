@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T21:02:57-06:00",
-  "source": "fallback",
+  "generated": "2026-11-07T21:10:11-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Mulholland Drive",
+    "artist": "Snoop Dogg, October London & Latoiya Williams",
+    "album": "The Rebirth of Marvin",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Snoop_Dogg,_October_London_&_Latoiya_Williams.jpg",
+    "started_at": "2026-11-08T03:09:56Z",
+    "duration_seconds": 193
+  },
   "next_poll_seconds": 10
 }
