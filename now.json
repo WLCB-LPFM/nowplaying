@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T20:26:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T20:28:13-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Blister",
+    "artist": "Yumi Zouma",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yumi_Zouma_-_Blister.jpg",
+    "started_at": "2026-11-09T02:27:59Z",
+    "duration_seconds": 180
+  },
   "next_poll_seconds": 10
 }
