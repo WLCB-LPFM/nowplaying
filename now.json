@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T19:23:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T19:24:32-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Smoke Two Joints",
+    "artist": "The Toyes",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Toyes_-_Smoke_Two_Joints.jpg",
+    "started_at": "2026-11-09T01:24:18Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
