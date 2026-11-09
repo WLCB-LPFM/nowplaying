@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T19:54:50-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T19:58:23-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Whiskey Got Me Married",
-    "artist": "Altered Five Blues Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Altered_Five_Blues_Band_-_Whiskey_Got_Me_Married.jpg",
-    "started_at": "2026-11-09T01:54:36Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
