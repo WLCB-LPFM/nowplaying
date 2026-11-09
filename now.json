@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T18:05:48-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T18:08:47-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sugar Craft",
-    "artist": "Medeski, Martin & Wood",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Medeski,_Martin_&_Wood.jpg",
-    "started_at": "2026-11-09T00:05:35Z",
-    "duration_seconds": 203
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
