@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T20:17:20-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T20:19:46-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Hippie Sunshine",
-    "artist": "Kasabian",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kasabian_-_Hippie_Sunshine.jpg",
-    "started_at": "2026-11-09T02:16:55Z",
-    "duration_seconds": 186
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
