@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T17:39:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-09T17:42:44-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": {
-    "title": "Nie Ma Mocnych Na Mariol\u0119 (feat. DJ Sequence)",
-    "artist": "Mig",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mig.jpg",
-    "started_at": "2026-11-09T23:39:41Z",
-    "duration_seconds": 197
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
