@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T18:33:45-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T18:36:23-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "...Meets His Maker",
-    "artist": "DJ Shadow",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Shadow_-_...meets_His_Maker.jpg",
-    "started_at": "2026-11-09T00:33:36Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
