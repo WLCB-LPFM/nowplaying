@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T16:31:41-06:00",
-  "source": "fallback",
+  "generated": "2026-11-09T16:39:43-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "This River Is Wild",
+    "artist": "The Killers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Killers_-_This_River_Is_Wild.jpg",
+    "started_at": "2026-11-09T22:39:29Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
