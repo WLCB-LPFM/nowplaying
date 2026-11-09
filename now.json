@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T19:16:37-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T19:20:22-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Johnny B Goode",
-    "artist": "Peter Tosh",
-    "album": "The Best Of Peter Tosh 1978-1987",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Peter_Tosh_-_Johnny_B_Goode.jpg",
-    "started_at": "2026-11-09T01:16:25Z",
-    "duration_seconds": 244
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
