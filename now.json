@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-09T06:05:40-06:00",
-  "source": "fallback",
+  "generated": "2026-11-09T06:05:53-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Grab It",
+    "artist": "L'Trimm",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-09T12:05:46.3255106Z",
+    "duration_seconds": 272,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
