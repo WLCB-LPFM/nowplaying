@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T09:00:07-06:00",
-  "source": "autopost",
+  "generated": "2026-11-09T09:01:16-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Edge of Seventeen",
-    "artist": "Stevie Nicks",
-    "album": "Bella Donna",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Nicks_-_Edge_Of_Seventeen.jpg",
-    "started_at": "2026-11-09T14:55:55Z",
-    "duration_seconds": 328
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
