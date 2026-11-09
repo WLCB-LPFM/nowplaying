@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-09T05:35:19-06:00",
-  "source": "fallback",
+  "generated": "2026-11-09T05:35:31-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Gravy Train",
+    "artist": "Lou Donaldson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lou_Donaldson_-_Gravy_Train.jpg",
+    "started_at": "2026-11-09T11:35:24Z",
+    "duration_seconds": 494
+  },
   "next_poll_seconds": 10
 }
