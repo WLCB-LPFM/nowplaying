@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T20:33:28-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T20:37:57-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
-    "artist": "AC feat. DC",
-    "album": "High Voltage",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
-    "started_at": "2026-11-09T02:33:10Z",
-    "duration_seconds": 301
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
