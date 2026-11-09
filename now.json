@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T18:57:52-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T19:01:37-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The End",
-    "artist": "Justice & Thundercat",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Justice_&_Thundercat.jpg",
-    "started_at": "2026-11-09T00:57:37Z",
-    "duration_seconds": 254
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
