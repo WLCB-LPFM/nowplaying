@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T16:21:36-06:00",
-  "source": "fallback",
+  "generated": "2026-11-09T16:26:05-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Locked Away",
+    "artist": "Gabzito",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c3896b8a9ded6103a9dbe4b341f59f94.png",
+    "started_at": "2026-11-09T22:25:51Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
