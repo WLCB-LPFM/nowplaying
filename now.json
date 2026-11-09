@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T20:08:00-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T20:13:47-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Kick in the Shins",
-    "artist": "Radio Free Alice",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Radio_Free_Alice_-_Kick_In_The_Shins.jpg",
-    "started_at": "2026-11-09T02:07:52Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
