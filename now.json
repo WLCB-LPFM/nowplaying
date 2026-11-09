@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T20:50:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T20:53:04-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Turn To Stone",
+    "artist": "Joe Walsh",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Walsh_-_Turn_To_Stone.jpg",
+    "started_at": "2026-11-09T02:52:52Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
