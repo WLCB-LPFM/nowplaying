@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T20:37:57-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T20:38:09-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Hot Stuff",
+    "artist": "The Rolling Stones",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Hot_Stuff.jpg",
+    "started_at": "2026-11-09T02:37:55Z",
+    "duration_seconds": 321
+  },
   "next_poll_seconds": 10
 }
