@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-08T21:00:46-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T21:01:32-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Had Enough",
-    "artist": "The Who",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Who_-_Had_Enough.jpg",
-    "started_at": "2026-11-09T02:57:15Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
