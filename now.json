@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T19:46:49-06:00",
-  "source": "autopost",
+  "generated": "2026-11-08T19:52:35-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "No One to Run With",
-    "artist": "The Allman Brothers Band",
-    "album": "The Essential Allman Brothers Band - The Epic Years",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Allman_Brothers_Band_-_No_One_To_Run_With.jpg",
-    "started_at": "2026-11-09T01:46:44Z",
-    "duration_seconds": 360
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
