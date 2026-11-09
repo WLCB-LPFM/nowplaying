@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T18:26:04-06:00",
-  "source": "fallback",
+  "generated": "2026-11-08T18:26:39-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Music Never Stopped",
+    "artist": "Grateful Dead",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Grateful_Dead_-_The_Music_Never_Stopped.jpg",
+    "started_at": "2026-11-09T00:26:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
