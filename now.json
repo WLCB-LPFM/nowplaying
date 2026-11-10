@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T20:12:29-06:00",
-  "source": "autopost",
+  "generated": "2026-11-09T20:15:29-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "American Patrol",
-    "artist": "Glenn Miller",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_American_Patrol.jpg",
-    "started_at": "2026-11-10T02:12:19Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
