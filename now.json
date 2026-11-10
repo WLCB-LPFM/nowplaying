@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T21:34:36-06:00",
-  "source": "fallback",
+  "generated": "2026-11-09T21:41:39-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "You Are the Lord",
+    "artist": "Samuel Gold",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/s/Samuel_Gold.jpg",
+    "started_at": "2026-11-10T03:41:23Z",
+    "duration_seconds": 3675
+  },
   "next_poll_seconds": 10
 }
