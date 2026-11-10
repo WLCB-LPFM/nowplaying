@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-10T04:07:27-06:00",
-  "source": "fallback",
+  "generated": "2026-11-10T04:08:13-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Congeniality",
+    "artist": "Ornette Coleman",
+    "album": "The Shape of Jazz to Come",
+    "artwork_url": "",
+    "started_at": "2026-11-10T10:08:05.3676729Z",
+    "duration_seconds": 399,
+    "year": "1959"
+  },
   "next_poll_seconds": 10
 }
