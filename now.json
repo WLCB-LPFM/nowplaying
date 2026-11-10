@@ -1,16 +1,17 @@
 {
-  "generated": "2026-11-10T01:03:11-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T01:12:59-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Moon Rays",
-    "artist": "Horace Silver",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Horace_Silver_-_Moon_Rays.jpg",
-    "started_at": "2026-11-10T07:03:03Z",
-    "duration_seconds": 654
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "Take Five, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-11-10T07:12:47.9681674Z",
+    "duration_seconds": 309,
+    "year": "1990"
   },
   "next_poll_seconds": 10
 }
