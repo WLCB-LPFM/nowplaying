@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-10T05:02:33-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-10T05:05:20-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Should Care",
-    "artist": "Jerry Paper",
-    "album": "Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-11-10T11:02:26.145021Z",
-    "duration_seconds": 179,
-    "year": "2012"
+    "title": "'Round Midnight",
+    "artist": "Thelonious Monk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_'round_Midnight.jpg",
+    "started_at": "2026-11-10T11:04:59Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
