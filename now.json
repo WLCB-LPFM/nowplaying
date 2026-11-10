@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-10T17:09:21-06:00",
-  "source": "fallback",
+  "generated": "2026-11-10T17:09:33-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "R.O.C.K. In The U.S.A.",
+    "artist": "John Mellencamp",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-10T23:09:29.05595Z",
+    "duration_seconds": 162,
+    "year": "2021"
+  },
   "next_poll_seconds": 10
 }
