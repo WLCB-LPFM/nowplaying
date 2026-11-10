@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T16:35:27-06:00",
-  "source": "fallback",
+  "generated": "2026-11-10T16:35:39-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Whatta Man",
+    "artist": "Salt\u2010N\u2010Pepa",
+    "album": "Dance Mix UK",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Salt\u2010n\u2010pepa_-_Whatta_Man.jpg",
+    "started_at": "2026-11-10T22:35:08Z",
+    "duration_seconds": 224
+  },
   "next_poll_seconds": 10
 }
