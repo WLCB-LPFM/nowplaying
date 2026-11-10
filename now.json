@@ -1,16 +1,17 @@
 {
-  "generated": "2026-11-09T19:09:17-06:00",
-  "source": "fallback",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "The Block Party",
-    "hosts": [],
-    "automated": true,
-    "starts": "18:00",
-    "ends": "20:00",
-    "genre": null
+  "generated": "2026-11-09T19:09:31-06:00",
+  "source": "playitlive",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
+  "track": {
+    "title": "Show Me Love",
+    "artist": "Robin S",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-10T01:09:06.615757Z",
+    "duration_seconds": 187,
+    "year": "2022"
   },
-  "track": null,
   "next_poll_seconds": 10
 }
