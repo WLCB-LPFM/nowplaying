@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-10T13:11:07-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-10T13:11:20-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Rosanna",
-    "artist": "Toto",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-10T19:06:08.6869326Z",
-    "duration_seconds": 321,
-    "year": "1982"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
