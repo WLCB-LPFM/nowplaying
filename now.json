@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T16:53:00-06:00",
-  "source": "fallback",
+  "generated": "2026-11-10T16:55:59-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Heart And Soul",
+    "artist": "Huey Lewis & The News",
+    "album": "Greatest Hits (Remastered)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Huey_Lewis_&_The_News_-_Heart_And_Soul.jpg",
+    "started_at": "2026-11-10T22:55:33Z",
+    "duration_seconds": 223
+  },
   "next_poll_seconds": 10
 }
