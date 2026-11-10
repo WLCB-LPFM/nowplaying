@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-10T14:36:43-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T14:36:55-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "My Prerogative",
-    "artist": "Bobby Brown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bobby_Brown_-_My_Prerogative.jpg",
-    "started_at": "2026-11-10T20:33:42Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
