@@ -1,16 +1,16 @@
 {
-  "generated": "2026-11-09T19:08:52-06:00",
-  "source": "autopost",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Gel",
-    "artist": "Collective Soul",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Collective_Soul_-_Gel.jpg",
-    "started_at": "2026-11-10T01:06:25Z",
-    "duration_seconds": 180
+  "generated": "2026-11-09T19:09:17-06:00",
+  "source": "fallback",
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "The Block Party",
+    "hosts": [],
+    "automated": true,
+    "starts": "18:00",
+    "ends": "20:00",
+    "genre": null
   },
+  "track": null,
   "next_poll_seconds": 10
 }
