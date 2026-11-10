@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T16:16:44-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T16:18:58-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Superstition",
-    "artist": "Stevie Wonder",
-    "album": "Talking Book",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Wonder_-_Superstition.jpg",
-    "started_at": "2026-11-10T22:16:27Z",
-    "duration_seconds": 158
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
