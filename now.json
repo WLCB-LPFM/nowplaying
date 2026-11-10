@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-10T06:38:52-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-10T06:42:04-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Down Under",
-    "artist": "Men At Work",
+    "title": "Part",
+    "artist": "Down Under",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-10T12:38:38.7612099Z",
-    "duration_seconds": 209,
-    "year": "1981"
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Down_Under.jpg",
+    "started_at": "2026-11-10T12:38:56Z",
+    "duration_seconds": 259
   },
   "next_poll_seconds": 10
 }
