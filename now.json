@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T20:21:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-09T20:26:42-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Gouyad Sucr\u00e9",
-    "artist": "Zo Konpa & Konpa Kreyol",
-    "album": "",
-    "artwork_url": "null",
-    "started_at": "2026-11-10T02:20:57Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
