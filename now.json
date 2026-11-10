@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-10T12:46:16-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-10T12:50:26-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Good Vibrations",
-    "artist": "Marky Mark And The Funky Bunch",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-10T18:46:08.5533885Z",
-    "duration_seconds": 268,
-    "year": "1991"
+    "title": "Good Vibrations (feat. Loleatta Holloway)",
+    "artist": "Marky Mark and the Funky Bunch & Loleatta Holloway",
+    "album": "Music For The People",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Marky_Mark_And_The_Funky_Bunch_&_Loleatta_Holloway.jpg",
+    "started_at": "2026-11-10T18:46:47Z",
+    "duration_seconds": 270
   },
   "next_poll_seconds": 10
 }
