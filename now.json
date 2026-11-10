@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-09T18:28:28-06:00",
-  "source": "fallback",
+  "generated": "2026-11-09T18:30:21-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Straight Up",
+    "artist": "Paula Abdul",
+    "album": "Forever Your Girl",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paula_Abdul_-_Straight_Up.jpg",
+    "started_at": "2026-11-10T00:30:09.9498845Z",
+    "duration_seconds": 222,
+    "year": "1988"
+  },
   "next_poll_seconds": 10
 }
