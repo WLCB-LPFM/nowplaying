@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T20:44:35-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T20:47:46-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "The Payback (Part 1)",
-    "artist": "James Brown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/James_Brown.jpg",
-    "started_at": "2026-11-11T02:44:18Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
