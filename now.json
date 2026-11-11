@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-11T06:02:19-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-11T06:04:55-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "What I Like About You",
-    "artist": "The Romantics",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-11T12:02:11.5921879Z",
-    "duration_seconds": 170,
-    "year": "2015"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
