@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-10T19:06:49-06:00",
-  "source": "fallback",
+  "generated": "2026-11-10T19:07:02-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Heavy",
+    "artist": "Collective Soul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-11T01:06:55.1514265Z",
+    "duration_seconds": 174,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
