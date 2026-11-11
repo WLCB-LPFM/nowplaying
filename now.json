@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-11T04:17:18-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-11T04:20:39-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Bikini",
-    "artist": "Dexter Gordon Quartet",
-    "album": "The Smithsonian Collection of Classic Jazz, Volume 3",
-    "artwork_url": "",
-    "started_at": "2026-11-11T10:17:15.2574533Z",
-    "duration_seconds": 208,
-    "year": "1987"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
