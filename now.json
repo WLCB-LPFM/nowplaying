@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-10T23:30:20-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-10T23:34:27-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Bare Essentials",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-11-11T05:30:10.048457Z",
-    "duration_seconds": 265,
-    "year": "1996"
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Brubeck_-_Take_Five.jpg",
+    "started_at": "2026-11-11T05:29:50Z",
+    "duration_seconds": 324
   },
   "next_poll_seconds": 10
 }
