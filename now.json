@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T22:22:11-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T22:26:27-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Fantasy",
-    "artist": "Aldo Nova",
-    "album": "Aldo Nova",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aldo_Nova_-_Fantasy.jpg",
-    "started_at": "2026-11-11T04:22:01Z",
-    "duration_seconds": 273
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
