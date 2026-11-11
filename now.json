@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-11T17:09:13-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-11T17:12:14-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Danger Zone",
-    "artist": "Kenny Loggins",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-11T23:09:04.4513867Z",
-    "duration_seconds": 202,
-    "year": "2024"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
