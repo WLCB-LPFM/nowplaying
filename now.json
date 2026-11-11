@@ -1,17 +1,18 @@
 {
-  "generated": "2026-11-11T12:00:04-06:00",
+  "generated": "2026-11-11T14:00:01-06:00",
   "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
-    "name": "Jazz Lives!",
+    "name": "Now and Then Talk Radio",
     "hosts": [
-      "Bob Dauber"
+      "Denny Farrell",
+      "Bill Mackie"
     ],
     "automated": false,
-    "starts": "12:00",
-    "ends": "14:00",
-    "genre": "Jazz"
+    "starts": "14:00",
+    "ends": "15:00",
+    "genre": null
   },
   "track": null,
   "next_poll_seconds": 10
