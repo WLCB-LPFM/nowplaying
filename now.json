@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T20:27:29-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T20:30:29-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Hand Me Down World",
-    "artist": "The Guess Who",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Guess_Who_-_Hand_Me_Down_World.jpg",
-    "started_at": "2026-11-11T02:27:19Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
