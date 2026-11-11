@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T21:50:27-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T22:00:26-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "The End",
-    "artist": "The Doors",
-    "album": "The Doors (50th Anniversary Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doors_-_The_End.jpg",
-    "started_at": "2026-11-11T03:50:14Z",
-    "duration_seconds": 627
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
