@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T20:42:53-06:00",
-  "source": "fallback",
+  "generated": "2026-11-10T20:43:27-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": null,
+  "track": {
+    "title": "The Payback",
+    "artist": "James Brown",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_The_Payback.jpg",
+    "started_at": "2026-11-11T02:43:14Z",
+    "duration_seconds": 215
+  },
   "next_poll_seconds": 10
 }
