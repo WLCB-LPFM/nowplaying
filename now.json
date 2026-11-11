@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-11T15:02:23-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-11T15:06:30-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Pour Some Sugar On Me",
-    "artist": "Def Leppard",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-11T21:02:19.8972201Z",
-    "duration_seconds": 258,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
