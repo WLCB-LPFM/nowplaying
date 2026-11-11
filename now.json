@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T22:32:02-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T22:36:18-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Travelin' Man (Live In Detroit feat. 1975)",
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Bob_Seger_&_The_Silver_Bullet_Band.jpg",
-    "started_at": "2026-11-11T04:31:45Z",
-    "duration_seconds": 280
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
