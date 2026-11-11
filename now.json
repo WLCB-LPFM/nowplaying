@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T22:16:14-06:00",
-  "source": "autopost",
+  "generated": "2026-11-10T22:19:24-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Train, Train",
-    "artist": "Blackfoot",
-    "album": "Train, Train (Prelude)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackfoot_-_Train,_Train.jpg",
-    "started_at": "2026-11-11T04:15:57Z",
-    "duration_seconds": 217
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
