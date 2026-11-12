@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-12T11:27:28-06:00",
-  "source": "autopost",
+  "generated": "2026-11-12T11:27:41-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Circus",
-    "artist": "Britney Spears",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Britney_Spears_-_Circus.jpg",
-    "started_at": "2026-11-12T17:24:43Z",
-    "duration_seconds": 192
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
