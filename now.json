@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-12T12:13:05-06:00",
-  "source": "fallback",
+  "generated": "2026-11-12T12:13:18-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "September",
+    "artist": "Earth Wind & Fire",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-12T18:13:12.546975Z",
+    "duration_seconds": 203,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
