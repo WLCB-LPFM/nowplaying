@@ -1,9 +1,19 @@
 {
-  "generated": "2026-11-11T18:58:32-06:00",
+  "generated": "2026-11-11T19:00:03-06:00",
   "source": "fallback",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The Mix",
+    "hosts": [
+      "Tony Young",
+      "Carolyn Carmody"
+    ],
+    "automated": false,
+    "starts": "19:00",
+    "ends": "22:00",
+    "genre": "Variety"
+  },
   "track": null,
   "next_poll_seconds": 10
 }
