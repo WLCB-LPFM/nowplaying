@@ -1,9 +1,18 @@
 {
-  "generated": "2026-11-12T16:59:10-06:00",
+  "generated": "2026-11-12T17:00:07-06:00",
   "source": "fallback",
-  "mode": "music_block",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "Brick's Rockheads",
+    "hosts": [
+      "Brick Brecker"
+    ],
+    "automated": false,
+    "starts": "17:00",
+    "ends": "18:00",
+    "genre": "Rock and Roll"
+  },
   "track": null,
   "next_poll_seconds": 10
 }
