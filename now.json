@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-12T15:24:16-06:00",
-  "source": "fallback",
+  "generated": "2026-11-12T15:24:40-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "SexyBack",
+    "artist": "Justin Timberlake",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-12T21:24:29.5907068Z",
+    "duration_seconds": 176,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
