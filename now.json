@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-12T05:39:05-06:00",
-  "source": "playitlive",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Should Care",
-    "artist": "Jerry Paper",
-    "album": "Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-11-12T11:38:54.3629681Z",
-    "duration_seconds": 179,
-    "year": "2012"
+  "generated": "2026-11-12T05:40:36-06:00",
+  "source": "fallback",
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "All Night Jazz",
+    "hosts": [],
+    "automated": true,
+    "starts": "00:00",
+    "ends": "06:00",
+    "genre": "Jazz"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
