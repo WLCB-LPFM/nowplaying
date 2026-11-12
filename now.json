@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-12T01:02:14-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-12T01:07:26-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Besame mucho",
-    "artist": "Eline Snel",
-    "album": "The Best Jazz Audiophile Recommended",
-    "artwork_url": "",
-    "started_at": "2026-11-12T07:02:07.6427942Z",
-    "duration_seconds": 324,
-    "year": "2012"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
