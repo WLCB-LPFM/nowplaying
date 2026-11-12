@@ -1,17 +1,18 @@
 {
-  "generated": "2026-11-12T06:57:06-06:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-11-12T07:00:06-06:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Lay Your Hands On Me",
-    "artist": "Thompson Twins",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-12T12:56:54.2382364Z",
-    "duration_seconds": 207,
-    "year": "2018"
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
   },
+  "track": null,
   "next_poll_seconds": 10
 }
