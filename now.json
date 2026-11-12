@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-12T01:33:04-06:00",
-  "source": "fallback",
+  "generated": "2026-11-12T01:33:28-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Let's Stay Together",
+    "artist": "Johanna Gr\u00fcssner",
+    "album": "Lazy Afternoon",
+    "artwork_url": "",
+    "started_at": "2026-11-12T07:33:14.7638886Z",
+    "duration_seconds": 182,
+    "year": "2006"
+  },
   "next_poll_seconds": 10
 }
