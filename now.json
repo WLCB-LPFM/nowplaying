@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-12T11:16:46-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-12T11:21:17-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Escapade",
-    "artist": "Janet Jackson",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-12T17:16:39.8661873Z",
-    "duration_seconds": 283,
-    "year": "1989"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
