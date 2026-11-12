@@ -1,16 +1,17 @@
 {
-  "generated": "2026-11-12T05:40:36-06:00",
-  "source": "fallback",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "All Night Jazz",
-    "hosts": [],
-    "automated": true,
-    "starts": "00:00",
-    "ends": "06:00",
-    "genre": "Jazz"
+  "generated": "2026-11-12T05:46:09-06:00",
+  "source": "playitlive",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
+  "track": {
+    "title": "Love Is Here to Stay",
+    "artist": "Hans Ulrik",
+    "album": "Jazz and Mambo",
+    "artwork_url": "",
+    "started_at": "2026-11-12T11:45:58.3165785Z",
+    "duration_seconds": 260,
+    "year": "1998"
   },
-  "track": null,
   "next_poll_seconds": 10
 }
