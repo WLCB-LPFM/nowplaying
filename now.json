@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-11T20:52:34-06:00",
-  "source": "autopost",
+  "generated": "2026-11-11T20:55:44-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Buy Me a Rose",
-    "artist": "Kenny Rogers",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kenny_Rogers_-_Buy_Me_A_Rose.jpg",
-    "started_at": "2026-11-12T02:52:06Z",
-    "duration_seconds": 227
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
