@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T13:54:35-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T14:04:08-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Still Shakin'",
+    "artist": "North Mississippi Allstars",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/North_Mississippi_Allstars_-_Still_Shakin'.jpg",
+    "started_at": "2026-11-13T20:03:27Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
