@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T12:51:02-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T12:56:50-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "Like A King (Album Version)",
-    "artist": "Jimmie Vaughan",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jimmie_Vaughan.jpg",
-    "started_at": "2026-11-13T18:50:38Z",
-    "duration_seconds": 381
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
