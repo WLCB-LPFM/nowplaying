@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-12T18:24:10-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-12T18:28:28-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Everybody Everybody",
-    "artist": "Black Box",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-13T00:24:06.5986867Z",
-    "duration_seconds": 270,
-    "year": "2025"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
