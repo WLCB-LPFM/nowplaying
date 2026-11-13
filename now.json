@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T15:13:18-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T15:28:04-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Mississippi Queen",
+    "artist": "Molly Hatchet",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Molly_Hatchet_-_Mississippi_Queen.jpg",
+    "started_at": "2026-11-13T21:27:50Z",
+    "duration_seconds": 158
+  },
   "next_poll_seconds": 10
 }
