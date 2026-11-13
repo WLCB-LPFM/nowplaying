@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T17:10:41-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T17:12:23-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "When I Was Young",
-    "artist": "Eric Burdon & The Animals",
-    "album": "Retrospective",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Burdon_&_The_Animals_-_When_I_Was_Young.jpg",
-    "started_at": "2026-11-13T23:10:01Z",
-    "duration_seconds": 155
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
