@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-12T18:46:08-06:00",
-  "source": "fallback",
+  "generated": "2026-11-12T18:46:20-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Look",
+    "artist": "Roxette",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-13T00:46:12.2984553Z",
+    "duration_seconds": 224,
+    "year": "1989"
+  },
   "next_poll_seconds": 10
 }
