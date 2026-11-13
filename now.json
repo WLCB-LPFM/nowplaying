@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-13T00:46:49-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-13T00:49:05-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Windows",
-    "artist": "Jason Weber",
-    "album": "1st Avenue",
-    "artwork_url": "",
-    "started_at": "2026-11-13T06:46:43.2697922Z",
-    "duration_seconds": 154,
-    "year": "1996"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
