@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-12T18:37:49-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-12T18:41:35-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Back In Black",
-    "artist": "AC\u29f8DC",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-13T00:37:42.6119382Z",
-    "duration_seconds": 245,
-    "year": "2024"
+    "artist": "AC feat. DC",
+    "album": "Back In Black",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-11-13T00:38:11Z",
+    "duration_seconds": 256
   },
   "next_poll_seconds": 10
 }
