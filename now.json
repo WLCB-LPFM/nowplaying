@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-12T20:28:11-06:00",
-  "source": "autopost",
+  "generated": "2026-11-12T20:33:15-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Joy",
-    "artist": "Rita Ora",
-    "album": "Joy - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rita_Ora_-_Joy.jpg",
-    "started_at": "2026-11-13T02:27:56Z",
-    "duration_seconds": 325
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
