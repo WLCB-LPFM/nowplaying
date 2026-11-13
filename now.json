@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T15:30:19-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T15:36:29-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Hippies and Cowboys",
+    "artist": "Cody Jinks",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cody_Jinks_-_Hippies_And_Cowboys.jpg",
+    "started_at": "2026-11-13T21:35:37Z",
+    "duration_seconds": 301
+  },
   "next_poll_seconds": 10
 }
