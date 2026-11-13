@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-12T20:58:08-06:00",
-  "source": "fallback",
+  "generated": "2026-11-12T21:08:26-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Have It Any Way You Want It",
+    "artist": "Three Deep",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/Three_Deep.jpg",
+    "started_at": "2026-11-13T03:08:01Z",
+    "duration_seconds": 204
+  },
   "next_poll_seconds": 10
 }
