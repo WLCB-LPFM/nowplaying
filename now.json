@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T13:37:37-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T13:49:03-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "I Need You Tonight",
+    "artist": "ZZ Top",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/z/Zz_Top_-_I_Need_You_Tonight.jpg",
+    "started_at": "2026-11-13T19:48:23Z",
+    "duration_seconds": 377
+  },
   "next_poll_seconds": 10
 }
