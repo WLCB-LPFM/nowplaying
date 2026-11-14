@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T21:03:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T21:07:18-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Feelin' Alright",
-    "artist": "Craig Chaquico",
-    "album": "Once In a Blue Universe",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Craig_Chaquico_-_Feelin'_Alright.jpg",
-    "started_at": "2026-11-14T03:03:27Z",
-    "duration_seconds": 245
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
