@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T21:38:29-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T21:46:17-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Who's That Coming? (Live)",
-    "artist": "Joe Bonamassa",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_Who's_That_Coming?_(Live).jpg",
-    "started_at": "2026-11-14T03:37:57Z",
-    "duration_seconds": 507
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
