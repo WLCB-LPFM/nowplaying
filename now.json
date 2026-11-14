@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T21:07:18-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T21:16:01-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Be Careful With a Fool",
+    "artist": "Johnny Winter",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Winter_-_Be_Careful_With_A_Fool.jpg",
+    "started_at": "2026-11-14T03:15:19Z",
+    "duration_seconds": 315
+  },
   "next_poll_seconds": 10
 }
