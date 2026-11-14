@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T20:35:34-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T20:38:33-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Good One Comin' On",
-    "artist": "Blackberry Smoke",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blackberry_Smoke_-_Good_One_Comin'_On.jpg",
-    "started_at": "2026-11-14T02:34:57Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
