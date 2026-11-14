@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T18:15:31-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T18:17:13-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Make Me Wait Too Long",
-    "artist": "Barry White",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Barry_White_-_Don't_Make_Me_Wait_Too_Long.jpg",
-    "started_at": "2026-11-14T00:14:03Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
