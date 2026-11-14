@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T18:25:27-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T18:49:30-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Tieduprightnow",
+    "artist": "Parcels",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Parcels_-_Tieduprightnow.jpg",
+    "started_at": "2026-11-14T00:48:29Z",
+    "duration_seconds": 250
+  },
   "next_poll_seconds": 10
 }
