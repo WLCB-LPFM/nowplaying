@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T19:26:18-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T19:27:03-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Pride and Joy",
-    "artist": "Stevie Ray Vaughan & Double Trouble",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_Pride_And_Joy.jpg",
-    "started_at": "2026-11-14T01:23:34Z",
-    "duration_seconds": 220
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
