@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T18:17:13-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T18:22:50-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hey You! Get Off My Mountain",
+    "artist": "The Dramatics",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dramatics_-_Hey_You!_Get_Off_My_Mountain.jpg",
+    "started_at": "2026-11-14T00:22:11Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
