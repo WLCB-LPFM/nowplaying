@@ -1,18 +1,9 @@
 {
-  "generated": "2026-11-13T22:48:50-06:00",
+  "generated": "2026-11-13T23:00:05-06:00",
   "source": "fallback",
   "mode": "live",
   "automation_on": false,
-  "show": {
-    "name": "Graybeard's Clubhouse",
-    "hosts": [
-      "Tim Graham"
-    ],
-    "automated": false,
-    "starts": "20:30",
-    "ends": "23:00",
-    "genre": null
-  },
+  "show": null,
   "track": null,
   "next_poll_seconds": 10
 }
