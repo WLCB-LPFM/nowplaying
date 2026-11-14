@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-14T06:02:26-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-14T06:05:47-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Take On Me",
-    "artist": "A-ha",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-14T12:02:14.4692738Z",
-    "duration_seconds": 219,
-    "year": "2017"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
