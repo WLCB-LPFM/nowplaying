@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T18:00:44-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T18:05:46-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hold On I'm Coming",
+    "artist": "Samuel David Moore & Dave Prater",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-11-14T00:05:29Z",
+    "duration_seconds": 158
+  },
   "next_poll_seconds": 10
 }
