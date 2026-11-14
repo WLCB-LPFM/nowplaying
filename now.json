@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T12:00:03-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T12:01:00-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "13:00",
     "genre": null
   },
-  "track": {
-    "title": "Lost Your Head Blues",
-    "artist": "Bessie Smith",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bessie_Smith_-_Lost_Your_Head_Blues.jpg",
-    "started_at": "2026-11-14T17:58:21Z",
-    "duration_seconds": 174
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
