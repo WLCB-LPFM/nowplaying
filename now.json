@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-14T16:05:47-06:00",
-  "source": "fallback",
+  "generated": "2026-11-14T16:06:11-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Want Your Sex",
+    "artist": "George Michael",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-14T22:06:00.3951866Z",
+    "duration_seconds": 283,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
