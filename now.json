@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T19:03:11-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T19:05:59-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Talk About the Passion",
-    "artist": "R.E.M.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/R.e.m._-_Talk_About_The_Passion.jpg",
-    "started_at": "2026-11-14T01:02:50Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
