@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-14T04:07:51-06:00",
-  "source": "fallback",
+  "generated": "2026-11-14T04:19:11-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Body And Soul [Excerpt]",
+    "artist": "Gene Norman's 'Just Jazz' Featuring Red Norvo And Stan Getz",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
+    "artwork_url": "",
+    "started_at": "2026-11-14T10:19:01.3477499Z",
+    "duration_seconds": 211,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
