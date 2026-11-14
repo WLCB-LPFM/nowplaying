@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T11:52:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T11:55:44-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Yeah! (feat. Lil Jon & Ludacris)",
-    "artist": "USHER",
-    "album": "Confessions (Expanded Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/artists/u/Usher.jpg",
-    "started_at": "2026-11-14T17:52:19Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
