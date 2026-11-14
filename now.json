@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T11:08:29-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T11:12:02-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Un-Break My Heart (Classic Radio Mix)",
-    "artist": "Toni Braxton",
-    "album": "Summer Love, Pt. 6",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Toni_Braxton_-_Un-break_My_Heart_(Classic_Radio_Mix).jpg",
-    "started_at": "2026-11-14T17:07:49Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
