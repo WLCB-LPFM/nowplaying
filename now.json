@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T21:46:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T21:47:36-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Short Fuse Blues",
+    "artist": "Dave Hole",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dave_Hole_-_Short_Fuse_Blues.jpg",
+    "started_at": "2026-11-14T03:47:13Z",
+    "duration_seconds": 316
+  },
   "next_poll_seconds": 10
 }
