@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-14T05:43:41-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-14T05:46:18-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Doggin' Around",
-    "artist": "Count Basie And His Orchestra",
-    "album": "Various Artists",
-    "artwork_url": "",
-    "started_at": "2026-11-14T11:43:37.0711912Z",
-    "duration_seconds": 174,
-    "year": "1938"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
