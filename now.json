@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T11:33:01-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T11:35:16-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Express Yourself",
-    "artist": "Charles Wright & The Watts 103rd Street Rhythm Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charles_Wright_&_The_Watts_103rd_Street_Rhythm_Band_-_Express_Yourself.jpg",
-    "started_at": "2026-11-14T17:31:32Z",
-    "duration_seconds": 231
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
