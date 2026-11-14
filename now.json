@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-13T23:30:03-06:00",
-  "source": "fallback",
+  "generated": "2026-11-13T23:32:42-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Your Smiling Face",
+    "artist": "Christina Gustafsson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Christina_Gustafsson_-_Your_Smiling_Face.jpg",
+    "started_at": "2026-11-14T05:32:14Z",
+    "duration_seconds": 192
+  },
   "next_poll_seconds": 10
 }
