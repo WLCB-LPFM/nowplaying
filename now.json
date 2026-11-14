@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T11:12:02-06:00",
-  "source": "fallback",
+  "generated": "2026-11-14T11:21:39-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Love No Limit",
+    "artist": "Mary J. Blige",
+    "album": "What's The 411?",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mary_J._Blige_-_Love_No_Limit.jpg",
+    "started_at": "2026-11-14T17:21:11Z",
+    "duration_seconds": 300
+  },
   "next_poll_seconds": 10
 }
