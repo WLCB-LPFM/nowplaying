@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T22:17:37-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T22:20:24-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Black Night (2002 Remaster)",
-    "artist": "Deep Purple",
-    "album": "Guitar Heroes",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Deep_Purple_-_Black_Night_(2002_Remaster).jpg",
-    "started_at": "2026-11-14T04:17:16Z",
-    "duration_seconds": 194
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
