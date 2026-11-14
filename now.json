@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T11:43:27-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T11:46:47-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Somebody Else's Guy",
-    "artist": "Jocelyn Brown",
-    "album": "Somebody Else's Guy",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jocelyn_Brown_-_Somebody_Else's_Guy.jpg",
-    "started_at": "2026-11-14T17:43:06Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
