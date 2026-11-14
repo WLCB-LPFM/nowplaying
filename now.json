@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T11:25:56-06:00",
-  "source": "fallback",
+  "generated": "2026-11-14T11:26:52-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "This Masquerade (Edit)",
+    "artist": "George Benson",
+    "album": "This Masquerade (Edit)",
+    "artwork_url": "https://cdn.autopo.st/images/artists/g/George_Benson.jpg",
+    "started_at": "2026-11-14T17:26:18Z",
+    "duration_seconds": 200
+  },
   "next_poll_seconds": 10
 }
