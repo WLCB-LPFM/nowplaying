@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T19:27:38-06:00",
-  "source": "autopost",
+  "generated": "2026-11-13T19:29:53-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Cold Sweat",
-    "artist": "Thin Lizzy",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thin_Lizzy_-_Cold_Sweat.jpg",
-    "started_at": "2026-11-14T01:26:53Z",
-    "duration_seconds": 189
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
