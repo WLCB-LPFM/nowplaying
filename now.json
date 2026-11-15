@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T21:45:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-14T21:45:54-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "All Cried Out (with Full Force)",
+    "artist": "Lisa Lisa & Cult Jam",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lisa_Lisa_&_Cult_Jam_-_All_Cried_Out_(With_Full_Force).jpg",
+    "started_at": "2026-11-15T03:44:16Z",
+    "duration_seconds": 284
+  },
   "next_poll_seconds": 10
 }
