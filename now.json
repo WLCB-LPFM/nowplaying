@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-15T14:13:43-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T14:13:57-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Honeysuckle Rose",
+    "artist": "Rose Murphy; Razaf; Waller",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-15T20:13:54.0704422Z",
+    "duration_seconds": 154,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
