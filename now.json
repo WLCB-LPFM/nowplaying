@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-15T08:05:10-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T08:05:23-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "JA-DA",
+    "artist": "Tommy Ladnier and Orchestra; Bob Carleton",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-15T14:05:19.8510867Z",
+    "duration_seconds": 164,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
