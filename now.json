@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T22:16:08-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T22:20:25-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Summertime",
-    "artist": "Louis Armstrong, Ella Fitzgerald",
-    "album": "Here Comes The Sun",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong,_Ella_Fitzgerald_-_Summertime.jpg",
-    "started_at": "2026-11-15T04:15:39Z",
-    "duration_seconds": 298
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
