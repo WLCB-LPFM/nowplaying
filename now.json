@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-15T07:50:31-06:00",
+  "generated": "2026-11-15T07:50:55-06:00",
   "source": "fallback",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "Big Band Sunday Morning",
+    "hosts": [],
+    "automated": true,
+    "starts": "06:00",
+    "ends": "09:00",
+    "genre": "Big Band"
+  },
   "track": null,
   "next_poll_seconds": 10
 }
