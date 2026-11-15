@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-15T08:13:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T08:14:02-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "She Had It Taken (1940)",
+    "artist": "The Ramblers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-15T14:14:01.4553037Z",
+    "duration_seconds": 138,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
