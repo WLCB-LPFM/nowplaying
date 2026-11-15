@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-15T15:59:11-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T15:59:24-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Two Little Toads (1940)",
+    "artist": "The Ramblers; Don Lawrence",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-15T21:59:18.2511175Z",
+    "duration_seconds": 156,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
