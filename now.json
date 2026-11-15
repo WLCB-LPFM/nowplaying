@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-15T15:56:43-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T15:56:56-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Can't Win a War without the Irish",
+    "artist": "Jimmy Shields",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-15T21:56:50.3561409Z",
+    "duration_seconds": 147,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
