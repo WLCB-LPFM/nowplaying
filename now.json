@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-15T08:34:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T08:34:57-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Miss You",
+    "artist": "Lang Thompson and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-15T14:34:48.1596899Z",
+    "duration_seconds": 196,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
