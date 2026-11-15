@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-15T15:27:41-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-15T15:29:46-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Somebody Else is Taking My Place",
-    "artist": "Bunny Berigan and his Orchestra",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-15T21:27:36.605499Z",
-    "duration_seconds": 143,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
