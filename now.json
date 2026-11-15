@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T21:34:00-06:00",
-  "source": "fallback",
+  "generated": "2026-11-14T21:40:18-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Maybe Tomorrow",
+    "artist": "Jackson 5",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jackson_5_-_Maybe_Tomorrow.jpg",
+    "started_at": "2026-11-15T03:39:56Z",
+    "duration_seconds": 286
+  },
   "next_poll_seconds": 10
 }
