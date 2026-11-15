@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T21:28:25-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T21:34:00-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Catch You When You Fall",
-    "artist": "Nathan Evans",
-    "album": "Catch You When You Fall - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nathan_Evans_-_Catch_You_When_You_Fall.jpg",
-    "started_at": "2026-11-15T03:28:15Z",
-    "duration_seconds": 351
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
