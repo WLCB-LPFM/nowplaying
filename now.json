@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T22:22:39-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T22:24:54-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Misty",
-    "artist": "Sarah Vaughan",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sarah_Vaughan_-_Misty.jpg",
-    "started_at": "2026-11-15T04:22:02Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
