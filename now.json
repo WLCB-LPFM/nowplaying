@@ -1,17 +1,18 @@
 {
-  "generated": "2026-11-15T15:59:24-06:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-11-15T16:00:10-06:00",
+  "source": "fallback",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
-  "track": {
-    "title": "Two Little Toads (1940)",
-    "artist": "The Ramblers; Don Lawrence",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-15T21:59:18.2511175Z",
-    "duration_seconds": 156,
-    "year": "1940"
+  "show": {
+    "name": "Old School Throwbacks",
+    "hosts": [
+      "J. Cornelius"
+    ],
+    "automated": false,
+    "starts": "16:00",
+    "ends": "18:00",
+    "genre": "Hip-Hop"
   },
+  "track": null,
   "next_poll_seconds": 10
 }
