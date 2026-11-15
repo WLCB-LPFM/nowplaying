@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T20:36:56-06:00",
-  "source": "fallback",
+  "generated": "2026-11-14T20:40:51-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I Wonder If I Take You Home",
+    "artist": "Lisa Lisa & Cult Jam",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lisa_Lisa_&_Cult_Jam_-_I_Wonder_If_I_Take_You_Home.jpg",
+    "started_at": "2026-11-15T02:40:39Z",
+    "duration_seconds": 406
+  },
   "next_poll_seconds": 10
 }
