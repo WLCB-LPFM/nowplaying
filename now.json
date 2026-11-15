@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T20:21:12-06:00",
-  "source": "fallback",
+  "generated": "2026-11-14T20:21:36-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Praise The Lord (Da Shine) [feat. Skepta]",
+    "artist": "A$AP Rocky",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/A$ap_Rocky_-_Praise_The_Lord_(Da_Shine)_[feat._Skepta].jpg",
+    "started_at": "2026-11-15T02:21:07Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
