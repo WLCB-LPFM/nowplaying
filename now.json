@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T20:33:46-06:00",
-  "source": "autopost",
+  "generated": "2026-11-14T20:36:56-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "The Power (7' Version) [No Rap]",
-    "artist": "Snap!",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Snap!.jpg",
-    "started_at": "2026-11-15T02:33:19Z",
-    "duration_seconds": 228
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
