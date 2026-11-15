@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-15T08:22:52-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T08:23:16-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I, YI, YI, YI, YI (I Like You very much)",
+    "artist": "Xavier Cugat and His Waldorf Astoria Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-15T14:23:15.5847989Z",
+    "duration_seconds": 180,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
