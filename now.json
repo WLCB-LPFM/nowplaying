@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-15T18:00:52-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T18:21:45-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "I Fall Down",
+    "artist": "U2",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_I_Fall_Down.jpg",
+    "started_at": "2026-11-16T00:20:50Z",
+    "duration_seconds": 220
+  },
   "next_poll_seconds": 10
 }
