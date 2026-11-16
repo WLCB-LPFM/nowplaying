@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-16T12:13:44-06:00",
-  "source": "fallback",
+  "generated": "2026-11-16T12:14:08-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Straight Up",
+    "artist": "Paula Abdul",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-16T18:13:59.4197645Z",
+    "duration_seconds": 219,
+    "year": "1988"
+  },
   "next_poll_seconds": 10
 }
