@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-15T21:30:44-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-15T21:35:46-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "La Vie en rose",
-    "artist": "Awa Ly",
-    "album": "The Best Jazz Audiophile Recommended",
-    "artwork_url": "",
-    "started_at": "2026-11-16T03:30:42.563732Z",
-    "duration_seconds": 316,
-    "year": "2012"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
