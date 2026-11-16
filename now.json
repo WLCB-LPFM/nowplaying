@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-16T13:07:15-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-16T13:11:25-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I'm So Excited",
-    "artist": "The Pointer Sisters",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-16T19:07:02.3617032Z",
-    "duration_seconds": 276,
-    "year": "1982"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
