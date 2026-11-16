@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-16T14:05:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-16T14:05:41-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "California Love",
+    "artist": "2Pac and Dr. Dre",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-16T20:05:29.7437881Z",
+    "duration_seconds": 267,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
