@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-16T06:50:59-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-16T06:54:09-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Invisible Touch",
-    "artist": "Genesis",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-16T12:50:55.6094951Z",
-    "duration_seconds": 201,
-    "year": "1986"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
