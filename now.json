@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-16T04:09:10-06:00",
-  "source": "fallback",
+  "generated": "2026-11-16T04:09:56-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Fantasy on Frankie & Johnny",
+    "artist": "Erroll Garner",
+    "album": "The Complete Savoy & Dial Master Takes, Volume 2",
+    "artwork_url": "",
+    "started_at": "2026-11-16T10:09:45.6306675Z",
+    "duration_seconds": 167,
+    "year": "1999"
+  },
   "next_poll_seconds": 10
 }
