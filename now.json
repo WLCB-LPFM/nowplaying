@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-16T15:24:08-06:00",
-  "source": "fallback",
+  "generated": "2026-11-16T15:24:32-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Love Don't Cost A Thing",
+    "artist": "Jennifer Lopez",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-16T21:24:23.7449056Z",
+    "duration_seconds": 217,
+    "year": "2020"
+  },
   "next_poll_seconds": 10
 }
