@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-16T12:58:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-16T13:02:39-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Doowutchyalike",
+    "artist": "Digital Underground",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-16T19:02:28.9354238Z",
+    "duration_seconds": 273,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
