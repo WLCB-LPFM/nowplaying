@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-15T18:28:53-06:00",
-  "source": "autopost",
+  "generated": "2026-11-15T18:31:19-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Fallin' (Radio Edit)",
-    "artist": "Alicia Keys",
-    "album": "Nu Divas",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alicia_Keys_-_Fallin'_(Radio_Edit).jpg",
-    "started_at": "2026-11-16T00:28:10Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
