@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-15T19:32:26-06:00",
-  "source": "fallback",
+  "generated": "2026-11-15T19:41:43-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "High Cost of Living",
+    "artist": "Jamey Johnson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jamey_Johnson_-_High_Cost_Of_Living.jpg",
+    "started_at": "2026-11-16T01:41:00Z",
+    "duration_seconds": 345
+  },
   "next_poll_seconds": 10
 }
