@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-15T19:29:14-06:00",
-  "source": "autopost",
+  "generated": "2026-11-15T19:32:26-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "If It Wasn't For Bad",
-    "artist": "Elton John & Leon Russell",
-    "album": "The Best Of",
-    "artwork_url": "https://cdn.autopo.st/images/artists/e/Elton_John_&_Leon_Russell.jpg",
-    "started_at": "2026-11-16T01:28:48Z",
-    "duration_seconds": 223
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
