@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-17T16:16:47-06:00",
-  "source": "fallback",
+  "generated": "2026-11-17T16:17:11-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Carry Out",
+    "artist": "Timberland",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-17T22:16:58.9241246Z",
+    "duration_seconds": 198,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
