@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-17T11:30:19-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-17T11:35:38-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Situation",
-    "artist": "Yaz",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-17T17:30:09.0773228Z",
-    "duration_seconds": 341,
-    "year": "2019"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
