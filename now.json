@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-16T18:05:37-06:00",
-  "source": "fallback",
+  "generated": "2026-11-16T18:06:01-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Can I Get A...",
+    "artist": "Jay-Z",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-17T00:05:49.3910636Z",
+    "duration_seconds": 296,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
