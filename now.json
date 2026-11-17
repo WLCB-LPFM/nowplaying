@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-17T14:16:59-06:00",
-  "source": "fallback",
+  "generated": "2026-11-17T14:17:12-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Work It",
+    "artist": "Missy Elliott",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-17T20:17:03.524902Z",
+    "duration_seconds": 242,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
