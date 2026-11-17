@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-17T00:17:04-06:00",
-  "source": "fallback",
+  "generated": "2026-11-17T00:17:28-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "You Are My Sunshine",
+    "artist": "Tutu Puoane",
+    "album": "The Best Jazz Audiophile Recommended, Volume 4",
+    "artwork_url": "",
+    "started_at": "2026-11-17T06:17:17.6773442Z",
+    "duration_seconds": 282,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
