@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-17T01:44:19-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-17T01:47:08-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Misterioso",
-    "artist": "Thelonius Monk Quartet",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-11-17T07:44:07.9914959Z",
-    "duration_seconds": 192,
-    "year": "1997"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
