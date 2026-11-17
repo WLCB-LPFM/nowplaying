@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-17T01:08:14-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-17T01:13:42-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Danny Boy",
-    "artist": "Jim McNeely Trio",
-    "album": "High Fidelity Reference CD No. 71",
-    "artwork_url": "",
-    "started_at": "2026-11-17T07:08:05.4151557Z",
-    "duration_seconds": 348,
-    "year": "2003"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
