@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-17T11:00:40-06:00",
-  "source": "fallback",
+  "generated": "2026-11-17T11:02:23-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "One Thing Leads to Another",
+    "artist": "The Fixx",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-17T17:02:12.8037052Z",
+    "duration_seconds": 189,
+    "year": "2010"
+  },
   "next_poll_seconds": 10
 }
