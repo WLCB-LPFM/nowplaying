@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-17T16:10:39-06:00",
-  "source": "fallback",
+  "generated": "2026-11-17T16:10:52-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Shake Your Bon-Bon",
+    "artist": "Ricky Martin",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-17T22:10:45.9249753Z",
+    "duration_seconds": 158,
+    "year": "2025"
+  },
   "next_poll_seconds": 10
 }
