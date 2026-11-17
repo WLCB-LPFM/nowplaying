@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-16T18:29:01-06:00",
-  "source": "fallback",
+  "generated": "2026-11-16T18:31:18-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "So Emotional",
+    "artist": "Whitney Houston",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-17T00:31:17.7171388Z",
+    "duration_seconds": 256,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
