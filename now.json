@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-17T15:59:06-06:00",
-  "source": "fallback",
+  "generated": "2026-11-17T16:02:09-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Alive And Kicking",
+    "artist": "Simple Minds",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-17T22:02:09.9164774Z",
+    "duration_seconds": 280,
+    "year": "2023"
+  },
   "next_poll_seconds": 10
 }
