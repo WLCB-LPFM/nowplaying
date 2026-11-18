@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-18T15:20:18-06:00",
-  "source": "fallback",
+  "generated": "2026-11-18T15:20:31-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Safety Dance",
+    "artist": "Men Without Hats",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-18T21:20:23.959741Z",
+    "duration_seconds": 262,
+    "year": "2012"
+  },
   "next_poll_seconds": 10
 }
