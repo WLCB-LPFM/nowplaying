@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-18T16:37:30-06:00",
-  "source": "fallback",
+  "generated": "2026-11-18T16:37:55-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "It's Tricky",
+    "artist": "Run D.M.C.",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-18T22:37:45.3278512Z",
+    "duration_seconds": 177,
+    "year": "2021"
+  },
   "next_poll_seconds": 10
 }
