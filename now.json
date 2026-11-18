@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-18T16:28:01-06:00",
-  "source": "fallback",
+  "generated": "2026-11-18T16:30:18-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Funkytown",
+    "artist": "Lipps Inc.",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-18T22:30:13.6799702Z",
+    "duration_seconds": 449,
+    "year": "1980"
+  },
   "next_poll_seconds": 10
 }
