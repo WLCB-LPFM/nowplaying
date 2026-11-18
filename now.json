@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-18T02:38:15-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-18T02:43:54-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "What a Wonderful World",
-    "artist": "Music Music Music",
-    "album": "What's a Good Boss Anyway?",
-    "artwork_url": "",
-    "started_at": "2026-11-18T08:38:13.6859206Z",
-    "duration_seconds": 349,
-    "year": "2005"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
