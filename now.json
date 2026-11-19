@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T19:02:38-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T19:04:54-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Apple",
-    "artist": "Charli xcx",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Charli_Xcx_-_Apple.jpg",
-    "started_at": "2026-11-19T01:02:33Z",
-    "duration_seconds": 152
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
