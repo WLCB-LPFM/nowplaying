@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T19:07:43-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T19:13:24-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Who Are We Talking To? (Dark-Side Mix)",
-    "artist": "Peter Gabriel",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/334a9185a1f83cb61c373cbbba8caae1.png",
-    "started_at": "2026-11-19T01:07:32Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
