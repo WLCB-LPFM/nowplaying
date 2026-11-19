@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T20:53:47-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T20:57:21-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Seminole Wind",
-    "artist": "John Anderson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Anderson_-_Seminole_Wind.jpg",
-    "started_at": "2026-11-19T02:53:30Z",
-    "duration_seconds": 238
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
