@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-19T06:54:44-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T06:59:04-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Inside Out",
-    "artist": "Odyssey",
-    "album": "Funky Sensation Vol. 2",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Odyssey_-_Inside_Out.jpg",
-    "started_at": "2026-11-19T12:52:49Z",
-    "duration_seconds": 384
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
