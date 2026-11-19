@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-19T09:00:05-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T09:02:34-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rock The Casbah",
+    "artist": "The Clash",
+    "album": "Clash On Broadway",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Clash_-_Rock_The_Casbah.jpg",
+    "started_at": "2026-11-19T15:02:21.4579596Z",
+    "duration_seconds": 211,
+    "year": "1982"
+  },
   "next_poll_seconds": 10
 }
