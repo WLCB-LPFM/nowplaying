@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T08:16:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T08:18:47-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Wrapped Around Your Finger",
+    "artist": "The Police",
+    "album": "The Police",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Police_-_Wrapped_Around_Your_Finger.jpg",
+    "started_at": "2026-11-19T14:18:32Z",
+    "duration_seconds": 314
+  },
   "next_poll_seconds": 10
 }
