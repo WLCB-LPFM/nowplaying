@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T19:14:10-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T19:19:04-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Simple Man (Acoustic Version)",
-    "artist": "Shinedown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shinedown_-_Simple_Man_(Acoustic_Version).jpg",
-    "started_at": "2026-11-19T01:13:59Z",
-    "duration_seconds": 320
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
