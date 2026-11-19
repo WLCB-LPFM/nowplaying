@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-19T10:30:26-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-19T10:33:16-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Private Eyes",
-    "artist": "Daryl Hall and John Oates",
+    "artist": "Daryl Hall & John Oates",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-19T16:30:09.1450689Z",
-    "duration_seconds": 199,
-    "year": "1981"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daryl_Hall_&_John_Oates_-_Private_Eyes.jpg",
+    "started_at": "2026-11-19T16:30:17Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
