@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T20:42:11-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T20:44:49-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Wings Of Love",
-    "artist": "Erasure",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Erasure_-_Wings_Of_Love.jpg",
-    "started_at": "2026-11-19T02:41:58Z",
-    "duration_seconds": 176
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
