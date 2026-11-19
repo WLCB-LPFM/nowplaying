@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T19:32:31-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T19:38:10-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Torn (feat. Dolly Parton)",
-    "artist": "U2",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/U2_-_Torn_(Feat._Dolly_Parton).jpg",
-    "started_at": "2026-11-19T01:32:19Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
