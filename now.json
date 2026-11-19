@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T17:23:09-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T17:26:20-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Crystal Blue Persuasion",
-    "artist": "Tommy James & The Shondells",
-    "album": "Crimson & Clover",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tommy_James_&_The_Shondells_-_Crystal_Blue_Persuasion.jpg",
-    "started_at": "2026-11-19T23:22:53Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
