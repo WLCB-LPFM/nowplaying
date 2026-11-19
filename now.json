@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T21:53:05-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T21:56:28-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Nothing Else Matters (feat. WATT, Elton John, Yo-Yo Ma, Robert Trujillo & Chad Smith)",
-    "artist": "Miley Cyrus",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miley_Cyrus.jpg",
-    "started_at": "2026-11-19T03:52:44Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
