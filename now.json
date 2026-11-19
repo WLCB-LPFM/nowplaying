@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T19:24:44-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T19:29:05-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "I Guess That's Why They Call It the Blues",
-    "artist": "Elton John",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elton_John_-_I_Guess_That's_Why_They_Call_It_The_Blues.jpg",
-    "started_at": "2026-11-19T01:24:35Z",
-    "duration_seconds": 282
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
