@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T17:05:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T17:05:55-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Over Under Sideways Down",
+    "artist": "The Yardbirds",
+    "album": "Roger the Engineer (Deluxe Edition)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Yardbirds_-_Over_Under_Sideways_Down.jpg",
+    "started_at": "2026-11-19T23:05:39Z",
+    "duration_seconds": 160
+  },
   "next_poll_seconds": 10
 }
