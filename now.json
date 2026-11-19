@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-18T18:38:53-06:00",
-  "source": "fallback",
+  "generated": "2026-11-18T18:39:17-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Without Me",
+    "artist": "Eminem",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-19T00:39:05.9779003Z",
+    "duration_seconds": 283,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
