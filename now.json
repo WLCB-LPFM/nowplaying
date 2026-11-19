@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-19T03:07:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T03:07:51-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Take Five",
-    "artist": "Malene Mortensen",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Malene_Mortensen_-_Take_Five.jpg",
-    "started_at": "2026-11-19T09:02:30Z",
-    "duration_seconds": 327
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
