@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-19T13:02:33-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-19T13:05:35-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Temperature",
-    "artist": "Sean Paul",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sean_Paul_-_Temperature.jpg",
-    "started_at": "2026-11-19T19:02:12.0143496Z",
-    "duration_seconds": 214,
-    "year": ""
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
