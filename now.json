@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T19:52:54-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T19:58:31-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Elysium",
-    "artist": "Simple Minds",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Simple_Minds_-_Elysium.jpg",
-    "started_at": "2026-11-19T01:52:45Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
