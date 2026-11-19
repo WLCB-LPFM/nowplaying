@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-19T09:26:59-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T09:27:11-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Toxic",
-    "artist": "Britney Spears",
-    "album": "Greatest Hits: My Prerogative",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Britney_Spears_-_Toxic.jpg",
-    "started_at": "2026-11-19T15:24:00Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
