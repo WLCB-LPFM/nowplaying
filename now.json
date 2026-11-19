@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T17:26:44-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T17:29:32-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Rollercoaster",
-    "artist": "Everything But the Girl",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Everything_But_The_Girl_-_Rollercoaster.jpg",
-    "started_at": "2026-11-19T23:26:34Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
