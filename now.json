@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T20:22:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-18T20:28:35-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "happiest day of my life",
-    "artist": "paris jackson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paris_Jackson_-_Happiest_Day_Of_My_Life.jpg",
-    "started_at": "2026-11-19T02:22:46Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
