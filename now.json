@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T12:00:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T12:02:40-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "UKUMBUKENGE KUKAYA (Afro)",
+    "artist": "Mozy B",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mozy_B.jpg",
+    "started_at": "2026-11-20T18:02:19Z",
+    "duration_seconds": 526
+  },
   "next_poll_seconds": 10
 }
