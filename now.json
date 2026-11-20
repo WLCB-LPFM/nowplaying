@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T17:09:08-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T17:12:30-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "You Got Lucky",
-    "artist": "Tom Petty & The Heartbreakers",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tom_Petty_&_The_Heartbreakers_-_You_Got_Lucky.jpg",
-    "started_at": "2026-11-20T23:09:02Z",
-    "duration_seconds": 216
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
