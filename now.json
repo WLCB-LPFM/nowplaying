@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T20:02:41-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T20:05:40-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Down by the Water",
-    "artist": "PJ Harvey",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pj_Harvey_-_Down_By_The_Water.jpg",
-    "started_at": "2026-11-20T02:02:33Z",
-    "duration_seconds": 195
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
