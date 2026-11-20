@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T17:50:49-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T17:53:04-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "She's My Girl",
-    "artist": "The Turtles",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Turtles_-_She's_My_Girl.jpg",
-    "started_at": "2026-11-20T23:50:43Z",
-    "duration_seconds": 154
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
