@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T20:43:38-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T20:49:25-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Spybreak!",
-    "artist": "Propellerheads",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Propellerheads_-_Spybreak!.jpg",
-    "started_at": "2026-11-20T02:43:30Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
