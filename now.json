@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T21:46:20-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T21:46:44-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "A Letter to Elise",
+    "artist": "The Cure",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Cure_-_A_Letter_To_Elise.jpg",
+    "started_at": "2026-11-20T03:46:31Z",
+    "duration_seconds": 312
+  },
   "next_poll_seconds": 10
 }
