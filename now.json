@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T16:53:43-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T16:57:49-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Muddy Bottom Blues",
-    "artist": "Tab Benoit",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Tab_Benoit_-_Muddy_Bottom_Blues.jpg",
-    "started_at": "2026-11-20T22:53:34Z",
-    "duration_seconds": 262
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
