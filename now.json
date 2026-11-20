@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T18:08:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T18:17:13-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "O Superman (For Massenet)",
+    "artist": "Laurie Anderson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Laurie_Anderson_-_O_Superman_(For_Massenet).jpg",
+    "started_at": "2026-11-20T00:17:00Z",
+    "duration_seconds": 506
+  },
   "next_poll_seconds": 10
 }
