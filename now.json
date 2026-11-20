@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T20:14:41-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T20:18:15-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Don't Dream It's Over",
-    "artist": "Crowded House",
-    "album": "Crowded House/Temple of Low/Woodface",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Crowded_House_-_Don't_Dream_It's_Over.jpg",
-    "started_at": "2026-11-20T02:14:28Z",
-    "duration_seconds": 237
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
