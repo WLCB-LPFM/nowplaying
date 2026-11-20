@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T21:56:37-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T21:59:47-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "All Night Thing",
+    "artist": "Temple of the Dog",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Temple_Of_The_Dog_-_All_Night_Thing.jpg",
+    "started_at": "2026-11-20T03:59:39Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
