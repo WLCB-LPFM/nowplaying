@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T12:12:12-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T12:13:32-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "Long Twisted Night (feat. Kaitlin Dibble)",
+    "artist": "Jason Ricci & The Bad Kind",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jason_Ricci_&_The_Bad_Kind.jpg",
+    "started_at": "2026-11-20T18:13:04Z",
+    "duration_seconds": 264
+  },
   "next_poll_seconds": 10
 }
