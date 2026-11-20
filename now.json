@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T17:31:20-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T17:32:51-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Reflections Of My Life",
+    "artist": "Marmalade",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Marmalade_-_Reflections_Of_My_Life.jpg",
+    "started_at": "2026-11-20T23:32:39Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
