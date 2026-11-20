@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T21:51:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T21:52:42-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Keep 'Em Coming",
+    "artist": "Alkaline Trio",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alkaline_Trio_-_Keep_'em_Coming.jpg",
+    "started_at": "2026-11-20T03:52:11Z",
+    "duration_seconds": 278
+  },
   "next_poll_seconds": 10
 }
