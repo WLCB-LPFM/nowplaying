@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T17:53:16-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T17:55:31-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Pushin' Too Hard",
-    "artist": "The Seeds",
-    "album": "The Beatnik's Years (Peace & Love)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Seeds_-_Pushin'_Too_Hard.jpg",
-    "started_at": "2026-11-20T23:53:06Z",
-    "duration_seconds": 153
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
