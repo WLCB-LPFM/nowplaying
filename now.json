@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T20:49:25-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T20:50:45-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "album": "Relax And Unwind: Chilled Pop Throwback Classics",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Ben_E._King_-_Stand_By_Me.jpg",
+    "started_at": "2026-11-20T02:50:38Z",
+    "duration_seconds": 180
+  },
   "next_poll_seconds": 10
 }
