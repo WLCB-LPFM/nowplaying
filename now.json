@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T18:44:59-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T18:47:58-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Protection (feat. Tracey Thorn)",
+    "artist": "Massive Attack",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Massive_Attack_-_Protection_(Feat._Tracey_Thorn).jpg",
+    "started_at": "2026-11-20T00:47:43Z",
+    "duration_seconds": 289
+  },
   "next_poll_seconds": 10
 }
