@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-20T03:27:47-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T03:28:10-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Joy",
-    "artist": "Satellite Orchestra",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Satellite_Orchestra_-_Joy.jpg",
-    "started_at": "2026-11-20T09:25:46Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
