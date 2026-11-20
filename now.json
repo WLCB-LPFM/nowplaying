@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T20:30:41-06:00",
-  "source": "autopost",
+  "generated": "2026-11-19T20:37:47-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Eltronic Wave 90",
-    "artist": "mandy",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Mandy.jpg",
-    "started_at": "2026-11-20T02:30:27Z",
-    "duration_seconds": 447
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
