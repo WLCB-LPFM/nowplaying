@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T20:18:15-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T20:18:50-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "What a Fool Believes",
+    "artist": "The Doobie Brothers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Doobie_Brothers_-_What_A_Fool_Believes.jpg",
+    "started_at": "2026-11-20T02:18:34Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
