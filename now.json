@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T13:59:12-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T14:04:43-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "The Hottest Spot In Hell",
-    "artist": "JJ Grey & Mofro",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jj_Grey_&_Mofro.jpg",
-    "started_at": "2026-11-20T19:58:53Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
