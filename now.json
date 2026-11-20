@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T17:05:11-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T17:05:57-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Runnin' with the Devil",
+    "artist": "Van Halen",
+    "album": "Van Halen",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Runnin'_With_The_Devil.jpg",
+    "started_at": "2026-11-20T23:05:47Z",
+    "duration_seconds": 235
+  },
   "next_poll_seconds": 10
 }
