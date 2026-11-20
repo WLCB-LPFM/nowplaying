@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T21:02:23-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T21:20:49-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Nobody Knows You When You're Down and Out (Live)",
+    "artist": "Eric Clapton",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Clapton_-_Nobody_Knows_You_When_You're_Down_And_Out_(Live).jpg",
+    "started_at": "2026-11-20T03:20:35Z",
+    "duration_seconds": 229
+  },
   "next_poll_seconds": 10
 }
