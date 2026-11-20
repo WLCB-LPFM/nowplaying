@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T21:41:16-06:00",
-  "source": "fallback",
+  "generated": "2026-11-19T21:41:40-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Policy of Truth",
+    "artist": "Depeche Mode",
+    "album": "Policy of Truth",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Depeche_Mode_-_Policy_Of_Truth.jpg",
+    "started_at": "2026-11-20T03:41:33Z",
+    "duration_seconds": 295
+  },
   "next_poll_seconds": 10
 }
