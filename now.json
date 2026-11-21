@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T22:50:21-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T22:50:55-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "It Wasn't Me",
+    "artist": "George Thorogood & The Destroyers",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Thorogood_&_The_Destroyers_-_It_Wasn't_Me.jpg",
+    "started_at": "2026-11-21T04:50:43Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
