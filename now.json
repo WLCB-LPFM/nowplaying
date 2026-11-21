@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T21:47:45-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T21:49:26-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Like It on Top (feat. Keb\u2019 Mo\u2019 and Robben Ford)",
+    "artist": "Ana Popovic",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ana_Popovic.jpg",
+    "started_at": "2026-11-21T03:49:10Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
