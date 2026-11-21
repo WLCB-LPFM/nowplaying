@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T21:21:06-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T21:21:52-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Outshined",
+    "artist": "Soundgarden",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Soundgarden_-_Outshined.jpg",
+    "started_at": "2026-11-21T03:21:41Z",
+    "duration_seconds": 311
+  },
   "next_poll_seconds": 10
 }
