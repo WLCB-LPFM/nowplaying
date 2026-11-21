@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T11:30:39-06:00",
-  "source": "autopost",
+  "generated": "2026-11-21T11:36:17-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "Mona Lisa",
-    "artist": "Nat King Cole Trio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/n/Nat_King_Cole_Trio.jpg",
-    "started_at": "2026-11-21T17:30:24Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
