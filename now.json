@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T21:07:33-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T21:07:56-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Mas Tequila",
+    "artist": "Sammy Hagar",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sammy_Hagar_-_Mas_Tequila.jpg",
+    "started_at": "2026-11-21T03:07:46Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
