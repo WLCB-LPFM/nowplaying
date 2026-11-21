@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T18:19:32-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T18:21:15-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Good Times",
-    "artist": "Aretha Franklin",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Aretha_Franklin_-_Good_Times.jpg",
-    "started_at": "2026-11-21T00:19:23Z",
-    "duration_seconds": 125
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
