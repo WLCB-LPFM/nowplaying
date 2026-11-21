@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-20T23:38:14-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T23:41:13-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "In A Mellotone",
-    "artist": "Duke Ellington",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duke_Ellington_-_In_A_Mellotone.jpg",
-    "started_at": "2026-11-21T05:38:00Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
