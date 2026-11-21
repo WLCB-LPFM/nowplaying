@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T20:24:20-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T20:24:55-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Under My Thumb",
+    "artist": "The Who",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Who_-_Under_My_Thumb.jpg",
+    "started_at": "2026-11-21T02:24:46Z",
+    "duration_seconds": 157
+  },
   "next_poll_seconds": 10
 }
