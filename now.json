@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T18:08:25-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T18:08:49-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Rain (Supa Dupa Fly)",
+    "artist": "Missy Elliott",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Missy_Elliott_-_The_Rain_(Supa_Dupa_Fly).jpg",
+    "started_at": "2026-11-21T00:08:35Z",
+    "duration_seconds": 251
+  },
   "next_poll_seconds": 10
 }
