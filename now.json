@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T21:41:57-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T21:47:45-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Outskirts Of Love",
-    "artist": "Shemekia Copeland",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shemekia_Copeland_-_Outskirts_Of_Love.jpg",
-    "started_at": "2026-11-21T03:41:50Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
