@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T20:08:19-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T20:10:23-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Nobody But Me",
-    "artist": "Human Beinz",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Human_Beinz_-_Nobody_But_Me.jpg",
-    "started_at": "2026-11-21T02:08:13Z",
-    "duration_seconds": 140
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
