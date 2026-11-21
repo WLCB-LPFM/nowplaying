@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T18:03:54-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T18:06:09-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "The Pink Panther Theme",
-    "artist": "Henry Mancini",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Henry_Mancini_-_The_Pink_Panther_Theme.jpg",
-    "started_at": "2026-11-21T00:03:41Z",
-    "duration_seconds": 157
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
