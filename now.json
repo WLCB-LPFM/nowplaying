@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T22:03:56-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T22:06:34-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Ghost",
-    "artist": "Jared James Nichols",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jared_James_Nichols_-_Ghost.jpg",
-    "started_at": "2026-11-21T04:03:16Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
