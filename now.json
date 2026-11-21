@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T10:07:30-06:00",
-  "source": "fallback",
+  "generated": "2026-11-21T10:32:35-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "My Old School",
+    "artist": "Steely Dan",
+    "album": "Countdown To Ecstasy",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_My_Old_School.jpg",
+    "started_at": "2026-11-21T16:32:29Z",
+    "duration_seconds": 346
+  },
   "next_poll_seconds": 10
 }
