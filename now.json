@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T22:24:15-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T22:27:36-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Painted Horse",
-    "artist": "Anthony Gomes",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anthony_Gomes_-_Painted_Horse.jpg",
-    "started_at": "2026-11-21T04:24:03Z",
-    "duration_seconds": 225
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
