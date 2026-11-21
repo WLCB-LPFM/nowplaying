@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T19:33:09-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T19:38:48-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Keep On",
-    "artist": "Eric Church",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eric_Church_-_Keep_On.jpg",
-    "started_at": "2026-11-21T01:32:55Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
