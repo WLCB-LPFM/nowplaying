@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T21:26:44-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T21:26:56-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Shot in the Dark",
+    "artist": "AC feat. DC",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
+    "started_at": "2026-11-21T03:26:34Z",
+    "duration_seconds": 185
+  },
   "next_poll_seconds": 10
 }
