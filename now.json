@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-20T23:34:29-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T23:35:25-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Dinah",
+    "artist": "Django Reinhardt",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Django_Reinhardt_-_Dinah.jpg",
+    "started_at": "2026-11-21T05:35:19Z",
+    "duration_seconds": 150
+  },
   "next_poll_seconds": 10
 }
