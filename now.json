@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T22:11:25-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T22:17:11-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "No Good Place for the Lonely",
-    "artist": "Joe Bonamassa",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Joe_Bonamassa_-_No_Good_Place_For_The_Lonely.jpg",
-    "started_at": "2026-11-21T04:11:17Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
