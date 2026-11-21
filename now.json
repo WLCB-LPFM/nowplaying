@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T11:02:06-06:00",
-  "source": "fallback",
+  "generated": "2026-11-21T11:07:18-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Everybody Plays the Fool",
+    "artist": "The Main Ingredient",
+    "album": "Everybody Plays The Fool: The Best Of The Main Ingredient",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Main_Ingredient_-_Everybody_Plays_The_Fool.jpg",
+    "started_at": "2026-11-21T17:07:03Z",
+    "duration_seconds": 202
+  },
   "next_poll_seconds": 10
 }
