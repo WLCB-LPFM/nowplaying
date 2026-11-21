@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T22:55:00-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T22:59:27-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "The Things (That) I Used to Do",
-    "artist": "Stevie Ray Vaughan & Double Trouble",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_The_Things_(That)_I_Used_To_Do.jpg",
-    "started_at": "2026-11-21T04:54:46Z",
-    "duration_seconds": 294
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
