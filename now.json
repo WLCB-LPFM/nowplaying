@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T22:46:27-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T22:50:21-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "I Drink Alone",
-    "artist": "George Thorogood & The Destroyers",
-    "album": "Maverick",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Thorogood_&_The_Destroyers_-_I_Drink_Alone.jpg",
-    "started_at": "2026-11-21T04:46:17Z",
-    "duration_seconds": 250
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
