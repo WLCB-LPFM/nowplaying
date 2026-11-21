@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T20:32:45-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T20:34:06-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Rumble",
-    "artist": "Link Wray",
-    "album": "Rumble (Remastered) - Single",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Link_Wray_-_Rumble.jpg",
-    "started_at": "2026-11-21T02:32:41Z",
-    "duration_seconds": 95
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
