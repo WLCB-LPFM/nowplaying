@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T21:16:47-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T21:21:06-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Messin' With the Mekon",
-    "artist": "Robert Plant",
-    "album": "The Principle Of Moments",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Robert_Plant_-_Messin'_With_The_Mekon.jpg",
-    "started_at": "2026-11-21T03:16:38Z",
-    "duration_seconds": 276
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
