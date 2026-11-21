@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T09:08:33-06:00",
-  "source": "fallback",
+  "generated": "2026-11-21T09:35:49-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Kid Charlemagne",
+    "artist": "Steely Dan",
+    "album": "A Decade Of Steely Dan",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_Kid_Charlemagne.jpg",
+    "started_at": "2026-11-21T15:35:36Z",
+    "duration_seconds": 277
+  },
   "next_poll_seconds": 10
 }
