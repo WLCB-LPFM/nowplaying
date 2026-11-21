@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-21T06:36:05-06:00",
-  "source": "fallback",
+  "generated": "2026-11-21T06:36:29-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Poison",
+    "artist": "Bell Biv DeVoe",
+    "album": "True 90s (3 CD Set)",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bell_Biv_Devoe_-_Poison.jpg",
+    "started_at": "2026-11-21T12:36:18.772723Z",
+    "duration_seconds": 260,
+    "year": "2022"
+  },
   "next_poll_seconds": 10
 }
