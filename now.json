@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T18:45:40-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T18:50:31-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Don't Keep Me Wonderin'",
+    "artist": "Buddy Miles",
+    "album": "",
+    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7511279ad0fb2515864c069686397e72.png",
+    "started_at": "2026-11-21T00:50:14Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
