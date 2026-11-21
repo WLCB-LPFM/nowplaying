@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T19:24:09-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T19:28:49-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Shoot to Thrill",
-    "artist": "AC feat. DC",
-    "album": "Iron Man 2",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
-    "started_at": "2026-11-21T01:23:49Z",
-    "duration_seconds": 314
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
