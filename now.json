@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T19:00:03-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T19:01:11-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Sunshine (feat. Foushe\u00e9)",
-    "artist": "Steve Lacy",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steve_Lacy_-_Sunshine_(Feat._Foushe\u00e9).jpg",
-    "started_at": "2026-11-21T00:56:30Z",
-    "duration_seconds": 293
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
