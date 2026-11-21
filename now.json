@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T11:36:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-21T11:37:46-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "I Belong to You",
+    "artist": "Love Unlimited",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Love_Unlimited_-_I_Belong_To_You.jpg",
+    "started_at": "2026-11-21T17:37:30Z",
+    "duration_seconds": 308
+  },
   "next_poll_seconds": 10
 }
