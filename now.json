@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T18:06:09-06:00",
-  "source": "fallback",
+  "generated": "2026-11-20T18:06:33-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Rich Girl",
+    "artist": "Daryl Hall & John Oates",
+    "album": "Chillen & Grillen",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Daryl_Hall_&_John_Oates_-_Rich_Girl.jpg",
+    "started_at": "2026-11-21T00:06:10Z",
+    "duration_seconds": 141
+  },
   "next_poll_seconds": 10
 }
