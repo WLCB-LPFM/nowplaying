@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T20:20:47-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T20:24:20-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Paper Sun",
-    "artist": "Traffic",
-    "album": "Mr. Fantasy (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Traffic_-_Paper_Sun.jpg",
-    "started_at": "2026-11-21T02:20:38Z",
-    "duration_seconds": 235
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
