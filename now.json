@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T19:02:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T19:06:05-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Living After Midnight",
-    "artist": "Judas Priest",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Judas_Priest_-_Living_After_Midnight.jpg",
-    "started_at": "2026-11-21T01:02:48Z",
-    "duration_seconds": 209
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
