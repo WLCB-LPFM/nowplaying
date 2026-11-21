@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T18:09:23-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T18:11:06-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "I Can't Stand The Rain",
-    "artist": "Ann Peebles",
-    "album": "I Can't Stand the Rain",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ann_Peebles_-_I_Can't_Stand_The_Rain.jpg",
-    "started_at": "2026-11-21T00:09:11Z",
-    "duration_seconds": 129
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
