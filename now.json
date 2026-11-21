@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-21T16:28:50-06:00",
-  "source": "fallback",
+  "generated": "2026-11-21T16:29:13-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Live Lounge At WTAMU",
+    "artist": "Plemons Bridge Band",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-11-21T22:29:01Z",
+    "duration_seconds": 3180
+  },
   "next_poll_seconds": 10
 }
