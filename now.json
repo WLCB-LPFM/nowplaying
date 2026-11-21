@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T19:46:29-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T19:49:19-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Feel So Close (Radio Edit)",
-    "artist": "Calvin Harris",
-    "album": "Feel So Close",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Calvin_Harris_-_Feel_So_Close_(Radio_Edit).jpg",
-    "started_at": "2026-11-21T01:46:14Z",
-    "duration_seconds": 193
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
