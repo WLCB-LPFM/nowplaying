@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T08:08:33-06:00",
-  "source": "fallback",
+  "generated": "2026-11-21T08:32:44-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "Deacon Blues",
+    "artist": "Steely Dan",
+    "album": "Aja",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_Deacon_Blues.jpg",
+    "started_at": "2026-11-21T14:32:37Z",
+    "duration_seconds": 453
+  },
   "next_poll_seconds": 10
 }
