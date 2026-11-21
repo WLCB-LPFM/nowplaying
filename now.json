@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T18:37:25-06:00",
-  "source": "autopost",
+  "generated": "2026-11-20T18:41:32-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Giving You the Best That I Got",
-    "artist": "Anita Baker",
-    "album": "Giving You the Best That I Got",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Anita_Baker_-_Giving_You_The_Best_That_I_Got.jpg",
-    "started_at": "2026-11-21T00:37:18Z",
-    "duration_seconds": 261
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
