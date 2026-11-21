@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-21T06:51:10-06:00",
-  "source": "autopost",
+  "generated": "2026-11-21T06:51:22-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Wannabe",
-    "artist": "Spice Girls",
-    "album": "Now That's What I Call 1996",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Spice_Girls_-_Wannabe.jpg",
-    "started_at": "2026-11-21T12:48:42Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
