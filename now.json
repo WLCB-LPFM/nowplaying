@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T09:51:15-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T10:02:39-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Flat Foot Floogee",
+    "artist": "Benny Goodman",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Benny_Goodman_-_Flat_Foot_Floogee.jpg",
+    "started_at": "2026-11-22T16:02:23Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
