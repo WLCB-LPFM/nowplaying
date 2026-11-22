@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T06:07:26-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T06:07:38-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Headin' for Hallelujah (1940)",
+    "artist": "Harry James and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-22T12:07:30.8422418Z",
+    "duration_seconds": 192,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
