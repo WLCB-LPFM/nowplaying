@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T20:34:34-06:00",
-  "source": "autopost",
+  "generated": "2026-11-21T20:37:44-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Let the Music Play",
-    "artist": "Shannon",
-    "album": "Let the Music Play",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shannon_-_Let_The_Music_Play.jpg",
-    "started_at": "2026-11-22T02:34:30Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
