@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T01:52:39-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T01:53:13-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "All Alone",
+    "artist": "Sarah Vaughan",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
+    "artwork_url": "",
+    "started_at": "2026-11-22T07:53:02.4750277Z",
+    "duration_seconds": 135,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
