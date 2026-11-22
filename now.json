@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T22:44:36-06:00",
-  "source": "autopost",
+  "generated": "2026-11-21T22:50:10-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Blues In The Night",
-    "artist": "Louis Armstrong & Oscar Peterson",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/l/Louis_Armstrong_&_Oscar_Peterson.jpg",
-    "started_at": "2026-11-22T04:44:22Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
