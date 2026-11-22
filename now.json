@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T09:32:19-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T09:35:19-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Moonlight Serenade",
-    "artist": "Glenn Miller",
-    "album": "The Aviator Music From The Motion Picture",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Glenn_Miller_-_Moonlight_Serenade.jpg",
-    "started_at": "2026-11-22T15:32:05Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
