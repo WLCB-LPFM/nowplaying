@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T10:31:21-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T10:36:58-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": {
-    "title": "Carretera y Manta",
-    "artist": "Badi Moss",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/b/Badi_Moss.jpg",
-    "started_at": "2026-11-22T16:31:04Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
