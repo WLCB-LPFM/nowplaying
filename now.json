@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T16:39:39-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T16:44:18-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Love Won't Let Me Wait",
-    "artist": "Major Harris",
-    "album": "My Way",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Major_Harris_-_Love_Won't_Let_Me_Wait.jpg",
-    "started_at": "2026-11-22T22:39:25Z",
-    "duration_seconds": 302
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
