@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T20:25:46-06:00",
-  "source": "autopost",
+  "generated": "2026-11-21T20:28:34-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Don't Like (feat. Lil Reese)",
-    "artist": "Chief Keef",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6c86a4c27ceabe55e7997549e33262b7.png",
-    "started_at": "2026-11-22T02:25:35Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
