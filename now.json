@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T15:12:16-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T15:12:29-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Just A-Whistlin' And A-Whittlin' (And A-Watchin' The World Go By) (Silbando y Tallando) (1940)",
+    "artist": "Phil Harris and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-22T21:12:27.2237357Z",
+    "duration_seconds": 187,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
