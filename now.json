@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T10:36:58-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T10:39:01-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "11:00",
     "genre": "Big Band"
   },
-  "track": null,
+  "track": {
+    "title": "Skylark",
+    "artist": "Billy Eckstine & Earl Hines and His Orchestra",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_Eckstine_&_Earl_Hines_And_His_Orchestra.jpg",
+    "started_at": "2026-11-22T16:38:47Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
