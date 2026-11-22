@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T08:22:24-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T08:22:36-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "The Andrews Sisters",
+    "artist": "Lonesome Mama",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-22T14:22:30.703935Z",
+    "duration_seconds": 165,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
