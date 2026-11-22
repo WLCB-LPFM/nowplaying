@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T16:45:59-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T16:50:28-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Let It Whip",
-    "artist": "Dazz Band",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dazz_Band_-_Let_It_Whip.jpg",
-    "started_at": "2026-11-22T22:45:51Z",
-    "duration_seconds": 284
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
