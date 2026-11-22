@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-22T06:10:49-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-22T06:13:26-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "I Found a Peach in Orange New Jersey",
-    "artist": "Arthur Fields",
-    "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-22T12:10:43.199175Z",
-    "duration_seconds": 169,
-    "year": "1942"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
