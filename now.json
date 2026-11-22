@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T20:05:02-06:00",
-  "source": "fallback",
+  "generated": "2026-11-21T20:08:45-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Invincible",
+    "artist": "Pop Smoke",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Pop_Smoke_-_Invincible.jpg",
+    "started_at": "2026-11-22T02:08:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
