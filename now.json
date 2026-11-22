@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T08:34:40-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T08:34:53-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "When the Sun Shines over Wyoming (1940)",
+    "artist": "The Ramblers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-22T14:34:51.5547621Z",
+    "duration_seconds": 158,
+    "year": "1940"
+  },
   "next_poll_seconds": 10
 }
