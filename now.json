@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T17:14:27-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T17:19:17-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "The Rain",
-    "artist": "Oran 'Juice' Jones",
-    "album": "Def Jam 25: Volume 2 - DJ Bring That Back (1996-1984)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/o/Oran_'juice'_Jones_-_The_Rain.jpg",
-    "started_at": "2026-11-22T23:14:22Z",
-    "duration_seconds": 307
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
