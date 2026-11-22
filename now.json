@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T17:22:49-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T17:28:58-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": {
-    "title": "Mama Used To Say (12' Version)",
-    "artist": "Junior",
-    "album": "12' 80s Classics",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Junior.jpg",
-    "started_at": "2026-11-22T23:22:32Z",
-    "duration_seconds": 398
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
