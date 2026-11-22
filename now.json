@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T15:39:57-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T15:40:10-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Jersey Bounce",
+    "artist": "Jack Simpson's Sextette; Betty Kent",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-22T21:40:09.0405922Z",
+    "duration_seconds": 163,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
