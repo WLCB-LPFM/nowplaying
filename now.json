@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T17:28:58-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T17:39:10-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "We Don't Have to Take Our Clothes Off (7'' Version)",
+    "artist": "Jermaine Stewart",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jermaine_Stewart_-_We_Don't_Have_To_Take_Our_Clothes_Off_(7''_Version).jpg",
+    "started_at": "2026-11-22T23:39:04Z",
+    "duration_seconds": 245
+  },
   "next_poll_seconds": 10
 }
