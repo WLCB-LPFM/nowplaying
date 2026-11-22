@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-22T02:08:12-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-22T02:11:57-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Hello Oscar",
-    "artist": "Ernest Ol\u00e1h Trio",
-    "album": "Cocktail Moods, Vol. 4",
-    "artwork_url": "",
-    "started_at": "2026-11-22T08:08:05.5906139Z",
-    "duration_seconds": 245,
-    "year": "2012"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
