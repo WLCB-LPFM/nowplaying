@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T07:04:32-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T07:04:44-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "This Love of Mine",
+    "artist": "Blue Barron and his Orchestra",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-22T13:04:38.213668Z",
+    "duration_seconds": 172,
+    "year": "1941"
+  },
   "next_poll_seconds": 10
 }
