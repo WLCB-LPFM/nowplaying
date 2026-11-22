@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T15:52:24-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T15:52:37-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Little Brown Jug",
+    "artist": "Darrell Fischer and his Log-Jammers",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-22T21:52:30.4105918Z",
+    "duration_seconds": 159,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
