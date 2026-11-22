@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T16:50:28-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T16:53:05-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Hip-Hop"
   },
-  "track": null,
+  "track": {
+    "title": "Don't Stop The Music",
+    "artist": "Yarbrough & Peoples",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Yarbrough_&_Peoples_-_Don't_Stop_The_Music.jpg",
+    "started_at": "2026-11-22T22:52:52Z",
+    "duration_seconds": 472
+  },
   "next_poll_seconds": 10
 }
