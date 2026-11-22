@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-22T06:40:25-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T06:40:38-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Absent Minded Moon",
+    "artist": "Anne Shelton; Jay Wilbur's Serenaders",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-22T12:40:32.8635691Z",
+    "duration_seconds": 186,
+    "year": "1942"
+  },
   "next_poll_seconds": 10
 }
