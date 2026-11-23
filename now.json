@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-23T05:00:40-06:00",
-  "source": "autopost",
+  "generated": "2026-11-23T05:01:37-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Dance on the Beach",
-    "artist": "DJ Culmone",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dj_Culmone_-_Dance_On_The_Beach.jpg",
-    "started_at": "2026-11-23T10:57:29Z",
-    "duration_seconds": 275
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
