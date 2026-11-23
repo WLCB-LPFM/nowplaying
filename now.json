@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T20:51:52-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T20:55:02-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Chocolate Cake",
-    "artist": "Crowded House",
-    "album": "The Very Very Best of Crowded House",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Crowded_House_-_Chocolate_Cake.jpg",
-    "started_at": "2026-11-23T02:51:47Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
