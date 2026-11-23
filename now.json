@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T18:12:45-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T18:12:57-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Ten Long Years",
+    "artist": "Eric Clapton & B.B. King",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eric_Clapton_&_B.b._King.jpg",
+    "started_at": "2026-11-23T00:12:40Z",
+    "duration_seconds": 281
+  },
   "next_poll_seconds": 10
 }
