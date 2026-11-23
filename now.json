@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T20:13:31-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T20:18:32-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Blue Tarp Blues",
-    "artist": "Sonny Landreth",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sonny_Landreth_-_Blue_Tarp_Blues.jpg",
-    "started_at": "2026-11-23T02:13:26Z",
-    "duration_seconds": 311
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
