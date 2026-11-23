@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T18:02:49-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T18:04:30-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Reelin' In The Years",
+    "artist": "Steely Dan",
+    "album": "Showbiz Kids: The Steely Dan Story 1972 - 1980",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Steely_Dan_-_Reelin'_In_The_Years.jpg",
+    "started_at": "2026-11-23T00:04:19Z",
+    "duration_seconds": 277
+  },
   "next_poll_seconds": 10
 }
