@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T21:03:09-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T21:06:53-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Chitlins con Carne",
-    "artist": "Stevie Ray Vaughan & Double Trouble",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Stevie_Ray_Vaughan_&_Double_Trouble_-_Chitlins_Con_Carne.jpg",
-    "started_at": "2026-11-23T03:03:02Z",
-    "duration_seconds": 236
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
