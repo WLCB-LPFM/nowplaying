@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T19:25:30-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T19:30:42-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Bright Lights",
-    "artist": "Gary Clark Jr.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/Gary_Clark_Jr._-_Bright_Lights.jpg",
-    "started_at": "2026-11-23T01:25:23Z",
-    "duration_seconds": 325
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
