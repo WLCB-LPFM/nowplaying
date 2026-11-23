@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T20:56:32-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T20:57:40-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Ice Cream Man",
-    "artist": "Van Halen",
-    "album": "The Collection",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Van_Halen_-_Ice_Cream_Man.jpg",
-    "started_at": "2026-11-23T02:56:07Z",
-    "duration_seconds": 102
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
