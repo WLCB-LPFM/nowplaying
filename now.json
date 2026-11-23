@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T21:48:12-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T21:48:25-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "The Low Spark of High-Heeled Boys",
+    "artist": "Traffic",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Traffic_-_The_Low_Spark_Of_High-heeled_Boys.jpg",
+    "started_at": "2026-11-23T03:48:06Z",
+    "duration_seconds": 701
+  },
   "next_poll_seconds": 10
 }
