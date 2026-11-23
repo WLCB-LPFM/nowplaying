@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T20:41:32-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T20:42:06-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Fresh Wg",
+    "artist": "Deepnoid",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/d/Deepnoid.jpg",
+    "started_at": "2026-11-23T02:41:47Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
