@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-23T02:36:46-06:00",
-  "source": "fallback",
+  "generated": "2026-11-23T02:38:05-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blue Horizon",
+    "artist": "Sidney Bechet And His Blue Note Jazz Men",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
+    "artwork_url": "",
+    "started_at": "2026-11-23T08:38:00.0431652Z",
+    "duration_seconds": 258,
+    "year": "1997"
+  },
   "next_poll_seconds": 10
 }
