@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-23T04:16:55-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-23T04:19:42-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Should Care",
-    "artist": "Jerry Paper",
-    "album": "Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-11-23T10:16:44.6476121Z",
-    "duration_seconds": 182,
-    "year": "2012"
+    "title": "I Should Care",
+    "artist": "Thelonious Monk",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/Thelonious_Monk_-_I_Should_Care.jpg",
+    "started_at": "2026-11-23T10:16:54Z",
+    "duration_seconds": 196
   },
   "next_poll_seconds": 10
 }
