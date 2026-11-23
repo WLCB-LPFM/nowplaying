@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-23T05:23:04-06:00",
+  "generated": "2026-11-23T05:23:16-06:00",
   "source": "fallback",
-  "mode": "music_block",
-  "automation_on": true,
-  "show": null,
+  "mode": "live",
+  "automation_on": false,
+  "show": {
+    "name": "All Night Jazz",
+    "hosts": [],
+    "automated": true,
+    "starts": "00:00",
+    "ends": "06:00",
+    "genre": "Jazz"
+  },
   "track": null,
   "next_poll_seconds": 10
 }
