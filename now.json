@@ -1,16 +1,17 @@
 {
-  "generated": "2026-11-23T04:48:45-06:00",
-  "source": "fallback",
-  "mode": "live",
-  "automation_on": false,
-  "show": {
-    "name": "All Night Jazz",
-    "hosts": [],
-    "automated": true,
-    "starts": "00:00",
-    "ends": "06:00",
-    "genre": "Jazz"
+  "generated": "2026-11-23T04:48:58-06:00",
+  "source": "playitlive",
+  "mode": "music_block",
+  "automation_on": true,
+  "show": null,
+  "track": {
+    "title": "Subconscious Lee",
+    "artist": "Lennie Tristano Quintet",
+    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 4",
+    "artwork_url": "",
+    "started_at": "2026-11-23T10:47:49.9327465Z",
+    "duration_seconds": 159,
+    "year": "1997"
   },
-  "track": null,
   "next_poll_seconds": 10
 }
