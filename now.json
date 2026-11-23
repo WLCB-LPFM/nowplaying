@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-23T13:28:26-06:00",
-  "source": "autopost",
+  "generated": "2026-11-23T13:28:38-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "The Power",
-    "artist": "Snap!",
-    "album": "Coyote Ugly (Soundtrack from the Motion Picture)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Snap!_-_The_Power.jpg",
-    "started_at": "2026-11-23T19:25:26Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
