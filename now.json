@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T21:35:35-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T21:48:12-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Loan Me a Dime",
-    "artist": "Boz Scaggs",
-    "album": "Loan Me a Dime",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Boz_Scaggs_-_Loan_Me_A_Dime.jpg",
-    "started_at": "2026-11-23T03:35:30Z",
-    "duration_seconds": 768
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
