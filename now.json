@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T18:38:30-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T18:38:54-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "The Weight",
+    "artist": "The Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Band_-_The_Weight.jpg",
+    "started_at": "2026-11-23T00:38:49Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
