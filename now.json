@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T21:07:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T21:12:53-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,13 +11,6 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "I'm Ready (Live at the Fillmore East, 1971)",
-    "artist": "Humble Pie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/h/Humble_Pie.jpg",
-    "started_at": "2026-11-23T03:07:00Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
