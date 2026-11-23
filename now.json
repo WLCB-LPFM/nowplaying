@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T18:06:12-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T18:08:48-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Years Ago",
-    "artist": "Alice Cooper",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alice_Cooper_-_Years_Ago.jpg",
-    "started_at": "2026-11-23T00:06:05Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
