@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T21:12:53-06:00",
-  "source": "fallback",
+  "generated": "2026-11-22T21:29:47-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -11,6 +11,13 @@
     "ends": "24:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "I Walk On Gilded Splinters (Live at the Fillmore East, 5 feat. 28 feat. 71 1st Show)",
+    "artist": "Humble Pie",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/h/Humble_Pie.jpg",
+    "started_at": "2026-11-23T03:29:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
