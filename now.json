@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T18:26:33-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T18:29:44-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Still Crazy After All These Years",
-    "artist": "Paul Simon",
-    "album": "The Paul Simon Collection: On My Way, Don't Know Where I'm Going",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Simon_-_Still_Crazy_After_All_These_Years.jpg",
-    "started_at": "2026-11-23T00:26:26Z",
-    "duration_seconds": 204
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
