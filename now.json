@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-23T14:54:40-06:00",
-  "source": "fallback",
+  "generated": "2026-11-23T15:02:12-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Tainted Love",
+    "artist": "Soft Cell",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-23T21:02:08.9253113Z",
+    "duration_seconds": 150,
+    "year": "1981"
+  },
   "next_poll_seconds": 10
 }
