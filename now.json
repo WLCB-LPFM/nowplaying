@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T20:38:43-06:00",
-  "source": "autopost",
+  "generated": "2026-11-22T20:41:32-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "21:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Rhubarb Pie",
-    "artist": "John Fogerty",
-    "album": "Deja Vu (All Over Again)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/John_Fogerty_-_Rhubarb_Pie.jpg",
-    "started_at": "2026-11-23T02:38:30Z",
-    "duration_seconds": 196
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
