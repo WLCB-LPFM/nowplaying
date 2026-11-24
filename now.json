@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-24T02:01:33-06:00",
-  "source": "fallback",
+  "generated": "2026-11-24T02:01:56-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Legends of Glory (Trailer Music)",
+    "artist": "Network Music Ensemble",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Network_Music_Ensemble_-_Legends_Of_Glory_(Trailer_Music).jpg",
+    "started_at": "2026-11-24T08:01:46Z",
+    "duration_seconds": 319
+  },
   "next_poll_seconds": 10
 }
