@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T07:00:04-06:00",
-  "source": "fallback",
+  "generated": "2026-11-24T07:03:25-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "She Drives Me Crazy (Remastered)",
+    "artist": "Fine Young Cannibals",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fine_Young_Cannibals_-_She_Drives_Me_Crazy_(Remastered).jpg",
+    "started_at": "2026-11-24T13:03:14Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
