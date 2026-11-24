@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T07:37:36-06:00",
-  "source": "fallback",
+  "generated": "2026-11-24T07:39:28-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Good Thing (Remastered)",
+    "artist": "Fine Young Cannibals",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fine_Young_Cannibals_-_Good_Thing_(Remastered).jpg",
+    "started_at": "2026-11-24T13:39:07Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
