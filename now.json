@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-24T12:58:58-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-24T13:02:21-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "You May Be Right",
-    "artist": "Billy Joel",
-    "album": "The Essential Billy Joel",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Billy_Joel_-_You_May_Be_Right.jpg",
-    "started_at": "2026-11-24T18:58:29.797297Z",
-    "duration_seconds": 235,
-    "year": "2013"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
