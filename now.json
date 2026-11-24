@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-24T12:05:24-06:00",
-  "source": "fallback",
+  "generated": "2026-11-24T12:05:37-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Nasty",
+    "artist": "Janet Jackson",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-24T18:05:30.713667Z",
+    "duration_seconds": 241,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
