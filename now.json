@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-24T13:35:44-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-24T13:38:22-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "That's The Way (I Like It)",
-    "artist": "KC & The Sunshine Band",
+    "title": "Megamix",
+    "artist": "KC and the Sunshine Band",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-24T19:35:38.1774975Z",
-    "duration_seconds": 178,
-    "year": "2010"
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kc_And_The_Sunshine_Band.jpg",
+    "started_at": "2026-11-24T19:38:07Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
