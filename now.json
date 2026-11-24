@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T07:15:44-06:00",
-  "source": "fallback",
+  "generated": "2026-11-24T07:16:08-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Never Gonna Give You Up (2022 Remaster)",
+    "artist": "Rick Astley",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rick_Astley_-_Never_Gonna_Give_You_Up_(2022_Remaster).jpg",
+    "started_at": "2026-11-24T13:15:55Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
