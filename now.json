@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-23T18:05:24-06:00",
-  "source": "fallback",
+  "generated": "2026-11-23T18:05:48-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Let's Talk About Sex",
+    "artist": "Salt-N-Pepa",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-24T00:05:35.7444463Z",
+    "duration_seconds": 190,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
