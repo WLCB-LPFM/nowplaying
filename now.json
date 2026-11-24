@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-23T21:31:30-06:00",
-  "source": "fallback",
+  "generated": "2026-11-23T21:48:13-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Future Sound",
+    "artist": "Alessandro Iannuzzo",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/Alessandro_Iannuzzo.jpg",
+    "started_at": "2026-11-24T03:48:00Z",
+    "duration_seconds": 283
+  },
   "next_poll_seconds": 10
 }
