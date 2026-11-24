@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-23T20:31:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-23T20:36:53-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "22:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "God Bless the Child",
-    "artist": "Blood, Sweat & Tears",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Blood,_Sweat_&_Tears_-_God_Bless_The_Child.jpg",
-    "started_at": "2026-11-24T02:31:10Z",
-    "duration_seconds": 354
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
