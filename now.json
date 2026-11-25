@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T13:32:25-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T13:49:19-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": null,
+  "track": {
+    "title": "Creep",
+    "artist": "Karen Souza",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Karen_Souza_-_Creep.jpg",
+    "started_at": "2026-11-25T19:49:15Z",
+    "duration_seconds": 211
+  },
   "next_poll_seconds": 10
 }
