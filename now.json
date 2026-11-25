@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T22:45:34-06:00",
-  "source": "autopost",
+  "generated": "2026-11-24T22:51:09-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Symptom of the Universe (2009 Remaster)",
-    "artist": "Black Sabbath",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b4d7ee69a4f84b8dc8fdeee0bc1faf04.png",
-    "started_at": "2026-11-25T04:45:16Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
