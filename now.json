@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-25T02:17:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T02:17:54-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "I Don't Want to Talk About It",
+    "artist": "Inger Marie Gundersen",
+    "album": "By Myself",
+    "artwork_url": "",
+    "started_at": "2026-11-25T08:17:51.4519352Z",
+    "duration_seconds": 248,
+    "year": "2006"
+  },
   "next_poll_seconds": 10
 }
