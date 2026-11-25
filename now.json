@@ -1,17 +1,25 @@
 {
-  "generated": "2026-11-25T06:59:14-06:00",
-  "source": "playitlive",
-  "mode": "music_block",
+  "generated": "2026-11-25T07:00:00-06:00",
+  "source": "autopost",
+  "mode": "rebroadcast",
   "automation_on": true,
-  "show": null,
+  "show": {
+    "name": "The John and Heidi Show",
+    "hosts": [
+      "John and Heidi Small"
+    ],
+    "automated": false,
+    "starts": "07:00",
+    "ends": "09:00",
+    "genre": null
+  },
   "track": {
-    "title": "Relax",
+    "title": "Relax (Radio Edit)",
     "artist": "Frankie Goes to Hollywood",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-25T12:59:13.6538091Z",
-    "duration_seconds": 232,
-    "year": "1983"
+    "artwork_url": "https://cdn.autopo.st/images/artists/f/Frankie_Goes_To_Hollywood.jpg",
+    "started_at": "2026-11-25T12:59:31Z",
+    "duration_seconds": null
   },
   "next_poll_seconds": 10
 }
