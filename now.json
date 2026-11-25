@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T12:40:52-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T12:46:28-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "14:00",
     "genre": "Jazz"
   },
-  "track": {
-    "title": "Glimmer",
-    "artist": "Janiyoon",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Janiyoon.jpg",
-    "started_at": "2026-11-25T18:40:36Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
