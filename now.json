@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T21:57:45-06:00",
-  "source": "autopost",
+  "generated": "2026-11-24T22:01:28-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Big Block (with Terry Bozzio & Tony Hymas)",
-    "artist": "Jeff Beck",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Jeff_Beck.jpg",
-    "started_at": "2026-11-25T03:57:35Z",
-    "duration_seconds": 246
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
