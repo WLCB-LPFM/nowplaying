@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T07:54:08-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T07:58:36-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Everybody Wants You (1995 Remaster)",
+    "artist": "Billy Squier",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Billy_Squier.jpg",
+    "started_at": "2026-11-25T13:58:13Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
