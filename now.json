@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T20:19:18-06:00",
-  "source": "autopost",
+  "generated": "2026-11-24T20:26:23-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Can't You Hear Me Knocking",
-    "artist": "The Rolling Stones",
-    "album": "Sticky Fingers",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Can't_You_Hear_Me_Knocking.jpg",
-    "started_at": "2026-11-25T02:19:13Z",
-    "duration_seconds": 436
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
