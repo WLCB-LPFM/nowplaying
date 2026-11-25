@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T22:34:53-06:00",
-  "source": "autopost",
+  "generated": "2026-11-24T22:37:52-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": "Funk"
   },
-  "track": {
-    "title": "Hot 'N' Nasty",
-    "artist": "Humble Pie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/h/Humble_Pie_-_Hot_'n'_Nasty.jpg",
-    "started_at": "2026-11-25T04:34:44Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
