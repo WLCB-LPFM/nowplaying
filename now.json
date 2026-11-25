@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-24T18:57:52-06:00",
-  "source": "autopost",
+  "generated": "2026-11-24T18:58:27-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Ice Ice Baby (Radio Edit)",
-    "artist": "Vanilla Ice",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Vanilla_Ice_-_Ice_Ice_Baby_(Radio_Edit).jpg",
-    "started_at": "2026-11-25T00:54:47Z",
-    "duration_seconds": 232
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
