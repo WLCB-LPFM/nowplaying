@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T21:43:50-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T21:47:00-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Turkey Chase",
-    "artist": "Bob Dylan",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Dylan_-_Turkey_Chase.jpg",
-    "started_at": "2026-11-26T03:43:36Z",
-    "duration_seconds": 211
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
