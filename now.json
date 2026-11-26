@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T17:05:01-06:00",
-  "source": "fallback",
+  "generated": "2026-11-26T17:05:47-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Miss Amanda Jones",
+    "artist": "The Rolling Stones",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Miss_Amanda_Jones.jpg",
+    "started_at": "2026-11-26T23:05:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
