@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T21:27:26-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T21:36:43-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Be Thankful For What You Got",
+    "artist": "William DeVaughn",
+    "album": "Nova Classics Soul, Vol. I",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/w/William_Devaughn_-_Be_Thankful_For_What_You_Got.jpg",
+    "started_at": "2026-11-26T03:36:28Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
