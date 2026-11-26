@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-26T12:02:33-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-26T12:05:10-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Walk Like an Egyptian",
-    "artist": "The Bangles",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Bangles_-_Walk_Like_An_Egyptian.jpg",
-    "started_at": "2026-11-26T18:02:11.0614657Z",
-    "duration_seconds": 190,
-    "year": "1986"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
