@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T17:13:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-26T17:14:03-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Time Won't Let Me",
+    "artist": "The Outsiders",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Outsiders_-_Time_Won't_Let_Me.jpg",
+    "started_at": "2026-11-26T23:13:49Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
