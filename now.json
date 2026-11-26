@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T19:49:27-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T19:51:53-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Everybody Eats When They Come To My House",
-    "artist": "Cab Calloway",
-    "album": "BD Music Presents: Jazz en cuisine",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Cab_Calloway_-_Everybody_Eats_When_They_Come_To_My_House.jpg",
-    "started_at": "2026-11-26T01:49:13Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
