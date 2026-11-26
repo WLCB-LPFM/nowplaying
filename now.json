@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T21:39:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T21:43:15-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Be Thankful for What You Got (Pt. 2)",
+    "artist": "William DeVaughn",
+    "album": "Be Thankful for What You Got",
+    "artwork_url": "https://cdn.autopo.st/images/artists/w/William_Devaughn.jpg",
+    "started_at": "2026-11-26T03:42:57Z",
+    "duration_seconds": 206
+  },
   "next_poll_seconds": 10
 }
