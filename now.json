@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T17:44:38-06:00",
-  "source": "fallback",
+  "generated": "2026-11-26T17:44:50-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Too Much Of Heaven (Album Mix)",
+    "artist": "Eiffel 65",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eiffel_65_-_Too_Much_Of_Heaven_(Album_Mix).jpg",
+    "started_at": "2026-11-26T23:44:38Z",
+    "duration_seconds": 317
+  },
   "next_poll_seconds": 10
 }
