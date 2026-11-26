@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-26T12:40:14-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T12:40:26-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Boombastic",
-    "artist": "Shaggy",
-    "album": "Mr. Lover Lover: The Best of Shaggy, Pt. 1",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Shaggy_-_Boombastic.jpg",
-    "started_at": "2026-11-26T18:37:11Z",
-    "duration_seconds": 207
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
