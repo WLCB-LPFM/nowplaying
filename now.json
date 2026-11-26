@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-26T03:12:07-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-26T03:14:44-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
     "title": "Singin' the Blues",
-    "artist": "Frankie Trumbauer and His Orchestra",
-    "album": "Swing Kings",
-    "artwork_url": "",
-    "started_at": "2026-11-26T09:11:56.0134449Z",
-    "duration_seconds": 172,
-    "year": "1994"
+    "artist": "Frankie Trumbauer",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/f/Frankie_Trumbauer.jpg",
+    "started_at": "2026-11-26T09:12:16Z",
+    "duration_seconds": 170
   },
   "next_poll_seconds": 10
 }
