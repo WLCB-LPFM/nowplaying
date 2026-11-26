@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T21:50:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T21:53:54-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Cherry Pie",
-    "artist": "Warrant",
-    "album": "Cherry Pie",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/w/Warrant_-_Cherry_Pie.jpg",
-    "started_at": "2026-11-26T03:50:41Z",
-    "duration_seconds": 201
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
