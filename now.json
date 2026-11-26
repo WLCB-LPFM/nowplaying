@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T17:35:38-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T17:38:14-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Get Ready (Single Version)",
-    "artist": "Rare Earth",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rare_Earth_-_Get_Ready_(Single_Version).jpg",
-    "started_at": "2026-11-26T23:35:30Z",
-    "duration_seconds": 169
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
