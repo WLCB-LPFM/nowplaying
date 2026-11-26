@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T21:24:49-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T21:27:26-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "You're the Cream In My Coffee (1993 Digital Remaster)",
-    "artist": "The Nat 'King' Cole Trio",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Nat_'king'_Cole_Trio.jpg",
-    "started_at": "2026-11-26T03:24:32Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
