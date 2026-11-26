@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T08:47:15-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T08:51:23-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Back That Thang Up (Unreleased)",
-    "artist": "Juvenile, Lil Wayne & Mannie Fresh",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/Juvenile,_Lil_Wayne_&_Mannie_Fresh.jpg",
-    "started_at": "2026-11-26T14:46:57Z",
-    "duration_seconds": 274
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
