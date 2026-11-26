@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T17:53:51-06:00",
-  "source": "fallback",
+  "generated": "2026-11-26T17:54:37-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Run, Run, Run",
+    "artist": "The Gestures",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Gestures_-_Run,_Run,_Run.jpg",
+    "started_at": "2026-11-26T23:54:32Z",
+    "duration_seconds": 139
+  },
   "next_poll_seconds": 10
 }
