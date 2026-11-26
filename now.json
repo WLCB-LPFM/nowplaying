@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T19:38:34-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T19:41:34-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Eat It",
-    "artist": "'Weird Al' Yankovic",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7521476cf105ee02055ebabece5b7ed4.png",
-    "started_at": "2026-11-26T01:38:30Z",
-    "duration_seconds": 199
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
