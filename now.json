@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T19:07:06-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T19:09:32-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Sugar, Sugar",
-    "artist": "The Archies",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Archies_-_Sugar,_Sugar.jpg",
-    "started_at": "2026-11-26T01:06:59Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
