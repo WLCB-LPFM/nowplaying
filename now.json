@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T19:41:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T19:41:57-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "What I'm Thankful For (The Thanksgiving Song)",
+    "artist": "Garth Brooks Feat. James Taylor",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-11-26T01:41:36Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
