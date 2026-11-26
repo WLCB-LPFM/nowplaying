@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T21:10:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T21:12:54-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "The Candy Man",
-    "artist": "Sammy Davis, Jr.",
-    "album": "20th Century Masters - The Millennium Collection: The Best of Sammy Davis, Jr.",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/s/Sammy_Davis,_Jr._-_The_Candy_Man.jpg",
-    "started_at": "2026-11-26T03:10:10Z",
-    "duration_seconds": 179
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
