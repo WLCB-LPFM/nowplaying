@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T19:54:32-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T20:02:32-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Thanksgiving Song",
+    "artist": "Mary Chapin Carpenter",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mary_Chapin_Carpenter_-_Thanksgiving_Song.jpg",
+    "started_at": "2026-11-26T02:02:26Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
