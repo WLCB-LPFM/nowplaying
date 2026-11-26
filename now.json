@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T08:03:13-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T08:07:42-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Thunderstruck",
-    "artist": "AC feat. DC",
-    "album": "The Razors Edge",
-    "artwork_url": "https://cdn.autopo.st/images/artists/a/Ac_Feat._Dc.jpg",
-    "started_at": "2026-11-26T14:03:00Z",
-    "duration_seconds": 292
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
