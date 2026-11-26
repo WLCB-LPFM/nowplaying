@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T19:09:32-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T19:13:50-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "'C' is for Cookie",
+    "artist": "Cookie Monster",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cookie_Monster.jpg",
+    "started_at": "2026-11-26T01:13:32Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
