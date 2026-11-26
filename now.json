@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-26T10:25:09-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-26T10:27:47-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "I'm Still Standing",
+    "title": "I'm Still Standing (Remastered 2016)",
     "artist": "Elton John",
     "album": "",
-    "artwork_url": "",
-    "started_at": "2026-11-26T16:25:05.7822464Z",
-    "duration_seconds": 175,
-    "year": "2022"
+    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Elton_John_-_I'm_Still_Standing_(Remastered_2016).jpg",
+    "started_at": "2026-11-26T16:25:27Z",
+    "duration_seconds": 185
   },
   "next_poll_seconds": 10
 }
