@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T19:51:53-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T19:52:17-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "(There's No Place Like) Home For the Holidays",
+    "artist": "Carpenters",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Carpenters_-_(There's_No_Place_Like)_Home_For_The_Holidays.jpg",
+    "started_at": "2026-11-26T01:52:05Z",
+    "duration_seconds": 156
+  },
   "next_poll_seconds": 10
 }
