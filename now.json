@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T20:40:16-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T20:42:19-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Tutti Frutti",
-    "artist": "Little Richard",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Little_Richard_-_Tutti_Frutti.jpg",
-    "started_at": "2026-11-26T02:40:09Z",
-    "duration_seconds": 144
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
