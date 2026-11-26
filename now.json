@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T20:23:29-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T20:25:55-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Young Pilgrims ()",
-    "artist": "The Shins",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Shins.jpg",
-    "started_at": "2026-11-26T02:23:16Z",
-    "duration_seconds": 167
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
