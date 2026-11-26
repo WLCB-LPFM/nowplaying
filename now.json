@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T20:19:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-25T20:23:05-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": {
-    "title": "Applejack",
-    "artist": "Dolly Parton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dolly_Parton_-_Applejack.jpg",
-    "started_at": "2026-11-26T02:19:44Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
