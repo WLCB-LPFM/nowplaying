@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T21:12:54-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T21:17:33-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "(Do the) Mashed Potatoes",
+    "artist": "James Brown",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/j/James_Brown_-_(Do_The)_Mashed_Potatoes.jpg",
+    "started_at": "2026-11-26T03:17:21Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
