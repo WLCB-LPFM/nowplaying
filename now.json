@@ -1,9 +1,17 @@
 {
-  "generated": "2026-11-25T18:45:41-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T18:46:05-06:00",
+  "source": "playitlive",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Rapture",
+    "artist": "Blondie",
+    "album": "",
+    "artwork_url": "",
+    "started_at": "2026-11-26T00:45:56.5124732Z",
+    "duration_seconds": 330,
+    "year": ""
+  },
   "next_poll_seconds": 10
 }
