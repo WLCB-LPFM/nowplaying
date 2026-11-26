@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T17:56:40-06:00",
-  "source": "fallback",
+  "generated": "2026-11-26T17:57:37-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Louie, Go Home",
+    "artist": "Paul Revere & The Raiders",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Paul_Revere_&_The_Raiders.jpg",
+    "started_at": "2026-11-26T23:57:16Z",
+    "duration_seconds": 159
+  },
   "next_poll_seconds": 10
 }
