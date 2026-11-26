@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T17:20:24-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T17:22:28-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Pushin' Too Hard (Original)",
-    "artist": "The Seeds",
-    "album": "The Beatnik's Years (Peace & Love)",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b8b42d53de7b49e0c9107a486ccb8cf0.png",
-    "started_at": "2026-11-26T23:20:09Z",
-    "duration_seconds": 153
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
