@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T20:25:55-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T20:26:40-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Green Onions (1962 Recording Remastered)",
+    "artist": "Booker T. & The M.G.'s",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/b/Booker_T._&_The_M.g.'s.jpg",
+    "started_at": "2026-11-26T02:26:28Z",
+    "duration_seconds": 174
+  },
   "next_poll_seconds": 10
 }
