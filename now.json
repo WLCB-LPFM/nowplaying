@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T17:27:09-06:00",
-  "source": "fallback",
+  "generated": "2026-11-26T17:27:33-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "I Had Too Much To Dream (Last Night) [Remastered Mono Single Version]",
+    "artist": "The Electric Prunes",
+    "album": "The Complete Reprise Singles",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Electric_Prunes.jpg",
+    "started_at": "2026-11-26T23:27:21Z",
+    "duration_seconds": 144
+  },
   "next_poll_seconds": 10
 }
