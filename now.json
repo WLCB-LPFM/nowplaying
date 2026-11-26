@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T20:17:26-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T20:17:49-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "Thanksgiving Theme",
+    "artist": "Vince Guaraldi",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/v/Vince_Guaraldi_-_Thanksgiving_Theme.jpg",
+    "started_at": "2026-11-26T02:17:42Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
