@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T21:53:54-06:00",
-  "source": "fallback",
+  "generated": "2026-11-25T21:58:22-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": "Variety"
   },
-  "track": null,
+  "track": {
+    "title": "A Charlie Brown Thanksgiving",
+    "artist": "George Winston",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Winston_-_A_Charlie_Brown_Thanksgiving.jpg",
+    "started_at": "2026-11-26T03:58:03Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
