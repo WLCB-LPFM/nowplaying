@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T13:52:05-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T13:56:11-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "The Sweetest Thing",
-    "artist": "JJ Grey & Mofro",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jj_Grey_&_Mofro_-_The_Sweetest_Thing.jpg",
-    "started_at": "2026-11-27T19:51:54Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
