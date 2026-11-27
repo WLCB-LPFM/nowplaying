@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T15:07:09-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T15:07:21-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Let It Down (2014 Remaster)",
+    "artist": "George Harrison",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Harrison_-_Let_It_Down_(2014_Remaster).jpg",
+    "started_at": "2026-11-27T21:07:08Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
