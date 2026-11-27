@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-27T00:41:15-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T00:41:38-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Cyberpunk Future Electro by Infraction(\uc0ac\uc774\ubc84\ud391\ud06c \ud4e8\ucc98)1",
+    "artist": "hoony-^^",
+    "album": "",
+    "artwork_url": "null",
+    "started_at": "2026-11-27T06:41:20Z",
+    "duration_seconds": 225
+  },
   "next_poll_seconds": 10
 }
