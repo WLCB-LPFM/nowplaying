@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-27T04:52:20-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T04:52:43-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Lady Bird",
-    "artist": "Fats Navarro",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/f/Fats_Navarro_-_Lady_Bird.jpg",
-    "started_at": "2026-11-27T10:50:07Z",
-    "duration_seconds": 171
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
