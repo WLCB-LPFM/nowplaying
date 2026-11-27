@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T18:07:59-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T18:12:16-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "I Go to Work",
-    "artist": "Kool Moe Dee",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Kool_Moe_Dee_-_I_Go_To_Work.jpg",
-    "started_at": "2026-11-27T00:07:49Z",
-    "duration_seconds": 278
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
