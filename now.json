@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T15:16:55-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T15:21:11-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "The Best of My Love",
-    "artist": "Eagles",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/e/Eagles_-_The_Best_Of_My_Love.jpg",
-    "started_at": "2026-11-27T21:16:48Z",
-    "duration_seconds": 275
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
