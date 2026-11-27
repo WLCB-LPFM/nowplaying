@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T12:36:40-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T12:41:54-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": null,
+  "track": {
+    "title": "3Am in Chicago",
+    "artist": "Eddie 9V",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Eddie_9v.jpg",
+    "started_at": "2026-11-27T18:41:44Z",
+    "duration_seconds": 217
+  },
   "next_poll_seconds": 10
 }
