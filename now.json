@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T16:24:42-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T16:29:32-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Medicine Man",
+    "artist": "Cashman & West",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Cashman_&_West.jpg",
+    "started_at": "2026-11-27T22:29:15Z",
+    "duration_seconds": 200
+  },
   "next_poll_seconds": 10
 }
