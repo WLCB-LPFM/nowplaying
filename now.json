@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T20:26:06-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T20:28:31-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "A Song To Sing",
-    "artist": "Miranda Lambert & Chris Stapleton",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/m/Miranda_Lambert_&_Chris_Stapleton.jpg",
-    "started_at": "2026-11-27T02:25:44Z",
-    "duration_seconds": 180
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
