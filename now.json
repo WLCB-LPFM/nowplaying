@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T19:12:12-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T19:14:38-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Folsom Prison Blues (Live)",
-    "artist": "Johnny Cash",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Johnny_Cash_-_Folsom_Prison_Blues_(Live).jpg",
-    "started_at": "2026-11-27T01:12:06Z",
-    "duration_seconds": 162
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
