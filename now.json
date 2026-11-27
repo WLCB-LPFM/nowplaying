@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T18:41:12-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T18:45:17-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Pour Some Sugar On Me",
-    "artist": "Def Leppard",
-    "album": "Hysteria (Deluxe Edition)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Def_Leppard_-_Pour_Some_Sugar_On_Me.jpg",
-    "started_at": "2026-11-27T00:41:04Z",
-    "duration_seconds": 268
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
