@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T19:03:40-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T19:09:24-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Wake Up",
-    "artist": "Rage Against the Machine",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Rage_Against_The_Machine_-_Wake_Up.jpg",
-    "started_at": "2026-11-27T01:03:32Z",
-    "duration_seconds": 364
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
