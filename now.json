@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T16:48:37-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T16:51:02-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Rock and A Hard Place",
-    "artist": "Bailey Zimmerman",
-    "album": "Leave The Light On - EP",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bailey_Zimmerman_-_Rock_And_A_Hard_Place.jpg",
-    "started_at": "2026-11-27T22:48:23Z",
-    "duration_seconds": 172
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
