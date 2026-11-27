@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T17:17:45-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T17:18:31-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Have You Seen Her Face",
+    "artist": "The Byrds",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Byrds_-_Have_You_Seen_Her_Face.jpg",
+    "started_at": "2026-11-27T23:18:15Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
