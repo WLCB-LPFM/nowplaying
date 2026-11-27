@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T21:24:48-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T21:27:36-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": {
-    "title": "Lights",
-    "artist": "Journey",
-    "album": "Journey's Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Journey_-_Lights.jpg",
-    "started_at": "2026-11-27T03:24:34Z",
-    "duration_seconds": 191
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
