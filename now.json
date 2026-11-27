@@ -1,17 +1,9 @@
 {
-  "generated": "2026-11-27T00:12:54-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-27T00:17:57-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Django",
-    "artist": "Modern Jazz Quartet",
-    "album": "Milestones Of A Legend",
-    "artwork_url": "",
-    "started_at": "2026-11-27T06:12:52.159702Z",
-    "duration_seconds": 313,
-    "year": "2016"
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
