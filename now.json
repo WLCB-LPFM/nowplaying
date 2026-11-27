@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T15:24:44-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T15:25:07-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "Maybe I'm Amazed",
+    "artist": "Paul McCartney",
+    "album": "Wingspan",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Paul_Mccartney_-_Maybe_I'm_Amazed.jpg",
+    "started_at": "2026-11-27T21:24:59Z",
+    "duration_seconds": 231
+  },
   "next_poll_seconds": 10
 }
