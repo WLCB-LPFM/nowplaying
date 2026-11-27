@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-26T23:07:24-06:00",
-  "source": "autopost",
+  "generated": "2026-11-26T23:07:37-06:00",
+  "source": "fallback",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "La Vie En Rose",
-    "artist": "Chantons",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/c/Chantons.jpg",
-    "started_at": "2026-11-27T05:02:13Z",
-    "duration_seconds": 336
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
