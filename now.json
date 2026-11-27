@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-26T23:02:12-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-26T23:07:24-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "La Vie en rose",
-    "artist": "Awa Ly",
-    "album": "The Best Jazz Audiophile Recommended",
-    "artwork_url": "",
-    "started_at": "2026-11-27T05:02:09.097927Z",
-    "duration_seconds": 322,
-    "year": "2012"
+    "title": "La Vie En Rose",
+    "artist": "Chantons",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/c/Chantons.jpg",
+    "started_at": "2026-11-27T05:02:13Z",
+    "duration_seconds": 336
   },
   "next_poll_seconds": 10
 }
