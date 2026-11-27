@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T16:06:00-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T16:07:41-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": null,
+  "track": {
+    "title": "A Horse With No Name (Live)",
+    "artist": "America",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/a/America.jpg",
+    "started_at": "2026-11-27T22:07:09Z",
+    "duration_seconds": 307
+  },
   "next_poll_seconds": 10
 }
