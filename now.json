@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T15:09:02-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T15:12:24-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "Give Me Love (Give Me Peace on Earth)",
-    "artist": "George Harrison",
-    "album": "Let It Roll - Songs Of George Harrison",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/g/George_Harrison_-_Give_Me_Love_(Give_Me_Peace_On_Earth).jpg",
-    "started_at": "2026-11-27T21:08:55Z",
-    "duration_seconds": 215
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
