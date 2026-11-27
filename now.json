@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T18:45:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-26T18:45:52-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "22:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Bust A Move",
+    "artist": "Young MC",
+    "album": "Stone Cold Rhymin'",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/y/Young_Mc_-_Bust_A_Move.jpg",
+    "started_at": "2026-11-27T00:45:40Z",
+    "duration_seconds": 247
+  },
   "next_poll_seconds": 10
 }
