@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T14:36:48-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T14:39:47-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "15:00",
     "genre": "Blues"
   },
-  "track": {
-    "title": "The Night Time Is the Right Time",
-    "artist": "Creedence Clearwater Revival",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/c/Creedence_Clearwater_Revival_-_The_Night_Time_Is_The_Right_Time.jpg",
-    "started_at": "2026-11-27T20:36:33Z",
-    "duration_seconds": 202
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
