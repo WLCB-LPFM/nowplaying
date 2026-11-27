@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T17:28:22-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T17:30:03-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": {
-    "title": "Bits and Pieces",
-    "artist": "The Dave Clark Five",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Dave_Clark_Five_-_Bits_And_Pieces.jpg",
-    "started_at": "2026-11-27T23:28:12Z",
-    "duration_seconds": 119
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
