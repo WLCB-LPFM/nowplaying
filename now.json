@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T07:32:03-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T07:35:57-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "09:00",
     "genre": null
   },
-  "track": {
-    "title": "Why You Wanna",
-    "artist": "Nexlev'l Band, Eddie Baccus Jr., Mycah Chevalier",
-    "album": "Why You Wanna",
-    "artwork_url": "null",
-    "started_at": "2026-11-27T13:31:39Z",
-    "duration_seconds": 270
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
