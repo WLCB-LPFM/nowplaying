@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T17:41:16-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T17:41:50-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "18:00",
     "genre": "Rock and Roll"
   },
-  "track": null,
+  "track": {
+    "title": "Her Strut",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bob_Seger_&_The_Silver_Bullet_Band_-_Her_Strut.jpg",
+    "started_at": "2026-11-27T23:41:35Z",
+    "duration_seconds": 233
+  },
   "next_poll_seconds": 10
 }
