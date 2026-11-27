@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T15:54:05-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T15:58:45-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "17:00",
     "genre": "Country"
   },
-  "track": {
-    "title": "preacher's kid",
-    "artist": "Stephen Wilson Jr.",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/s/Stephen_Wilson_Jr..jpg",
-    "started_at": "2026-11-27T21:53:49Z",
-    "duration_seconds": 302
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
