@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-27T23:37:34-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T23:47:55-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Blue in Green",
+    "artist": "Bill Evans Trio",
+    "album": "The Best Of Bill Evans",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/b/Bill_Evans_Trio_-_Blue_In_Green.jpg",
+    "started_at": "2026-11-28T05:47:47Z",
+    "duration_seconds": 325
+  },
   "next_poll_seconds": 10
 }
