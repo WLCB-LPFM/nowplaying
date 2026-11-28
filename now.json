@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T11:31:18-06:00",
-  "source": "fallback",
+  "generated": "2026-11-28T11:32:37-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "I Just Can't Stop Loving You (feat. Siedah Garrett) [2012 Remaster]",
+    "artist": "Michael Jackson",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/m/Michael_Jackson.jpg",
+    "started_at": "2026-11-28T17:32:16Z",
+    "duration_seconds": 252
+  },
   "next_poll_seconds": 10
 }
