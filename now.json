@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-28T01:25:17-06:00",
-  "source": "fallback",
+  "generated": "2026-11-28T01:25:29-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Arthur's Pass",
+    "artist": "Peter Pritchard",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/p/Peter_Pritchard.jpg",
+    "started_at": "2026-11-28T07:25:19Z",
+    "duration_seconds": 524
+  },
   "next_poll_seconds": 10
 }
