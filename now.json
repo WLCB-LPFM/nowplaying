@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T11:07:14-06:00",
-  "source": "fallback",
+  "generated": "2026-11-28T11:07:37-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": null,
+  "track": {
+    "title": "Are You the Woman (with Whitney Houston)",
+    "artist": "Kashif",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/k/Kashif.jpg",
+    "started_at": "2026-11-28T17:07:22Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
