@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T18:05:18-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T18:07:21-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Papa's Got a Brand New Bag, Pt. 1",
+    "artist": "James Brown & The Famous Flames",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/j/James_Brown_&_The_Famous_Flames.jpg",
+    "started_at": "2026-11-28T00:06:59Z",
+    "duration_seconds": 127
+  },
   "next_poll_seconds": 10
 }
