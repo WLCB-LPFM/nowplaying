@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T21:09:11-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T21:24:36-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Big Mouth",
+    "artist": "Mike Zito",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/m/Mike_Zito_-_Big_Mouth.jpg",
+    "started_at": "2026-11-28T03:24:18Z",
+    "duration_seconds": 248
+  },
   "next_poll_seconds": 10
 }
