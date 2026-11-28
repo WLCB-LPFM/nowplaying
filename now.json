@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T20:35:39-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T20:42:42-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "In The Garden",
+    "artist": "THE BAND FEEL",
+    "album": "THE BAND FEEL - EP",
+    "artwork_url": "https://cdn.autopo.st/images/artists/t/The_Band_Feel.jpg",
+    "started_at": "2026-11-28T02:42:26Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
