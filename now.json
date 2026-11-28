@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T08:32:08-06:00",
-  "source": "autopost",
+  "generated": "2026-11-28T08:35:29-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Hungry Like the Wolf",
-    "artist": "Duran Duran",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duran_Duran_-_Hungry_Like_The_Wolf.jpg",
-    "started_at": "2026-11-28T14:31:58Z",
-    "duration_seconds": 221
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
