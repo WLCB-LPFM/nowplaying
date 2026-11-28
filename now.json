@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T22:23:47-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T22:24:33-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Dream Evil",
+    "artist": "Dio",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Dio_-_Dream_Evil.jpg",
+    "started_at": "2026-11-28T04:24:24Z",
+    "duration_seconds": 262
+  },
   "next_poll_seconds": 10
 }
