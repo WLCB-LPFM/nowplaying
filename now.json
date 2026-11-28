@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T19:20:02-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T19:24:07-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "All Apologies",
-    "artist": "Nirvana",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/n/Nirvana_-_All_Apologies.jpg",
-    "started_at": "2026-11-28T01:19:57Z",
-    "duration_seconds": 262
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
