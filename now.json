@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T20:52:27-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T21:03:25-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "I'd Rather Be Blind, Crippled and Crazy",
+    "artist": "The Derek Trucks Band",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Derek_Trucks_Band_-_I'd_Rather_Be_Blind,_Crippled_And_Crazy.jpg",
+    "started_at": "2026-11-28T03:03:18Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
