@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T09:34:11-06:00",
-  "source": "autopost",
+  "generated": "2026-11-28T09:37:21-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "A View to a Kill",
-    "artist": "Duran Duran",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/d/Duran_Duran_-_A_View_To_A_Kill.jpg",
-    "started_at": "2026-11-28T15:33:53Z",
-    "duration_seconds": 218
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
