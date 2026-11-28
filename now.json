@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T22:07:24-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T22:13:10-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "23:00",
     "genre": null
   },
-  "track": {
-    "title": "Manic State of Mind",
-    "artist": "Liliac",
-    "album": "",
-    "artwork_url": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9e69d3c3ea79dcdd9005a10cd1cd2b8e.png",
-    "started_at": "2026-11-28T04:07:16Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
