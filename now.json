@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T20:07:25-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T20:08:00-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Always A Friend",
+    "artist": "Alejandro Escovedo",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Alejandro_Escovedo_-_Always_A_Friend.jpg",
+    "started_at": "2026-11-28T02:07:45Z",
+    "duration_seconds": null
+  },
   "next_poll_seconds": 10
 }
