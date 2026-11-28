@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T09:37:21-06:00",
-  "source": "fallback",
+  "generated": "2026-11-28T10:00:20-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,6 +14,13 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": null,
+  "track": {
+    "title": "The Rubberband Man",
+    "artist": "The Spinners",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Spinners_-_The_Rubberband_Man.jpg",
+    "started_at": "2026-11-28T15:59:59Z",
+    "duration_seconds": 217
+  },
   "next_poll_seconds": 10
 }
