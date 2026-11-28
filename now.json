@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T19:37:31-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T19:40:41-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Ain't Too Proud to Beg",
-    "artist": "The Rolling Stones",
-    "album": "It's Only Rock 'N' Roll",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Rolling_Stones_-_Ain't_Too_Proud_To_Beg.jpg",
-    "started_at": "2026-11-28T01:37:16Z",
-    "duration_seconds": 213
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
