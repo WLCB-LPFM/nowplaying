@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T19:47:59-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T19:53:32-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Oh My",
-    "artist": "UFO",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/u/Ufo_-_Oh_My.jpg",
-    "started_at": "2026-11-28T01:47:44Z",
-    "duration_seconds": null
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
