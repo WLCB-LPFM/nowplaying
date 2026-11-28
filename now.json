@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T18:39:13-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T18:42:11-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Let's Stay Together",
-    "artist": "Al Green",
-    "album": "Greatest Hits",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Al_Green_-_Let's_Stay_Together.jpg",
-    "started_at": "2026-11-28T00:39:02Z",
-    "duration_seconds": 198
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
