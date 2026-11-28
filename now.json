@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-28T00:54:37-06:00",
-  "source": "fallback",
+  "generated": "2026-11-28T00:57:36-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "Struttin' With Some Barbecue",
+    "artist": "Louis Armstrong",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_-_Struttin'_With_Some_Barbecue.jpg",
+    "started_at": "2026-11-28T06:57:29Z",
+    "duration_seconds": 337
+  },
   "next_poll_seconds": 10
 }
