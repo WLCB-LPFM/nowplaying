@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T19:03:15-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T19:06:57-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Golden Years (1990 - Remaster)",
-    "artist": "David Bowie",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/David_Bowie.jpg",
-    "started_at": "2026-11-28T01:03:02Z",
-    "duration_seconds": 243
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
