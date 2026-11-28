@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T18:49:48-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T18:54:38-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Hideout",
+    "artist": "Parcels",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/p/Parcels_-_Hideout.jpg",
+    "started_at": "2026-11-28T00:54:24Z",
+    "duration_seconds": 266
+  },
   "next_poll_seconds": 10
 }
