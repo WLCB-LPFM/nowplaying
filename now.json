@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T11:04:26-06:00",
-  "source": "autopost",
+  "generated": "2026-11-28T11:07:14-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "It's Tricky",
-    "artist": "Run-DMC",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/r/Run-dmc_-_It's_Tricky.jpg",
-    "started_at": "2026-11-28T17:04:18Z",
-    "duration_seconds": 183
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
