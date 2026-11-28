@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T18:09:37-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T18:17:13-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "Shining Star (Live Version)",
+    "artist": "Earth, Wind & Fire",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/e/Earth,_Wind_&_Fire.jpg",
+    "started_at": "2026-11-28T00:16:57Z",
+    "duration_seconds": 233
+  },
   "next_poll_seconds": 10
 }
