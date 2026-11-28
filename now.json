@@ -1,16 +1,9 @@
 {
-  "generated": "2026-11-27T23:31:48-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T23:37:34-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": {
-    "title": "Recall 2.0",
-    "artist": "Hypaphonik",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/h/Hypaphonik.jpg",
-    "started_at": "2026-11-28T05:31:27Z",
-    "duration_seconds": 380
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
