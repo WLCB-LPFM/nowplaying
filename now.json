@@ -1,9 +1,16 @@
 {
-  "generated": "2026-11-27T23:04:15-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T23:10:00-06:00",
+  "source": "autopost",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": null,
-  "track": null,
+  "track": {
+    "title": "West End Blues (feat. E. Hines & The Hot Five)",
+    "artist": "Louis Armstrong",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/artists/l/Louis_Armstrong.jpg",
+    "started_at": "2026-11-28T05:09:31Z",
+    "duration_seconds": 195
+  },
   "next_poll_seconds": 10
 }
