@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T20:03:54-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T20:07:25-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "I Got Mine",
-    "artist": "The Black Keys",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/t/The_Black_Keys_-_I_Got_Mine.jpg",
-    "started_at": "2026-11-28T02:03:41Z",
-    "duration_seconds": 239
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
