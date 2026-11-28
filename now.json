@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T18:07:45-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T18:09:37-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "19:00",
     "genre": null
   },
-  "track": {
-    "title": "Papa's Got a Brand New Bag (Pts.1 & 2  feat.  Single Version)",
-    "artist": "James Brown",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/j/James_Brown.jpg",
-    "started_at": "2026-11-28T00:07:28Z",
-    "duration_seconds": 139
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
