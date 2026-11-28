@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T19:41:26-06:00",
-  "source": "autopost",
+  "generated": "2026-11-27T19:44:25-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": {
-    "title": "Don't Ask Me No Questions",
-    "artist": "Lynyrd Skynyrd",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Lynyrd_Skynyrd_-_Don't_Ask_Me_No_Questions.jpg",
-    "started_at": "2026-11-28T01:41:10Z",
-    "duration_seconds": 206
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
