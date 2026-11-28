@@ -1,17 +1,16 @@
 {
-  "generated": "2026-11-28T02:54:45-06:00",
-  "source": "playitlive",
+  "generated": "2026-11-28T02:57:10-06:00",
+  "source": "autopost",
   "mode": "music_block",
   "automation_on": true,
   "show": null,
   "track": {
-    "title": "Potato Head Blues",
-    "artist": "Louis Armstrong And His Hot Seven",
-    "album": "The Smithsonian Collection Of Classic Jazz, Vol. 1",
-    "artwork_url": "",
-    "started_at": "2026-11-28T08:54:36.8497419Z",
-    "duration_seconds": 167,
-    "year": "1997"
+    "title": "Potato Head Blues (78rpm Version)",
+    "artist": "Louis Armstrong and His Hot Seven",
+    "album": "",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/l/Louis_Armstrong_And_His_Hot_Seven_-_Potato_Head_Blues_(78rpm_Version).jpg",
+    "started_at": "2026-11-28T08:54:45Z",
+    "duration_seconds": 178
   },
   "next_poll_seconds": 10
 }
