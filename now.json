@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T09:03:17-06:00",
-  "source": "autopost",
+  "generated": "2026-11-28T09:07:11-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "The Reflex (Single Mix)",
-    "artist": "Duran Duran",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/artists/d/Duran_Duran.jpg",
-    "started_at": "2026-11-28T15:02:59Z",
-    "duration_seconds": 267
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
