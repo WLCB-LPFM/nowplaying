@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T10:02:26-06:00",
-  "source": "autopost",
+  "generated": "2026-11-28T10:06:20-06:00",
+  "source": "fallback",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -14,13 +14,6 @@
     "ends": "11:00",
     "genre": "Sports"
   },
-  "track": {
-    "title": "Find Your Way Back",
-    "artist": "Jefferson Starship",
-    "album": "Greatest Hits (Ten Years And Change 1979-1991)",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/j/Jefferson_Starship_-_Find_Your_Way_Back.jpg",
-    "started_at": "2026-11-28T16:02:15Z",
-    "duration_seconds": 255
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
