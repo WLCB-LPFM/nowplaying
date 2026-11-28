@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T19:12:32-06:00",
-  "source": "fallback",
+  "generated": "2026-11-27T19:12:56-06:00",
+  "source": "autopost",
   "mode": "live",
   "automation_on": false,
   "show": {
@@ -13,6 +13,13 @@
     "ends": "20:30",
     "genre": null
   },
-  "track": null,
+  "track": {
+    "title": "The Sign (Remastered)",
+    "artist": "Ace of Base",
+    "album": "Greatest Hits",
+    "artwork_url": "https://cdn.autopo.st/images/coverart/a/Ace_Of_Base_-_The_Sign_(Remastered).jpg",
+    "started_at": "2026-11-28T01:12:48Z",
+    "duration_seconds": 190
+  },
   "next_poll_seconds": 10
 }
