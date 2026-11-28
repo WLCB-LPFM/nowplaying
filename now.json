@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-28T11:12:50-06:00",
-  "source": "autopost",
+  "generated": "2026-11-28T11:17:17-06:00",
+  "source": "fallback",
   "mode": "rebroadcast",
   "automation_on": true,
   "show": {
@@ -13,13 +13,6 @@
     "ends": "12:00",
     "genre": "R&B"
   },
-  "track": {
-    "title": "I'd Still Say Yes",
-    "artist": "Klymaxx",
-    "album": "",
-    "artwork_url": "https://cdn.autopo.st/images/coverart/k/Klymaxx_-_I'd_Still_Say_Yes.jpg",
-    "started_at": "2026-11-28T17:12:38Z",
-    "duration_seconds": 284
-  },
+  "track": null,
   "next_poll_seconds": 10
 }
